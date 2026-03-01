@@ -1,0 +1,2872 @@
+﻿[
+  {
+    "id": 1,
+    "companyId": 1,
+    "companyName": "ZESCO Limited",
+    "fiscalYear": 2025,
+    "budgetType": "Annual",
+    "totalBudget": 12500000000,
+    "allocatedAmount": 12500000000,
+    "spentAmount": 8200000000,
+    "status": "Active",
+    "approvalDate": "2024-12-15T00:00:00",
+    "approvedBy": "Ministry of Energy",
+    "notes": "Approved with conditions on capex disbursement schedule. Quarterly budget reviews mandated by the Ministry.",
+    "lineItems": [
+      {
+        "id": 1,
+        "budgetId": 1,
+        "category": "Capital",
+        "description": "Grid expansion — Lusaka South and Kafue corridors",
+        "budgetedAmount": 4000000000,
+        "actualAmount": 2800000000,
+        "costCenter": "Engineering",
+        "accountCode": "ACC-4001"
+      },
+      {
+        "id": 2,
+        "budgetId": 1,
+        "category": "Personnel",
+        "description": "Salaries, wages, and employee benefits",
+        "budgetedAmount": 3500000000,
+        "actualAmount": 2900000000,
+        "costCenter": "Human Resources",
+        "accountCode": "ACC-1001"
+      },
+      {
+        "id": 3,
+        "budgetId": 1,
+        "category": "Operations",
+        "description": "Power purchase agreements, fuel, and generation costs",
+        "budgetedAmount": 3000000000,
+        "actualAmount": 1800000000,
+        "costCenter": "Operations",
+        "accountCode": "ACC-2001"
+      },
+      {
+        "id": 4,
+        "budgetId": 1,
+        "category": "Administrative",
+        "description": "Office and administrative expenses",
+        "budgetedAmount": 500000000,
+        "actualAmount": 350000000,
+        "costCenter": "Corporate Affairs",
+        "accountCode": "ACC-3001"
+      },
+      {
+        "id": 5,
+        "budgetId": 1,
+        "category": "Maintenance",
+        "description": "Plant and equipment preventive and corrective maintenance",
+        "budgetedAmount": 1500000000,
+        "actualAmount": 350000000,
+        "costCenter": "Technical Services",
+        "accountCode": "ACC-5001"
+      }
+    ],
+    "variances": [
+      {
+        "id": 1,
+        "budgetId": 1,
+        "period": "Q1 2025",
+        "budgetedAmount": 3125000000,
+        "actualAmount": 2900000000,
+        "explanation": "Capital projects delayed due to procurement processes and contractor mobilisation delays",
+        "correctiveAction": "Accelerate procurement and fast-track approvals for Q2 2025"
+      },
+      {
+        "id": 2,
+        "budgetId": 1,
+        "period": "Q2 2025",
+        "budgetedAmount": 3125000000,
+        "actualAmount": 3100000000,
+        "explanation": "Spending broadly on track with minor variance in personnel costs due to overtime",
+        "correctiveAction": "Monitor overtime costs monthly and enforce authorisation thresholds"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "companyId": 1,
+    "companyName": "ZESCO Limited",
+    "fiscalYear": 2024,
+    "budgetType": "Annual",
+    "totalBudget": 11800000000,
+    "allocatedAmount": 11800000000,
+    "spentAmount": 11950000000,
+    "status": "Closed",
+    "approvalDate": "2023-12-10T00:00:00",
+    "approvedBy": "Ministry of Energy",
+    "notes": "Closed with a minor overrun of ZMW 150 million primarily due to emergency diesel generation procurement during El Niño drought.",
+    "lineItems": [
+      {
+        "id": 6,
+        "budgetId": 2,
+        "category": "Capital",
+        "description": "Grid rehabilitation — Copperbelt and Northwestern provinces",
+        "budgetedAmount": 3500000000,
+        "actualAmount": 3650000000,
+        "costCenter": "Engineering",
+        "accountCode": "ACC-4002"
+      },
+      {
+        "id": 7,
+        "budgetId": 2,
+        "category": "Personnel",
+        "description": "Salaries, wages, and benefits",
+        "budgetedAmount": 3300000000,
+        "actualAmount": 3280000000,
+        "costCenter": "Human Resources",
+        "accountCode": "ACC-1002"
+      },
+      {
+        "id": 8,
+        "budgetId": 2,
+        "category": "Operations",
+        "description": "Power purchase, fuel, and emergency diesel generation",
+        "budgetedAmount": 3200000000,
+        "actualAmount": 3450000000,
+        "costCenter": "Operations",
+        "accountCode": "ACC-2002"
+      },
+      {
+        "id": 9,
+        "budgetId": 2,
+        "category": "Administrative",
+        "description": "Office and administrative expenses",
+        "budgetedAmount": 480000000,
+        "actualAmount": 460000000,
+        "costCenter": "Corporate Affairs",
+        "accountCode": "ACC-3002"
+      },
+      {
+        "id": 10,
+        "budgetId": 2,
+        "category": "Maintenance",
+        "description": "Transmission and distribution maintenance",
+        "budgetedAmount": 1320000000,
+        "actualAmount": 1110000000,
+        "costCenter": "Technical Services",
+        "accountCode": "ACC-5002"
+      }
+    ],
+    "variances": [
+      {
+        "id": 3,
+        "budgetId": 2,
+        "period": "Q1 2024",
+        "budgetedAmount": 2950000000,
+        "actualAmount": 3100000000,
+        "explanation": "Emergency diesel procurement following El Niño drought impact on Kariba dam levels",
+        "correctiveAction": "Sought Ministry approval for supplementary budget and emergency procurement waiver"
+      },
+      {
+        "id": 4,
+        "budgetId": 2,
+        "period": "Q3 2024",
+        "budgetedAmount": 2950000000,
+        "actualAmount": 2820000000,
+        "explanation": "Underspend in capital works due to delayed contractor mobilisation",
+        "correctiveAction": "Revised contractor schedule agreed; works accelerated in Q4 2024"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "companyId": 1,
+    "companyName": "ZESCO Limited",
+    "fiscalYear": 2023,
+    "budgetType": "Annual",
+    "totalBudget": 10500000000,
+    "allocatedAmount": 10500000000,
+    "spentAmount": 10320000000,
+    "status": "Closed",
+    "approvalDate": "2022-12-08T00:00:00",
+    "approvedBy": "Ministry of Energy",
+    "notes": "Closed within budget. Underspend of ZMW 180 million largely due to deferred maintenance works rescheduled to 2024.",
+    "lineItems": [
+      {
+        "id": 11,
+        "budgetId": 3,
+        "category": "Capital",
+        "description": "Itezhi-Tezhi Phase 2 construction and commissioning",
+        "budgetedAmount": 3200000000,
+        "actualAmount": 3180000000,
+        "costCenter": "Engineering",
+        "accountCode": "ACC-4003"
+      },
+      {
+        "id": 12,
+        "budgetId": 3,
+        "category": "Personnel",
+        "description": "Salaries, wages, and benefits",
+        "budgetedAmount": 3000000000,
+        "actualAmount": 2980000000,
+        "costCenter": "Human Resources",
+        "accountCode": "ACC-1003"
+      },
+      {
+        "id": 13,
+        "budgetId": 3,
+        "category": "Operations",
+        "description": "Power purchase agreements and fuel",
+        "budgetedAmount": 2800000000,
+        "actualAmount": 2760000000,
+        "costCenter": "Operations",
+        "accountCode": "ACC-2003"
+      },
+      {
+        "id": 14,
+        "budgetId": 3,
+        "category": "Administrative",
+        "description": "Office, IT, and administrative expenses",
+        "budgetedAmount": 450000000,
+        "actualAmount": 430000000,
+        "costCenter": "Corporate Affairs",
+        "accountCode": "ACC-3003"
+      },
+      {
+        "id": 15,
+        "budgetId": 3,
+        "category": "Maintenance",
+        "description": "Network maintenance — deferred works",
+        "budgetedAmount": 1050000000,
+        "actualAmount": 970000000,
+        "costCenter": "Technical Services",
+        "accountCode": "ACC-5003"
+      }
+    ],
+    "variances": [
+      {
+        "id": 5,
+        "budgetId": 3,
+        "period": "Q2 2023",
+        "budgetedAmount": 2625000000,
+        "actualAmount": 2590000000,
+        "explanation": "Minor underspend on capital works due to contractor supply chain delays on imported materials",
+        "correctiveAction": "Revised procurement plan submitted and approved; works resumed in Q3"
+      },
+      {
+        "id": 6,
+        "budgetId": 3,
+        "period": "Q4 2023",
+        "budgetedAmount": 2625000000,
+        "actualAmount": 2600000000,
+        "explanation": "Overall performance within budget with savings mainly in maintenance and operations",
+        "correctiveAction": "Deferred maintenance works scheduled for Q1 2024 budget"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "companyId": 1,
+    "companyName": "ZESCO Limited",
+    "fiscalYear": 2022,
+    "budgetType": "Annual",
+    "totalBudget": 9800000000,
+    "allocatedAmount": 9800000000,
+    "spentAmount": 9650000000,
+    "status": "Closed",
+    "approvalDate": "2021-12-14T00:00:00",
+    "approvedBy": "Ministry of Energy",
+    "notes": "Closed with underspend of ZMW 150 million. Savings realised through competitive procurement and renegotiated power purchase agreements.",
+    "lineItems": [
+      {
+        "id": 16,
+        "budgetId": 4,
+        "category": "Capital",
+        "description": "Rural electrification — Eastern and Luapula provinces",
+        "budgetedAmount": 2800000000,
+        "actualAmount": 2750000000,
+        "costCenter": "Engineering",
+        "accountCode": "ACC-4004"
+      },
+      {
+        "id": 17,
+        "budgetId": 4,
+        "category": "Personnel",
+        "description": "Salaries, wages, and staff welfare",
+        "budgetedAmount": 2800000000,
+        "actualAmount": 2780000000,
+        "costCenter": "Human Resources",
+        "accountCode": "ACC-1004"
+      },
+      {
+        "id": 18,
+        "budgetId": 4,
+        "category": "Operations",
+        "description": "Power purchase agreements and operational costs",
+        "budgetedAmount": 2600000000,
+        "actualAmount": 2520000000,
+        "costCenter": "Operations",
+        "accountCode": "ACC-2004"
+      },
+      {
+        "id": 19,
+        "budgetId": 4,
+        "category": "Administrative",
+        "description": "Administration and corporate governance costs",
+        "budgetedAmount": 420000000,
+        "actualAmount": 400000000,
+        "costCenter": "Corporate Affairs",
+        "accountCode": "ACC-3004"
+      },
+      {
+        "id": 20,
+        "budgetId": 4,
+        "category": "Maintenance",
+        "description": "Substation and transmission line maintenance",
+        "budgetedAmount": 1180000000,
+        "actualAmount": 1200000000,
+        "costCenter": "Technical Services",
+        "accountCode": "ACC-5004"
+      }
+    ],
+    "variances": [
+      {
+        "id": 7,
+        "budgetId": 4,
+        "period": "Q1 2022",
+        "budgetedAmount": 2450000000,
+        "actualAmount": 2380000000,
+        "explanation": "Underspend due to late start on rural electrification projects pending land access agreements",
+        "correctiveAction": "Land access agreements finalised in Q2; project commenced on revised schedule"
+      },
+      {
+        "id": 8,
+        "budgetId": 4,
+        "period": "Q3 2022",
+        "budgetedAmount": 2450000000,
+        "actualAmount": 2470000000,
+        "explanation": "Slight overspend on maintenance due to unplanned transformer replacements in Lusaka province",
+        "correctiveAction": "Maintenance contingency reserve utilised; procurement of spare transformers expedited"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "companyId": 1,
+    "companyName": "ZESCO Limited",
+    "fiscalYear": 2024,
+    "budgetType": "Supplementary",
+    "totalBudget": 2500000000,
+    "allocatedAmount": 2500000000,
+    "spentAmount": 2480000000,
+    "status": "Closed",
+    "approvalDate": "2024-04-20T00:00:00",
+    "approvedBy": "Ministry of Energy",
+    "notes": "Supplementary budget approved for emergency diesel generation procurement and drought mitigation measures during El Niño crisis.",
+    "lineItems": [
+      {
+        "id": 21,
+        "budgetId": 5,
+        "category": "Operations",
+        "description": "Emergency diesel generation fuel and operations — 100 MW",
+        "budgetedAmount": 1200000000,
+        "actualAmount": 1195000000,
+        "costCenter": "Operations",
+        "accountCode": "ACC-2005"
+      },
+      {
+        "id": 22,
+        "budgetId": 5,
+        "category": "Capital",
+        "description": "Procurement and installation of temporary diesel generators",
+        "budgetedAmount": 650000000,
+        "actualAmount": 642000000,
+        "costCenter": "Engineering",
+        "accountCode": "ACC-4005"
+      },
+      {
+        "id": 23,
+        "budgetId": 5,
+        "category": "Maintenance",
+        "description": "Emergency maintenance on critical infrastructure",
+        "budgetedAmount": 400000000,
+        "actualAmount": 395000000,
+        "costCenter": "Technical Services",
+        "accountCode": "ACC-5005"
+      },
+      {
+        "id": 24,
+        "budgetId": 5,
+        "category": "Administrative",
+        "description": "Stakeholder communications and public engagement campaign",
+        "budgetedAmount": 250000000,
+        "actualAmount": 248000000,
+        "costCenter": "Corporate Affairs",
+        "accountCode": "ACC-3005"
+      }
+    ],
+    "variances": [
+      {
+        "id": 9,
+        "budgetId": 5,
+        "period": "Q2 2024",
+        "budgetedAmount": 1500000000,
+        "actualAmount": 1480000000,
+        "explanation": "Emergency procurement executed within approved budget; minor savings on logistics",
+        "correctiveAction": "No corrective action required; operations within approved parameters"
+      },
+      {
+        "id": 10,
+        "budgetId": 5,
+        "period": "Q3 2024",
+        "budgetedAmount": 1000000000,
+        "actualAmount": 1000000000,
+        "explanation": "Second tranche of supplementary budget fully utilised on schedule",
+        "correctiveAction": "Supplementary budget closeout report submitted to Ministry of Energy"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "companyId": 1,
+    "companyName": "ZESCO Limited",
+    "fiscalYear": 2025,
+    "budgetType": "Capital",
+    "totalBudget": 4200000000,
+    "allocatedAmount": 4200000000,
+    "spentAmount": 980000000,
+    "status": "Approved",
+    "approvalDate": "2025-01-20T00:00:00",
+    "approvedBy": "Ministry of Energy",
+    "notes": "Capital budget for 2025 covering grid rehabilitation, smart metering, and renewable energy projects. Funded through combination of ZESCO reserves and World Bank loan.",
+    "lineItems": [
+      {
+        "id": 25,
+        "budgetId": 6,
+        "category": "Capital",
+        "description": "Smart metering rollout — Phase 1 (200,000 meters)",
+        "budgetedAmount": 740000000,
+        "actualAmount": 180000000,
+        "costCenter": "Engineering",
+        "accountCode": "ACC-4006"
+      },
+      {
+        "id": 26,
+        "budgetId": 6,
+        "category": "Capital",
+        "description": "Transmission line upgrade — 330kV Kafue-Lusaka",
+        "budgetedAmount": 1800000000,
+        "actualAmount": 420000000,
+        "costCenter": "Engineering",
+        "accountCode": "ACC-4007"
+      },
+      {
+        "id": 27,
+        "budgetId": 6,
+        "category": "Capital",
+        "description": "Distribution network reinforcement — Lusaka North",
+        "budgetedAmount": 960000000,
+        "actualAmount": 210000000,
+        "costCenter": "Engineering",
+        "accountCode": "ACC-4008"
+      },
+      {
+        "id": 28,
+        "budgetId": 6,
+        "category": "Capital",
+        "description": "Solar mini-grid installations — rural areas",
+        "budgetedAmount": 700000000,
+        "actualAmount": 170000000,
+        "costCenter": "Engineering",
+        "accountCode": "ACC-4009"
+      }
+    ],
+    "variances": [
+      {
+        "id": 11,
+        "budgetId": 6,
+        "period": "Q1 2025",
+        "budgetedAmount": 1050000000,
+        "actualAmount": 980000000,
+        "explanation": "Procurement processes ongoing; contractor mobilisation expected Q2 2025",
+        "correctiveAction": "Procurement committee to fast-track supplier evaluations by end of April 2025"
+      },
+      {
+        "id": 12,
+        "budgetId": 6,
+        "period": "Q2 2025",
+        "budgetedAmount": 1050000000,
+        "actualAmount": 0,
+        "explanation": "Planned expenditure pending contractor appointment and site commencement",
+        "correctiveAction": "Management to report on contract awards by 30 May 2025"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "companyId": 1,
+    "companyName": "ZESCO Limited",
+    "fiscalYear": 2025,
+    "budgetType": "Revised",
+    "totalBudget": 13200000000,
+    "allocatedAmount": 13200000000,
+    "spentAmount": 4100000000,
+    "status": "UnderReview",
+    "approvalDate": null,
+    "approvedBy": "Ministry of Energy",
+    "notes": "Revised budget submitted to Ministry of Energy for approval reflecting higher operational costs due to increased fuel prices and expanded capex scope.",
+    "lineItems": [
+      {
+        "id": 29,
+        "budgetId": 7,
+        "category": "Capital",
+        "description": "Revised grid expansion — additional scope approved by board",
+        "budgetedAmount": 4800000000,
+        "actualAmount": 1200000000,
+        "costCenter": "Engineering",
+        "accountCode": "ACC-4010"
+      },
+      {
+        "id": 30,
+        "budgetId": 7,
+        "category": "Personnel",
+        "description": "Salaries, wages, and revised benefits package",
+        "budgetedAmount": 3700000000,
+        "actualAmount": 1100000000,
+        "costCenter": "Human Resources",
+        "accountCode": "ACC-1005"
+      },
+      {
+        "id": 31,
+        "budgetId": 7,
+        "category": "Operations",
+        "description": "Power purchase, fuel, and generation — revised estimates",
+        "budgetedAmount": 3200000000,
+        "actualAmount": 980000000,
+        "costCenter": "Operations",
+        "accountCode": "ACC-2006"
+      },
+      {
+        "id": 32,
+        "budgetId": 7,
+        "category": "Administrative",
+        "description": "Office and administration — revised estimates",
+        "budgetedAmount": 550000000,
+        "actualAmount": 210000000,
+        "costCenter": "Corporate Affairs",
+        "accountCode": "ACC-3006"
+      },
+      {
+        "id": 33,
+        "budgetId": 7,
+        "category": "Maintenance",
+        "description": "Plant maintenance — revised schedule",
+        "budgetedAmount": 700000000,
+        "actualAmount": 410000000,
+        "costCenter": "Technical Services",
+        "accountCode": "ACC-5006"
+      },
+      {
+        "id": 34,
+        "budgetId": 7,
+        "category": "Contingency",
+        "description": "Contingency reserve for unforeseen operational disruptions",
+        "budgetedAmount": 250000000,
+        "actualAmount": 200000000,
+        "costCenter": "Finance",
+        "accountCode": "ACC-6001"
+      }
+    ],
+    "variances": [
+      {
+        "id": 13,
+        "budgetId": 7,
+        "period": "Q1 2025",
+        "budgetedAmount": 3300000000,
+        "actualAmount": 4100000000,
+        "explanation": "Higher than budgeted spending driven by fuel price increases and accelerated capex disbursements",
+        "correctiveAction": "Revised budget submitted to Ministry for approval; interim spending controls implemented"
+      },
+      {
+        "id": 14,
+        "budgetId": 7,
+        "period": "Q2 2025",
+        "budgetedAmount": 3300000000,
+        "actualAmount": 0,
+        "explanation": "Pending Ministry approval of revised budget; spending constrained to original approved levels",
+        "correctiveAction": "CEO to engage Ministry of Energy for expedited approval of revised budget"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "companyId": 2,
+    "companyName": "Industrial Development Corporation",
+    "fiscalYear": 2025,
+    "budgetType": "Annual",
+    "totalBudget": 7500000000,
+    "allocatedAmount": 7500000000,
+    "spentAmount": 3800000000,
+    "status": "Active",
+    "approvalDate": "2024-12-18T00:00:00",
+    "approvedBy": "Ministry of Finance",
+    "notes": "2025 Annual Budget approved with emphasis on strategic investments in agriculture, manufacturing, and green energy sectors.",
+    "lineItems": [
+      {
+        "id": 35,
+        "budgetId": 8,
+        "category": "Capital",
+        "description": "Strategic equity investments in portfolio companies",
+        "budgetedAmount": 2800000000,
+        "actualAmount": 1400000000,
+        "costCenter": "Investments",
+        "accountCode": "ACC-4011"
+      },
+      {
+        "id": 36,
+        "budgetId": 8,
+        "category": "Personnel",
+        "description": "Staff salaries, benefits, and professional development",
+        "budgetedAmount": 850000000,
+        "actualAmount": 420000000,
+        "costCenter": "Human Resources",
+        "accountCode": "ACC-1006"
+      },
+      {
+        "id": 37,
+        "budgetId": 8,
+        "category": "Operations",
+        "description": "Portfolio management, due diligence, and monitoring costs",
+        "budgetedAmount": 1200000000,
+        "actualAmount": 680000000,
+        "costCenter": "Operations",
+        "accountCode": "ACC-2007"
+      },
+      {
+        "id": 38,
+        "budgetId": 8,
+        "category": "Administrative",
+        "description": "Corporate governance, legal, and compliance costs",
+        "budgetedAmount": 650000000,
+        "actualAmount": 320000000,
+        "costCenter": "Corporate Affairs",
+        "accountCode": "ACC-3007"
+      },
+      {
+        "id": 39,
+        "budgetId": 8,
+        "category": "Contingency",
+        "description": "Portfolio company liquidity support reserve",
+        "budgetedAmount": 2000000000,
+        "actualAmount": 980000000,
+        "costCenter": "Finance",
+        "accountCode": "ACC-6002"
+      }
+    ],
+    "variances": [
+      {
+        "id": 15,
+        "budgetId": 8,
+        "period": "Q1 2025",
+        "budgetedAmount": 1875000000,
+        "actualAmount": 1650000000,
+        "explanation": "Investment disbursements behind schedule pending due diligence completion on two new investments",
+        "correctiveAction": "Investment team to conclude due diligence by end of April 2025"
+      },
+      {
+        "id": 16,
+        "budgetId": 8,
+        "period": "Q2 2025",
+        "budgetedAmount": 1875000000,
+        "actualAmount": 2150000000,
+        "explanation": "Higher spending due to emergency liquidity support to Zambia Railways and accelerated investment in ZAFCO",
+        "correctiveAction": "Reviewed investment pipeline to ensure remaining budget allocated to highest-priority projects"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "companyId": 2,
+    "companyName": "Industrial Development Corporation",
+    "fiscalYear": 2024,
+    "budgetType": "Annual",
+    "totalBudget": 6800000000,
+    "allocatedAmount": 6800000000,
+    "spentAmount": 6920000000,
+    "status": "Closed",
+    "approvalDate": "2023-12-12T00:00:00",
+    "approvedBy": "Ministry of Finance",
+    "notes": "Closed with overrun of ZMW 120 million due to emergency liquidity support provided to Zambia Railways and higher-than-budgeted due diligence costs.",
+    "lineItems": [
+      {
+        "id": 40,
+        "budgetId": 9,
+        "category": "Capital",
+        "description": "Equity investments in portfolio companies",
+        "budgetedAmount": 2500000000,
+        "actualAmount": 2620000000,
+        "costCenter": "Investments",
+        "accountCode": "ACC-4012"
+      },
+      {
+        "id": 41,
+        "budgetId": 9,
+        "category": "Personnel",
+        "description": "Staff costs and benefits",
+        "budgetedAmount": 800000000,
+        "actualAmount": 790000000,
+        "costCenter": "Human Resources",
+        "accountCode": "ACC-1007"
+      },
+      {
+        "id": 42,
+        "budgetId": 9,
+        "category": "Operations",
+        "description": "Portfolio management and monitoring operations",
+        "budgetedAmount": 1100000000,
+        "actualAmount": 1150000000,
+        "costCenter": "Operations",
+        "accountCode": "ACC-2008"
+      },
+      {
+        "id": 43,
+        "budgetId": 9,
+        "category": "Administrative",
+        "description": "Legal, audit, and governance expenses",
+        "budgetedAmount": 600000000,
+        "actualAmount": 590000000,
+        "costCenter": "Corporate Affairs",
+        "accountCode": "ACC-3008"
+      },
+      {
+        "id": 44,
+        "budgetId": 9,
+        "category": "Contingency",
+        "description": "Emergency portfolio support",
+        "budgetedAmount": 1800000000,
+        "actualAmount": 1770000000,
+        "costCenter": "Finance",
+        "accountCode": "ACC-6003"
+      }
+    ],
+    "variances": [
+      {
+        "id": 17,
+        "budgetId": 9,
+        "period": "Q2 2024",
+        "budgetedAmount": 1700000000,
+        "actualAmount": 1950000000,
+        "explanation": "Emergency bridging facility of ZMW 250 million extended to Zambia Railways contributed to overrun",
+        "correctiveAction": "Contingency reserve partially utilised; board approval obtained for the bridging facility"
+      },
+      {
+        "id": 18,
+        "budgetId": 9,
+        "period": "Q4 2024",
+        "budgetedAmount": 1700000000,
+        "actualAmount": 1680000000,
+        "explanation": "Q4 spending broadly on track; overspend in H1 partially offset by savings in administrative costs",
+        "correctiveAction": "Year-end review confirmed overrun of ZMW 120 million; recalibration plan for 2025 approved"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "companyId": 2,
+    "companyName": "Industrial Development Corporation",
+    "fiscalYear": 2023,
+    "budgetType": "Annual",
+    "totalBudget": 6200000000,
+    "allocatedAmount": 6200000000,
+    "spentAmount": 6050000000,
+    "status": "Closed",
+    "approvalDate": "2022-12-09T00:00:00",
+    "approvedBy": "Ministry of Finance",
+    "notes": "Closed with underspend of ZMW 150 million. Savings primarily from deferred divestiture advisory costs and lower-than-anticipated legal fees.",
+    "lineItems": [
+      {
+        "id": 45,
+        "budgetId": 10,
+        "category": "Capital",
+        "description": "New equity investments and capital calls",
+        "budgetedAmount": 2200000000,
+        "actualAmount": 2100000000,
+        "costCenter": "Investments",
+        "accountCode": "ACC-4013"
+      },
+      {
+        "id": 46,
+        "budgetId": 10,
+        "category": "Personnel",
+        "description": "Staff costs and professional development",
+        "budgetedAmount": 750000000,
+        "actualAmount": 740000000,
+        "costCenter": "Human Resources",
+        "accountCode": "ACC-1008"
+      },
+      {
+        "id": 47,
+        "budgetId": 10,
+        "category": "Operations",
+        "description": "Portfolio monitoring and management",
+        "budgetedAmount": 1050000000,
+        "actualAmount": 1020000000,
+        "costCenter": "Operations",
+        "accountCode": "ACC-2009"
+      },
+      {
+        "id": 48,
+        "budgetId": 10,
+        "category": "Administrative",
+        "description": "Legal, compliance, and audit fees",
+        "budgetedAmount": 550000000,
+        "actualAmount": 520000000,
+        "costCenter": "Corporate Affairs",
+        "accountCode": "ACC-3009"
+      },
+      {
+        "id": 49,
+        "budgetId": 10,
+        "category": "Contingency",
+        "description": "Portfolio contingency and working capital support",
+        "budgetedAmount": 1650000000,
+        "actualAmount": 1670000000,
+        "costCenter": "Finance",
+        "accountCode": "ACC-6004"
+      }
+    ],
+    "variances": [
+      {
+        "id": 19,
+        "budgetId": 10,
+        "period": "Q1 2023",
+        "budgetedAmount": 1550000000,
+        "actualAmount": 1480000000,
+        "explanation": "Investment closings delayed pending regulatory clearances for two target companies",
+        "correctiveAction": "Regulatory engagement accelerated; investment closings rescheduled to Q2 2023"
+      },
+      {
+        "id": 20,
+        "budgetId": 10,
+        "period": "Q3 2023",
+        "budgetedAmount": 1550000000,
+        "actualAmount": 1590000000,
+        "explanation": "Slight overspend in contingency category due to additional working capital support to a portfolio company",
+        "correctiveAction": "Management directed to reduce contingency deployment in Q4 to achieve year-end balance"
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "companyId": 2,
+    "companyName": "Industrial Development Corporation",
+    "fiscalYear": 2022,
+    "budgetType": "Annual",
+    "totalBudget": 5500000000,
+    "allocatedAmount": 5500000000,
+    "spentAmount": 5380000000,
+    "status": "Closed",
+    "approvalDate": "2021-12-11T00:00:00",
+    "approvedBy": "Ministry of Finance",
+    "notes": "Closed with underspend of ZMW 120 million. IDC successfully deployed ZMW 1.8 billion in new investments during 2022.",
+    "lineItems": [
+      {
+        "id": 50,
+        "budgetId": 11,
+        "category": "Capital",
+        "description": "New investments and equity placements",
+        "budgetedAmount": 1900000000,
+        "actualAmount": 1800000000,
+        "costCenter": "Investments",
+        "accountCode": "ACC-4014"
+      },
+      {
+        "id": 51,
+        "budgetId": 11,
+        "category": "Personnel",
+        "description": "Staff salaries and benefits",
+        "budgetedAmount": 700000000,
+        "actualAmount": 690000000,
+        "costCenter": "Human Resources",
+        "accountCode": "ACC-1009"
+      },
+      {
+        "id": 52,
+        "budgetId": 11,
+        "category": "Operations",
+        "description": "Portfolio management and business development",
+        "budgetedAmount": 950000000,
+        "actualAmount": 940000000,
+        "costCenter": "Operations",
+        "accountCode": "ACC-2010"
+      },
+      {
+        "id": 53,
+        "budgetId": 11,
+        "category": "Administrative",
+        "description": "Governance, legal, and audit",
+        "budgetedAmount": 500000000,
+        "actualAmount": 490000000,
+        "costCenter": "Corporate Affairs",
+        "accountCode": "ACC-3010"
+      },
+      {
+        "id": 54,
+        "budgetId": 11,
+        "category": "Contingency",
+        "description": "Portfolio working capital and contingency",
+        "budgetedAmount": 1450000000,
+        "actualAmount": 1460000000,
+        "costCenter": "Finance",
+        "accountCode": "ACC-6005"
+      }
+    ],
+    "variances": [
+      {
+        "id": 21,
+        "budgetId": 11,
+        "period": "Q2 2022",
+        "budgetedAmount": 1375000000,
+        "actualAmount": 1320000000,
+        "explanation": "Lower investment spending due to challenging macro environment and deal delays",
+        "correctiveAction": "Investment pipeline refreshed; three new deals advanced to due diligence stage in Q3"
+      },
+      {
+        "id": 22,
+        "budgetId": 11,
+        "period": "Q4 2022",
+        "budgetedAmount": 1375000000,
+        "actualAmount": 1400000000,
+        "explanation": "Higher contingency use in Q4 as one portfolio company required additional working capital support",
+        "correctiveAction": "Full-year underspend of ZMW 120 million achieved; excess funds returned to reserve"
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "companyId": 2,
+    "companyName": "Industrial Development Corporation",
+    "fiscalYear": 2024,
+    "budgetType": "Supplementary",
+    "totalBudget": 1200000000,
+    "allocatedAmount": 1200000000,
+    "spentAmount": 1185000000,
+    "status": "Closed",
+    "approvalDate": "2024-07-05T00:00:00",
+    "approvedBy": "Ministry of Finance",
+    "notes": "Supplementary budget approved to cover emergency liquidity support to Zambia Railways and additional investment in strategic manufacturing sector.",
+    "lineItems": [
+      {
+        "id": 55,
+        "budgetId": 12,
+        "category": "Capital",
+        "description": "Emergency bridging facility to Zambia Railways Limited",
+        "budgetedAmount": 250000000,
+        "actualAmount": 250000000,
+        "costCenter": "Investments",
+        "accountCode": "ACC-4015"
+      },
+      {
+        "id": 56,
+        "budgetId": 12,
+        "category": "Capital",
+        "description": "Additional investment in Zambia Fertiliser and Chemicals Limited",
+        "budgetedAmount": 550000000,
+        "actualAmount": 540000000,
+        "costCenter": "Investments",
+        "accountCode": "ACC-4016"
+      },
+      {
+        "id": 57,
+        "budgetId": 12,
+        "category": "Operations",
+        "description": "Enhanced portfolio monitoring and embedded controller costs",
+        "budgetedAmount": 280000000,
+        "actualAmount": 275000000,
+        "costCenter": "Operations",
+        "accountCode": "ACC-2011"
+      },
+      {
+        "id": 58,
+        "budgetId": 12,
+        "category": "Administrative",
+        "description": "Legal and advisory fees for supplementary investments",
+        "budgetedAmount": 120000000,
+        "actualAmount": 120000000,
+        "costCenter": "Corporate Affairs",
+        "accountCode": "ACC-3011"
+      }
+    ],
+    "variances": [
+      {
+        "id": 23,
+        "budgetId": 12,
+        "period": "Q3 2024",
+        "budgetedAmount": 600000000,
+        "actualAmount": 590000000,
+        "explanation": "Spending broadly on plan; bridging facility disbursed in full, ZAFCO investment on schedule",
+        "correctiveAction": "No significant corrective action required; monitoring increased for ZRL loan repayment"
+      },
+      {
+        "id": 24,
+        "budgetId": 12,
+        "period": "Q4 2024",
+        "budgetedAmount": 600000000,
+        "actualAmount": 595000000,
+        "explanation": "Year-end closeout completed within supplementary budget; minor underspend in advisory costs",
+        "correctiveAction": "Supplementary budget formally closed; savings of ZMW 15 million returned to IDC reserves"
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "companyId": 2,
+    "companyName": "Industrial Development Corporation",
+    "fiscalYear": 2025,
+    "budgetType": "Capital",
+    "totalBudget": 2500000000,
+    "allocatedAmount": 2500000000,
+    "spentAmount": 380000000,
+    "status": "Approved",
+    "approvalDate": "2025-01-22T00:00:00",
+    "approvedBy": "Ministry of Finance",
+    "notes": "Capital budget for new strategic investments in 2025 covering agriculture, green energy, and manufacturing sectors as per the IDC Corporate Strategy 2024–2028.",
+    "lineItems": [
+      {
+        "id": 59,
+        "budgetId": 13,
+        "category": "Capital",
+        "description": "Agricultural sector investment — ZAFCO expansion and farming blocks",
+        "budgetedAmount": 850000000,
+        "actualAmount": 380000000,
+        "costCenter": "Investments",
+        "accountCode": "ACC-4017"
+      },
+      {
+        "id": 60,
+        "budgetId": 13,
+        "category": "Capital",
+        "description": "Green energy investments — solar and mini-hydro projects",
+        "budgetedAmount": 1200000000,
+        "actualAmount": 0,
+        "costCenter": "Investments",
+        "accountCode": "ACC-4018"
+      },
+      {
+        "id": 61,
+        "budgetId": 13,
+        "category": "Capital",
+        "description": "Manufacturing sector equity — packaging and processing",
+        "budgetedAmount": 300000000,
+        "actualAmount": 0,
+        "costCenter": "Investments",
+        "accountCode": "ACC-4019"
+      },
+      {
+        "id": 62,
+        "budgetId": 13,
+        "category": "Operations",
+        "description": "Investment advisory, due diligence, and legal fees",
+        "budgetedAmount": 150000000,
+        "actualAmount": 0,
+        "costCenter": "Operations",
+        "accountCode": "ACC-2012"
+      }
+    ],
+    "variances": [
+      {
+        "id": 25,
+        "budgetId": 13,
+        "period": "Q1 2025",
+        "budgetedAmount": 625000000,
+        "actualAmount": 380000000,
+        "explanation": "Investment disbursements below plan due to ongoing due diligence on green energy and manufacturing deals",
+        "correctiveAction": "Investment Committee to accelerate deal closings; target full Q1 disbursement by end of May 2025"
+      },
+      {
+        "id": 26,
+        "budgetId": 13,
+        "period": "Q2 2025",
+        "budgetedAmount": 625000000,
+        "actualAmount": 0,
+        "explanation": "Green energy and manufacturing investments not yet disbursed pending financial close and regulatory approval",
+        "correctiveAction": "Management to report on deal status at May 2025 board meeting"
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "companyId": 2,
+    "companyName": "Industrial Development Corporation",
+    "fiscalYear": 2025,
+    "budgetType": "Revised",
+    "totalBudget": 7800000000,
+    "allocatedAmount": 7800000000,
+    "spentAmount": 1250000000,
+    "status": "Draft",
+    "approvalDate": null,
+    "approvedBy": "Ministry of Finance",
+    "notes": "Draft revised budget under preparation reflecting higher-than-anticipated investment needs and portfolio support requirements. Pending internal approval before Ministry submission.",
+    "lineItems": [
+      {
+        "id": 63,
+        "budgetId": 14,
+        "category": "Capital",
+        "description": "Revised strategic investments — higher deployment target",
+        "budgetedAmount": 3100000000,
+        "actualAmount": 600000000,
+        "costCenter": "Investments",
+        "accountCode": "ACC-4020"
+      },
+      {
+        "id": 64,
+        "budgetId": 14,
+        "category": "Personnel",
+        "description": "Salaries and benefits — including new investment team hires",
+        "budgetedAmount": 920000000,
+        "actualAmount": 230000000,
+        "costCenter": "Human Resources",
+        "accountCode": "ACC-1010"
+      },
+      {
+        "id": 65,
+        "budgetId": 14,
+        "category": "Operations",
+        "description": "Portfolio management — expanded scope",
+        "budgetedAmount": 1350000000,
+        "actualAmount": 280000000,
+        "costCenter": "Operations",
+        "accountCode": "ACC-2013"
+      },
+      {
+        "id": 66,
+        "budgetId": 14,
+        "category": "Administrative",
+        "description": "Governance and compliance — enhanced programme",
+        "budgetedAmount": 730000000,
+        "actualAmount": 140000000,
+        "costCenter": "Corporate Affairs",
+        "accountCode": "ACC-3012"
+      },
+      {
+        "id": 67,
+        "budgetId": 14,
+        "category": "Contingency",
+        "description": "Expanded portfolio contingency reserve",
+        "budgetedAmount": 1450000000,
+        "actualAmount": 0,
+        "costCenter": "Finance",
+        "accountCode": "ACC-6006"
+      },
+      {
+        "id": 68,
+        "budgetId": 14,
+        "category": "Capital",
+        "description": "INDENI Petroleum privatisation advisory and restructuring costs",
+        "budgetedAmount": 250000000,
+        "actualAmount": 0,
+        "costCenter": "Investments",
+        "accountCode": "ACC-4021"
+      }
+    ],
+    "variances": [
+      {
+        "id": 27,
+        "budgetId": 14,
+        "period": "Q1 2025",
+        "budgetedAmount": 1950000000,
+        "actualAmount": 1250000000,
+        "explanation": "Original budget underspent pending approval of revised budget; investment disbursements on hold pending revised approval",
+        "correctiveAction": "Board to approve revised budget and submit to Ministry of Finance by end of March 2025"
+      },
+      {
+        "id": 28,
+        "budgetId": 14,
+        "period": "Q2 2025",
+        "budgetedAmount": 1950000000,
+        "actualAmount": 0,
+        "explanation": "Revised budget not yet approved; spending operating under original approved budget limits",
+        "correctiveAction": "CFO to engage Ministry of Finance for expedited review and approval of revised budget"
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "companyId": 3,
+    "companyName": "Zambia National Commercial Bank",
+    "fiscalYear": 2025,
+    "budgetType": "Annual",
+    "totalBudget": 9500000000,
+    "allocatedAmount": 9500000000,
+    "spentAmount": 4800000000,
+    "status": "Active",
+    "approvalDate": "2024-12-10T00:00:00",
+    "approvedBy": "Bank of Zambia",
+    "notes": "2025 Annual Budget approved with focus on digital transformation, branch expansion, and MSME lending growth. BOZ noted compliance requirements under Basel III.",
+    "lineItems": [
+      {
+        "id": 69,
+        "budgetId": 15,
+        "category": "Capital",
+        "description": "Digital transformation and IT infrastructure investment",
+        "budgetedAmount": 1200000000,
+        "actualAmount": 380000000,
+        "costCenter": "Technology",
+        "accountCode": "ACC-4022"
+      },
+      {
+        "id": 70,
+        "budgetId": 15,
+        "category": "Personnel",
+        "description": "Staff salaries, benefits, and performance bonuses",
+        "budgetedAmount": 2800000000,
+        "actualAmount": 1420000000,
+        "costCenter": "Human Resources",
+        "accountCode": "ACC-1011"
+      },
+      {
+        "id": 71,
+        "budgetId": 15,
+        "category": "Operations",
+        "description": "Banking operations, card, and payment services",
+        "budgetedAmount": 2500000000,
+        "actualAmount": 1450000000,
+        "costCenter": "Operations",
+        "accountCode": "ACC-2014"
+      },
+      {
+        "id": 72,
+        "budgetId": 15,
+        "category": "Capital",
+        "description": "Branch expansion — 15 new branches",
+        "budgetedAmount": 420000000,
+        "actualAmount": 120000000,
+        "costCenter": "Retail Banking",
+        "accountCode": "ACC-4023"
+      },
+      {
+        "id": 73,
+        "budgetId": 15,
+        "category": "Administrative",
+        "description": "Regulatory compliance, legal, and governance costs",
+        "budgetedAmount": 2580000000,
+        "actualAmount": 1430000000,
+        "costCenter": "Corporate Affairs",
+        "accountCode": "ACC-3013"
+      }
+    ],
+    "variances": [
+      {
+        "id": 29,
+        "budgetId": 15,
+        "period": "Q1 2025",
+        "budgetedAmount": 2375000000,
+        "actualAmount": 2200000000,
+        "explanation": "Underspend in digital transformation due to delayed vendor selection for core banking upgrade",
+        "correctiveAction": "Technology Committee to finalise vendor evaluation by 30 April 2025"
+      },
+      {
+        "id": 30,
+        "budgetId": 15,
+        "period": "Q2 2025",
+        "budgetedAmount": 2375000000,
+        "actualAmount": 2600000000,
+        "explanation": "Higher personnel costs due to market salary adjustments and branch expansion recruitment",
+        "correctiveAction": "HR to review overtime policy and recruitment pipeline to manage costs within budget"
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "companyId": 3,
+    "companyName": "Zambia National Commercial Bank",
+    "fiscalYear": 2024,
+    "budgetType": "Annual",
+    "totalBudget": 8800000000,
+    "allocatedAmount": 8800000000,
+    "spentAmount": 8650000000,
+    "status": "Closed",
+    "approvalDate": "2023-12-05T00:00:00",
+    "approvedBy": "Bank of Zambia",
+    "notes": "Closed with underspend of ZMW 150 million. Strong revenue performance in 2024 with net profit of ZMW 2.6 billion. Dividend of ZMW 0.95 per share declared.",
+    "lineItems": [
+      {
+        "id": 74,
+        "budgetId": 16,
+        "category": "Capital",
+        "description": "IT systems upgrade and cybersecurity",
+        "budgetedAmount": 1100000000,
+        "actualAmount": 1080000000,
+        "costCenter": "Technology",
+        "accountCode": "ACC-4024"
+      },
+      {
+        "id": 75,
+        "budgetId": 16,
+        "category": "Personnel",
+        "description": "Staff costs and benefits",
+        "budgetedAmount": 2650000000,
+        "actualAmount": 2620000000,
+        "costCenter": "Human Resources",
+        "accountCode": "ACC-1012"
+      },
+      {
+        "id": 76,
+        "budgetId": 16,
+        "category": "Operations",
+        "description": "Banking operations and product delivery",
+        "budgetedAmount": 2400000000,
+        "actualAmount": 2380000000,
+        "costCenter": "Operations",
+        "accountCode": "ACC-2015"
+      },
+      {
+        "id": 77,
+        "budgetId": 16,
+        "category": "Capital",
+        "description": "ATM rollout and agency banking expansion",
+        "budgetedAmount": 350000000,
+        "actualAmount": 320000000,
+        "costCenter": "Retail Banking",
+        "accountCode": "ACC-4025"
+      },
+      {
+        "id": 78,
+        "budgetId": 16,
+        "category": "Administrative",
+        "description": "KYC remediation, compliance, and governance",
+        "budgetedAmount": 2300000000,
+        "actualAmount": 2250000000,
+        "costCenter": "Corporate Affairs",
+        "accountCode": "ACC-3014"
+      }
+    ],
+    "variances": [
+      {
+        "id": 31,
+        "budgetId": 16,
+        "period": "Q2 2024",
+        "budgetedAmount": 2200000000,
+        "actualAmount": 2300000000,
+        "explanation": "KYC remediation costs of ZMW 45 million exceeded initial estimate due to higher volume of affected accounts",
+        "correctiveAction": "Additional funds reallocated from operational budget contingency; BOZ notified of progress"
+      },
+      {
+        "id": 32,
+        "budgetId": 16,
+        "period": "Q4 2024",
+        "budgetedAmount": 2200000000,
+        "actualAmount": 2180000000,
+        "explanation": "Q4 within budget; full-year underspend of ZMW 150 million achieved despite KYC remediation overrun",
+        "correctiveAction": "Year-end savings noted; underspend carried forward to 2025 digital transformation budget"
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "companyId": 3,
+    "companyName": "Zambia National Commercial Bank",
+    "fiscalYear": 2023,
+    "budgetType": "Annual",
+    "totalBudget": 7500000000,
+    "allocatedAmount": 7500000000,
+    "spentAmount": 7380000000,
+    "status": "Closed",
+    "approvalDate": "2022-12-07T00:00:00",
+    "approvedBy": "Bank of Zambia",
+    "notes": "Closed within budget. 2023 saw strong loan book growth of 18% and mobile banking users surpassing 1.8 million.",
+    "lineItems": [
+      {
+        "id": 79,
+        "budgetId": 17,
+        "category": "Capital",
+        "description": "Mobile banking platform upgrade",
+        "budgetedAmount": 850000000,
+        "actualAmount": 820000000,
+        "costCenter": "Technology",
+        "accountCode": "ACC-4026"
+      },
+      {
+        "id": 80,
+        "budgetId": 17,
+        "category": "Personnel",
+        "description": "Staff remuneration and development",
+        "budgetedAmount": 2200000000,
+        "actualAmount": 2180000000,
+        "costCenter": "Human Resources",
+        "accountCode": "ACC-1013"
+      },
+      {
+        "id": 81,
+        "budgetId": 17,
+        "category": "Operations",
+        "description": "Core banking and payment operations",
+        "budgetedAmount": 2100000000,
+        "actualAmount": 2090000000,
+        "costCenter": "Operations",
+        "accountCode": "ACC-2016"
+      },
+      {
+        "id": 82,
+        "budgetId": 17,
+        "category": "Capital",
+        "description": "Branch refurbishment and ATM upgrades",
+        "budgetedAmount": 320000000,
+        "actualAmount": 310000000,
+        "costCenter": "Retail Banking",
+        "accountCode": "ACC-4027"
+      },
+      {
+        "id": 83,
+        "budgetId": 17,
+        "category": "Administrative",
+        "description": "Regulatory compliance, audit, and legal fees",
+        "budgetedAmount": 2030000000,
+        "actualAmount": 1980000000,
+        "costCenter": "Corporate Affairs",
+        "accountCode": "ACC-3015"
+      }
+    ],
+    "variances": [
+      {
+        "id": 33,
+        "budgetId": 17,
+        "period": "Q1 2023",
+        "budgetedAmount": 1875000000,
+        "actualAmount": 1820000000,
+        "explanation": "Underspend on mobile banking platform upgrade; technology vendor deliverables delayed",
+        "correctiveAction": "Technology vendor placed on performance improvement plan; revised delivery schedule agreed"
+      },
+      {
+        "id": 34,
+        "budgetId": 17,
+        "period": "Q3 2023",
+        "budgetedAmount": 1875000000,
+        "actualAmount": 1890000000,
+        "explanation": "Slight overspend due to higher-than-budgeted recruitment costs following staff attrition",
+        "correctiveAction": "HR engaged remuneration consultants; retention package approved to reduce attrition rate"
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "companyId": 3,
+    "companyName": "Zambia National Commercial Bank",
+    "fiscalYear": 2022,
+    "budgetType": "Annual",
+    "totalBudget": 6800000000,
+    "allocatedAmount": 6800000000,
+    "spentAmount": 6720000000,
+    "status": "Closed",
+    "approvalDate": "2021-12-06T00:00:00",
+    "approvedBy": "Bank of Zambia",
+    "notes": "Closed with underspend of ZMW 80 million. ZANACO achieved its best-ever net profit of ZMW 1.95 billion in 2022.",
+    "lineItems": [
+      {
+        "id": 84,
+        "budgetId": 18,
+        "category": "Capital",
+        "description": "Core banking system enhancements",
+        "budgetedAmount": 780000000,
+        "actualAmount": 760000000,
+        "costCenter": "Technology",
+        "accountCode": "ACC-4028"
+      },
+      {
+        "id": 85,
+        "budgetId": 18,
+        "category": "Personnel",
+        "description": "Staff salaries and benefits",
+        "budgetedAmount": 2000000000,
+        "actualAmount": 1980000000,
+        "costCenter": "Human Resources",
+        "accountCode": "ACC-1014"
+      },
+      {
+        "id": 86,
+        "budgetId": 18,
+        "category": "Operations",
+        "description": "Banking operations and service delivery",
+        "budgetedAmount": 1900000000,
+        "actualAmount": 1870000000,
+        "costCenter": "Operations",
+        "accountCode": "ACC-2017"
+      },
+      {
+        "id": 87,
+        "budgetId": 18,
+        "category": "Capital",
+        "description": "Agency banking expansion — 200 new agents",
+        "budgetedAmount": 280000000,
+        "actualAmount": 270000000,
+        "costCenter": "Retail Banking",
+        "accountCode": "ACC-4029"
+      },
+      {
+        "id": 88,
+        "budgetId": 18,
+        "category": "Administrative",
+        "description": "Governance, audit, and compliance",
+        "budgetedAmount": 1840000000,
+        "actualAmount": 1840000000,
+        "costCenter": "Corporate Affairs",
+        "accountCode": "ACC-3016"
+      }
+    ],
+    "variances": [
+      {
+        "id": 35,
+        "budgetId": 18,
+        "period": "Q2 2022",
+        "budgetedAmount": 1700000000,
+        "actualAmount": 1680000000,
+        "explanation": "Technology project underspend due to phased vendor payments for core banking enhancements",
+        "correctiveAction": "Vendor payment schedule revised; project delivered on time and within revised schedule"
+      },
+      {
+        "id": 36,
+        "budgetId": 18,
+        "period": "Q4 2022",
+        "budgetedAmount": 1700000000,
+        "actualAmount": 1690000000,
+        "explanation": "Year-end spending broadly in line with budget; underspend of ZMW 80 million across multiple categories",
+        "correctiveAction": "Year-end underspend noted positively by BOZ; prudent cost management commended"
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "companyId": 3,
+    "companyName": "Zambia National Commercial Bank",
+    "fiscalYear": 2024,
+    "budgetType": "Supplementary",
+    "totalBudget": 1500000000,
+    "allocatedAmount": 1500000000,
+    "spentAmount": 1460000000,
+    "status": "Closed",
+    "approvalDate": "2024-06-15T00:00:00",
+    "approvedBy": "Bank of Zambia",
+    "notes": "Supplementary budget approved for KYC remediation programme, AML framework enhancement, and cybersecurity investment in response to regulatory requirements.",
+    "lineItems": [
+      {
+        "id": 89,
+        "budgetId": 19,
+        "category": "Operations",
+        "description": "KYC remediation programme — 180,000 customer accounts",
+        "budgetedAmount": 450000000,
+        "actualAmount": 448000000,
+        "costCenter": "Compliance",
+        "accountCode": "ACC-2018"
+      },
+      {
+        "id": 90,
+        "budgetId": 19,
+        "category": "Capital",
+        "description": "AML/CFT framework enhancement and technology",
+        "budgetedAmount": 280000000,
+        "actualAmount": 278000000,
+        "costCenter": "Compliance",
+        "accountCode": "ACC-4030"
+      },
+      {
+        "id": 91,
+        "budgetId": 19,
+        "category": "Capital",
+        "description": "Cybersecurity infrastructure — enhanced detection systems",
+        "budgetedAmount": 650000000,
+        "actualAmount": 640000000,
+        "costCenter": "Technology",
+        "accountCode": "ACC-4031"
+      },
+      {
+        "id": 92,
+        "budgetId": 19,
+        "category": "Administrative",
+        "description": "External legal and regulatory advisory fees",
+        "budgetedAmount": 120000000,
+        "actualAmount": 94000000,
+        "costCenter": "Legal",
+        "accountCode": "ACC-3017"
+      }
+    ],
+    "variances": [
+      {
+        "id": 37,
+        "budgetId": 19,
+        "period": "Q3 2024",
+        "budgetedAmount": 750000000,
+        "actualAmount": 730000000,
+        "explanation": "KYC and AML programmes on schedule; cybersecurity procurement finalised within budget",
+        "correctiveAction": "No corrective action required; compliance milestones being met as per BOZ directive"
+      },
+      {
+        "id": 38,
+        "budgetId": 19,
+        "period": "Q4 2024",
+        "budgetedAmount": 750000000,
+        "actualAmount": 730000000,
+        "explanation": "Year-end closeout completed; savings of ZMW 40 million achieved mainly on legal advisory fees",
+        "correctiveAction": "Supplementary budget formally closed; BOZ compliance completion report filed"
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "companyId": 3,
+    "companyName": "Zambia National Commercial Bank",
+    "fiscalYear": 2025,
+    "budgetType": "Capital",
+    "totalBudget": 3200000000,
+    "allocatedAmount": 3200000000,
+    "spentAmount": 420000000,
+    "status": "Approved",
+    "approvalDate": "2025-01-15T00:00:00",
+    "approvedBy": "Bank of Zambia",
+    "notes": "Capital budget for digital transformation, branch expansion, and Basel III capital strengthening measures. Part-funded by retained earnings.",
+    "lineItems": [
+      {
+        "id": 93,
+        "budgetId": 20,
+        "category": "Capital",
+        "description": "Core banking system upgrade — Phase 1",
+        "budgetedAmount": 1400000000,
+        "actualAmount": 120000000,
+        "costCenter": "Technology",
+        "accountCode": "ACC-4032"
+      },
+      {
+        "id": 94,
+        "budgetId": 20,
+        "category": "Capital",
+        "description": "15 new branch fit-out and equipment",
+        "budgetedAmount": 420000000,
+        "actualAmount": 120000000,
+        "costCenter": "Retail Banking",
+        "accountCode": "ACC-4033"
+      },
+      {
+        "id": 95,
+        "budgetId": 20,
+        "category": "Capital",
+        "description": "Basel III capital buffer strengthening",
+        "budgetedAmount": 1030000000,
+        "actualAmount": 180000000,
+        "costCenter": "Finance",
+        "accountCode": "ACC-4034"
+      },
+      {
+        "id": 96,
+        "budgetId": 20,
+        "category": "Capital",
+        "description": "Data centre upgrade and disaster recovery",
+        "budgetedAmount": 350000000,
+        "actualAmount": 0,
+        "costCenter": "Technology",
+        "accountCode": "ACC-4035"
+      }
+    ],
+    "variances": [
+      {
+        "id": 39,
+        "budgetId": 20,
+        "period": "Q1 2025",
+        "budgetedAmount": 800000000,
+        "actualAmount": 420000000,
+        "explanation": "Capital disbursements below plan as core banking system vendor evaluation and contract finalisation ongoing",
+        "correctiveAction": "Technology Board to finalise vendor contract by 30 April 2025 to enable Q2 project kick-off"
+      },
+      {
+        "id": 40,
+        "budgetId": 20,
+        "period": "Q2 2025",
+        "budgetedAmount": 800000000,
+        "actualAmount": 0,
+        "explanation": "Pending vendor contract execution and project mobilisation; branch fit-out programme on schedule",
+        "correctiveAction": "Management to report capital expenditure progress at Q2 2025 board meeting"
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "companyId": 3,
+    "companyName": "Zambia National Commercial Bank",
+    "fiscalYear": 2025,
+    "budgetType": "Revised",
+    "totalBudget": 9800000000,
+    "allocatedAmount": 9800000000,
+    "spentAmount": 2100000000,
+    "status": "UnderReview",
+    "approvalDate": null,
+    "approvedBy": "Bank of Zambia",
+    "notes": "Revised budget under review by BOZ reflecting higher technology investment costs and revised branch expansion programme following market studies.",
+    "lineItems": [
+      {
+        "id": 97,
+        "budgetId": 21,
+        "category": "Capital",
+        "description": "Digital transformation — revised scope and higher IT costs",
+        "budgetedAmount": 1600000000,
+        "actualAmount": 180000000,
+        "costCenter": "Technology",
+        "accountCode": "ACC-4036"
+      },
+      {
+        "id": 98,
+        "budgetId": 21,
+        "category": "Personnel",
+        "description": "Staff costs — revised with market-aligned salary adjustments",
+        "budgetedAmount": 3000000000,
+        "actualAmount": 720000000,
+        "costCenter": "Human Resources",
+        "accountCode": "ACC-1015"
+      },
+      {
+        "id": 99,
+        "budgetId": 21,
+        "category": "Operations",
+        "description": "Banking operations — revised including fintech partnership costs",
+        "budgetedAmount": 2600000000,
+        "actualAmount": 760000000,
+        "costCenter": "Operations",
+        "accountCode": "ACC-2019"
+      },
+      {
+        "id": 100,
+        "budgetId": 21,
+        "category": "Capital",
+        "description": "Revised branch expansion — 18 branches (increased from 15)",
+        "budgetedAmount": 504000000,
+        "actualAmount": 0,
+        "costCenter": "Retail Banking",
+        "accountCode": "ACC-4037"
+      },
+      {
+        "id": 101,
+        "budgetId": 21,
+        "category": "Administrative",
+        "description": "Compliance and governance — enhanced programme costs",
+        "budgetedAmount": 1846000000,
+        "actualAmount": 440000000,
+        "costCenter": "Corporate Affairs",
+        "accountCode": "ACC-3018"
+      },
+      {
+        "id": 102,
+        "budgetId": 21,
+        "category": "Contingency",
+        "description": "Contingency reserve for regulatory and market risks",
+        "budgetedAmount": 250000000,
+        "actualAmount": 0,
+        "costCenter": "Finance",
+        "accountCode": "ACC-6007"
+      }
+    ],
+    "variances": [
+      {
+        "id": 41,
+        "budgetId": 21,
+        "period": "Q1 2025",
+        "budgetedAmount": 2450000000,
+        "actualAmount": 2100000000,
+        "explanation": "Spending under revised budget pending BOZ approval; operating under original budget limits causing underspend in digital transformation",
+        "correctiveAction": "MD/CEO to engage BOZ Governor for expedited approval of revised budget"
+      },
+      {
+        "id": 42,
+        "budgetId": 21,
+        "period": "Q2 2025",
+        "budgetedAmount": 2450000000,
+        "actualAmount": 0,
+        "explanation": "Revised budget not yet approved; all capital expenditures above original budget level on hold",
+        "correctiveAction": "CFO to present revised budget justification to BOZ at scheduled May 2025 review meeting"
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "companyId": 4,
+    "companyName": "Zambia Railways Limited",
+    "fiscalYear": 2025,
+    "budgetType": "Annual",
+    "totalBudget": 5500000000,
+    "allocatedAmount": 5500000000,
+    "spentAmount": 1850000000,
+    "status": "Active",
+    "approvalDate": "2024-12-20T00:00:00",
+    "approvedBy": "Ministry of Transport",
+    "notes": "2025 Annual Budget reflects the Turnaround Strategy with emphasis on track rehabilitation, rolling stock maintenance, and commercial freight growth.",
+    "lineItems": [
+      {
+        "id": 103,
+        "budgetId": 22,
+        "category": "Capital",
+        "description": "Track rehabilitation — Livingstone-Lusaka corridor Phase 1",
+        "budgetedAmount": 1850000000,
+        "actualAmount": 480000000,
+        "costCenter": "Engineering",
+        "accountCode": "ACC-4038"
+      },
+      {
+        "id": 104,
+        "budgetId": 22,
+        "category": "Personnel",
+        "description": "Staff salaries, allowances, and benefits",
+        "budgetedAmount": 1200000000,
+        "actualAmount": 620000000,
+        "costCenter": "Human Resources",
+        "accountCode": "ACC-1016"
+      },
+      {
+        "id": 105,
+        "budgetId": 22,
+        "category": "Operations",
+        "description": "Locomotive fuel, traction, and freight operations",
+        "budgetedAmount": 1450000000,
+        "actualAmount": 550000000,
+        "costCenter": "Operations",
+        "accountCode": "ACC-2020"
+      },
+      {
+        "id": 106,
+        "budgetId": 22,
+        "category": "Maintenance",
+        "description": "Rolling stock preventive and corrective maintenance",
+        "budgetedAmount": 650000000,
+        "actualAmount": 150000000,
+        "costCenter": "Technical Services",
+        "accountCode": "ACC-5007"
+      },
+      {
+        "id": 107,
+        "budgetId": 22,
+        "category": "Administrative",
+        "description": "Administration, governance, and corporate costs",
+        "budgetedAmount": 350000000,
+        "actualAmount": 50000000,
+        "costCenter": "Corporate Affairs",
+        "accountCode": "ACC-3019"
+      }
+    ],
+    "variances": [
+      {
+        "id": 43,
+        "budgetId": 22,
+        "period": "Q1 2025",
+        "budgetedAmount": 1375000000,
+        "actualAmount": 1200000000,
+        "explanation": "Track rehabilitation delayed pending final engineering designs and contractor mobilisation",
+        "correctiveAction": "Contractor mobilisation orders issued; works expected to commence April 2025"
+      },
+      {
+        "id": 44,
+        "budgetId": 22,
+        "period": "Q2 2025",
+        "budgetedAmount": 1375000000,
+        "actualAmount": 650000000,
+        "explanation": "Spending below target due to delayed contractor commencement and procurement of maintenance materials",
+        "correctiveAction": "CEO to present revised project timeline to board at May 2025 meeting"
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "companyId": 4,
+    "companyName": "Zambia Railways Limited",
+    "fiscalYear": 2024,
+    "budgetType": "Annual",
+    "totalBudget": 4800000000,
+    "allocatedAmount": 4800000000,
+    "spentAmount": 4920000000,
+    "status": "Closed",
+    "approvalDate": "2023-12-16T00:00:00",
+    "approvedBy": "Ministry of Transport",
+    "notes": "Closed with overrun of ZMW 120 million due to emergency locomotive repairs and unplanned maintenance following fleet breakdowns. IDC bridging facility utilised.",
+    "lineItems": [
+      {
+        "id": 108,
+        "budgetId": 23,
+        "category": "Capital",
+        "description": "Rolling stock acquisition — partial payment on new wagons",
+        "budgetedAmount": 1200000000,
+        "actualAmount": 1180000000,
+        "costCenter": "Engineering",
+        "accountCode": "ACC-4039"
+      },
+      {
+        "id": 109,
+        "budgetId": 23,
+        "category": "Personnel",
+        "description": "Staff salaries and operational allowances",
+        "budgetedAmount": 1150000000,
+        "actualAmount": 1140000000,
+        "costCenter": "Human Resources",
+        "accountCode": "ACC-1017"
+      },
+      {
+        "id": 110,
+        "budgetId": 23,
+        "category": "Operations",
+        "description": "Freight operations and fuel",
+        "budgetedAmount": 1350000000,
+        "actualAmount": 1420000000,
+        "costCenter": "Operations",
+        "accountCode": "ACC-2021"
+      },
+      {
+        "id": 111,
+        "budgetId": 23,
+        "category": "Maintenance",
+        "description": "Emergency and preventive locomotive maintenance",
+        "budgetedAmount": 700000000,
+        "actualAmount": 880000000,
+        "costCenter": "Technical Services",
+        "accountCode": "ACC-5008"
+      },
+      {
+        "id": 112,
+        "budgetId": 23,
+        "category": "Administrative",
+        "description": "Administration and corporate governance",
+        "budgetedAmount": 400000000,
+        "actualAmount": 300000000,
+        "costCenter": "Corporate Affairs",
+        "accountCode": "ACC-3020"
+      }
+    ],
+    "variances": [
+      {
+        "id": 45,
+        "budgetId": 23,
+        "period": "Q2 2024",
+        "budgetedAmount": 1200000000,
+        "actualAmount": 1450000000,
+        "explanation": "Emergency locomotive repair programme of ZMW 185 million caused significant overrun; IDC bridging facility required",
+        "correctiveAction": "Emergency procurement approved by board; IDC bridging facility of ZMW 250 million secured"
+      },
+      {
+        "id": 46,
+        "budgetId": 23,
+        "period": "Q4 2024",
+        "budgetedAmount": 1200000000,
+        "actualAmount": 1100000000,
+        "explanation": "Q4 underspend partially offsets H1 overrun; tight budget controls implemented post-emergency",
+        "correctiveAction": "Year-end review confirmed overrun of ZMW 120 million; plan to contain costs in 2025 adopted"
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "companyId": 4,
+    "companyName": "Zambia Railways Limited",
+    "fiscalYear": 2023,
+    "budgetType": "Annual",
+    "totalBudget": 4200000000,
+    "allocatedAmount": 4200000000,
+    "spentAmount": 4080000000,
+    "status": "Closed",
+    "approvalDate": "2022-12-13T00:00:00",
+    "approvedBy": "Ministry of Transport",
+    "notes": "Closed with underspend of ZMW 120 million. Revenue of ZMW 1.78 billion achieved against target of ZMW 1.90 billion. Net loss of ZMW 320 million recorded.",
+    "lineItems": [
+      {
+        "id": 113,
+        "budgetId": 24,
+        "category": "Capital",
+        "description": "Track maintenance and spot renewals",
+        "budgetedAmount": 950000000,
+        "actualAmount": 920000000,
+        "costCenter": "Engineering",
+        "accountCode": "ACC-4040"
+      },
+      {
+        "id": 114,
+        "budgetId": 24,
+        "category": "Personnel",
+        "description": "Staff costs and industrial relations settlements",
+        "budgetedAmount": 1100000000,
+        "actualAmount": 1080000000,
+        "costCenter": "Human Resources",
+        "accountCode": "ACC-1018"
+      },
+      {
+        "id": 115,
+        "budgetId": 24,
+        "category": "Operations",
+        "description": "Freight operations, fuel, and track access fees",
+        "budgetedAmount": 1250000000,
+        "actualAmount": 1210000000,
+        "costCenter": "Operations",
+        "accountCode": "ACC-2022"
+      },
+      {
+        "id": 116,
+        "budgetId": 24,
+        "category": "Maintenance",
+        "description": "Locomotive and wagon maintenance programme",
+        "budgetedAmount": 600000000,
+        "actualAmount": 580000000,
+        "costCenter": "Technical Services",
+        "accountCode": "ACC-5009"
+      },
+      {
+        "id": 117,
+        "budgetId": 24,
+        "category": "Administrative",
+        "description": "Administration, audit, and compliance",
+        "budgetedAmount": 300000000,
+        "actualAmount": 290000000,
+        "costCenter": "Corporate Affairs",
+        "accountCode": "ACC-3021"
+      }
+    ],
+    "variances": [
+      {
+        "id": 47,
+        "budgetId": 24,
+        "period": "Q1 2023",
+        "budgetedAmount": 1050000000,
+        "actualAmount": 980000000,
+        "explanation": "Underspend in capital works due to deferred track renewal projects pending World Bank loan disbursement",
+        "correctiveAction": "World Bank loan conditions satisfied in Q2; track renewal programme resumed"
+      },
+      {
+        "id": 48,
+        "budgetId": 24,
+        "period": "Q3 2023",
+        "budgetedAmount": 1050000000,
+        "actualAmount": 1080000000,
+        "explanation": "Slight overspend in operations due to higher fuel prices and additional shunting costs at Lusaka yard",
+        "correctiveAction": "Fuel hedging strategy approved for 2024; operational efficiency review conducted"
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "companyId": 4,
+    "companyName": "Zambia Railways Limited",
+    "fiscalYear": 2022,
+    "budgetType": "Annual",
+    "totalBudget": 3800000000,
+    "allocatedAmount": 3800000000,
+    "spentAmount": 3720000000,
+    "status": "Closed",
+    "approvalDate": "2021-12-15T00:00:00",
+    "approvedBy": "Ministry of Transport",
+    "notes": "Closed with underspend of ZMW 80 million. Freight volumes of 2.1 million metric tonnes achieved. Passenger services suspended for full year.",
+    "lineItems": [
+      {
+        "id": 118,
+        "budgetId": 25,
+        "category": "Capital",
+        "description": "Track rehabilitation — Northern line spot renewals",
+        "budgetedAmount": 850000000,
+        "actualAmount": 820000000,
+        "costCenter": "Engineering",
+        "accountCode": "ACC-4041"
+      },
+      {
+        "id": 119,
+        "budgetId": 25,
+        "category": "Personnel",
+        "description": "Staff salaries and redundancy programme costs",
+        "budgetedAmount": 1000000000,
+        "actualAmount": 980000000,
+        "costCenter": "Human Resources",
+        "accountCode": "ACC-1019"
+      },
+      {
+        "id": 120,
+        "budgetId": 25,
+        "category": "Operations",
+        "description": "Freight operations and fuel costs",
+        "budgetedAmount": 1100000000,
+        "actualAmount": 1080000000,
+        "costCenter": "Operations",
+        "accountCode": "ACC-2023"
+      },
+      {
+        "id": 121,
+        "budgetId": 25,
+        "category": "Maintenance",
+        "description": "Locomotive overhauls and wagon repairs",
+        "budgetedAmount": 580000000,
+        "actualAmount": 570000000,
+        "costCenter": "Technical Services",
+        "accountCode": "ACC-5010"
+      },
+      {
+        "id": 122,
+        "budgetId": 25,
+        "category": "Administrative",
+        "description": "Corporate administration and governance",
+        "budgetedAmount": 270000000,
+        "actualAmount": 270000000,
+        "costCenter": "Corporate Affairs",
+        "accountCode": "ACC-3022"
+      }
+    ],
+    "variances": [
+      {
+        "id": 49,
+        "budgetId": 25,
+        "period": "Q2 2022",
+        "budgetedAmount": 950000000,
+        "actualAmount": 920000000,
+        "explanation": "Underspend in capital due to delayed procurement of track materials; import logistics disrupted",
+        "correctiveAction": "Alternative local suppliers engaged; track materials procurement resumed in Q3"
+      },
+      {
+        "id": 50,
+        "budgetId": 25,
+        "period": "Q4 2022",
+        "budgetedAmount": 950000000,
+        "actualAmount": 940000000,
+        "explanation": "Full-year underspend of ZMW 80 million achieved through cost rationalisation; fuel costs lower than forecast",
+        "correctiveAction": "Year-end review confirmed positive position; savings applied to Q1 2023 maintenance advance spending"
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "companyId": 4,
+    "companyName": "Zambia Railways Limited",
+    "fiscalYear": 2024,
+    "budgetType": "Supplementary",
+    "totalBudget": 800000000,
+    "allocatedAmount": 800000000,
+    "spentAmount": 790000000,
+    "status": "Closed",
+    "approvalDate": "2024-05-10T00:00:00",
+    "approvedBy": "Ministry of Transport",
+    "notes": "Supplementary budget approved for emergency locomotive repairs and enhanced safety programme following fleet breakdown crisis in April 2024.",
+    "lineItems": [
+      {
+        "id": 123,
+        "budgetId": 26,
+        "category": "Maintenance",
+        "description": "Emergency locomotive repair — 8 failed locomotives",
+        "budgetedAmount": 185000000,
+        "actualAmount": 183000000,
+        "costCenter": "Technical Services",
+        "accountCode": "ACC-5011"
+      },
+      {
+        "id": 124,
+        "budgetId": 26,
+        "category": "Capital",
+        "description": "Spare parts procurement and stockpile for preventive maintenance",
+        "budgetedAmount": 320000000,
+        "actualAmount": 318000000,
+        "costCenter": "Engineering",
+        "accountCode": "ACC-4042"
+      },
+      {
+        "id": 125,
+        "budgetId": 26,
+        "category": "Operations",
+        "description": "South African maintenance contractor mobilisation and engagement",
+        "budgetedAmount": 250000000,
+        "actualAmount": 248000000,
+        "costCenter": "Operations",
+        "accountCode": "ACC-2024"
+      },
+      {
+        "id": 126,
+        "budgetId": 26,
+        "category": "Administrative",
+        "description": "Safety programme implementation and staff training",
+        "budgetedAmount": 45000000,
+        "actualAmount": 41000000,
+        "costCenter": "Safety and Environment",
+        "accountCode": "ACC-3023"
+      }
+    ],
+    "variances": [
+      {
+        "id": 51,
+        "budgetId": 26,
+        "period": "Q2 2024",
+        "budgetedAmount": 400000000,
+        "actualAmount": 395000000,
+        "explanation": "Emergency repairs on schedule within approved supplementary budget; all 8 locomotives returned to service",
+        "correctiveAction": "No corrective action required; performance monitoring of repaired locomotives ongoing"
+      },
+      {
+        "id": 52,
+        "budgetId": 26,
+        "period": "Q3 2024",
+        "budgetedAmount": 400000000,
+        "actualAmount": 395000000,
+        "explanation": "Remaining supplementary budget utilised on spare parts stockpile and safety programme",
+        "correctiveAction": "Supplementary budget formally closed; preventive maintenance policy amendment implemented"
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "companyId": 4,
+    "companyName": "Zambia Railways Limited",
+    "fiscalYear": 2025,
+    "budgetType": "Capital",
+    "totalBudget": 2200000000,
+    "allocatedAmount": 2200000000,
+    "spentAmount": 180000000,
+    "status": "Approved",
+    "approvalDate": "2025-01-28T00:00:00",
+    "approvedBy": "Ministry of Transport",
+    "notes": "Capital budget for 2025 covering track rehabilitation, rolling stock procurement, and TAZARA concession preparation. Part-funded through World Bank loan facility.",
+    "lineItems": [
+      {
+        "id": 127,
+        "budgetId": 27,
+        "category": "Capital",
+        "description": "Track rehabilitation — Lusaka-Livingstone Phase 1 civil works",
+        "budgetedAmount": 1000000000,
+        "actualAmount": 120000000,
+        "costCenter": "Engineering",
+        "accountCode": "ACC-4043"
+      },
+      {
+        "id": 128,
+        "budgetId": 27,
+        "category": "Capital",
+        "description": "12 new diesel locomotives procurement deposit and advance",
+        "budgetedAmount": 600000000,
+        "actualAmount": 60000000,
+        "costCenter": "Engineering",
+        "accountCode": "ACC-4044"
+      },
+      {
+        "id": 129,
+        "budgetId": 27,
+        "category": "Capital",
+        "description": "80 freight wagons procurement — deposit and advance",
+        "budgetedAmount": 380000000,
+        "actualAmount": 0,
+        "costCenter": "Engineering",
+        "accountCode": "ACC-4045"
+      },
+      {
+        "id": 130,
+        "budgetId": 27,
+        "category": "Capital",
+        "description": "TAZARA concession preparation and feasibility advisory",
+        "budgetedAmount": 220000000,
+        "actualAmount": 0,
+        "costCenter": "Corporate Strategy",
+        "accountCode": "ACC-4046"
+      }
+    ],
+    "variances": [
+      {
+        "id": 53,
+        "budgetId": 27,
+        "period": "Q1 2025",
+        "budgetedAmount": 550000000,
+        "actualAmount": 180000000,
+        "explanation": "Track rehabilitation civil works delayed pending engineering designs finalisation; locomotive procurement in early stages",
+        "correctiveAction": "Engineering designs expected end of March 2025; civil contractor tendering to commence April 2025"
+      },
+      {
+        "id": 54,
+        "budgetId": 27,
+        "period": "Q2 2025",
+        "budgetedAmount": 550000000,
+        "actualAmount": 0,
+        "explanation": "Disbursements pending contractor appointment outcomes; locomotive supplier shortlist under evaluation",
+        "correctiveAction": "Board to receive capital project status update at May 2025 meeting; management to submit revised schedule"
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "companyId": 4,
+    "companyName": "Zambia Railways Limited",
+    "fiscalYear": 2025,
+    "budgetType": "Revised",
+    "totalBudget": 5800000000,
+    "allocatedAmount": 5800000000,
+    "spentAmount": 620000000,
+    "status": "Draft",
+    "approvalDate": null,
+    "approvedBy": "Ministry of Transport",
+    "notes": "Draft revised budget reflecting higher capital costs for track rehabilitation, additional rolling stock, and inclusion of Lobito Corridor preparatory works. Pending board and Ministry approval.",
+    "lineItems": [
+      {
+        "id": 131,
+        "budgetId": 28,
+        "category": "Capital",
+        "description": "Track rehabilitation — revised scope including Ndola-Sakania line",
+        "budgetedAmount": 2200000000,
+        "actualAmount": 180000000,
+        "costCenter": "Engineering",
+        "accountCode": "ACC-4047"
+      },
+      {
+        "id": 132,
+        "budgetId": 28,
+        "category": "Personnel",
+        "description": "Staff costs — revised with ZUFIAW collective bargaining agreement",
+        "budgetedAmount": 1350000000,
+        "actualAmount": 340000000,
+        "costCenter": "Human Resources",
+        "accountCode": "ACC-1020"
+      },
+      {
+        "id": 133,
+        "budgetId": 28,
+        "category": "Operations",
+        "description": "Freight operations — revised with higher fuel cost forecast",
+        "budgetedAmount": 1500000000,
+        "actualAmount": 100000000,
+        "costCenter": "Operations",
+        "accountCode": "ACC-2025"
+      },
+      {
+        "id": 134,
+        "budgetId": 28,
+        "category": "Maintenance",
+        "description": "Rolling stock maintenance — revised biannual overhaul programme",
+        "budgetedAmount": 400000000,
+        "actualAmount": 0,
+        "costCenter": "Technical Services",
+        "accountCode": "ACC-5012"
+      },
+      {
+        "id": 135,
+        "budgetId": 28,
+        "category": "Administrative",
+        "description": "Corporate and governance costs — revised",
+        "budgetedAmount": 200000000,
+        "actualAmount": 0,
+        "costCenter": "Corporate Affairs",
+        "accountCode": "ACC-3024"
+      },
+      {
+        "id": 136,
+        "budgetId": 28,
+        "category": "Capital",
+        "description": "Lobito Corridor preparatory works and feasibility study",
+        "budgetedAmount": 150000000,
+        "actualAmount": 0,
+        "costCenter": "Corporate Strategy",
+        "accountCode": "ACC-4048"
+      }
+    ],
+    "variances": [
+      {
+        "id": 55,
+        "budgetId": 28,
+        "period": "Q1 2025",
+        "budgetedAmount": 1450000000,
+        "actualAmount": 620000000,
+        "explanation": "Spending operating under original approved budget pending board and Ministry approval of revised budget",
+        "correctiveAction": "Board to consider draft revised budget at Special Meeting in March 2025; Ministry submission targeted for April"
+      },
+      {
+        "id": 56,
+        "budgetId": 28,
+        "period": "Q2 2025",
+        "budgetedAmount": 1450000000,
+        "actualAmount": 0,
+        "explanation": "Revised budget not yet approved; all expenditures above original approved budget on hold",
+        "correctiveAction": "CEO to engage Ministry of Transport Permanent Secretary for expedited review and approval"
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "companyId": 5,
+    "companyName": "ZCCM Investments Holdings PLC",
+    "fiscalYear": 2022,
+    "budgetType": "Approved",
+    "totalBudget": 780000000,
+    "allocatedAmount": 780000000,
+    "spentAmount": 762000000,
+    "status": "Closed",
+    "approvalDate": "2022-01-31T00:00:00",
+    "approvedBy": "Board of Directors / IDC",
+    "notes": "FY2022 approved budget. Actuals within 2.3% of budget. Mine rehabilitation provision topped up following ZEMA review.",
+    "lineItems": [
+      {
+        "id": 137,
+        "budgetId": 29,
+        "category": "Investment Management",
+        "description": "Portfolio monitoring, investment analysis, and deal origination costs FY2022",
+        "budgetedAmount": 180000000,
+        "actualAmount": 0,
+        "costCenter": "Investment Division",
+        "accountCode": "ACC-6001"
+      },
+      {
+        "id": 138,
+        "budgetId": 29,
+        "category": "Personnel",
+        "description": "Corporate staff salaries, benefits, and training — holding company headcount ~280 FY2022",
+        "budgetedAmount": 220000000,
+        "actualAmount": 0,
+        "costCenter": "Human Resources",
+        "accountCode": "ACC-1010"
+      },
+      {
+        "id": 139,
+        "budgetId": 29,
+        "category": "Mine Rehabilitation Provision",
+        "description": "Annual contribution to mine rehabilitation reserve fund per ZEMA licence obligations FY2022",
+        "budgetedAmount": 250000000,
+        "actualAmount": 0,
+        "costCenter": "Environmental Management",
+        "accountCode": "ACC-7001"
+      },
+      {
+        "id": 140,
+        "budgetId": 29,
+        "category": "Sustainability Initiatives",
+        "description": "Community investment, environmental programmes, AMD remediation FY2022",
+        "budgetedAmount": 85000000,
+        "actualAmount": 0,
+        "costCenter": "Sustainability",
+        "accountCode": "ACC-8001"
+      },
+      {
+        "id": 141,
+        "budgetId": 29,
+        "category": "Investor Relations",
+        "description": "LuSE/AIM regulatory compliance, investor communications, Nomad fees FY2022",
+        "budgetedAmount": 45000000,
+        "actualAmount": 0,
+        "costCenter": "Corporate Affairs",
+        "accountCode": "ACC-3010"
+      },
+      {
+        "id": 142,
+        "budgetId": 29,
+        "category": "Administrative",
+        "description": "Corporate governance, legal, audit, insurance, and general overhead FY2022",
+        "budgetedAmount": 70000000,
+        "actualAmount": 0,
+        "costCenter": "Finance",
+        "accountCode": "ACC-3011"
+      }
+    ],
+    "variances": [
+      {
+        "id": 57,
+        "budgetId": 29,
+        "period": "FY2022 Full Year",
+        "budgetedAmount": 780000000,
+        "actualAmount": 762000000,
+        "explanation": "Underspend of ZMW 18M driven by lower-than-budgeted investor relations costs and delayed AMD remediation contract award.",
+        "correctiveAction": "AMD contract awarded Q1 2023; investor relations budget reset for FY2023."
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "companyId": 5,
+    "companyName": "ZCCM Investments Holdings PLC",
+    "fiscalYear": 2023,
+    "budgetType": "Approved",
+    "totalBudget": 820000000,
+    "allocatedAmount": 820000000,
+    "spentAmount": 809000000,
+    "status": "Closed",
+    "approvalDate": "2023-01-31T00:00:00",
+    "approvedBy": "Board of Directors / IDC",
+    "notes": "FY2023 approved budget. Near full utilisation. AMD remediation at Luanshya ramped up.",
+    "lineItems": [
+      {
+        "id": 143,
+        "budgetId": 30,
+        "category": "Investment Management",
+        "description": "Portfolio monitoring, investment analysis, and deal origination costs FY2023",
+        "budgetedAmount": 180000000,
+        "actualAmount": 0,
+        "costCenter": "Investment Division",
+        "accountCode": "ACC-6001"
+      },
+      {
+        "id": 144,
+        "budgetId": 30,
+        "category": "Personnel",
+        "description": "Corporate staff salaries, benefits, and training — holding company headcount ~280 FY2023",
+        "budgetedAmount": 220000000,
+        "actualAmount": 0,
+        "costCenter": "Human Resources",
+        "accountCode": "ACC-1010"
+      },
+      {
+        "id": 145,
+        "budgetId": 30,
+        "category": "Mine Rehabilitation Provision",
+        "description": "Annual contribution to mine rehabilitation reserve fund per ZEMA licence obligations FY2023",
+        "budgetedAmount": 250000000,
+        "actualAmount": 0,
+        "costCenter": "Environmental Management",
+        "accountCode": "ACC-7001"
+      },
+      {
+        "id": 146,
+        "budgetId": 30,
+        "category": "Sustainability Initiatives",
+        "description": "Community investment, environmental programmes, AMD remediation FY2023",
+        "budgetedAmount": 85000000,
+        "actualAmount": 0,
+        "costCenter": "Sustainability",
+        "accountCode": "ACC-8001"
+      },
+      {
+        "id": 147,
+        "budgetId": 30,
+        "category": "Investor Relations",
+        "description": "LuSE/AIM regulatory compliance, investor communications, Nomad fees FY2023",
+        "budgetedAmount": 45000000,
+        "actualAmount": 0,
+        "costCenter": "Corporate Affairs",
+        "accountCode": "ACC-3010"
+      },
+      {
+        "id": 148,
+        "budgetId": 30,
+        "category": "Administrative",
+        "description": "Corporate governance, legal, audit, insurance, and general overhead FY2023",
+        "budgetedAmount": 70000000,
+        "actualAmount": 0,
+        "costCenter": "Finance",
+        "accountCode": "ACC-3011"
+      }
+    ],
+    "variances": [
+      {
+        "id": 58,
+        "budgetId": 30,
+        "period": "FY2023 Full Year",
+        "budgetedAmount": 820000000,
+        "actualAmount": 809000000,
+        "explanation": "ZMW 11M underspend — cobalt project feasibility deferred to 2024 and personnel cost savings from lower recruitment.",
+        "correctiveAction": "Cobalt feasibility included in FY2024 budget."
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "companyId": 5,
+    "companyName": "ZCCM Investments Holdings PLC",
+    "fiscalYear": 2024,
+    "budgetType": "Approved",
+    "totalBudget": 850000000,
+    "allocatedAmount": 850000000,
+    "spentAmount": 831000000,
+    "status": "Closed",
+    "approvalDate": "2024-01-31T00:00:00",
+    "approvedBy": "Board of Directors / IDC",
+    "notes": "FY2024 approved budget. Cobalt refinery due diligence costs included under Investment Management.",
+    "lineItems": [
+      {
+        "id": 149,
+        "budgetId": 31,
+        "category": "Investment Management",
+        "description": "Portfolio monitoring, investment analysis, and deal origination costs FY2024",
+        "budgetedAmount": 180000000,
+        "actualAmount": 0,
+        "costCenter": "Investment Division",
+        "accountCode": "ACC-6001"
+      },
+      {
+        "id": 150,
+        "budgetId": 31,
+        "category": "Personnel",
+        "description": "Corporate staff salaries, benefits, and training — holding company headcount ~280 FY2024",
+        "budgetedAmount": 220000000,
+        "actualAmount": 0,
+        "costCenter": "Human Resources",
+        "accountCode": "ACC-1010"
+      },
+      {
+        "id": 151,
+        "budgetId": 31,
+        "category": "Mine Rehabilitation Provision",
+        "description": "Annual contribution to mine rehabilitation reserve fund per ZEMA licence obligations FY2024",
+        "budgetedAmount": 250000000,
+        "actualAmount": 0,
+        "costCenter": "Environmental Management",
+        "accountCode": "ACC-7001"
+      },
+      {
+        "id": 152,
+        "budgetId": 31,
+        "category": "Sustainability Initiatives",
+        "description": "Community investment, environmental programmes, AMD remediation FY2024",
+        "budgetedAmount": 85000000,
+        "actualAmount": 0,
+        "costCenter": "Sustainability",
+        "accountCode": "ACC-8001"
+      },
+      {
+        "id": 153,
+        "budgetId": 31,
+        "category": "Investor Relations",
+        "description": "LuSE/AIM regulatory compliance, investor communications, Nomad fees FY2024",
+        "budgetedAmount": 45000000,
+        "actualAmount": 0,
+        "costCenter": "Corporate Affairs",
+        "accountCode": "ACC-3010"
+      },
+      {
+        "id": 154,
+        "budgetId": 31,
+        "category": "Administrative",
+        "description": "Corporate governance, legal, audit, insurance, and general overhead FY2024",
+        "budgetedAmount": 70000000,
+        "actualAmount": 0,
+        "costCenter": "Finance",
+        "accountCode": "ACC-3011"
+      }
+    ],
+    "variances": [
+      {
+        "id": 59,
+        "budgetId": 31,
+        "period": "FY2024 Full Year",
+        "budgetedAmount": 850000000,
+        "actualAmount": 831000000,
+        "explanation": "ZMW 19M underspend. Copper smelting feasibility deferred to Q1 2025. Legal costs lower than budgeted.",
+        "correctiveAction": "Feasibility study budget carried forward to FY2025."
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "companyId": 5,
+    "companyName": "ZCCM Investments Holdings PLC",
+    "fiscalYear": 2025,
+    "budgetType": "Draft",
+    "totalBudget": 850000000,
+    "allocatedAmount": 850000000,
+    "spentAmount": 145000000,
+    "status": "Draft",
+    "approvalDate": null,
+    "approvedBy": "Board of Directors / IDC",
+    "notes": "FY2025 draft budget pending Board approval at March 2025 meeting.",
+    "lineItems": [
+      {
+        "id": 155,
+        "budgetId": 32,
+        "category": "Investment Management",
+        "description": "Portfolio monitoring, investment analysis, and deal origination costs FY2025",
+        "budgetedAmount": 180000000,
+        "actualAmount": 0,
+        "costCenter": "Investment Division",
+        "accountCode": "ACC-6001"
+      },
+      {
+        "id": 156,
+        "budgetId": 32,
+        "category": "Personnel",
+        "description": "Corporate staff salaries, benefits, and training — holding company headcount ~280 FY2025",
+        "budgetedAmount": 220000000,
+        "actualAmount": 0,
+        "costCenter": "Human Resources",
+        "accountCode": "ACC-1010"
+      },
+      {
+        "id": 157,
+        "budgetId": 32,
+        "category": "Mine Rehabilitation Provision",
+        "description": "Annual contribution to mine rehabilitation reserve fund per ZEMA licence obligations FY2025",
+        "budgetedAmount": 250000000,
+        "actualAmount": 0,
+        "costCenter": "Environmental Management",
+        "accountCode": "ACC-7001"
+      },
+      {
+        "id": 158,
+        "budgetId": 32,
+        "category": "Sustainability Initiatives",
+        "description": "Community investment, environmental programmes, AMD remediation FY2025",
+        "budgetedAmount": 85000000,
+        "actualAmount": 0,
+        "costCenter": "Sustainability",
+        "accountCode": "ACC-8001"
+      },
+      {
+        "id": 159,
+        "budgetId": 32,
+        "category": "Investor Relations",
+        "description": "LuSE/AIM regulatory compliance, investor communications, Nomad fees FY2025",
+        "budgetedAmount": 45000000,
+        "actualAmount": 0,
+        "costCenter": "Corporate Affairs",
+        "accountCode": "ACC-3010"
+      },
+      {
+        "id": 160,
+        "budgetId": 32,
+        "category": "Administrative",
+        "description": "Corporate governance, legal, audit, insurance, and general overhead FY2025",
+        "budgetedAmount": 70000000,
+        "actualAmount": 0,
+        "costCenter": "Finance",
+        "accountCode": "ACC-3011"
+      }
+    ],
+    "variances": [
+      {
+        "id": 60,
+        "budgetId": 32,
+        "period": "Q1 2025",
+        "budgetedAmount": 212500000,
+        "actualAmount": 145000000,
+        "explanation": "Q1 underspend as budget not yet formally approved. Expenditure running on FY2024 approved authority.",
+        "correctiveAction": "Board to approve FY2025 budget at March 2025 meeting."
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "companyId": 6,
+    "companyName": "Zambia Gold Company Limited",
+    "fiscalYear": 2025,
+    "budgetType": "Annual",
+    "totalBudget": 2950000000,
+    "allocatedAmount": 2950000000,
+    "spentAmount": 680000000,
+    "status": "Active",
+    "approvalDate": "2025-02-20T00:00:00",
+    "approvedBy": "Board of Directors",
+    "notes": "FY2025 budget approved at the Q1 2025 board meeting. Significant capital allocation for gold refinery Phase 2 expansion and artisanal mining formalisation.",
+    "lineItems": [
+      {
+        "id": 1,
+        "budgetId": 33,
+        "category": "Capital",
+        "description": "Gold refinery Phase 2 expansion — capacity increase from 2 to 5 tonnes per month",
+        "budgetedAmount": 650000000,
+        "actualAmount": 120000000,
+        "costCenter": "Operations",
+        "accountCode": "ACC-4006"
+      },
+      {
+        "id": 2,
+        "budgetId": 33,
+        "category": "Operations",
+        "description": "Gold procurement from artisanal and small-scale miners and commercial producers",
+        "budgetedAmount": 1400000000,
+        "actualAmount": 310000000,
+        "costCenter": "Procurement",
+        "accountCode": "ACC-2006"
+      },
+      {
+        "id": 3,
+        "budgetId": 33,
+        "category": "Personnel",
+        "description": "Salaries, wages, and employee benefits",
+        "budgetedAmount": 380000000,
+        "actualAmount": 95000000,
+        "costCenter": "Human Resources",
+        "accountCode": "ACC-1006"
+      },
+      {
+        "id": 4,
+        "budgetId": 33,
+        "category": "Operations",
+        "description": "Artisanal mining formalisation programme — buying centres, equipment, training",
+        "budgetedAmount": 480000000,
+        "actualAmount": 100000000,
+        "costCenter": "Operations",
+        "accountCode": "ACC-2007"
+      },
+      {
+        "id": 5,
+        "budgetId": 33,
+        "category": "Administrative",
+        "description": "Office, corporate governance, and administrative expenses",
+        "budgetedAmount": 40000000,
+        "actualAmount": 55000000,
+        "costCenter": "Corporate Affairs",
+        "accountCode": "ACC-3006"
+      }
+    ],
+    "variances": [
+      {
+        "id": 61,
+        "budgetId": 33,
+        "period": "Q1 2025",
+        "budgetedAmount": 737500000,
+        "actualAmount": 680000000,
+        "explanation": "Q1 underspend primarily due to delayed procurement of refinery equipment from overseas suppliers. Administrative overspend relates to AGM preparation costs.",
+        "correctiveAction": "Procurement team to expedite equipment orders. Revised delivery schedule received from suppliers."
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "companyId": 6,
+    "companyName": "Zambia Gold Company Limited",
+    "fiscalYear": 2024,
+    "budgetType": "Annual",
+    "totalBudget": 2650000000,
+    "allocatedAmount": 2650000000,
+    "spentAmount": 2510000000,
+    "status": "Closed",
+    "approvalDate": "2024-01-30T00:00:00",
+    "approvedBy": "Board of Directors",
+    "notes": "FY2024 budget closed. Final variance report approved by board. Overall spend within 5.3% of budget.",
+    "lineItems": [
+      {
+        "id": 6,
+        "budgetId": 34,
+        "category": "Capital",
+        "description": "Gold refinery Phase 1 commissioning and completion",
+        "budgetedAmount": 520000000,
+        "actualAmount": 505000000,
+        "costCenter": "Operations",
+        "accountCode": "ACC-4006"
+      },
+      {
+        "id": 7,
+        "budgetId": 34,
+        "category": "Operations",
+        "description": "Gold procurement from artisanal and small-scale miners and commercial producers",
+        "budgetedAmount": 1300000000,
+        "actualAmount": 1280000000,
+        "costCenter": "Procurement",
+        "accountCode": "ACC-2006"
+      },
+      {
+        "id": 8,
+        "budgetId": 34,
+        "category": "Personnel",
+        "description": "Salaries, wages, and employee benefits",
+        "budgetedAmount": 350000000,
+        "actualAmount": 342000000,
+        "costCenter": "Human Resources",
+        "accountCode": "ACC-1006"
+      },
+      {
+        "id": 9,
+        "budgetId": 34,
+        "category": "Operations",
+        "description": "Artisanal mining formalisation programme — buying centres, equipment, training",
+        "budgetedAmount": 430000000,
+        "actualAmount": 345000000,
+        "costCenter": "Operations",
+        "accountCode": "ACC-2007"
+      },
+      {
+        "id": 10,
+        "budgetId": 34,
+        "category": "Administrative",
+        "description": "Office, corporate governance, and administrative expenses",
+        "budgetedAmount": 50000000,
+        "actualAmount": 38000000,
+        "costCenter": "Corporate Affairs",
+        "accountCode": "ACC-3006"
+      }
+    ],
+    "variances": [
+      {
+        "id": 62,
+        "budgetId": 34,
+        "period": "FY2024 Full Year",
+        "budgetedAmount": 2650000000,
+        "actualAmount": 2510000000,
+        "explanation": "FY2024 overall underspend of ZMW 140,000,000. Artisanal mining formalisation programme slower than planned due to licensing delays in North-Western Province. Refinery capex delivered on budget.",
+        "correctiveAction": "Licensing delays resolved in Q4 2024. Carry-forward budget of ZMW 85,000,000 for formalisation activities approved for FY2025."
+      }
+    ]
+  }
+]

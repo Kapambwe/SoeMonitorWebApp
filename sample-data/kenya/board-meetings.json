@@ -1,0 +1,428 @@
+[
+  {
+    "id": 2102, "companyId": 20, "companyName": "Kenya Power and Lighting Company",
+    "title": "KPLC Board of Directors — 165th Meeting",
+    "meetingDate": "2024-03-20T09:00:00Z", "location": "Stima Plaza, Kolobot Road, Nairobi",
+    "meetingType": "Regular", "status": "Completed",
+    "attendees": ["Dr. John Ngumi (Chair)", "Eng. Joseph Siror (MD & CEO)", "Agnes Wambui", "Peter Kamau", "Dr. Rose Ngugi", "Mary Achieng", "David Oduya"],
+    "absentees": ["Prof. James Njihia (Apology)", "Catherine Wanjiku (Apology)"],
+    "agenda": "1. Opening and apologies; 2. Confirmation of minutes of 164th meeting; 3. CEO's report; 4. Q3 FY2024 financial results; 5. LMCP Phase III update; 6. FY2024 interim dividend recommendation; 7. EPRA tariff review status; 8. Board committee reports; 9. AOB",
+    "minutes": "Board noted the Q3 FY2024 revenue of KES 15.1bn representing a 9.4% year-on-year increase. Discussion centred on power purchase cost management and acceleration of LMCP connections to rural areas. Board approved interim dividend of KES 350m.",
+    "resolutions": [
+      { "number": "KBR/165/001", "description": "Board approved the Q3 FY2024 financial results as presented and directed management to maintain Q4 trajectory.", "status": "Adopted", "votedFor": 7, "votedAgainst": 0, "abstentions": 0 },
+      { "number": "KBR/165/002", "description": "Board approved an interim dividend of KES 350,000,000 (KES 0.66 per share) payable to shareholders by 31 December 2023.", "status": "Adopted", "votedFor": 7, "votedAgainst": 0, "abstentions": 0 },
+      { "number": "KBR/165/003", "description": "Board approved acceleration of 45,000 LMCP connections in Q4 FY2024 with supplementary budget of KES 480m funded from operating cashflow.", "status": "Adopted", "votedFor": 6, "votedAgainst": 0, "abstentions": 1 },
+      { "number": "KBR/165/004", "description": "Board directed CEO to submit EPRA tariff review supplementary data within 14 days of receiving the regulator's information request dated 10 October 2024.", "status": "Adopted", "votedFor": 7, "votedAgainst": 0, "abstentions": 0 }
+    ],
+    "chairPerson": "Dr. John Ngumi", "secretary": "Peter Kamau",
+    "quorumRequired": 5, "actualAttendance": 7
+  },
+  {
+    "id": 2103, "companyId": 20, "companyName": "Kenya Power and Lighting Company",
+    "title": "KPLC Board of Directors — 164th Meeting",
+    "meetingDate": "2023-11-22T09:00:00Z", "location": "Stima Plaza, Kolobot Road, Nairobi",
+    "meetingType": "Regular", "status": "Completed",
+    "attendees": ["Dr. John Ngumi (Chair)", "Eng. Joseph Siror (MD & CEO)", "Agnes Wambui", "Peter Kamau", "Dr. Rose Ngugi", "Mary Achieng", "David Oduya", "Catherine Wanjiku"],
+    "absentees": ["Prof. James Njihia (Apology)"],
+    "agenda": "1. Opening; 2. Confirmation of minutes; 3. CEO report; 4. Q2 FY2024 financials; 5. Annual report and accounts FY2023 adoption; 6. External auditor appointment; 7. Board committee reports; 8. AOB",
+    "minutes": "Board reviewed Q2 performance and adopted the FY2023 Annual Report. KPMG Kenya appointed as external auditors for FY2024 following competitive process. Safety statistics for H1 FY2024 tabled — 3 Lost Time Injuries recorded.",
+    "resolutions": [
+      { "number": "KBR/164/001", "description": "Board adopted the FY2023 Annual Report and Financial Statements as audited by Deloitte Kenya.", "status": "Adopted", "votedFor": 8, "votedAgainst": 0, "abstentions": 0 },
+      { "number": "KBR/164/002", "description": "Board appointed KPMG Kenya as external auditors for FY2024 at a fee not exceeding KES 42m.", "status": "Adopted", "votedFor": 7, "votedAgainst": 1, "abstentions": 0 },
+      { "number": "KBR/164/003", "description": "Board approved the Q2 FY2024 financial results and noted continued improvement in collection efficiency.", "status": "Adopted", "votedFor": 8, "votedAgainst": 0, "abstentions": 0 }
+    ],
+    "chairPerson": "Dr. John Ngumi", "secretary": "Peter Kamau",
+    "quorumRequired": 5, "actualAttendance": 8
+  },
+  {
+    "id": 2104, "companyId": 20, "companyName": "Kenya Power and Lighting Company",
+    "title": "KPLC Special Board Meeting — Tariff Review Strategy",
+    "meetingDate": "2024-01-15T14:00:00Z", "location": "Virtual (Microsoft Teams)",
+    "meetingType": "Special", "status": "Completed",
+    "attendees": ["Dr. John Ngumi (Chair)", "Eng. Joseph Siror (MD & CEO)", "Agnes Wambui", "Peter Kamau", "Dr. Rose Ngugi", "David Oduya"],
+    "absentees": ["Mary Achieng (Conflict)", "Prof. James Njihia", "Catherine Wanjiku (Apology)"],
+    "agenda": "1. EPRA 2024 Tariff Review — Strategic approach and consultant appointment; 2. Regulatory advocacy framework; 3. Any other business",
+    "minutes": "Board reviewed proposed tariff increase of 18% over regulatory period 2024-2027. Discussion on balancing revenue adequacy with consumer affordability. Board approved engagement of Navigant Consulting as regulatory advisors.",
+    "resolutions": [
+      { "number": "KBR/SPE/2024/001", "description": "Board approved appointment of Navigant Consulting as KPLC regulatory advisors for the EPRA 2024-2027 tariff review process at a fee not exceeding KES 85m.", "status": "Adopted", "votedFor": 6, "votedAgainst": 0, "abstentions": 0 },
+      { "number": "KBR/SPE/2024/002", "description": "Board approved the tariff review position paper targeting a 16% revenue requirement increase over the 2024-2027 regulatory period.", "status": "Adopted", "votedFor": 5, "votedAgainst": 1, "abstentions": 0 }
+    ],
+    "chairPerson": "Dr. John Ngumi", "secretary": "Peter Kamau",
+    "quorumRequired": 5, "actualAttendance": 6
+  },
+  {
+    "id": 2105, "companyId": 20, "companyName": "Kenya Power and Lighting Company",
+    "title": "KPLC Board of Directors — 163rd Meeting",
+    "meetingDate": "2023-08-23T09:00:00Z", "location": "Stima Plaza, Kolobot Road, Nairobi",
+    "meetingType": "Regular", "status": "Completed",
+    "attendees": ["Dr. John Ngumi (Chair)", "Eng. Joseph Siror (MD & CEO)", "Agnes Wambui", "Peter Kamau", "Dr. Rose Ngugi", "Mary Achieng", "Prof. James Njihia", "David Oduya", "Catherine Wanjiku"],
+    "absentees": [],
+    "agenda": "1. Opening; 2. Confirmation of minutes; 3. CEO report; 4. Q4 FY2023 financial results (preliminary); 5. FY2023 final dividend recommendation; 6. Strategic Plan progress review; 7. AOB",
+    "minutes": "Full board attendance. Q4 results reviewed showing total FY2023 revenue of KES 58.5bn. Final dividend of KES 700m recommended pending audit completion. Strategic Plan 2023-2027 implementation progress reviewed — 65% of Year 1 targets achieved.",
+    "resolutions": [
+      { "number": "KBR/163/001", "description": "Board noted the preliminary Q4 FY2023 financial results and directed management to finalise audit by 31 October 2023.", "status": "Adopted", "votedFor": 9, "votedAgainst": 0, "abstentions": 0 },
+      { "number": "KBR/163/002", "description": "Board recommended a final dividend of KES 700,000,000 (KES 1.32 per share) for FY2023 subject to completion of audit and shareholder approval.", "status": "Adopted", "votedFor": 9, "votedAgainst": 0, "abstentions": 0 },
+      { "number": "KBR/163/003", "description": "Board approved the Balanced Scorecard targets for FY2024 including revenue target of KES 62bn and new connections target of 180,000.", "status": "Adopted", "votedFor": 8, "votedAgainst": 0, "abstentions": 1 }
+    ],
+    "chairPerson": "Dr. John Ngumi", "secretary": "Peter Kamau",
+    "quorumRequired": 5, "actualAttendance": 9
+  },
+  {
+    "id": 2106, "companyId": 20, "companyName": "Kenya Power and Lighting Company",
+    "title": "KPLC Audit and Risk Committee — 48th Meeting",
+    "meetingDate": "2024-04-10T09:00:00Z", "location": "Stima Plaza, Kolobot Road, Nairobi",
+    "meetingType": "Committee", "status": "Completed",
+    "attendees": ["Mary Achieng (Chair)", "Dr. Rose Ngugi", "David Oduya", "CFO John Mwangi (invitee)", "KPMG Kenya (invitee)"],
+    "absentees": [],
+    "agenda": "1. Q3 internal audit report; 2. External audit progress update; 3. Risk register review; 4. Cybersecurity incident report; 5. EPRA compliance update; 6. AOB",
+    "minutes": "Committee reviewed internal audit findings with 12 high-priority recommendations. KPMG confirmed audit on track for completion by 30 September. Cybersecurity risk relating to CIS system patch escalated to full board.",
+    "resolutions": [
+      { "number": "KARC/48/001", "description": "Committee approved the Q3 FY2024 internal audit report and directed management to address all high-priority findings within 60 days.", "status": "Adopted", "votedFor": 3, "votedAgainst": 0, "abstentions": 0 },
+      { "number": "KARC/48/002", "description": "Committee recommended escalation of CIS cybersecurity vulnerability to full Board as a critical operational risk.", "status": "Adopted", "votedFor": 3, "votedAgainst": 0, "abstentions": 0 },
+      { "number": "KARC/48/003", "description": "Committee approved the updated risk register incorporating 3 new risks and downgrading 2 risks following completion of mitigation actions.", "status": "Adopted", "votedFor": 3, "votedAgainst": 0, "abstentions": 0 }
+    ],
+    "chairPerson": "Mary Achieng", "secretary": "Peter Kamau",
+    "quorumRequired": 3, "actualAttendance": 3
+  },
+  {
+    "id": 2107, "companyId": 21, "companyName": "Kenya Airways",
+    "title": "Kenya Airways Board of Directors — 142nd Meeting",
+    "meetingDate": "2024-03-25T09:00:00Z", "location": "Kenya Airways HQ, Airport North Road, Nairobi",
+    "meetingType": "Regular", "status": "Completed",
+    "attendees": ["Michael Joseph (Chair)", "Allan Kiprotich (CEO)", "Christine Oloo", "Samuel Njoroge", "James Kipchoge", "Dr. Evelyn Wanjiku", "Moses Kuria (Government Representative)"],
+    "absentees": ["Titus Naikuni (Apology)", "Hellen Wanjiku (Apology)"],
+    "agenda": "1. Opening; 2. Confirmation of minutes; 3. CEO report; 4. Q4 and FY2023 financial results; 5. Fleet disposal update; 6. Restructuring plan progress; 7. Government support package update; 8. AOB",
+    "minutes": "FY2023 annual results reviewed — net loss reduced to KES 3.8bn from KES 5.2bn in FY2022. Fleet disposal of two 777-300ER aircraft progressing. KQ MRO subsidiary showing improved margins. Restructuring on track.",
+    "resolutions": [
+      { "number": "KQB/142/001", "description": "Board adopted the FY2023 financial results and directed CFO to finalise audit for publication by 30 April 2024.", "status": "Adopted", "votedFor": 7, "votedAgainst": 0, "abstentions": 0 },
+      { "number": "KQB/142/002", "description": "Board deferred FY2023 final dividend, noting the company's negative equity position, and directed management to prioritise debt reduction.", "status": "Adopted", "votedFor": 7, "votedAgainst": 0, "abstentions": 0 },
+      { "number": "KQB/142/003", "description": "Board noted the progress of fleet disposal and directed completion of sale of 5Y-KZD and 5Y-KZE by 31 May 2024.", "status": "Adopted", "votedFor": 6, "votedAgainst": 0, "abstentions": 1 },
+      { "number": "KQB/142/004", "description": "Board approved the FY2025 budget framework with revenue target of KES 48bn and operating loss target of no more than KES 1.5bn.", "status": "Adopted", "votedFor": 7, "votedAgainst": 0, "abstentions": 0 }
+    ],
+    "chairPerson": "Michael Joseph", "secretary": "Christine Oloo",
+    "quorumRequired": 5, "actualAttendance": 7
+  },
+  {
+    "id": 2108, "companyId": 21, "companyName": "Kenya Airways",
+    "title": "Kenya Airways Board of Directors — 141st Meeting",
+    "meetingDate": "2023-11-28T09:00:00Z", "location": "Kenya Airways HQ, Airport North Road, Nairobi",
+    "meetingType": "Regular", "status": "Completed",
+    "attendees": ["Michael Joseph (Chair)", "Allan Kiprotich (CEO)", "Christine Oloo", "Samuel Njoroge", "James Kipchoge", "Dr. Evelyn Wanjiku", "Moses Kuria (Government Representative)", "Titus Naikuni"],
+    "absentees": ["Hellen Wanjiku (Apology)"],
+    "agenda": "1. Opening; 2. Minutes of 140th meeting; 3. CEO report; 4. Q3 2023 financial results; 5. Fleet renewal business case preliminary discussion; 6. JamboJet subsidiary review; 7. AOB",
+    "minutes": "Q3 results improved with KES 12.8bn revenue. Fleet renewal business case presented for initial review — final decision deferred to Finance Committee. JamboJet domestic routes showing KES 1.2bn revenue contribution.",
+    "resolutions": [
+      { "number": "KQB/141/001", "description": "Board approved Q3 2023 financial results and noted progressive improvement towards FY2023 targets.", "status": "Adopted", "votedFor": 8, "votedAgainst": 0, "abstentions": 0 },
+      { "number": "KQB/141/002", "description": "Board referred the Fleet Renewal Business Case to the Finance and Strategy Committee for detailed review and recommendation.", "status": "Adopted", "votedFor": 8, "votedAgainst": 0, "abstentions": 0 },
+      { "number": "KQB/141/003", "description": "Board approved continuation of JamboJet operations and directed inclusion of JamboJet in KQ Group strategic planning.", "status": "Adopted", "votedFor": 8, "votedAgainst": 0, "abstentions": 0 }
+    ],
+    "chairPerson": "Michael Joseph", "secretary": "Christine Oloo",
+    "quorumRequired": 5, "actualAttendance": 8
+  },
+  {
+    "id": 2109, "companyId": 21, "companyName": "Kenya Airways",
+    "title": "Kenya Airways Special Board Meeting — Government Restructuring Package",
+    "meetingDate": "2022-09-05T10:00:00Z", "location": "Virtual (Zoom)",
+    "meetingType": "Special", "status": "Completed",
+    "attendees": ["Michael Joseph (Chair)", "Allan Kiprotich (CEO)", "Christine Oloo", "Samuel Njoroge", "James Kipchoge", "Moses Kuria (Government Representative)"],
+    "absentees": ["Dr. Evelyn Wanjiku", "Titus Naikuni", "Hellen Wanjiku"],
+    "agenda": "1. Government equity injection proposal — KES 15bn; 2. Debt restructuring terms; 3. Appointment of restructuring advisor; 4. Communication strategy; 5. AOB",
+    "minutes": "Government equity injection of KES 15bn approved to strengthen balance sheet. KCB Bank and Standard Bank debt restructuring agreed. Rothschild & Co appointed as restructuring advisors. Board endorsed communication to NSE.",
+    "resolutions": [
+      { "number": "KQB/SPE/2022/001", "description": "Board approved acceptance of KES 15,000,000,000 government equity injection via conversion of existing government-guaranteed debt to equity.", "status": "Adopted", "votedFor": 6, "votedAgainst": 0, "abstentions": 0 },
+      { "number": "KQB/SPE/2022/002", "description": "Board approved the debt restructuring terms with KCB Bank and Standard Bank extending repayment schedules by 5 years.", "status": "Adopted", "votedFor": 6, "votedAgainst": 0, "abstentions": 0 },
+      { "number": "KQB/SPE/2022/003", "description": "Board appointed Rothschild & Co as independent financial advisor for the restructuring process at a fee not exceeding KES 120m.", "status": "Adopted", "votedFor": 5, "votedAgainst": 0, "abstentions": 1 }
+    ],
+    "chairPerson": "Michael Joseph", "secretary": "Christine Oloo",
+    "quorumRequired": 5, "actualAttendance": 6
+  },
+  {
+    "id": 2110, "companyId": 21, "companyName": "Kenya Airways",
+    "title": "Kenya Airways Board of Directors — 140th Meeting",
+    "meetingDate": "2023-08-30T09:00:00Z", "location": "Kenya Airways HQ, Airport North Road, Nairobi",
+    "meetingType": "Regular", "status": "Completed",
+    "attendees": ["Michael Joseph (Chair)", "Allan Kiprotich (CEO)", "Christine Oloo", "Samuel Njoroge", "Dr. Evelyn Wanjiku", "Moses Kuria (Government Representative)", "Titus Naikuni", "Hellen Wanjiku"],
+    "absentees": ["James Kipchoge (Apology)"],
+    "agenda": "1. Opening; 2. H1 2023 financial results; 3. Fleet disposal — Boeing 777 discussion; 4. New routes approval; 5. Collective Bargaining Agreement update (KAWU); 6. AOB",
+    "minutes": "H1 revenue of KES 20.7bn with improved load factor of 76%. Board approved disposal of two Boeing 777-300ER aircraft and authorised two new routes to Kinshasa and Dar es Salaam. CBA negotiation with KAWU ongoing.",
+    "resolutions": [
+      { "number": "KQB/140/001", "description": "Board approved disposal of 5Y-KZD and 5Y-KZE Boeing 777-300ER aircraft through competitive tender process with reserve price of USD 35m each.", "status": "Adopted", "votedFor": 8, "votedAgainst": 0, "abstentions": 0 },
+      { "number": "KQB/140/002", "description": "Board approved commencement of Nairobi–Kinshasa and Nairobi–Dar es Salaam routes from 1 November 2023 subject to regulatory approvals.", "status": "Adopted", "votedFor": 7, "votedAgainst": 1, "abstentions": 0 },
+      { "number": "KQB/140/003", "description": "Board endorsed the CBA negotiation framework providing for a 12% salary increase over 3 years, subject to affordability provisions.", "status": "Adopted", "votedFor": 7, "votedAgainst": 0, "abstentions": 1 }
+    ],
+    "chairPerson": "Michael Joseph", "secretary": "Christine Oloo",
+    "quorumRequired": 5, "actualAttendance": 8
+  },
+  {
+    "id": 2111, "companyId": 22, "companyName": "Kenya Ports Authority",
+    "title": "KPA Board of Directors — 198th Meeting",
+    "meetingDate": "2024-04-29T09:00:00Z", "location": "KPA Headquarters, Kilindini Harbour, Mombasa",
+    "meetingType": "Regular", "status": "Completed",
+    "attendees": ["Dr. Catherine Mturi-Wairi (Chair)", "Capt. William Ruto (MD)", "Rose Atieno", "Eric Ochieng", "Daniel Mwenda", "Sylvia Mwamburi", "James Otieno", "Lucy Wanjiru"],
+    "absentees": ["Dr. Hassan Osman (Apology)"],
+    "agenda": "1. Opening; 2. Confirmation of minutes; 3. MD's report; 4. FY2023 annual results adoption; 5. Final dividend declaration; 6. Berths 25-26 project approval; 7. Port community system upgrade; 8. AOB",
+    "minutes": "FY2023 record results adopted — KES 40.5bn revenue, KES 8.2bn net profit. Final dividend of KES 4.1bn approved payable to National Treasury. Berths 25-26 construction project approved with a budget of KES 28bn.",
+    "resolutions": [
+      { "number": "KPAB/198/001", "description": "Board adopted the FY2023 Annual Report and Financial Statements as audited by PricewaterhouseCoopers Kenya.", "status": "Adopted", "votedFor": 8, "votedAgainst": 0, "abstentions": 0 },
+      { "number": "KPAB/198/002", "description": "Board declared a final dividend of KES 4,100,000,000 payable to the National Treasury by 30 June 2024.", "status": "Adopted", "votedFor": 8, "votedAgainst": 0, "abstentions": 0 },
+      { "number": "KPAB/198/003", "description": "Board approved the Berths 25-26 construction project at a total budget of KES 28,000,000,000 to be funded from retained earnings (40%) and long-term debt (60%).", "status": "Adopted", "votedFor": 7, "votedAgainst": 0, "abstentions": 1 },
+      { "number": "KPAB/198/004", "description": "Board approved the Port Community System (PCS) Phase 2 upgrade contract award to Navis N4 at a cost of KES 1.8bn.", "status": "Adopted", "votedFor": 8, "votedAgainst": 0, "abstentions": 0 }
+    ],
+    "chairPerson": "Dr. Catherine Mturi-Wairi", "secretary": "Lucy Wanjiru",
+    "quorumRequired": 5, "actualAttendance": 8
+  },
+  {
+    "id": 2112, "companyId": 22, "companyName": "Kenya Ports Authority",
+    "title": "KPA Board of Directors — 197th Meeting",
+    "meetingDate": "2023-11-29T09:00:00Z", "location": "KPA Headquarters, Kilindini Harbour, Mombasa",
+    "meetingType": "Regular", "status": "Completed",
+    "attendees": ["Dr. Catherine Mturi-Wairi (Chair)", "Capt. William Ruto (MD)", "Rose Atieno", "Eric Ochieng", "Daniel Mwenda", "Sylvia Mwamburi", "James Otieno", "Lucy Wanjiru", "Dr. Hassan Osman"],
+    "absentees": [],
+    "agenda": "1. Opening; 2. Confirmation of minutes; 3. Q1 FY2024 financial results; 4. Interim dividend — FY2024; 5. Berths 21-24 commissioning report; 6. Staff establishment review; 7. AOB",
+    "minutes": "Full board attendance. Q1 FY2024 showed strong performance with 305,000 TEU throughput. Berths 21-24 commissioning report accepted — all four berths fully operational. Interim dividend of KES 2.05bn approved.",
+    "resolutions": [
+      { "number": "KPAB/197/001", "description": "Board approved Q1 FY2024 financial results and noted record throughput performance.", "status": "Adopted", "votedFor": 9, "votedAgainst": 0, "abstentions": 0 },
+      { "number": "KPAB/197/002", "description": "Board declared an interim dividend of KES 2,050,000,000 for FY2024 payable to the National Treasury by 15 December 2023.", "status": "Adopted", "votedFor": 9, "votedAgainst": 0, "abstentions": 0 },
+      { "number": "KPAB/197/003", "description": "Board accepted the commissioning report for Berths 21-24 and approved commercial operations commencement from 1 December 2023.", "status": "Adopted", "votedFor": 9, "votedAgainst": 0, "abstentions": 0 }
+    ],
+    "chairPerson": "Dr. Catherine Mturi-Wairi", "secretary": "Lucy Wanjiru",
+    "quorumRequired": 5, "actualAttendance": 9
+  },
+  {
+    "id": 2113, "companyId": 22, "companyName": "Kenya Ports Authority",
+    "title": "KPA Special Board Meeting — Lamu Port Expansion",
+    "meetingDate": "2023-06-20T10:00:00Z", "location": "Nairobi Serena Hotel, Nairobi",
+    "meetingType": "Special", "status": "Completed",
+    "attendees": ["Dr. Catherine Mturi-Wairi (Chair)", "Capt. William Ruto (MD)", "Rose Atieno", "Eric Ochieng", "Daniel Mwenda", "James Otieno"],
+    "absentees": ["Sylvia Mwamburi (Apology)", "Lucy Wanjiru", "Dr. Hassan Osman"],
+    "agenda": "1. Lamu Port LAPSSET Corridor Berth 3 commissioning; 2. LAPSSET Authority coordination; 3. Environmental monitoring compliance; 4. Revenue projections; 5. AOB",
+    "minutes": "Lamu Port Berth 3 commissioning approved following completion of NEMA compliance verification. Revenue projections of KES 2.8bn per annum from Berth 3 endorsed. LAPSSET coordination protocol updated.",
+    "resolutions": [
+      { "number": "KPAB/SPE/2023/001", "description": "Board approved commencement of commercial operations at Lamu Port Berth 3 effective 1 August 2023.", "status": "Adopted", "votedFor": 6, "votedAgainst": 0, "abstentions": 0 },
+      { "number": "KPAB/SPE/2023/002", "description": "Board endorsed the LAPSSET Corridor coordination protocol and directed MD to execute the updated MOU with LAPSSET Development Authority.", "status": "Adopted", "votedFor": 6, "votedAgainst": 0, "abstentions": 0 },
+      { "number": "KPAB/SPE/2023/003", "description": "Board approved the environmental monitoring and mangrove replanting plan for Lamu as required by NEMA licence conditions.", "status": "Adopted", "votedFor": 6, "votedAgainst": 0, "abstentions": 0 }
+    ],
+    "chairPerson": "Dr. Catherine Mturi-Wairi", "secretary": "Lucy Wanjiru",
+    "quorumRequired": 5, "actualAttendance": 6
+  },
+  {
+    "id": 2114, "companyId": 22, "companyName": "Kenya Ports Authority",
+    "title": "KPA Board of Directors — 196th Meeting",
+    "meetingDate": "2023-08-30T09:00:00Z", "location": "KPA Headquarters, Kilindini Harbour, Mombasa",
+    "meetingType": "Regular", "status": "Completed",
+    "attendees": ["Dr. Catherine Mturi-Wairi (Chair)", "Capt. William Ruto (MD)", "Rose Atieno", "Eric Ochieng", "Daniel Mwenda", "Sylvia Mwamburi", "James Otieno", "Lucy Wanjiru"],
+    "absentees": ["Dr. Hassan Osman (Apology)"],
+    "agenda": "1. Opening; 2. H1 FY2024 financial results; 3. Berths 21-24 construction progress; 4. Human resources — collective bargaining update (DOWU); 5. ISO recertification; 6. AOB",
+    "minutes": "H1 FY2024 revenue of KES 19.3bn on track for annual target. Berths 21-24 97% complete. DOWU (Dock Workers Union of Kenya) CBA negotiations concluded — 14% wage increase over 2 years agreed. ISO 9001 recertification confirmed.",
+    "resolutions": [
+      { "number": "KPAB/196/001", "description": "Board approved the H1 FY2024 financial results and endorsed the full-year revenue forecast of KES 40bn.", "status": "Adopted", "votedFor": 8, "votedAgainst": 0, "abstentions": 0 },
+      { "number": "KPAB/196/002", "description": "Board ratified the CBA agreement with Dock Workers Union of Kenya (DOWU) providing for 14% wage increase over FY2024-2025.", "status": "Adopted", "votedFor": 7, "votedAgainst": 0, "abstentions": 1 },
+      { "number": "KPAB/196/003", "description": "Board noted the ISO 9001:2015 recertification by Bureau Veritas and directed management to pursue ISO 14001 environmental certification by June 2025.", "status": "Adopted", "votedFor": 8, "votedAgainst": 0, "abstentions": 0 }
+    ],
+    "chairPerson": "Dr. Catherine Mturi-Wairi", "secretary": "Lucy Wanjiru",
+    "quorumRequired": 5, "actualAttendance": 8
+  },
+  {
+    "id": 2115, "companyId": 20, "companyName": "Kenya Power and Lighting Company",
+    "title": "KPLC Board of Directors — 162nd Meeting",
+    "meetingDate": "2023-05-24T09:00:00Z", "location": "Stima Plaza, Kolobot Road, Nairobi",
+    "meetingType": "Regular", "status": "Completed",
+    "attendees": ["Dr. John Ngumi (Chair)", "Eng. Joseph Siror (MD & CEO)", "Agnes Wambui", "Peter Kamau", "Dr. Rose Ngugi", "Mary Achieng", "Prof. James Njihia", "David Oduya"],
+    "absentees": ["Catherine Wanjiku (Apology)"],
+    "agenda": "1. Opening; 2. Q3 FY2023 financial results; 3. LMCP Phase III progress; 4. Pre-paid metering rollout; 5. Employee safety statistics; 6. AOB",
+    "minutes": "Q3 FY2023 revenue of KES 44.1bn year-to-date, on track. LMCP Phase III at 68% completion — 155,000 of 230,000 targeted connections made. Pre-paid metering reached 4.2 million customers.",
+    "resolutions": [
+      { "number": "KBR/162/001", "description": "Board approved Q3 FY2023 financial results and endorsed year-end revenue forecast of KES 58bn.", "status": "Adopted", "votedFor": 8, "votedAgainst": 0, "abstentions": 0 },
+      { "number": "KBR/162/002", "description": "Board approved acceleration of LMCP Phase III to complete all 230,000 connections by 30 June 2023.", "status": "Adopted", "votedFor": 7, "votedAgainst": 1, "abstentions": 0 },
+      { "number": "KBR/162/003", "description": "Board endorsed the pre-paid smart metering expansion programme targeting 5 million customers by December 2024.", "status": "Adopted", "votedFor": 8, "votedAgainst": 0, "abstentions": 0 }
+    ],
+    "chairPerson": "Dr. John Ngumi", "secretary": "Peter Kamau",
+    "quorumRequired": 5, "actualAttendance": 8
+  },
+  {
+    "id": 2116, "companyId": 21, "companyName": "Kenya Airways",
+    "title": "Kenya Airways Finance and Strategy Committee — 62nd Meeting",
+    "meetingDate": "2024-02-14T09:00:00Z", "location": "Kenya Airways HQ, Airport North Road, Nairobi",
+    "meetingType": "Committee", "status": "Completed",
+    "attendees": ["Samuel Njoroge (Chair)", "Christine Oloo", "Allan Kiprotich (CEO)", "CFO James Kipchoge"],
+    "absentees": [],
+    "agenda": "1. Fleet renewal business case detailed review; 2. FY2024 budget revision; 3. Codeshare revenue analysis; 4. AOB",
+    "minutes": "Fleet Renewal Business Case reviewed in detail. NPV of KES 18.5bn over 10 years computed. Committee recommended approval subject to government guarantees. FY2024 budget revised upward to KES 47bn revenue.",
+    "resolutions": [
+      { "number": "KQFSC/62/001", "description": "Committee recommended to the full Board approval of the Fleet Renewal Business Case for 12 B787-9 and 8 Embraer E2 aircraft, subject to securing government guarantees for financing.", "status": "Adopted", "votedFor": 4, "votedAgainst": 0, "abstentions": 0 },
+      { "number": "KQFSC/62/002", "description": "Committee approved the revised FY2024 budget with revenue target of KES 47bn and EBITDA of KES 2.8bn.", "status": "Adopted", "votedFor": 4, "votedAgainst": 0, "abstentions": 0 }
+    ],
+    "chairPerson": "Samuel Njoroge", "secretary": "Christine Oloo",
+    "quorumRequired": 3, "actualAttendance": 4
+  },
+  {
+    "id": 2117, "companyId": 22, "companyName": "Kenya Ports Authority",
+    "title": "KPA Board of Directors — 195th Meeting",
+    "meetingDate": "2023-05-31T09:00:00Z", "location": "KPA Headquarters, Kilindini Harbour, Mombasa",
+    "meetingType": "Regular", "status": "Completed",
+    "attendees": ["Dr. Catherine Mturi-Wairi (Chair)", "Capt. William Ruto (MD)", "Rose Atieno", "Eric Ochieng", "Daniel Mwenda", "Sylvia Mwamburi", "James Otieno", "Lucy Wanjiru", "Dr. Hassan Osman"],
+    "absentees": [],
+    "agenda": "1. Opening; 2. H2 FY2023 financial results; 3. FY2022 final dividend confirmation; 4. Strategic Plan mid-term review; 5. Staff establishment approval; 6. AOB",
+    "minutes": "Full board attendance. H2 FY2023 strong performance confirmed. Final dividend of KES 3.55bn for FY2022 remitted to Treasury. Strategic Plan mid-term review showed throughput ahead of target by 8%.",
+    "resolutions": [
+      { "number": "KPAB/195/001", "description": "Board confirmed remittance of FY2022 final dividend of KES 3,550,000,000 to the National Treasury on 2 May 2023.", "status": "Adopted", "votedFor": 9, "votedAgainst": 0, "abstentions": 0 },
+      { "number": "KPAB/195/002", "description": "Board approved the Strategic Plan mid-term review and revised throughput target to 1.32 million TEUs for FY2024 (up from 1.25 million).", "status": "Adopted", "votedFor": 9, "votedAgainst": 0, "abstentions": 0 },
+      { "number": "KPAB/195/003", "description": "Board approved creation of 250 new positions in Marine Operations and Equipment Maintenance following berth expansion.", "status": "Adopted", "votedFor": 8, "votedAgainst": 1, "abstentions": 0 }
+    ],
+    "chairPerson": "Dr. Catherine Mturi-Wairi", "secretary": "Lucy Wanjiru",
+    "quorumRequired": 5, "actualAttendance": 9
+  },
+  {
+    "id": 2118, "companyId": 20, "companyName": "Kenya Power and Lighting Company",
+    "title": "KPLC Human Resources and Remuneration Committee — 35th Meeting",
+    "meetingDate": "2024-02-07T09:00:00Z", "location": "Stima Plaza, Kolobot Road, Nairobi",
+    "meetingType": "Committee", "status": "Completed",
+    "attendees": ["Agnes Wambui (Chair)", "Prof. James Njihia", "Catherine Wanjiku", "CEO Joseph Siror (invitee)"],
+    "absentees": [],
+    "agenda": "1. CEO performance contract review FY2024; 2. Senior management remuneration benchmarking; 3. Training and development budget FY2025; 4. Gender and diversity report; 5. AOB",
+    "minutes": "CEO performance contract scored 87% for FY2024 — Exceeds Expectations. Senior management pay benchmarked against SOE peer group and private sector. Training budget of KES 580m approved for FY2025.",
+    "resolutions": [
+      { "number": "KHRC/35/001", "description": "Committee approved CEO performance rating of 87% (Exceeds Expectations) for FY2024 with corresponding performance bonus.", "status": "Adopted", "votedFor": 3, "votedAgainst": 0, "abstentions": 0 },
+      { "number": "KHRC/35/002", "description": "Committee approved FY2025 training and development budget of KES 580,000,000 representing 1.0% of payroll costs.", "status": "Adopted", "votedFor": 3, "votedAgainst": 0, "abstentions": 0 },
+      { "number": "KHRC/35/003", "description": "Committee set a gender diversity target of 40% female representation in senior management by FY2027 and directed HR to develop an action plan.", "status": "Adopted", "votedFor": 3, "votedAgainst": 0, "abstentions": 0 }
+    ],
+    "chairPerson": "Agnes Wambui", "secretary": "Peter Kamau",
+    "quorumRequired": 3, "actualAttendance": 3
+  },
+  {
+    "id": 2119, "companyId": 21, "companyName": "Kenya Airways",
+    "title": "Kenya Airways Board of Directors — 139th Meeting",
+    "meetingDate": "2023-05-31T09:00:00Z", "location": "Kenya Airways HQ, Airport North Road, Nairobi",
+    "meetingType": "Regular", "status": "Completed",
+    "attendees": ["Michael Joseph (Chair)", "Allan Kiprotich (CEO)", "Christine Oloo", "Samuel Njoroge", "James Kipchoge", "Dr. Evelyn Wanjiku", "Titus Naikuni"],
+    "absentees": ["Moses Kuria (Apology)", "Hellen Wanjiku"],
+    "agenda": "1. Opening; 2. Q1 2023 financial results; 3. Restructuring plan progress; 4. KAWU CBA negotiations; 5. FY2022 annual results adoption; 6. AOB",
+    "minutes": "Q1 2023 revenue of KES 9.5bn with load factor improving to 74%. FY2022 annual results adopted — net loss of KES 5.2bn. KAWU (Kenya Aviation Workers Union) CBA negotiations at advanced stage.",
+    "resolutions": [
+      { "number": "KQB/139/001", "description": "Board adopted the FY2022 Annual Report and Financial Statements.", "status": "Adopted", "votedFor": 7, "votedAgainst": 0, "abstentions": 0 },
+      { "number": "KQB/139/002", "description": "Board endorsed the Restructuring Plan Phase 2 milestones and directed CEO to achieve EBITDA positivity by Q3 2024.", "status": "Adopted", "votedFor": 7, "votedAgainst": 0, "abstentions": 0 },
+      { "number": "KQB/139/003", "description": "Board approved CBA framework with KAWU providing for 10% salary increase and improved welfare benefits over 3 years.", "status": "Adopted", "votedFor": 6, "votedAgainst": 1, "abstentions": 0 }
+    ],
+    "chairPerson": "Michael Joseph", "secretary": "Christine Oloo",
+    "quorumRequired": 5, "actualAttendance": 7
+  },
+  {
+    "id": 2120, "companyId": 22, "companyName": "Kenya Ports Authority",
+    "title": "KPA Board of Directors — 199th Meeting",
+    "meetingDate": "2024-07-31T09:00:00Z", "location": "KPA Headquarters, Kilindini Harbour, Mombasa",
+    "meetingType": "Regular", "status": "Completed",
+    "attendees": ["Dr. Catherine Mturi-Wairi (Chair)", "Capt. William Ruto (MD)", "Rose Atieno", "Eric Ochieng", "Daniel Mwenda", "Sylvia Mwamburi", "James Otieno", "Lucy Wanjiru", "Dr. Hassan Osman"],
+    "absentees": [],
+    "agenda": "1. Opening; 2. Q4 FY2024 and Annual financial results; 3. Performance Contract FY2024/25 signing; 4. Berths 25-26 project commencement; 5. Blue Economy strategy alignment; 6. AOB",
+    "minutes": "FY2024 results: revenue KES 42.1bn, net profit KES 8.7bn — both records. Performance Contract signed with CS Transport. Berths 25-26 groundbreaking ceremony scheduled for September 2024.",
+    "resolutions": [
+      { "number": "KPAB/199/001", "description": "Board adopted the FY2024 Annual Report and Financial Statements as audited by PricewaterhouseCoopers Kenya.", "status": "Adopted", "votedFor": 9, "votedAgainst": 0, "abstentions": 0 },
+      { "number": "KPAB/199/002", "description": "Board approved the FY2024/25 Performance Contract targets and authorised the MD to execute the contract with CS Transport.", "status": "Adopted", "votedFor": 9, "votedAgainst": 0, "abstentions": 0 },
+      { "number": "KPAB/199/003", "description": "Board approved commencement of Berths 25-26 construction with groundbreaking in September 2024 and completion target of December 2027.", "status": "Adopted", "votedFor": 8, "votedAgainst": 0, "abstentions": 1 },
+      { "number": "KPAB/199/004", "description": "Board approved the interim dividend of KES 2,200,000,000 for FY2024/25 payable to the National Treasury by 20 December 2024.", "status": "Adopted", "votedFor": 9, "votedAgainst": 0, "abstentions": 0 }
+    ],
+    "chairPerson": "Dr. Catherine Mturi-Wairi", "secretary": "Lucy Wanjiru",
+    "quorumRequired": 5, "actualAttendance": 9
+  },
+  {
+    "id": 2121, "companyId": 20, "companyName": "Kenya Power and Lighting Company",
+    "title": "KPLC Board of Directors — 166th Meeting",
+    "meetingDate": "2024-07-24T09:00:00Z", "location": "Stima Plaza, Kolobot Road, Nairobi",
+    "meetingType": "Regular", "status": "Completed",
+    "attendees": ["Dr. John Ngumi (Chair)", "Eng. Joseph Siror (MD & CEO)", "Agnes Wambui", "Peter Kamau", "Dr. Rose Ngugi", "Mary Achieng", "Prof. James Njihia", "David Oduya", "Catherine Wanjiku"],
+    "absentees": [],
+    "agenda": "1. Opening; 2. FY2024 preliminary annual results; 3. New MD appointment update; 4. Green energy transition plan; 5. Digital transformation progress; 6. AOB",
+    "minutes": "FY2024 preliminary results show revenue of KES 62.1bn — 6.2% above FY2023. New MD appointment process underway. Green energy transition plan targeting 100% renewable supply by 2035 presented to board.",
+    "resolutions": [
+      { "number": "KBR/166/001", "description": "Board noted the FY2024 preliminary results and directed CFO to finalise audit by 30 September 2024.", "status": "Adopted", "votedFor": 9, "votedAgainst": 0, "abstentions": 0 },
+      { "number": "KBR/166/002", "description": "Board approved the Green Energy Transition Plan 2024-2035 as a strategic framework and directed integration into the Strategic Plan.", "status": "Adopted", "votedFor": 8, "votedAgainst": 1, "abstentions": 0 },
+      { "number": "KBR/166/003", "description": "Board approved the Digital Transformation Programme budget of KES 2.8bn for FY2025 covering customer portal, smart grid systems, and ERP upgrade.", "status": "Adopted", "votedFor": 9, "votedAgainst": 0, "abstentions": 0 }
+    ],
+    "chairPerson": "Dr. John Ngumi", "secretary": "Peter Kamau",
+    "quorumRequired": 5, "actualAttendance": 9
+  },
+  {
+    "id": 2122, "companyId": 21, "companyName": "Kenya Airways",
+    "title": "Kenya Airways Board of Directors — 143rd Meeting",
+    "meetingDate": "2024-07-30T09:00:00Z", "location": "Kenya Airways HQ, Airport North Road, Nairobi",
+    "meetingType": "Regular", "status": "Completed",
+    "attendees": ["Michael Joseph (Chair)", "Allan Kiprotich (CEO)", "Christine Oloo", "Samuel Njoroge", "James Kipchoge", "Dr. Evelyn Wanjiku", "Moses Kuria (Government Representative)", "Titus Naikuni"],
+    "absentees": ["Hellen Wanjiku (Apology)"],
+    "agenda": "1. Opening; 2. H1 2024 financial results; 3. Fleet renewal progress update; 4. Route network performance; 5. Cargo division strategy; 6. AOB",
+    "minutes": "H1 2024 revenue of KES 23.5bn on track for annual target. Boeing 787 lease agreement terms finalised with Air Lease Corporation. Cargo division recorded best H1 performance — KES 4.2bn revenue.",
+    "resolutions": [
+      { "number": "KQB/143/001", "description": "Board approved H1 2024 financial results and noted improved EBITDA of KES 1.4bn.", "status": "Adopted", "votedFor": 8, "votedAgainst": 0, "abstentions": 0 },
+      { "number": "KQB/143/002", "description": "Board approved the Boeing 787-9 operating lease agreement with Air Lease Corporation for 4 aircraft at USD 1.2m per aircraft per month.", "status": "Adopted", "votedFor": 7, "votedAgainst": 1, "abstentions": 0 },
+      { "number": "KQB/143/003", "description": "Board approved the Cargo Strategy 2024-2028 targeting cargo revenue of KES 12bn by 2028.", "status": "Adopted", "votedFor": 8, "votedAgainst": 0, "abstentions": 0 }
+    ],
+    "chairPerson": "Michael Joseph", "secretary": "Christine Oloo",
+    "quorumRequired": 5, "actualAttendance": 8
+  },
+  {
+    "id": 2123, "companyId": 20, "companyName": "Kenya Power and Lighting Company",
+    "title": "KPLC Board of Directors — 161st Meeting",
+    "meetingDate": "2023-02-22T09:00:00Z", "location": "Stima Plaza, Kolobot Road, Nairobi",
+    "meetingType": "Regular", "status": "Completed",
+    "attendees": ["Dr. John Ngumi (Chair)", "Eng. Joseph Siror (MD & CEO)", "Agnes Wambui", "Peter Kamau", "Dr. Rose Ngugi", "Mary Achieng", "David Oduya"],
+    "absentees": ["Prof. James Njihia", "Catherine Wanjiku (Apology)"],
+    "agenda": "1. Opening; 2. H1 FY2023 financial results; 3. System reliability report (SAIDI/SAIFI); 4. Safety review; 5. Supplier payment backlog; 6. AOB",
+    "minutes": "H1 FY2023 revenue of KES 27.9bn. SAIDI improved to 38 hours — reduction from 52 hours in H1 FY2022. Supplier payment backlog of KES 12.5bn discussed with plan to reduce to KES 6bn by year-end.",
+    "resolutions": [
+      { "number": "KBR/161/001", "description": "Board approved H1 FY2023 results and endorsed CEO plan to reduce technical losses to below 18% by FY2024.", "status": "Adopted", "votedFor": 7, "votedAgainst": 0, "abstentions": 0 },
+      { "number": "KBR/161/002", "description": "Board approved supplier payment plan to reduce backlog from KES 12.5bn to KES 6bn by 30 June 2023 using operational cash flows.", "status": "Adopted", "votedFor": 7, "votedAgainst": 0, "abstentions": 0 },
+      { "number": "KBR/161/003", "description": "Board approved SAIDI improvement target of 35 hours for FY2024 and directed investment in distribution automation in Nairobi Metro area.", "status": "Adopted", "votedFor": 6, "votedAgainst": 0, "abstentions": 1 }
+    ],
+    "chairPerson": "Dr. John Ngumi", "secretary": "Peter Kamau",
+    "quorumRequired": 5, "actualAttendance": 7
+  },
+  {
+    "id": 2124, "companyId": 22, "companyName": "Kenya Ports Authority",
+    "title": "KPA Audit Committee — 40th Meeting",
+    "meetingDate": "2024-02-21T09:00:00Z", "location": "KPA Headquarters, Kilindini Harbour, Mombasa",
+    "meetingType": "Committee", "status": "Completed",
+    "attendees": ["James Otieno (Chair)", "Sylvia Mwamburi", "Dr. Hassan Osman", "PwC Kenya (invitee)", "CFO Daniel Mwenda (invitee)"],
+    "absentees": [],
+    "agenda": "1. Q2 FY2024 internal audit report; 2. External audit plan FY2024; 3. Procurement compliance review; 4. IT audit — port community system; 5. AOB",
+    "minutes": "Internal audit identified 8 medium-risk findings mainly in procurement. PwC presented audit plan for FY2024. PCS audit identified minor access control gaps — remediation in progress. Overall control environment rated Good.",
+    "resolutions": [
+      { "number": "KPAA/40/001", "description": "Committee approved the Q2 FY2024 internal audit report and directed management to address medium-risk findings within 90 days.", "status": "Adopted", "votedFor": 3, "votedAgainst": 0, "abstentions": 0 },
+      { "number": "KPAA/40/002", "description": "Committee approved the PwC FY2024 external audit plan and confirmed independence requirements met.", "status": "Adopted", "votedFor": 3, "votedAgainst": 0, "abstentions": 0 }
+    ],
+    "chairPerson": "James Otieno", "secretary": "Lucy Wanjiru",
+    "quorumRequired": 3, "actualAttendance": 3
+  },
+  {
+    "id": 2125, "companyId": 21, "companyName": "Kenya Airways",
+    "title": "Kenya Airways Audit and Risk Committee — 55th Meeting",
+    "meetingDate": "2024-05-08T09:00:00Z", "location": "Kenya Airways HQ, Airport North Road, Nairobi",
+    "meetingType": "Committee", "status": "Completed",
+    "attendees": ["Titus Naikuni (Chair)", "Hellen Wanjiku", "Samuel Njoroge", "EY Kenya (invitee)", "CFO James Kipchoge (invitee)"],
+    "absentees": [],
+    "agenda": "1. EY audit findings FY2023; 2. Revenue leakage risk — code-share settlements; 3. IT risk assessment; 4. Fuel hedging risk; 5. AOB",
+    "minutes": "EY presented 5 high-risk audit findings including revenue leakage in code-share settlements estimated at KES 320m. IT system risks flagged. Fuel hedging coverage expiry noted as critical risk.",
+    "resolutions": [
+      { "number": "KQAC/55/001", "description": "Committee directed management to implement remediation plan for code-share settlement reconciliation within 45 days.", "status": "Adopted", "votedFor": 3, "votedAgainst": 0, "abstentions": 0 },
+      { "number": "KQAC/55/002", "description": "Committee directed CFO to renew fuel hedging programme covering at least 50% of fuel consumption for H2 2024 within 30 days.", "status": "Adopted", "votedFor": 3, "votedAgainst": 0, "abstentions": 0 },
+      { "number": "KQAC/55/003", "description": "Committee escalated fuel hedging coverage gap to the full Board as a critical financial risk per risk escalation policy.", "status": "Adopted", "votedFor": 3, "votedAgainst": 0, "abstentions": 0 }
+    ],
+    "chairPerson": "Titus Naikuni", "secretary": "Christine Oloo",
+    "quorumRequired": 3, "actualAttendance": 3
+  },
+  {
+    "id": 2126, "companyId": 22, "companyName": "Kenya Ports Authority",
+    "title": "KPA Board of Directors — 194th Meeting",
+    "meetingDate": "2023-02-28T09:00:00Z", "location": "KPA Headquarters, Kilindini Harbour, Mombasa",
+    "meetingType": "Regular", "status": "Completed",
+    "attendees": ["Dr. Catherine Mturi-Wairi (Chair)", "Capt. William Ruto (MD)", "Rose Atieno", "Eric Ochieng", "Daniel Mwenda", "Sylvia Mwamburi", "James Otieno", "Lucy Wanjiru"],
+    "absentees": ["Dr. Hassan Osman (Apology)"],
+    "agenda": "1. Opening; 2. H1 FY2023 financial results; 3. Berths 21-24 construction update; 4. Tariff review proposal; 5. Regional ports strategy; 6. AOB",
+    "minutes": "H1 FY2023 revenue of KES 18.5bn. Berths 21-24 construction at 45% completion. Port tariff proposal for 8% increase in FY2024 reviewed and approved for submission to Ministry of Transport.",
+    "resolutions": [
+      { "number": "KPAB/194/001", "description": "Board approved H1 FY2023 results and noted strong throughput performance of 635,000 TEUs.", "status": "Adopted", "votedFor": 8, "votedAgainst": 0, "abstentions": 0 },
+      { "number": "KPAB/194/002", "description": "Board approved port tariff increase proposal of 8% for FY2024 and directed MD to submit to Ministry of Transport for approval.", "status": "Adopted", "votedFor": 7, "votedAgainst": 1, "abstentions": 0 },
+      { "number": "KPAB/194/003", "description": "Board approved engagement of Dar es Salaam Port Authority for regional corridor cooperation MOU.", "status": "Adopted", "votedFor": 8, "votedAgainst": 0, "abstentions": 0 }
+    ],
+    "chairPerson": "Dr. Catherine Mturi-Wairi", "secretary": "Lucy Wanjiru",
+    "quorumRequired": 5, "actualAttendance": 8
+  }
+]

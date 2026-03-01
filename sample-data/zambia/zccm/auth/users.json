@@ -1,0 +1,68 @@
+[
+  {
+    "id": "zccm-001",
+    "username": "mabvuto.chipata@zccm-ih.com.zm",
+    "firstName": "Mabvuto",
+    "lastName": "Chipata",
+    "email": "mabvuto.chipata@zccm-ih.com.zm",
+    "roles": ["CEO", "Administrator"],
+    "password": "Test123!",
+    "department": "Executive",
+    "title": "Chief Executive Officer"
+  },
+  {
+    "id": "zccm-002",
+    "username": "nsangu.mulwanda@zccm-ih.com.zm",
+    "firstName": "Nsangu",
+    "lastName": "Mulwanda",
+    "email": "nsangu.mulwanda@zccm-ih.com.zm",
+    "roles": ["CFO"],
+    "password": "Test123!",
+    "department": "Finance",
+    "title": "Chief Financial Officer"
+  },
+  {
+    "id": "zccm-003",
+    "username": "kalinda.mukela@zccm-ih.com.zm",
+    "firstName": "Kalinda",
+    "lastName": "Mukela",
+    "email": "kalinda.mukela@zccm-ih.com.zm",
+    "roles": ["Compliance Officer"],
+    "password": "Test123!",
+    "department": "Legal & Compliance",
+    "title": "Chief Compliance & Legal Officer"
+  },
+  {
+    "id": "zccm-004",
+    "username": "grace.mutale@zccm-ih.com.zm",
+    "firstName": "Grace",
+    "lastName": "Mutale",
+    "email": "grace.mutale@zccm-ih.com.zm",
+    "roles": ["Board Secretary"],
+    "password": "Test123!",
+    "department": "Board Affairs",
+    "title": "Company Secretary"
+  },
+  {
+    "id": "zccm-005",
+    "username": "daniel.mwansa@zccm-ih.com.zm",
+    "firstName": "Daniel",
+    "lastName": "Mwansa",
+    "email": "daniel.mwansa@zccm-ih.com.zm",
+    "roles": ["Investment Manager"],
+    "password": "Test123!",
+    "department": "Investments",
+    "title": "Head of Portfolio Investments"
+  },
+  {
+    "id": "zccm-006",
+    "username": "chola.tembo@zccm-ih.com.zm",
+    "firstName": "Chola",
+    "lastName": "Tembo",
+    "email": "chola.tembo@zccm-ih.com.zm",
+    "roles": ["Auditor"],
+    "password": "Test123!",
+    "department": "Internal Audit",
+    "title": "Chief Internal Auditor"
+  }
+]

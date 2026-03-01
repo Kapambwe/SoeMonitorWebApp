@@ -1,0 +1,35 @@
+[
+  {
+    "id": "kq-001",
+    "username": "allan.kilavuka@kenya-airways.com",
+    "firstName": "Allan",
+    "lastName": "Kilavuka",
+    "email": "allan.kilavuka@kenya-airways.com",
+    "roles": ["CEO", "Administrator"],
+    "password": "Test123!",
+    "department": "Executive",
+    "title": "Group Managing Director & CEO"
+  },
+  {
+    "id": "kq-002",
+    "username": "julius.thairu@kenya-airways.com",
+    "firstName": "Julius",
+    "lastName": "Thairu",
+    "email": "julius.thairu@kenya-airways.com",
+    "roles": ["CFO"],
+    "password": "Test123!",
+    "department": "Finance",
+    "title": "Chief Financial Officer"
+  },
+  {
+    "id": "kq-003",
+    "username": "fatuma.hirsi@kenya-airways.com",
+    "firstName": "Fatuma",
+    "lastName": "Hirsi",
+    "email": "fatuma.hirsi@kenya-airways.com",
+    "roles": ["Risk Manager"],
+    "password": "Test123!",
+    "department": "Risk Management",
+    "title": "Chief Risk Officer"
+  }
+]

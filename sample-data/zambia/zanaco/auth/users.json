@@ -1,0 +1,46 @@
+[
+  {
+    "id": "zanaco-001",
+    "username": "edna.hamukale@zanaco.co.zm",
+    "firstName": "Edna",
+    "lastName": "Hamukale",
+    "email": "edna.hamukale@zanaco.co.zm",
+    "roles": ["CEO", "Administrator"],
+    "password": "Test123!",
+    "department": "Executive",
+    "title": "Chief Executive Officer"
+  },
+  {
+    "id": "zanaco-002",
+    "username": "felix.mwale@zanaco.co.zm",
+    "firstName": "Felix",
+    "lastName": "Mwale",
+    "email": "felix.mwale@zanaco.co.zm",
+    "roles": ["CFO"],
+    "password": "Test123!",
+    "department": "Finance",
+    "title": "Chief Financial Officer"
+  },
+  {
+    "id": "zanaco-003",
+    "username": "ireen.ngoma@zanaco.co.zm",
+    "firstName": "Ireen",
+    "lastName": "Ngoma",
+    "email": "ireen.ngoma@zanaco.co.zm",
+    "roles": ["Risk Manager"],
+    "password": "Test123!",
+    "department": "Risk Management",
+    "title": "Head of Risk Management"
+  },
+  {
+    "id": "zanaco-004",
+    "username": "henry.kabwe@zanaco.co.zm",
+    "firstName": "Henry",
+    "lastName": "Kabwe",
+    "email": "henry.kabwe@zanaco.co.zm",
+    "roles": ["Compliance Officer"],
+    "password": "Test123!",
+    "department": "Compliance",
+    "title": "Chief Compliance Officer"
+  }
+]
