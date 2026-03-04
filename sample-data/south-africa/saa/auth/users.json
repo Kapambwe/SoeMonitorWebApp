@@ -1,0 +1,35 @@
+[
+  {
+    "id": "saa-001",
+    "username": "john.lamola@flysaa.com",
+    "firstName": "John",
+    "lastName": "Lamola",
+    "email": "john.lamola@flysaa.com",
+    "roles": ["CEO", "Administrator"],
+    "password": "Test123!",
+    "department": "Executive",
+    "title": "Group Chief Executive Officer"
+  },
+  {
+    "id": "saa-002",
+    "username": "fatima-zohra.ouamer@flysaa.com",
+    "firstName": "Fatima-Zohra",
+    "lastName": "Ouamer",
+    "email": "fatima-zohra.ouamer@flysaa.com",
+    "roles": ["CFO"],
+    "password": "Test123!",
+    "department": "Finance",
+    "title": "Chief Financial Officer"
+  },
+  {
+    "id": "saa-003",
+    "username": "lungelo.hadebe@flysaa.com",
+    "firstName": "Lungelo",
+    "lastName": "Hadebe",
+    "email": "lungelo.hadebe@flysaa.com",
+    "roles": ["Compliance Officer"],
+    "password": "Test123!",
+    "department": "Compliance",
+    "title": "Chief Compliance Officer"
+  }
+]

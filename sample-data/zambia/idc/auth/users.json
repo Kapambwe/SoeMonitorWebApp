@@ -1,0 +1,57 @@
+[
+  {
+    "id": "idc-001",
+    "username": "mateyo.kavindele@idc.co.zm",
+    "firstName": "Mateyo",
+    "lastName": "Kavindele",
+    "email": "mateyo.kavindele@idc.co.zm",
+    "roles": ["Managing Director", "Administrator"],
+    "password": "Test123!",
+    "department": "Executive",
+    "title": "Managing Director"
+  },
+  {
+    "id": "idc-002",
+    "username": "chanda.mutale@idc.co.zm",
+    "firstName": "Chanda",
+    "lastName": "Mutale",
+    "email": "chanda.mutale@idc.co.zm",
+    "roles": ["Finance Director"],
+    "password": "Test123!",
+    "department": "Finance",
+    "title": "Director of Finance"
+  },
+  {
+    "id": "idc-003",
+    "username": "grace.tembo@idc.co.zm",
+    "firstName": "Grace",
+    "lastName": "Tembo",
+    "email": "grace.tembo@idc.co.zm",
+    "roles": ["Investment Analyst"],
+    "password": "Test123!",
+    "department": "Investments",
+    "title": "Senior Investment Analyst"
+  },
+  {
+    "id": "idc-004",
+    "username": "admin@idc.co.zm",
+    "firstName": "System",
+    "lastName": "Administrator",
+    "email": "admin@idc.co.zm",
+    "roles": ["Administrator", "Super User"],
+    "password": "Admin@123",
+    "department": "IT",
+    "title": "System Administrator"
+  },
+  {
+    "id": "idc-005",
+    "username": "bwalya.nkonde@idc.co.zm",
+    "firstName": "Bwalya",
+    "lastName": "Nkonde",
+    "email": "bwalya.nkonde@idc.co.zm",
+    "roles": ["Portfolio Manager"],
+    "password": "Test123!",
+    "department": "Portfolio Management",
+    "title": "Portfolio Manager"
+  }
+]

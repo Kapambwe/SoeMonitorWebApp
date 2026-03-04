@@ -1,0 +1,346 @@
+[
+  {
+    "id": 2200, "companyId": 10, "companyName": "Eskom Holdings SOC",
+    "auditType": "External Financial Audit", "auditFirm": "Auditor-General of South Africa (AGSA)",
+    "leadAuditor": "Deputy Auditor-General: Cornelius Diale", "startDate": "2024-09-01T00:00:00Z", "endDate": "2024-11-30T00:00:00Z",
+    "status": "Completed", "scope": "Annual Financial Statements for year ended 31 March 2024 including performance information, compliance with applicable legislation and internal control assessment.",
+    "riskRating": "Medium",
+    "executiveSummary": "Unqualified audit opinion issued for FY2024 - first in six years. Significant improvement in financial controls, reduction in irregular expenditure from R4.2bn to R1.1bn, and improved revenue recognition processes. Material emphasis of matter paragraph retained for going concern related to R254bn debt restructuring.",
+    "reportReference": "AGSA-ESK-2024-AUD-001", "nextAuditDate": "2025-09-01T00:00:00Z",
+    "findings": [
+      { "id": "F2200-01", "category": "Internal Control", "severity": "Medium", "description": "Procurement process controls at three power stations (Tutuka, Arnot, Hendrina) remain inadequate. Bid adjudication committee minutes incomplete in 14 of 20 sampled transactions.", "recommendation": "Implement centralised SCM oversight for all power station procurement above R500,000. Mandatory committee minutes template to be adopted by 31 March 2025.", "status": "In Progress" },
+      { "id": "F2200-02", "category": "Revenue", "severity": "Low", "description": "Municipal debt collection processes improved but R18.2bn in long-outstanding municipal debt remains unrecovered. Provision for doubtful debts methodology updated but still conservative.", "recommendation": "Implement National Revenue Court debt enforcement programme. Consider credit limit suspension for non-paying municipalities.", "status": "In Progress" },
+      { "id": "F2200-03", "category": "IT Systems", "severity": "Low", "description": "SAP access control: 124 users have excessive system access rights not aligned to their job functions. Segregation of duties exceptions inadequately managed.", "recommendation": "Conduct SAP access rights recertification by all business unit heads. Implement automated SoD monitoring tool.", "status": "Resolved" }
+    ]
+  },
+  {
+    "id": 2201, "companyId": 10, "companyName": "Eskom Holdings SOC",
+    "auditType": "External Financial Audit", "auditFirm": "Auditor-General of South Africa (AGSA)",
+    "leadAuditor": "Deputy Auditor-General: Cornelius Diale", "startDate": "2023-08-01T00:00:00Z", "endDate": "2023-11-30T00:00:00Z",
+    "status": "Completed", "scope": "Annual Financial Statements for year ended 31 March 2023.",
+    "riskRating": "High",
+    "executiveSummary": "Qualified audit opinion issued due to material irregular expenditure of R4.2bn and revenue recognition disputes regarding R2.1bn in disputed municipal invoices. Going concern emphasis retained. Significant internal control deficiencies noted in coal procurement and supply chain management.",
+    "reportReference": "AGSA-ESK-2023-AUD-001", "nextAuditDate": "2024-09-01T00:00:00Z",
+    "findings": [
+      { "id": "F2201-01", "category": "Compliance", "severity": "Critical", "description": "Irregular expenditure of R4.2bn identified including R1.8bn in emergency coal procurement without competitive quotes, R1.4bn in OCGT diesel procurement deviations, and R1.0bn in maintenance contracts awarded without full SCM compliance.", "recommendation": "Implement consequence management for all identified irregular expenditure. Review emergency procurement policies. Strengthen SCM oversight committee.", "status": "In Progress" },
+      { "id": "F2201-02", "category": "Revenue", "severity": "High", "description": "Revenue recognition dispute: R2.1bn in invoices to municipalities disputed by Eskom as correctly invoiced but municipalities contesting surcharge components. Treatment inconsistent with IFRS 15.", "recommendation": "Obtain independent legal opinion on revenue recognition treatment. Implement consistent IFRS 15 policy. Engage National Treasury for municipal debt resolution.", "status": "Resolved" },
+      { "id": "F2201-03", "category": "Governance", "severity": "High", "description": "Three board committee positions vacant for more than 6 months impacting governance effectiveness. Audit Committee quorum barely met on two occasions.", "recommendation": "DPE to expedite board appointment processes. Implement succession planning for board committees.", "status": "Resolved" }
+    ]
+  },
+  {
+    "id": 2202, "companyId": 10, "companyName": "Eskom Holdings SOC",
+    "auditType": "Internal Audit", "auditFirm": "Eskom Internal Audit Division",
+    "leadAuditor": "Chief Internal Auditor: Siphiwe Mavundla", "startDate": "2024-04-01T00:00:00Z", "endDate": "2024-06-30T00:00:00Z",
+    "status": "Completed", "scope": "Q1 FY2024/25 review of generation operational controls, procurement compliance, and IT governance at 8 power stations.",
+    "riskRating": "Medium",
+    "executiveSummary": "Q1 internal audit findings show continued improvement from prior period. 22 findings raised, down from 38 in Q1 FY2023/24. High-severity findings reduced to 2 from 9. Coal stockpile management and OCGT fuel procurement notably improved.",
+    "reportReference": "ESK-IA-Q1-2024", "nextAuditDate": "2024-10-01T00:00:00Z",
+    "findings": [
+      { "id": "F2202-01", "category": "Procurement", "severity": "High", "description": "Deviation from SCM Policy: Matimba power station awarded R285m maintenance contract to single supplier without obtaining three quotes as required. Business justification provided but process non-compliant.", "recommendation": "Submit to consequence management committee. Implement mandatory SCM training for station management. Pre-approve emergency supplier list.", "status": "In Progress" },
+      { "id": "F2202-02", "category": "Information Technology", "severity": "Medium", "description": "SCADA system vulnerabilities at Tutuka and Duvha stations identified in cybersecurity assessment. 6 medium-severity vulnerabilities require patching. External attack surface partially exposed.", "recommendation": "Apply security patches within 30 days. Implement network segmentation. Increase OT/IT security monitoring frequency.", "status": "Resolved" }
+    ]
+  },
+  {
+    "id": 2203, "companyId": 10, "companyName": "Eskom Holdings SOC",
+    "auditType": "Performance Audit", "auditFirm": "Auditor-General of South Africa (AGSA)",
+    "leadAuditor": "Business Unit Director: Nkosazana Mthembu", "startDate": "2023-03-01T00:00:00Z", "endDate": "2023-09-30T00:00:00Z",
+    "status": "Completed", "scope": "Performance audit of Eskom's load shedding management programme, fuel supply chain, and plant maintenance programme effectiveness.",
+    "riskRating": "Critical",
+    "executiveSummary": "AGSA Performance Audit found systemic management failures in plant maintenance programme leading to the load shedding crisis. Preventable outages identified at Kusile (unit 3 design fault not timeously addressed), Tutuka (delayed maintenance refusals) and Duvha (inadequate coal stockpiles). Estimated economic cost of R56bn to GDP quantified.",
+    "reportReference": "AGSA-ESK-PERF-2023-001", "nextAuditDate": "2025-03-01T00:00:00Z",
+    "findings": [
+      { "id": "F2203-01", "category": "Operational", "severity": "Critical", "description": "Plant maintenance deferrals: Between 2019-2022, Eskom deferred R28bn in planned maintenance at coal stations to manage cash flow. This directly caused an additional 8,000-12,000MW of unplanned outages contributing to stage 6 load shedding.", "recommendation": "Implement non-deferrable maintenance ring-fenced budget. Board to approve maintenance as non-negotiable operational expenditure. Independent maintenance audit annually.", "status": "In Progress" },
+      { "id": "F2203-02", "category": "Supply Chain", "severity": "High", "description": "Coal stockpile management: Emergency protocols not triggered at 11 stations when stocks fell below 20-day threshold. Spot purchases at R280/ton premium vs long-term contract price of R180/ton cost Eskom R12bn in FY2022-2023.", "recommendation": "Implement automated stockpile monitoring and mandatory alert system. Centralise coal procurement decision-making.", "status": "In Progress" }
+    ]
+  },
+  {
+    "id": 2204, "companyId": 11, "companyName": "Transnet SOC Limited",
+    "auditType": "External Financial Audit", "auditFirm": "KPMG Inc.",
+    "leadAuditor": "Audit Partner: Mxolisi Nkosi", "startDate": "2024-08-01T00:00:00Z", "endDate": "2024-10-20T00:00:00Z",
+    "status": "Completed", "scope": "Annual Financial Statements for year ended 31 March 2024 including consolidated group and all material subsidiaries (TNPA, TFR, TNP, TPT).",
+    "riskRating": "Medium",
+    "executiveSummary": "Unqualified audit opinion issued for FY2024. Going concern emphasis of matter paragraph included due to R132bn debt level and refinancing requirements. Irregular expenditure reduced to R1.8bn from R2.4bn prior year. Recovery Plan progress reflected positively in results. State Capture legacy matters continuing to reduce through consequence management.",
+    "reportReference": "KPMG-TN-2024-AUD-001", "nextAuditDate": "2025-08-01T00:00:00Z",
+    "findings": [
+      { "id": "F2204-01", "category": "Debt Management", "severity": "Medium", "description": "Concentration risk in debt maturity profile: R28bn in bonds and loans mature within 12 months. Refinancing plan not fully committed. Three bond issuances may be needed in a compressed timeframe potentially at elevated rates.", "recommendation": "Accelerate refinancing programme with 12-month advance preparation. Diversify funding sources to include green bonds and DFI facilities. Engage PIC for bond rollover.", "status": "In Progress" },
+      { "id": "F2204-02", "category": "Asset Valuation", "severity": "Low", "description": "R2.4bn in Port equipment assets require independent valuation update. Last full valuation conducted FY2021. Carrying values may not reflect current fair value given condition deterioration.", "recommendation": "Commission independent valuation of all port equipment assets above R10m by 31 March 2025.", "status": "In Progress" },
+      { "id": "F2204-03", "category": "Procurement", "severity": "Low", "description": "Minor procurement deviations: 8 of 120 sampled procurement transactions deviated from SCM policy, down from 22 in FY2023. All related to emergency maintenance situations at ports.", "recommendation": "Maintain improvement trajectory. Pre-approved emergency supplier panel to be established for all port terminals.", "status": "Resolved" }
+    ]
+  },
+  {
+    "id": 2205, "companyId": 11, "companyName": "Transnet SOC Limited",
+    "auditType": "External Financial Audit", "auditFirm": "KPMG Inc.",
+    "leadAuditor": "Audit Partner: Mxolisi Nkosi", "startDate": "2022-07-01T00:00:00Z", "endDate": "2022-09-30T00:00:00Z",
+    "status": "Completed", "scope": "Annual Financial Statements FY2022. Special emphasis on State Capture procurement and irregular expenditure remediation.",
+    "riskRating": "High",
+    "executiveSummary": "Unqualified audit opinion with multiple emphasis of matter paragraphs. R2.4bn new irregular expenditure identified. SIU investigations ongoing on R14bn State Capture contracts. Going concern emphasis retained. Port congestion impact on revenue performance noted.",
+    "reportReference": "KPMG-TN-2022-AUD-001", "nextAuditDate": "2023-08-01T00:00:00Z",
+    "findings": [
+      { "id": "F2205-01", "category": "Compliance", "severity": "High", "description": "Irregular expenditure R2.4bn: Ongoing legacy contracts from State Capture era continue to generate irregular expenditure. 6 contracts with Gupta-linked entities still active awaiting legal termination processes.", "recommendation": "Legal team to accelerate contract termination and civil recovery proceedings. Consequence management for all contract managers involved.", "status": "In Progress" },
+      { "id": "F2205-02", "category": "Operational", "severity": "High", "description": "Port of Durban equipment maintenance backlog: 18 cranes operating below design capacity due to deferred maintenance. Estimated R1.2bn maintenance backlog creating revenue risk.", "recommendation": "Board to approve emergency maintenance allocation. 24-hour crane maintenance programme to be implemented.", "status": "Resolved" }
+    ]
+  },
+  {
+    "id": 2206, "companyId": 11, "companyName": "Transnet SOC Limited",
+    "auditType": "Internal Audit", "auditFirm": "Transnet Group Internal Audit",
+    "leadAuditor": "Chief Internal Auditor: Nomathemba Kunene", "startDate": "2024-05-01T00:00:00Z", "endDate": "2024-07-31T00:00:00Z",
+    "status": "Completed", "scope": "Q1 FY2024/25 review of port operations, new locomotive programme delivery controls and pipeline integrity management.",
+    "riskRating": "Medium",
+    "executiveSummary": "Q1 internal audit shows continued improvement. 15 findings down from 24 in Q1 FY2023/24. Port operations controls notably stronger. Locomotive programme delivery tracking improved. Pipeline integrity management fully compliant.",
+    "reportReference": "TN-IA-Q1-2025", "nextAuditDate": "2024-11-01T00:00:00Z",
+    "findings": [
+      { "id": "F2206-01", "category": "Operational", "severity": "Medium", "description": "Crane utilisation data integrity: At Durban Container Terminal, crane availability data in the Operations System does not fully reconcile with maintenance records. 3 cranes recorded as available in OPS system were on maintenance hold.", "recommendation": "Implement real-time IoT crane status monitoring. Data reconciliation to be performed daily by terminal operations manager.", "status": "In Progress" },
+      { "id": "F2206-02", "category": "Procurement", "severity": "Low", "description": "CRRC locomotive delivery inspection documentation incomplete. 28 units accepted into service without full PDI (pre-delivery inspection) signoff. Warranty claim risk.", "recommendation": "Retrospective PDI documentation to be obtained from CRRC. Implement mandatory 3-party inspection protocol for all future deliveries.", "status": "Resolved" }
+    ]
+  },
+  {
+    "id": 2207, "companyId": 11, "companyName": "Transnet SOC Limited",
+    "auditType": "Performance Audit", "auditFirm": "Auditor-General of South Africa (AGSA)",
+    "leadAuditor": "Business Unit Director: Thembeka Ntuli", "startDate": "2023-01-01T00:00:00Z", "endDate": "2023-06-30T00:00:00Z",
+    "status": "Completed", "scope": "Performance audit of Transnet's National Development Plan (NDP) capital expenditure programme, procurement processes and service delivery obligations.",
+    "riskRating": "High",
+    "executiveSummary": "AGSA Performance Audit identified significant concerns with NDP capital programme delivery: 18 major projects behind schedule (average delay 2.3 years), R18bn in cost overruns since inception, and inadequate project management controls. Locomotive programme identified as highest risk due to delivery delays and local content dispute.",
+    "reportReference": "AGSA-TN-PERF-2023-001", "nextAuditDate": "2025-06-01T00:00:00Z",
+    "findings": [
+      { "id": "F2207-01", "category": "Capital Programme", "severity": "High", "description": "NDP project delivery failures: 18 of 42 NDP projects are behind schedule. Key projects including Durban Port expansion Phase 2 (38 months late) and Manganese line capacity expansion (22 months late) impacting SA export revenues.", "recommendation": "Implement independent Programme Management Office for NDP. Monthly CEO-chaired NDP review. Contractor penalties to be enforced.", "status": "In Progress" },
+      { "id": "F2207-02", "category": "Procurement", "severity": "Critical", "description": "CRRC locomotive contract: Original contract did not adequately protect Transnet's interests on local content enforcement. R4.2bn penalty exposure for Transnet if local content targets not met by contractual date.", "recommendation": "Legal team to renegotiate local content timeline. Invoke dispute resolution mechanism. Consequence management for executives involved in original contracting.", "status": "In Progress" }
+    ]
+  },
+  {
+    "id": 2208, "companyId": 12, "companyName": "South African Airways",
+    "auditType": "External Financial Audit", "auditFirm": "BDO South Africa Inc.",
+    "leadAuditor": "Audit Partner: Zanele Nkosi", "startDate": "2025-01-15T00:00:00Z", "endDate": "2025-03-10T00:00:00Z",
+    "status": "Completed", "scope": "Annual Financial Statements for year ended 31 March 2024.",
+    "riskRating": "High",
+    "executiveSummary": "Qualified audit opinion issued due to material uncertainty relating to going concern (negative equity of R300m) and uncertainty over the Strategic Equity Partner process outcome. The qualified opinion is an improvement from the prior year adverse opinion and reflects SAA's path to recovery. Loss reduced to R800m from R1.5bn.",
+    "reportReference": "BDO-SAA-2024-AUD-001", "nextAuditDate": "2026-01-15T00:00:00Z",
+    "findings": [
+      { "id": "F2208-01", "category": "Going Concern", "severity": "Critical", "description": "Negative equity of R300m and continued net loss of R800m raise material going concern uncertainty. SAA's continued operation depends on government support and successful SEP transaction. No committed equity from government beyond R10.5bn already received.", "recommendation": "Conclude SEP process. Obtain written commitment from government on contingent equity support. Achieve profitability within 18 months.", "status": "In Progress" },
+      { "id": "F2208-02", "category": "Revenue", "severity": "Medium", "description": "Codeshare and interline revenue recognition: R420m in codeshare revenue from Air France-KLM and Singapore Airlines not reconciled to BSP reporting. Potential revenue understatement.", "recommendation": "Implement dedicated interline settlement reconciliation process. Appoint specialist interline auditor.", "status": "In Progress" },
+      { "id": "F2208-03", "category": "Asset Valuation", "severity": "Low", "description": "Aircraft maintenance reserves: Three A320 aircraft have maintenance reserves deposited with lessors that are not properly reflected in financial statements as assets.", "recommendation": "Reclassify lessors' maintenance reserves as other receivables. Engage lessors for written confirmation of balances.", "status": "Resolved" }
+    ]
+  },
+  {
+    "id": 2209, "companyId": 12, "companyName": "South African Airways",
+    "auditType": "External Financial Audit", "auditFirm": "BDO South Africa Inc.",
+    "leadAuditor": "Audit Partner: Zanele Nkosi", "startDate": "2023-01-15T00:00:00Z", "endDate": "2023-03-15T00:00:00Z",
+    "status": "Completed", "scope": "Annual Financial Statements for year ended 31 March 2023.",
+    "riskRating": "Critical",
+    "executiveSummary": "Qualified audit opinion. Going concern uncertainty remains fundamental. Negative equity of R1.3bn. Net loss of R1.5bn. Recovery trajectory evident but profitability still 2+ years away. Fuel hedging strategy absence noted as significant risk factor.",
+    "reportReference": "BDO-SAA-2023-AUD-001", "nextAuditDate": "2025-01-15T00:00:00Z",
+    "findings": [
+      { "id": "F2209-01", "category": "Financial Risk", "severity": "High", "description": "No fuel hedging programme in place despite 32% exposure of operating costs to jet fuel price. Jet fuel at $900/MT in FY2023 vs budget of $720/MT added R600m to costs.", "recommendation": "Implement structured fuel hedging programme covering 50% of next 12-month consumption. Appoint treasury risk manager.", "status": "Resolved" },
+      { "id": "F2209-02", "category": "Controls", "severity": "Medium", "description": "Payroll controls post-restructuring: 124 employees appear on payroll with terminated employment contracts in HR system. Risk of fraudulent payments.", "recommendation": "Immediate payroll audit and reconciliation to HR system. Implement monthly payroll sign-off by HR and Finance jointly.", "status": "Resolved" }
+    ]
+  },
+  {
+    "id": 2210, "companyId": 12, "companyName": "South African Airways",
+    "auditType": "Internal Audit", "auditFirm": "SAA Internal Audit Division",
+    "leadAuditor": "Chief Internal Auditor: Andile Zulu", "startDate": "2024-06-01T00:00:00Z", "endDate": "2024-08-31T00:00:00Z",
+    "status": "Completed", "scope": "H1 FY2024/25 review of revenue management, maintenance controls and digital transformation programme.",
+    "riskRating": "Medium",
+    "executiveSummary": "H1 internal audit shows solid control environment for a recently restructured airline. 12 findings noted, all low-to-medium severity. Revenue management system controls strong. Digital transformation programme governance needs strengthening. Fleet maintenance documentation fully compliant.",
+    "reportReference": "SAA-IA-H1-2024", "nextAuditDate": "2025-02-01T00:00:00Z",
+    "findings": [
+      { "id": "F2210-01", "category": "Technology", "severity": "Medium", "description": "Digital transformation programme (DTP) governance: R280m committed without formal project steering committee. Project deviations from original scope not formally approved. Risk of scope creep.", "recommendation": "Establish formal DTP Steering Committee with CFO as sponsor. Implement change control process. Monthly progress reports to EXCO.", "status": "In Progress" },
+      { "id": "F2210-02", "category": "Revenue", "severity": "Low", "description": "Ancillary revenue tracking: Additional baggage fees and seat selection revenue not systematically tracked. Estimated R45m annual ancillary revenue may be understated.", "recommendation": "Implement ancillary revenue reporting module in new PSS system. Establish ancillary revenue KPIs.", "status": "In Progress" }
+    ]
+  },
+  {
+    "id": 2211, "companyId": 13, "companyName": "Denel SOC Limited",
+    "auditType": "External Financial Audit", "auditFirm": "Auditor-General of South Africa (AGSA)",
+    "leadAuditor": "Senior Manager: Boitumelo Mokoena", "startDate": "2025-01-10T00:00:00Z", "endDate": "2025-03-31T00:00:00Z",
+    "status": "In Progress", "scope": "Annual Financial Statements FY2024 including pension fund disclosures and turnaround plan performance information.",
+    "riskRating": "High",
+    "executiveSummary": "Audit in progress. Expected outcome: qualified opinion due to ongoing pension fund deficit accounting complexity. However significant improvement from prior years anticipated. Turnaround plan performance information expected to receive clean assurance.",
+    "reportReference": "AGSA-DENEL-2024-AUD-001", "nextAuditDate": "2026-01-10T00:00:00Z",
+    "findings": [
+      { "id": "F2211-01", "category": "Pension Fund", "severity": "High", "description": "Pension fund deficit accounting: R2.5bn defined benefit obligation not consistently measured. Actuarial assumptions applied by Denel's appointed actuary differ from prior year without adequate justification. AGSA required restatement discussion.", "recommendation": "Appoint independent actuary to confirm actuarial assumptions. Align with IAS 19 requirements. Board Audit Committee to oversee actuarial appointment.", "status": "In Progress" },
+      { "id": "F2211-02", "category": "Compliance", "severity": "Medium", "description": "OHS non-compliance at Swartklip facility: R2.5m fine from DoEL not adequately disclosed in financial statements as contingent liability. Risk of further fines if remediation plan not approved.", "recommendation": "Include OHS fine in contingent liability note. Update remediation plan timeline. Appoint SHEQ compliance officer at Swartklip.", "status": "In Progress" }
+    ]
+  },
+  {
+    "id": 2212, "companyId": 13, "companyName": "Denel SOC Limited",
+    "auditType": "External Financial Audit", "auditFirm": "Auditor-General of South Africa (AGSA)",
+    "leadAuditor": "Senior Manager: Boitumelo Mokoena", "startDate": "2022-10-01T00:00:00Z", "endDate": "2023-03-18T00:00:00Z",
+    "status": "Completed", "scope": "Annual Financial Statements FY2022. Special emphasis on going concern, salary arrears settlement and government assistance.",
+    "riskRating": "Critical",
+    "executiveSummary": "Qualified audit opinion. Material uncertainty about going concern: negative cash flow operations, R1.8bn net loss, and dependence on continued government support. Salary arrears of R3.8bn settled using R3bn emergency government funding noted. State entity grants not meeting GRAP requirements for recognition.",
+    "reportReference": "AGSA-DENEL-2022-AUD-001", "nextAuditDate": "2023-10-01T00:00:00Z",
+    "findings": [
+      { "id": "F2212-01", "category": "Going Concern", "severity": "Critical", "description": "Material going concern uncertainty: Denel has negative operating cash flows, R7.8bn in total liabilities exceeding R9.1bn assets. Continued operation dependent on R3bn emergency government grant and ongoing forbearance from creditors.", "recommendation": "Board to obtain written government commitment for continued support. Turnaround Plan milestones to be achieved within 12 months. Independent financial advisor to review viability.", "status": "Resolved" },
+      { "id": "F2212-02", "category": "Compliance", "severity": "High", "description": "PFMA consequence management: R1.2bn in irregular expenditure identified from 2019-2022. No consequence management actions completed. 8 executives implicated in SCM violations not disciplined.", "recommendation": "Immediately initiate disciplinary proceedings for implicated officials. Submit consequence management progress report to DPE quarterly.", "status": "In Progress" },
+      { "id": "F2212-03", "category": "Human Resources", "severity": "High", "description": "Skills retention crisis documentation: 580 engineers and technical staff resigned due to salary arrears. No formal skills gap assessment conducted. Risk to strategic capabilities in propulsion, guidance and avionics systems.", "recommendation": "Conduct immediate skills gap assessment. Develop skills recovery plan with timeline. Engage universities and CSIR for collaborative programme.", "status": "In Progress" }
+    ]
+  },
+  {
+    "id": 2213, "companyId": 13, "companyName": "Denel SOC Limited",
+    "auditType": "Internal Audit", "auditFirm": "Denel Internal Audit Division",
+    "leadAuditor": "Chief Internal Auditor: Pieter van Rensburg", "startDate": "2024-04-01T00:00:00Z", "endDate": "2024-06-30T00:00:00Z",
+    "status": "Completed", "scope": "Q1 FY2024/25 review of turnaround plan implementation, Rooivalk contract controls and supply chain management.",
+    "riskRating": "Medium",
+    "executiveSummary": "Q1 audit shows positive improvement trajectory. 14 findings compared to 28 in Q1 FY2023. Turnaround plan implementation controls substantially improved. Rooivalk contract management controls strengthened. Skills retention programme showing results.",
+    "reportReference": "DENEL-IA-Q1-2024", "nextAuditDate": "2024-10-01T00:00:00Z",
+    "findings": [
+      { "id": "F2213-01", "category": "Contract Management", "severity": "Medium", "description": "Rooivalk delivery schedule management: Production milestone tracking system not adequately capturing sub-component delays. 4-month delivery delay not escalated to Board for 6 weeks after identification.", "recommendation": "Implement weekly Rooivalk programme review with CEO attendance. Red flag escalation within 5 business days of milestone deviation. Client notification within 10 days.", "status": "Resolved" },
+      { "id": "F2213-02", "category": "Human Resources", "severity": "Low", "description": "Skills retention incentive: R180m retention package disbursed but 22% of beneficiaries did not sign required 2-year service commitment documents. Legal enforceability of retention bonuses at risk.", "recommendation": "Obtain retrospective signed commitments from all beneficiaries. Future retention payments conditional on signed agreement.", "status": "Resolved" }
+    ]
+  },
+  {
+    "id": 2214, "companyId": 13, "companyName": "Denel SOC Limited",
+    "auditType": "Special Purpose Audit", "auditFirm": "SIU - Special Investigating Unit",
+    "leadAuditor": "SIU Head of Investigations", "startDate": "2022-06-01T00:00:00Z", "endDate": "2024-06-30T00:00:00Z",
+    "status": "Completed", "scope": "SIU investigation per Proclamation R28/2020 into Denel procurement irregularities, suspected corruption and maladministration.",
+    "riskRating": "Critical",
+    "executiveSummary": "SIU investigation concluded with R2.1bn in irregular, fruitless and wasteful expenditure confirmed. 14 former employees and 8 external parties referred to NPA for prosecution. Civil asset recovery proceedings initiated. R680m in assets frozen. Turnaround governance improvements noted.",
+    "reportReference": "SIU-DENEL-R28-2020-FINAL", "nextAuditDate": null,
+    "findings": [
+      { "id": "F2214-01", "category": "Corruption", "severity": "Critical", "description": "Contract manipulation: 6 contracts worth R1.4bn awarded to connected parties without competitive procurement. Senior SCM officials and two former executives implicated. False BEE documentation used in two awards.", "recommendation": "Criminal referrals made to NPA. Civil recovery initiated. Denel to implement enhanced BEE verification process for all contracts above R500,000.", "status": "In Progress" },
+      { "id": "F2214-02", "category": "Financial Misconduct", "severity": "High", "description": "Misappropriation of R180m: Transfer of Denel funds to fictitious consultancy companies. Documentation trail indicates former CFO and two division heads involved. Funds partially recovered.", "recommendation": "Full criminal prosecution by NPA. Asset forfeiture proceedings. Insurance claims lodged. R85m recovered to date.", "status": "In Progress" }
+    ]
+  },
+  {
+    "id": 2215, "companyId": 10, "companyName": "Eskom Holdings SOC",
+    "auditType": "Internal Audit", "auditFirm": "Eskom Internal Audit Division",
+    "leadAuditor": "Chief Internal Auditor: Siphiwe Mavundla", "startDate": "2023-04-01T00:00:00Z", "endDate": "2023-06-30T00:00:00Z",
+    "status": "Completed", "scope": "Q1 FY2023/24 review of load shedding management, emergency procurement and coal supply chain.",
+    "riskRating": "High",
+    "executiveSummary": "Load shedding crisis context dominates Q1 audit. 38 findings, highest in 3 years. Emergency procurement controls inadequate. Coal stockpile management critical deficiencies. Multiple deviations from SCM policy under emergency conditions.",
+    "reportReference": "ESK-IA-Q1-2023", "nextAuditDate": "2023-10-01T00:00:00Z",
+    "findings": [
+      { "id": "F2215-01", "category": "Procurement", "severity": "Critical", "description": "Emergency diesel procurement deviations: R1.4bn in OCGT diesel purchases made without competitive quotes. Limited evidence of emergency need justification. Possible price inflation above market rates.", "recommendation": "Implement emergency procurement pre-approved supplier list at fixed rates. All emergency deviations require CFO and CEO dual approval.", "status": "Resolved" },
+      { "id": "F2215-02", "category": "Operational", "severity": "High", "description": "EAF reporting accuracy: Plant availability data submitted to NERSA and the public differed from internal EMS records in 12% of instances. Risk of regulatory misrepresentation.", "recommendation": "Implement automated EAF reporting directly from EMS system. Monthly reconciliation between EMS and external reports by independent reviewer.", "status": "Resolved" }
+    ]
+  },
+  {
+    "id": 2216, "companyId": 11, "companyName": "Transnet SOC Limited",
+    "auditType": "External Financial Audit", "auditFirm": "KPMG Inc.",
+    "leadAuditor": "Audit Partner: Mxolisi Nkosi", "startDate": "2020-07-01T00:00:00Z", "endDate": "2020-09-30T00:00:00Z",
+    "status": "Completed", "scope": "Annual Financial Statements FY2020.",
+    "riskRating": "Medium",
+    "executiveSummary": "Unqualified audit opinion with going concern emphasis. NDP capital programme delivery concerns noted. Preliminary findings on State Capture era contracts raised for first time. COVID-19 operational impact adequately disclosed.",
+    "reportReference": "KPMG-TN-2020-AUD-001", "nextAuditDate": "2021-07-01T00:00:00Z",
+    "findings": [
+      { "id": "F2216-01", "category": "Procurement", "severity": "High", "description": "State Capture procurement: Initial findings indicate R8.6bn in contracts awarded to Gupta-linked entities without adequate competitive procurement. Referral to Board for independent investigation recommended.", "recommendation": "Commission independent forensic investigation. All implicated contracts reviewed for termination. SIU proclamation requested.", "status": "Resolved" },
+      { "id": "F2216-02", "category": "Capital Programme", "severity": "Medium", "description": "NDP project management: R12bn in capital projects overrunning budget by more than 20% without Board-approved contingency authorisation. PMO controls inadequate.", "recommendation": "Implement mandatory Board approval for all capex overruns above 15%. PMO restructuring required.", "status": "Resolved" }
+    ]
+  },
+  {
+    "id": 2217, "companyId": 12, "companyName": "South African Airways",
+    "auditType": "External Financial Audit", "auditFirm": "BDO South Africa Inc.",
+    "leadAuditor": "Audit Partner: Zanele Nkosi", "startDate": "2021-06-01T00:00:00Z", "endDate": "2022-06-15T00:00:00Z",
+    "status": "Completed", "scope": "Annual Financial Statements FY2021 - business rescue period. Special going concern and insolvency accounting considerations.",
+    "riskRating": "Critical",
+    "executiveSummary": "Adverse audit opinion issued. SAA in business rescue during FY2021 with negative equity of R14.5bn. Revenue collapsed to R3.2bn due to COVID-19. Government capital injection of R10.5bn partially mitigated but insolvency risk persistent. Business rescue plan successfully voted through.",
+    "reportReference": "BDO-SAA-2021-AUD-001", "nextAuditDate": "2023-01-15T00:00:00Z",
+    "findings": [
+      { "id": "F2217-01", "category": "Going Concern", "severity": "Critical", "description": "Adverse opinion: Negative equity of R14.5bn, net loss of R7.8bn and negative operating cash flows of R4.8bn indicate that SAA cannot continue as a going concern on its own resources. Business rescue plan is the only viable pathway.", "recommendation": "Business rescue plan to be executed in full. Government equity injection essential. Headcount reduction and cost restructuring non-negotiable.", "status": "Resolved" },
+      { "id": "F2217-02", "category": "Compliance", "severity": "High", "description": "Business rescue fee disclosures: R580m in business rescue practitioner fees inadequately disclosed as related party transactions. Practitioners' independence not sufficiently documented.", "recommendation": "Full disclosure of all business rescue fees in notes to AFS. Independent assessment of practitioner fees by DPE.", "status": "Resolved" }
+    ]
+  },
+  {
+    "id": 2218, "companyId": 13, "companyName": "Denel SOC Limited",
+    "auditType": "External Financial Audit", "auditFirm": "Auditor-General of South Africa (AGSA)",
+    "leadAuditor": "Senior Manager: Boitumelo Mokoena", "startDate": "2024-01-15T00:00:00Z", "endDate": "2024-03-22T00:00:00Z",
+    "status": "Completed", "scope": "Annual Financial Statements FY2023.",
+    "riskRating": "High",
+    "executiveSummary": "Qualified audit opinion. Improvement from prior year. Net loss reduced to R900m. Turnaround plan showing results. Pension fund deficit remains key unresolved audit matter. Skills recovery programme on track. Rooivalk contract signed providing revenue visibility.",
+    "reportReference": "AGSA-DENEL-2023-AUD-001", "nextAuditDate": "2025-01-10T00:00:00Z",
+    "findings": [
+      { "id": "F2218-01", "category": "Pension Fund", "severity": "High", "description": "Denel Pension Fund deficit: R2.5bn defined benefit obligation recognised but recovery plan disclosures insufficient. IAS 19 actuarial gains/losses recognition method needs updating.", "recommendation": "Update actuarial assumptions to current market rates. Enhance IAS 19 disclosures in financial statements. Board to approve comprehensive 15-year funding plan.", "status": "In Progress" },
+      { "id": "F2218-02", "category": "Revenue Recognition", "severity": "Medium", "description": "Percentage completion method applied to Rooivalk contract: R420m revenue recognised in FY2023 on basis of costs incurred. AGSA requires independent technical assessment of completion percentage.", "recommendation": "Obtain independent engineering assessment of Rooivalk completion percentage. Align revenue recognition with independently verified milestones.", "status": "Resolved" }
+    ]
+  },
+  {
+    "id": 2219, "companyId": 10, "companyName": "Eskom Holdings SOC",
+    "auditType": "Internal Audit", "auditFirm": "Eskom Internal Audit Division",
+    "leadAuditor": "Chief Internal Auditor: Siphiwe Mavundla", "startDate": "2022-04-01T00:00:00Z", "endDate": "2022-06-30T00:00:00Z",
+    "status": "Completed", "scope": "Q1 FY2022/23 audit focused on coal procurement, plant maintenance and Kusile construction controls.",
+    "riskRating": "High",
+    "executiveSummary": "Significant deficiencies in coal supply chain management at 8 stations. Kusile Units 4-6 construction controls inadequate. Stage 4-6 load shedding forecast imminent based on EAF trajectory. 45 findings - highest in company history.",
+    "reportReference": "ESK-IA-Q1-2022", "nextAuditDate": "2022-10-01T00:00:00Z",
+    "findings": [
+      { "id": "F2219-01", "category": "Supply Chain", "severity": "Critical", "description": "Coal stockpile at 9 stations below critical 20-day threshold. Spot purchase deviations from SCM policy at all 9 stations. Price premiums paid without formal justification at Matimba, Lethabo and Kendal stations.", "recommendation": "Immediate emergency measures: CEO authorised emergency procurement. Weekly stockpile reporting to EXCO. Quarterly deviation report to Board.", "status": "Resolved" },
+      { "id": "F2219-02", "category": "Construction", "severity": "High", "description": "Kusile Unit 5 and 6 construction: Quality control deviations from approved design specifications at boiler secondary air ports. Risk of repeat Kusile units 3 design fault causing future outages.", "recommendation": "Independent engineering review of Units 5 and 6. Eskom engineer of record sign-off on all future construction deviations. CDM Smith independent technical oversight.", "status": "Resolved" }
+    ]
+  },
+  {
+    "id": 2220, "companyId": 11, "companyName": "Transnet SOC Limited",
+    "auditType": "External Financial Audit", "auditFirm": "KPMG Inc.",
+    "leadAuditor": "Audit Partner: Mxolisi Nkosi", "startDate": "2021-07-01T00:00:00Z", "endDate": "2021-09-30T00:00:00Z",
+    "status": "Completed", "scope": "Annual Financial Statements FY2021.",
+    "riskRating": "High",
+    "executiveSummary": "Unqualified opinion with going concern emphasis and State Capture emphasis of matter. R14bn in State Capture-era contracts under forensic investigation. COVID-19 impact fully disclosed. SATAWU strike risk noted.",
+    "reportReference": "KPMG-TN-2021-AUD-001", "nextAuditDate": "2022-07-01T00:00:00Z",
+    "findings": [
+      { "id": "F2220-01", "category": "Compliance", "severity": "Critical", "description": "R14bn State Capture contracts: Forensic investigation confirms R14bn in irregular contracts. Multiple senior executives implicated. Criminal referrals to NPA. SIU investigation underway per Proclamation R29/2019.", "recommendation": "Continue full cooperation with SIU. Accelerate disciplinary proceedings. Terminate remaining implicated contracts with legal safeguards.", "status": "In Progress" },
+      { "id": "F2220-02", "category": "Debt Management", "severity": "Medium", "description": "Covenant compliance: Three loan agreements require minimum debt service coverage ratio of 1.5x. Transnet FY2021 DSCR at 1.42x, breaching covenants. Waivers obtained but covenant risk elevated.", "recommendation": "Negotiate covenant reset with lenders. Improve DSCR through operational cash flow improvement. Board to approve formal covenant management framework.", "status": "Resolved" }
+    ]
+  },
+  {
+    "id": 2221, "companyId": 12, "companyName": "South African Airways",
+    "auditType": "External Financial Audit", "auditFirm": "BDO South Africa Inc.",
+    "leadAuditor": "Audit Partner: Zanele Nkosi", "startDate": "2022-10-01T00:00:00Z", "endDate": "2023-03-20T00:00:00Z",
+    "status": "Completed", "scope": "Annual Financial Statements FY2022.",
+    "riskRating": "High",
+    "executiveSummary": "Qualified audit opinion. First post-rescue AFS. Revenue R9.4bn but still negative equity. Going concern emphasis. Significant internal control weaknesses in new IT systems. Fuel hedging absence flagged as material risk.",
+    "reportReference": "BDO-SAA-2022-AUD-001", "nextAuditDate": "2024-01-15T00:00:00Z",
+    "findings": [
+      { "id": "F2221-01", "category": "Financial Risk", "severity": "High", "description": "Fuel hedging absence: SAA has no fuel hedging programme despite volatile jet fuel prices. A 20% fuel price increase would add R600m to costs. Fuel represents 35% of operating expenditure.", "recommendation": "Implement structured fuel hedging programme within 90 days. Appoint treasury risk specialist. Board to approve hedging policy.", "status": "Resolved" },
+      { "id": "F2221-02", "category": "Information Technology", "severity": "Medium", "description": "Post-migration IT controls: SAA migrated to new Amadeus platform post-rescue but access controls and reconciliation processes not fully implemented. R120m reconciliation gap between booking system and bank receipts.", "recommendation": "Implement full IT controls programme for Amadeus. Daily reconciliation to bank account. Appoint dedicated IT audit resource.", "status": "Resolved" }
+    ]
+  },
+  {
+    "id": 2222, "companyId": 10, "companyName": "Eskom Holdings SOC",
+    "auditType": "External Financial Audit", "auditFirm": "Auditor-General of South Africa (AGSA)",
+    "leadAuditor": "Deputy Auditor-General: Cornelius Diale", "startDate": "2022-08-01T00:00:00Z", "endDate": "2022-11-30T00:00:00Z",
+    "status": "Completed", "scope": "Annual Financial Statements FY2022.",
+    "riskRating": "High",
+    "executiveSummary": "Qualified audit opinion. Net loss R12.3bn. R3.2bn irregular expenditure. Debt R418bn. Emphasis on going concern. Coal supply chain management deficiencies noted. Kusile Unit 3 design fault disclosure concerns.",
+    "reportReference": "AGSA-ESK-2022-AUD-001", "nextAuditDate": "2023-08-01T00:00:00Z",
+    "findings": [
+      { "id": "F2222-01", "category": "Compliance", "severity": "High", "description": "R3.2bn irregular expenditure: Emergency procurement deviations, maintenance contract deviations and information technology procurement irregularities.", "recommendation": "Full SCM compliance review. Consequence management for all deviations. Board oversight strengthened.", "status": "Resolved" },
+      { "id": "F2222-02", "category": "Asset Management", "severity": "Medium", "description": "Kusile Unit 3 design fault: Secondary air port design deficiency at Kusile not adequately disclosed as a contingent liability. R4.8bn rectification cost understated.", "recommendation": "Obtain independent engineering cost estimate. Disclose full rectification liability in next AFS. Expedite design fix on Units 4-6.", "status": "Resolved" }
+    ]
+  },
+  {
+    "id": 2223, "companyId": 13, "companyName": "Denel SOC Limited",
+    "auditType": "External Financial Audit", "auditFirm": "Auditor-General of South Africa (AGSA)",
+    "leadAuditor": "Senior Manager: Boitumelo Mokoena", "startDate": "2021-10-01T00:00:00Z", "endDate": "2022-03-20T00:00:00Z",
+    "status": "Completed", "scope": "Annual Financial Statements FY2021.",
+    "riskRating": "Critical",
+    "executiveSummary": "Adverse audit opinion. Deepest financial crisis in Denel history. Net loss R2.3bn, negative cash flows, salary arrears R3.8bn. Government emergency grant R3bn partially offsetting but not sufficient. Critical skills exodus. Pension deficit R2.5bn.",
+    "reportReference": "AGSA-DENEL-2021-AUD-001", "nextAuditDate": "2022-10-01T00:00:00Z",
+    "findings": [
+      { "id": "F2223-01", "category": "Going Concern", "severity": "Critical", "description": "Adverse opinion: Denel cannot continue as a going concern. Zero cash balance, R3.8bn salary arrears, negative equity approaching. Pension deficit R2.5bn. Only government guarantee prevents formal insolvency.", "recommendation": "Immediate government intervention required. Cabinet approval for R3bn emergency grant. Turnaround plan mandatory. Board composition overhaul.", "status": "Resolved" },
+      { "id": "F2223-02", "category": "HR", "severity": "Critical", "description": "580 engineers and technicians resigned or absconded due to salary non-payment. Certain weapons system capabilities now below operationally viable staff levels. Risk to SANDF operational readiness.", "recommendation": "Emergency salary payments. Retention packages for critical staff. SANDF impact assessment. University collaboration to rebuild capabilities.", "status": "In Progress" },
+      { "id": "F2223-03", "category": "Compliance", "severity": "High", "description": "R2.3bn in irregular expenditure: Legacy from 2016-2021 period. Multiple procurement processes manipulated. Former CEO, CFO and divisional directors implicated by internal forensic report.", "recommendation": "NPA criminal referrals. Asset attachment orders. Consequence management for all implicated personnel.", "status": "In Progress" }
+    ]
+  },
+  {
+    "id": 2224, "companyId": 11, "companyName": "Transnet SOC Limited",
+    "auditType": "Internal Audit", "auditFirm": "Transnet Group Internal Audit",
+    "leadAuditor": "Chief Internal Auditor: Nomathemba Kunene", "startDate": "2023-04-01T00:00:00Z", "endDate": "2023-06-30T00:00:00Z",
+    "status": "Completed", "scope": "Q1 FY2023/24 review of port recovery plan controls, locomotive programme and pipeline integrity.",
+    "riskRating": "High",
+    "executiveSummary": "Q1 audit focused on Recovery Plan implementation readiness. 24 findings. Port operations controls significantly weak. Cable theft prevention programme controls adequate. Locomotive delivery tracking inadequate.",
+    "reportReference": "TN-IA-Q1-2024", "nextAuditDate": "2023-11-01T00:00:00Z",
+    "findings": [
+      { "id": "F2224-01", "category": "Operational", "severity": "High", "description": "Port Recovery Plan KPI baseline data inaccurate: 3 of 8 KPI baselines for the Recovery Plan were based on system data not reconciled to manual logs. Throughput baseline overstated by 12%, making targets appear easier than reality.", "recommendation": "Recalibrate all Recovery Plan KPI baselines using reconciled data. Independent verification of baseline data by internal audit quarterly.", "status": "Resolved" },
+      { "id": "F2224-02", "category": "IT Systems", "severity": "Medium", "description": "Freight Rail TMS system downtime: Terminal Management System at Johannesburg marshalling yard experienced 48 hours of unplanned downtime in Q1 causing R280m in delayed freight revenue.", "recommendation": "Implement TMS high-availability architecture. DR testing quarterly. SLA with IT vendor to include 4-hour recovery time objective.", "status": "Resolved" }
+    ]
+  },
+  {
+    "id": 2225, "companyId": 10, "companyName": "Eskom Holdings SOC",
+    "auditType": "External Financial Audit", "auditFirm": "Auditor-General of South Africa (AGSA)",
+    "leadAuditor": "Deputy Auditor-General: Cornelius Diale", "startDate": "2020-08-01T00:00:00Z", "endDate": "2020-11-30T00:00:00Z",
+    "status": "Completed", "scope": "Annual Financial Statements FY2020. First year of major COVID-19 impact.",
+    "riskRating": "High",
+    "executiveSummary": "Qualified audit opinion. Net loss R20.5bn. Debt R418bn. Going concern emphasis. COVID-19 electricity demand reduction adequately disclosed. Escalating irregular expenditure trend of concern. Stage 2-4 load shedding disclosed as risk.",
+    "reportReference": "AGSA-ESK-2020-AUD-001", "nextAuditDate": "2021-08-01T00:00:00Z",
+    "findings": [
+      { "id": "F2225-01", "category": "Compliance", "severity": "High", "description": "Irregular expenditure R2.1bn: Deviations in coal procurement (R980m), maintenance contracts (R640m) and IT procurement (R480m). COVID-19 emergency protocols improperly invoked for non-COVID procurement.", "recommendation": "COVID-19 procurement protocols to be applied strictly. All deviations require CEO and CFO dual approval. Post-COVID procurement review to be conducted.", "status": "Resolved" },
+      { "id": "F2225-02", "category": "Financial Risk", "severity": "Critical", "description": "Debt sustainability: R418bn debt with R32bn maturing within 12 months. Government guarantee ceiling of R350bn nearly exhausted. Without debt relief, Eskom will breach financial covenants by FY2022.", "recommendation": "Government debt relief essential. National Treasury to commit to at least R200bn debt assumption. Accelerate MYPD tariff increase applications.", "status": "Resolved" }
+    ]
+  }
+]

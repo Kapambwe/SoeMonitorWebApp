@@ -1,0 +1,57 @@
+[
+  {
+    "id": "eskom-001",
+    "username": "dan.marokane@eskom.co.za",
+    "firstName": "Dan",
+    "lastName": "Marokane",
+    "email": "dan.marokane@eskom.co.za",
+    "roles": ["CEO", "Administrator"],
+    "password": "Test123!",
+    "department": "Executive",
+    "title": "Group Chief Executive"
+  },
+  {
+    "id": "eskom-002",
+    "username": "calib.cassim@eskom.co.za",
+    "firstName": "Calib",
+    "lastName": "Cassim",
+    "email": "calib.cassim@eskom.co.za",
+    "roles": ["CFO"],
+    "password": "Test123!",
+    "department": "Finance",
+    "title": "Chief Financial Officer"
+  },
+  {
+    "id": "eskom-003",
+    "username": "nondumiso.mthembu@eskom.co.za",
+    "firstName": "Nondumiso",
+    "lastName": "Mthembu",
+    "email": "nondumiso.mthembu@eskom.co.za",
+    "roles": ["Compliance Officer"],
+    "password": "Test123!",
+    "department": "Legal & Compliance",
+    "title": "Group Compliance Officer"
+  },
+  {
+    "id": "eskom-004",
+    "username": "thabo.nkosi@eskom.co.za",
+    "firstName": "Thabo",
+    "lastName": "Nkosi",
+    "email": "thabo.nkosi@eskom.co.za",
+    "roles": ["Board Secretary"],
+    "password": "Test123!",
+    "department": "Board Affairs",
+    "title": "Company Secretary"
+  },
+  {
+    "id": "eskom-005",
+    "username": "zodwa.dlamini@eskom.co.za",
+    "firstName": "Zodwa",
+    "lastName": "Dlamini",
+    "email": "zodwa.dlamini@eskom.co.za",
+    "roles": ["Auditor"],
+    "password": "Test123!",
+    "department": "Internal Audit",
+    "title": "Chief Audit Executive"
+  }
+]

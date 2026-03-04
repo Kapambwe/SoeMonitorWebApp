@@ -1,0 +1,1424 @@
+[
+  {
+    "id": 1,
+    "workflowType": "FinancialReport",
+    "entityType": "FinancialReport",
+    "entityId": 1,
+    "initiatedBy": "ZESCO CFO",
+    "initiatedDate": "2025-01-10T09:00:00",
+    "currentStep": "Ministry Approval",
+    "status": "Completed",
+    "completedDate": "2025-02-15T16:00:00",
+    "completedBy": "Wallen Sensele (PS Ministry of Energy)",
+    "rejectionReason": null,
+    "approvalHistory": [
+      {
+        "stepName": "CFO Review",
+        "approvedBy": "Victor Mundende (CFO)",
+        "completedDate": "2025-01-12T14:00:00",
+        "comments": "Financials reviewed and verified. All figures reconciled. Revenue recognised at ZMW 3,850,000,000 in line with ERB-approved tariff schedule."
+      },
+      {
+        "stepName": "Internal Audit Review",
+        "approvedBy": "Kasonde Mwenda (Head of Internal Audit)",
+        "completedDate": "2025-01-15T11:00:00",
+        "comments": "No material issues found. Minor disclosure improvements recommended on related-party transactions. Actioned by management."
+      },
+      {
+        "stepName": "Board Audit Committee",
+        "approvedBy": "Monde Sitwala (Audit Committee Chair)",
+        "completedDate": "2025-01-20T10:00:00",
+        "comments": "Committee satisfied with financial statements and audit findings from PwC. Recommended for full board adoption."
+      },
+      {
+        "stepName": "Full Board Approval",
+        "approvedBy": "Dr. Mutale Nalumango (Board Chair)",
+        "completedDate": "2025-01-25T15:00:00",
+        "comments": "Board approved FY2024 financial statements unanimously. Net loss of ZMW 210,000,000 noted; management directed to prioritise tariff rationalisation."
+      },
+      {
+        "stepName": "Ministry Submission",
+        "approvedBy": "Victor Mundende (CFO)",
+        "completedDate": "2025-02-01T10:00:00",
+        "comments": "Audited financial statements submitted to Ministry of Energy with board approval resolution and covering letter."
+      },
+      {
+        "stepName": "Ministry Approval",
+        "approvedBy": "Wallen Sensele (PS Ministry of Energy)",
+        "completedDate": "2025-02-15T16:00:00",
+        "comments": "Ministry acknowledges receipt and approves FY2024 financial statements. Copy forwarded to ERB and Ministry of Finance as required."
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "workflowType": "DividendApproval",
+    "entityType": "DividendPayment",
+    "entityId": 2,
+    "initiatedBy": "ZESCO CFO",
+    "initiatedDate": "2025-01-20T08:00:00",
+    "currentStep": "Ministry Notification",
+    "status": "InProgress",
+    "completedDate": null,
+    "completedBy": null,
+    "rejectionReason": null,
+    "approvalHistory": [
+      {
+        "stepName": "CFO Calculation",
+        "approvedBy": "Victor Mundende (CFO)",
+        "completedDate": "2025-01-22T14:00:00",
+        "comments": "Interim dividend of ZMW 85,000,000 calculated, representing 30% of H1 2024 after-tax profit per MoF-DIR-2023-018. Cash flow adequacy confirmed post-payment."
+      },
+      {
+        "stepName": "CEO Endorsement",
+        "approvedBy": "Bwalya Chalwe (CEO)",
+        "completedDate": "2025-01-27T11:00:00",
+        "comments": "CEO endorses dividend proposal. Confirms ZESCO liquidity position is adequate and BoZ has no objection."
+      },
+      {
+        "stepName": "Board Approval",
+        "approvedBy": "Dr. Mutale Nalumango (Board Chair)",
+        "completedDate": "2025-02-05T15:00:00",
+        "comments": "Board approves interim dividend of ZMW 85,000,000. Payment to be processed upon Ministry of Finance notification and acknowledgement."
+      },
+      {
+        "stepName": "Ministry Notification",
+        "approvedBy": null,
+        "completedDate": null,
+        "comments": "Notification letter submitted to Ministry of Finance on 10 February 2025. Awaiting acknowledgement before processing payment."
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "workflowType": "BudgetApproval",
+    "entityType": "BudgetPlan",
+    "entityId": 3,
+    "initiatedBy": "ZESCO CFO",
+    "initiatedDate": "2024-09-05T09:00:00",
+    "currentStep": "Ministry Approval",
+    "status": "Completed",
+    "completedDate": "2024-11-20T14:00:00",
+    "completedBy": "Wallen Sensele (PS Ministry of Energy)",
+    "rejectionReason": null,
+    "approvalHistory": [
+      {
+        "stepName": "Department Consolidation",
+        "approvedBy": "Victor Mundende (CFO)",
+        "completedDate": "2024-09-20T17:00:00",
+        "comments": "FY2025 departmental budgets consolidated. Total operating budget ZMW 4,200,000,000. Capital expenditure ZMW 890,000,000 for transmission upgrades and smart metering rollout."
+      },
+      {
+        "stepName": "CFO Review",
+        "approvedBy": "Victor Mundende (CFO)",
+        "completedDate": "2024-10-01T14:00:00",
+        "comments": "Budget reviewed and aligned with ZESCO 5-year strategic plan. Variance analysis against FY2024 actuals reviewed. Revenue projections based on ERB tariff review outcome."
+      },
+      {
+        "stepName": "CEO Approval",
+        "approvedBy": "Bwalya Chalwe (CEO)",
+        "completedDate": "2024-10-10T11:00:00",
+        "comments": "CEO approves budget for board presentation. Capital expenditure phasing reviewed to reflect AMI procurement schedule."
+      },
+      {
+        "stepName": "Board Finance Committee",
+        "approvedBy": "Sitali Mwanza (Finance Committee Chair)",
+        "completedDate": "2024-10-25T15:00:00",
+        "comments": "Finance Committee reviewed budget in detail. Recommends approval with minor reduction to administration overheads. Management to revert with revised figures."
+      },
+      {
+        "stepName": "Full Board Approval",
+        "approvedBy": "Dr. Mutale Nalumango (Board Chair)",
+        "completedDate": "2024-11-05T10:00:00",
+        "comments": "Board approved FY2025 budget of ZMW 4,200,000,000 subject to Ministry of Energy concurrence. Revised admin overheads confirmed."
+      },
+      {
+        "stepName": "Ministry Approval",
+        "approvedBy": "Wallen Sensele (PS Ministry of Energy)",
+        "completedDate": "2024-11-20T14:00:00",
+        "comments": "Ministry of Energy approves ZESCO FY2025 budget. Budget circular issued to all business units effective 1 December 2024."
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "workflowType": "AuditReport",
+    "entityType": "AuditRecord",
+    "entityId": 4,
+    "initiatedBy": "Kasonde Mwenda (Head of Internal Audit)",
+    "initiatedDate": "2024-10-01T09:00:00",
+    "currentStep": "Board Audit Committee",
+    "status": "PendingApproval",
+    "completedDate": null,
+    "completedBy": null,
+    "rejectionReason": null,
+    "approvalHistory": [
+      {
+        "stepName": "Internal Audit Preparation",
+        "approvedBy": "Kasonde Mwenda (Head of Internal Audit)",
+        "completedDate": "2024-10-20T17:00:00",
+        "comments": "Q3 2024 internal audit report finalised. 3 high-risk findings (procurement controls and IT access management) and 8 medium-risk findings identified. Management responses and action plans attached."
+      },
+      {
+        "stepName": "CFO Review",
+        "approvedBy": "Victor Mundende (CFO)",
+        "completedDate": "2024-10-28T14:00:00",
+        "comments": "Management responses reviewed and updated. Action owners and implementation timelines confirmed for all high-risk findings."
+      },
+      {
+        "stepName": "Board Audit Committee",
+        "approvedBy": null,
+        "completedDate": null,
+        "comments": "Report scheduled for presentation at Board Audit Committee meeting on 15 November 2024."
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "workflowType": "ContractApproval",
+    "entityType": "Contract",
+    "entityId": 5,
+    "initiatedBy": "Lubuto Kapasa (Chief Procurement Officer)",
+    "initiatedDate": "2024-11-01T10:00:00",
+    "currentStep": "Board Approval",
+    "status": "InProgress",
+    "completedDate": null,
+    "completedBy": null,
+    "rejectionReason": null,
+    "approvalHistory": [
+      {
+        "stepName": "Procurement Evaluation",
+        "approvedBy": "Lubuto Kapasa (Chief Procurement Officer)",
+        "completedDate": "2024-11-15T17:00:00",
+        "comments": "Procurement evaluation completed for AMI smart meters. Recommended supplier: Landis+Gyr Zambia at ZMW 287,000,000 for 500,000 units. Three bidders evaluated."
+      },
+      {
+        "stepName": "CFO Review",
+        "approvedBy": "Victor Mundende (CFO)",
+        "completedDate": "2024-11-22T14:00:00",
+        "comments": "Contract value within approved budget allocation of ZMW 310,000,000. Payment terms: 30% advance, 60% on delivery, 10% on commissioning. Recommend approval."
+      },
+      {
+        "stepName": "CEO Approval",
+        "approvedBy": "Bwalya Chalwe (CEO)",
+        "completedDate": "2024-11-28T11:00:00",
+        "comments": "CEO approves contract for Board consideration. ZMW 287,000,000 value exceeds CEO approval authority threshold of ZMW 100,000,000."
+      },
+      {
+        "stepName": "Board Approval",
+        "approvedBy": null,
+        "completedDate": null,
+        "comments": "Contract tabled for Board approval at December 2024 Board meeting."
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "workflowType": "InvestmentApproval",
+    "entityType": "InvestmentProject",
+    "entityId": 6,
+    "initiatedBy": "Bwalya Chalwe (CEO)",
+    "initiatedDate": "2023-06-01T09:00:00",
+    "currentStep": "Ministry Approval",
+    "status": "Completed",
+    "completedDate": "2023-10-15T11:00:00",
+    "completedBy": "Wallen Sensele (PS Ministry of Energy)",
+    "rejectionReason": null,
+    "approvalHistory": [
+      {
+        "stepName": "Technical Review",
+        "approvedBy": "Chishimba Musonda (Chief Technical Officer)",
+        "completedDate": "2023-06-20T15:00:00",
+        "comments": "Technical feasibility confirmed for Kafue Gorge Lower 750 MW extension. Engineering specifications and hydrological assessments reviewed and approved."
+      },
+      {
+        "stepName": "Financial Analysis",
+        "approvedBy": "Victor Mundende (CFO)",
+        "completedDate": "2023-07-10T14:00:00",
+        "comments": "NPV of ZMW 2,100,000,000 confirmed over 25-year project life. Financing structure: 70% concessional debt (AfDB/World Bank), 30% GRZ equity injection. IRR of 14.2%."
+      },
+      {
+        "stepName": "CEO Endorsement",
+        "approvedBy": "Bwalya Chalwe (CEO)",
+        "completedDate": "2023-07-25T11:00:00",
+        "comments": "Investment strategically critical for national energy security and aligns with Zambia 8,000 MW generation target. CEO recommends board approval."
+      },
+      {
+        "stepName": "Board Approval",
+        "approvedBy": "Dr. Mutale Nalumango (Board Chair)",
+        "completedDate": "2023-08-15T10:00:00",
+        "comments": "Board unanimously approves investment. Total capital commitment of ZMW 8,400,000,000 authorised subject to Ministry of Energy and Ministry of Finance concurrence."
+      },
+      {
+        "stepName": "Ministry Approval",
+        "approvedBy": "Wallen Sensele (PS Ministry of Energy)",
+        "completedDate": "2023-10-15T11:00:00",
+        "comments": "Ministry of Energy approves Kafue Gorge Lower extension investment. GRZ equity injection of ZMW 2,520,000,000 confirmed in 2024 MTEF. EPC tender to proceed."
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "workflowType": "GovernanceCompliance",
+    "entityType": "ComplianceItem",
+    "entityId": 7,
+    "initiatedBy": "Chilufya Banda (Company Secretary)",
+    "initiatedDate": "2024-02-01T09:00:00",
+    "currentStep": "ERB Submission",
+    "status": "Completed",
+    "completedDate": "2024-04-30T15:00:00",
+    "completedBy": "Dr. Mwimba Malama (ERB Director General)",
+    "rejectionReason": null,
+    "approvalHistory": [
+      {
+        "stepName": "Compliance Assessment",
+        "approvedBy": "Chilufya Banda (Company Secretary)",
+        "completedDate": "2024-02-20T17:00:00",
+        "comments": "Annual ERB licence compliance self-assessment completed. 42 of 45 licence conditions fully compliant. Three conditions partially compliant with documented remediation plans and timelines."
+      },
+      {
+        "stepName": "CFO Review",
+        "approvedBy": "Victor Mundende (CFO)",
+        "completedDate": "2024-03-05T14:00:00",
+        "comments": "Financial compliance conditions verified: tariff reporting, financial disclosure, and ring-fenced accounts all confirmed compliant."
+      },
+      {
+        "stepName": "Board Audit Committee",
+        "approvedBy": "Monde Sitwala (Audit Committee Chair)",
+        "completedDate": "2024-03-20T10:00:00",
+        "comments": "Committee reviewed compliance report and is satisfied with management remediation plans for the three partial compliance items."
+      },
+      {
+        "stepName": "ERB Submission",
+        "approvedBy": "Dr. Mwimba Malama (ERB Director General)",
+        "completedDate": "2024-04-30T15:00:00",
+        "comments": "ERB acknowledges receipt of annual compliance report. ZESCO operating licence in good standing. Next scheduled review April 2025."
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "workflowType": "FinancialReport",
+    "entityType": "FinancialReport",
+    "entityId": 8,
+    "initiatedBy": "Chilufya Mwamba (CFO)",
+    "initiatedDate": "2024-02-05T09:00:00",
+    "currentStep": "Ministry Submission",
+    "status": "Completed",
+    "completedDate": "2024-04-30T10:00:00",
+    "completedBy": "Mukuli Chikuba (PS Ministry of Finance)",
+    "rejectionReason": null,
+    "approvalHistory": [
+      {
+        "stepName": "CFO Review",
+        "approvedBy": "Chilufya Mwamba (CFO)",
+        "completedDate": "2024-02-20T14:00:00",
+        "comments": "FY2023 consolidated financial statements reviewed. Portfolio valuation, equity accounting, and revenue recognition consistent with prior year. Total assets ZMW 3,500,000,000."
+      },
+      {
+        "stepName": "Internal Audit Review",
+        "approvedBy": "Lubuto Mwelwa (Head of Internal Audit)",
+        "completedDate": "2024-03-05T11:00:00",
+        "comments": "Intercompany elimination schedule verified. Two minor misclassifications between operating and capital expenditure corrected."
+      },
+      {
+        "stepName": "Board Audit Committee",
+        "approvedBy": "Dr. Mwelwa Chibesakunda (Board Chair)",
+        "completedDate": "2024-03-20T10:00:00",
+        "comments": "Audit Committee satisfied with financial statements and Ernst and Young audit findings. Recommended for full board adoption."
+      },
+      {
+        "stepName": "Full Board Approval",
+        "approvedBy": "Dr. Mwelwa Chibesakunda (Board Chair)",
+        "completedDate": "2024-04-05T15:00:00",
+        "comments": "IDC Board adopted FY2023 financial statements. Net profit ZMW 215,000,000. Dividend resolution of ZMW 64,500,000 to GRZ approved separately."
+      },
+      {
+        "stepName": "Ministry Submission",
+        "approvedBy": "Mukuli Chikuba (PS Ministry of Finance)",
+        "completedDate": "2024-04-30T10:00:00",
+        "comments": "Ministry of Finance acknowledges receipt of IDC FY2023 audited financial statements. Submitted within 90-day statutory requirement. Forwarded to State Audit Office."
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "workflowType": "InvestmentApproval",
+    "entityType": "InvestmentProject",
+    "entityId": 9,
+    "initiatedBy": "Mushaukwa Mushaukwa (CEO)",
+    "initiatedDate": "2024-10-15T09:00:00",
+    "currentStep": "Ministry Approval",
+    "status": "InProgress",
+    "completedDate": null,
+    "completedBy": null,
+    "rejectionReason": null,
+    "approvalHistory": [
+      {
+        "stepName": "Due Diligence Review",
+        "approvedBy": "Kondwani Phiri (Investment Director)",
+        "completedDate": "2024-10-30T15:00:00",
+        "comments": "Due diligence on proposed ZMW 180,000,000 stake acquisition in Zambia Agro-Processing Limited completed. Financial health, market position, and management team assessed as satisfactory."
+      },
+      {
+        "stepName": "CFO Financial Analysis",
+        "approvedBy": "Chilufya Mwamba (CFO)",
+        "completedDate": "2024-11-10T14:00:00",
+        "comments": "Financial model reviewed. IRR of 18% over 10 years. Acquisition price at 8x EBITDA in line with comparable transactions. Funding from IDC internal reserves."
+      },
+      {
+        "stepName": "CEO Endorsement",
+        "approvedBy": "Mushaukwa Mushaukwa (CEO)",
+        "completedDate": "2024-11-20T11:00:00",
+        "comments": "Investment aligned with IDC agro-industrialisation pillar. Job creation impact: approximately 1,200 direct jobs. CEO endorses for Board Investment Committee."
+      },
+      {
+        "stepName": "Board Investment Committee",
+        "approvedBy": "Chanda Zimba (Investment Committee Chair)",
+        "completedDate": "2024-12-05T10:00:00",
+        "comments": "Board Investment Committee approves investment subject to GRZ shareholder concurrence. Management directed to proceed to Ministry of Finance."
+      },
+      {
+        "stepName": "Ministry Approval",
+        "approvedBy": null,
+        "completedDate": null,
+        "comments": "Submission made to Ministry of Finance on 12 December 2024. Awaiting GRZ shareholder concurrence letter."
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "workflowType": "DividendApproval",
+    "entityType": "DividendPayment",
+    "entityId": 10,
+    "initiatedBy": "Chilufya Mwamba (CFO)",
+    "initiatedDate": "2024-07-01T09:00:00",
+    "currentStep": "Treasury Disbursement",
+    "status": "Completed",
+    "completedDate": "2024-09-30T15:00:00",
+    "completedBy": "GRZ Consolidated Fund",
+    "rejectionReason": null,
+    "approvalHistory": [
+      {
+        "stepName": "CFO Calculation",
+        "approvedBy": "Chilufya Mwamba (CFO)",
+        "completedDate": "2024-07-10T14:00:00",
+        "comments": "FY2023 dividend calculated at ZMW 64,500,000 (30% of after-tax profit of ZMW 215,000,000 per MoF-DIR-2023-018). Verified against audited accounts and EY audit report."
+      },
+      {
+        "stepName": "CEO Endorsement",
+        "approvedBy": "Mushaukwa Mushaukwa (CEO)",
+        "completedDate": "2024-07-18T11:00:00",
+        "comments": "CEO endorses dividend distribution. IDC liquidity position confirmed adequate post-payment. Investment pipeline capacity maintained."
+      },
+      {
+        "stepName": "Board Approval",
+        "approvedBy": "Dr. Mwelwa Chibesakunda (Board Chair)",
+        "completedDate": "2024-08-05T10:00:00",
+        "comments": "Board approves FY2023 dividend of ZMW 64,500,000 for remittance to GRZ. Payment to be completed by 30 September 2024 per directive requirements."
+      },
+      {
+        "stepName": "Ministry Notification",
+        "approvedBy": "Mukuli Chikuba (PS Ministry of Finance)",
+        "completedDate": "2024-08-20T15:00:00",
+        "comments": "Ministry of Finance acknowledges dividend notification. Bank account details for GRZ consolidated fund confirmed."
+      },
+      {
+        "stepName": "Treasury Disbursement",
+        "approvedBy": "GRZ Consolidated Fund",
+        "completedDate": "2024-09-30T15:00:00",
+        "comments": "Dividend of ZMW 64,500,000 successfully transferred to GRZ consolidated fund. Bank reference: IDC-DIV-FY2023-001. Receipt confirmed from Ministry of Finance."
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "workflowType": "BoardResolution",
+    "entityType": "BoardMeeting",
+    "entityId": 11,
+    "initiatedBy": "Mirriam Zimba (Company Secretary)",
+    "initiatedDate": "2024-08-01T09:00:00",
+    "currentStep": "CEO Review",
+    "status": "OnHold",
+    "completedDate": null,
+    "completedBy": null,
+    "rejectionReason": null,
+    "approvalHistory": [
+      {
+        "stepName": "Company Secretary Draft",
+        "approvedBy": "Mirriam Zimba (Company Secretary)",
+        "completedDate": "2024-08-15T17:00:00",
+        "comments": "Board resolution on Maamba Collieries divestiture drafted. Resolution authorises management to engage transaction advisors and initiate a competitive sale process per MoF-DIR-2024-005 portfolio rationalisation requirements."
+      },
+      {
+        "stepName": "Legal Review",
+        "approvedBy": "Kelvin Sakala (General Counsel)",
+        "completedDate": "2024-08-28T14:00:00",
+        "comments": "Resolution text reviewed. Consistent with IDC Act, Companies Act 2017, and Ministry of Finance shareholder instructions. Environmental liability provision added as a pre-condition to transfer of title."
+      },
+      {
+        "stepName": "CEO Review",
+        "approvedBy": null,
+        "completedDate": null,
+        "comments": "On hold pending completion of independent asset valuation by Grant Thornton. Valuation report expected December 2024. CEO review and board presentation to resume upon receipt."
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "workflowType": "GovernanceCompliance",
+    "entityType": "ComplianceItem",
+    "entityId": 12,
+    "initiatedBy": "Mirriam Zimba (Company Secretary)",
+    "initiatedDate": "2024-11-01T09:00:00",
+    "currentStep": "CEO Sign-off",
+    "status": "InProgress",
+    "completedDate": null,
+    "completedBy": null,
+    "rejectionReason": null,
+    "approvalHistory": [
+      {
+        "stepName": "Framework Development",
+        "approvedBy": "Mirriam Zimba (Company Secretary)",
+        "completedDate": "2024-11-20T17:00:00",
+        "comments": "GRI Standards-aligned ESG reporting framework developed. Materiality assessment completed with 12 material topics identified. Data collection templates distributed to all subsidiaries and portfolio companies."
+      },
+      {
+        "stepName": "Internal Review",
+        "approvedBy": "Lubuto Mwelwa (Head of Internal Audit)",
+        "completedDate": "2024-12-05T14:00:00",
+        "comments": "Framework and data quality controls reviewed. Recommend third-party assurance for Scope 1 and 2 GHG emissions data. SECZAM submission deadline 30 April 2025 is achievable."
+      },
+      {
+        "stepName": "CEO Sign-off",
+        "approvedBy": null,
+        "completedDate": null,
+        "comments": "Awaiting CEO approval of ESG framework before SECZAM submission. Scheduled for January 2025 Executive Management Committee meeting."
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "workflowType": "BudgetApproval",
+    "entityType": "BudgetPlan",
+    "entityId": 13,
+    "initiatedBy": "Chilufya Mwamba (CFO)",
+    "initiatedDate": "2024-09-02T09:00:00",
+    "currentStep": "Ministry Approval",
+    "status": "Completed",
+    "completedDate": "2024-11-25T14:00:00",
+    "completedBy": "Mukuli Chikuba (PS Ministry of Finance)",
+    "rejectionReason": null,
+    "approvalHistory": [
+      {
+        "stepName": "Department Consolidation",
+        "approvedBy": "Chilufya Mwamba (CFO)",
+        "completedDate": "2024-09-20T17:00:00",
+        "comments": "Corporate and subsidiary budgets consolidated. FY2025 total budget: ZMW 620,000,000 operating, ZMW 340,000,000 new investment pipeline. Three new agro-processing investments included."
+      },
+      {
+        "stepName": "CFO Review",
+        "approvedBy": "Chilufya Mwamba (CFO)",
+        "completedDate": "2024-10-02T14:00:00",
+        "comments": "Budget aligned with IDC Strategic Plan 2023-2027. Investment allocations reviewed for portfolio fit and return-on-investment targets. Dividend provision of ZMW 65,000,000 included."
+      },
+      {
+        "stepName": "CEO Approval",
+        "approvedBy": "Mushaukwa Mushaukwa (CEO)",
+        "completedDate": "2024-10-12T11:00:00",
+        "comments": "CEO approves budget for board presentation. Agro-processing and manufacturing sectors prioritised per GRZ industrialisation agenda."
+      },
+      {
+        "stepName": "Board Finance Committee",
+        "approvedBy": "Bwalya Mutale (Finance Committee Chair)",
+        "completedDate": "2024-10-28T15:00:00",
+        "comments": "Finance Committee recommends approval. Requests monthly budget variance reports and quarterly investment performance updates."
+      },
+      {
+        "stepName": "Full Board Approval",
+        "approvedBy": "Dr. Mwelwa Chibesakunda (Board Chair)",
+        "completedDate": "2024-11-08T10:00:00",
+        "comments": "Board approves FY2025 budget. Capital investment authority of ZMW 340,000,000 granted. GRZ equity contribution of ZMW 50,000,000 noted as pending confirmation."
+      },
+      {
+        "stepName": "Ministry Approval",
+        "approvedBy": "Mukuli Chikuba (PS Ministry of Finance)",
+        "completedDate": "2024-11-25T14:00:00",
+        "comments": "Ministry of Finance approves IDC FY2025 budget. GRZ equity contribution of ZMW 50,000,000 confirmed in supplementary budget. SOE budget submission complete."
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "workflowType": "ContractApproval",
+    "entityType": "Contract",
+    "entityId": 14,
+    "initiatedBy": "Mirriam Zimba (Company Secretary)",
+    "initiatedDate": "2024-05-10T09:00:00",
+    "currentStep": "CEO Approval",
+    "status": "Completed",
+    "completedDate": "2024-06-05T14:00:00",
+    "completedBy": "Mushaukwa Mushaukwa (CEO)",
+    "rejectionReason": null,
+    "approvalHistory": [
+      {
+        "stepName": "Procurement Review",
+        "approvedBy": "Lweendo Hamukale (Procurement Manager)",
+        "completedDate": "2024-05-20T17:00:00",
+        "comments": "RFP evaluation complete for portfolio strategy consulting. Recommended: McKinsey and Company at ZMW 12,500,000 for 6-month engagement. Three proposals evaluated; McKinsey ranked highest on methodology and Zambia experience."
+      },
+      {
+        "stepName": "CFO Approval",
+        "approvedBy": "Chilufya Mwamba (CFO)",
+        "completedDate": "2024-05-28T14:00:00",
+        "comments": "Contract value within CFO approval threshold of ZMW 15,000,000. Budget provision confirmed in FY2024 operating budget. Payment milestones aligned to deliverables."
+      },
+      {
+        "stepName": "CEO Approval",
+        "approvedBy": "Mushaukwa Mushaukwa (CEO)",
+        "completedDate": "2024-06-05T14:00:00",
+        "comments": "CEO approves engagement. Contract signed 10 June 2024. Work commenced 15 June 2024 with final portfolio strategy report due September 2024."
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "workflowType": "FinancialReport",
+    "entityType": "FinancialReport",
+    "entityId": 15,
+    "initiatedBy": "Grace Lungu (CFO)",
+    "initiatedDate": "2025-01-05T09:00:00",
+    "currentStep": "Full Board Approval",
+    "status": "InProgress",
+    "completedDate": null,
+    "completedBy": null,
+    "rejectionReason": null,
+    "approvalHistory": [
+      {
+        "stepName": "CFO Review",
+        "approvedBy": "Grace Lungu (CFO)",
+        "completedDate": "2025-01-15T14:00:00",
+        "comments": "FY2024 financial statements prepared. Total assets ZMW 18,200,000,000. Net profit ZMW 420,000,000. IFRS 9 ECL provisions of ZMW 680,000,000 reviewed and validated against loan book."
+      },
+      {
+        "stepName": "Internal Audit Review",
+        "approvedBy": "Newton Ng'ambi (Head of Internal Audit)",
+        "completedDate": "2025-01-22T11:00:00",
+        "comments": "Revenue recognition and IFRS 9 ECL provisioning methodology confirmed consistent with BoZ guidelines. No material adjustments required."
+      },
+      {
+        "stepName": "Board Audit Committee",
+        "approvedBy": "Charity Musonda (Audit Committee Chair)",
+        "completedDate": "2025-01-30T10:00:00",
+        "comments": "Audit Committee reviewed FY2024 statements jointly with Deloitte external auditors. Unqualified audit opinion confirmed. Recommend full board adoption."
+      },
+      {
+        "stepName": "Full Board Approval",
+        "approvedBy": null,
+        "completedDate": null,
+        "comments": "Financial statements tabled for ZANACO Board approval at the 10 February 2025 board meeting."
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "workflowType": "GovernanceCompliance",
+    "entityType": "ComplianceItem",
+    "entityId": 16,
+    "initiatedBy": "Mwelwa Kaunda (Chief Compliance Officer)",
+    "initiatedDate": "2024-01-15T09:00:00",
+    "currentStep": "Board Approval",
+    "status": "Completed",
+    "completedDate": "2024-03-28T15:00:00",
+    "completedBy": "Humphrey Muleba (Board Chair)",
+    "rejectionReason": null,
+    "approvalHistory": [
+      {
+        "stepName": "Compliance Assessment",
+        "approvedBy": "Mwelwa Kaunda (Chief Compliance Officer)",
+        "completedDate": "2024-01-30T17:00:00",
+        "comments": "Annual AML/CFT programme assessment completed per BoZ-DIR-2023-019. 24 programme elements assessed. Three elements required enhancement: STR quality, PEP customer due diligence, and staff training completion rates."
+      },
+      {
+        "stepName": "Chief Compliance Officer Review",
+        "approvedBy": "Mwelwa Kaunda (Chief Compliance Officer)",
+        "completedDate": "2024-02-15T14:00:00",
+        "comments": "Enhancement programme implemented. Transaction monitoring system upgraded. PEP screening integrated with Refinitiv World-Check. Staff training completion rate improved to 96%."
+      },
+      {
+        "stepName": "CEO Endorsement",
+        "approvedBy": "Chanda Kasolo (CEO)",
+        "completedDate": "2024-03-01T11:00:00",
+        "comments": "CEO endorses AML/CFT programme enhancements. Confirms executive commitment to compliance culture and adequate resourcing for compliance function."
+      },
+      {
+        "stepName": "Board Approval",
+        "approvedBy": "Humphrey Muleba (Board Chair)",
+        "completedDate": "2024-03-28T15:00:00",
+        "comments": "Board approves annual AML/CFT compliance report and enhancement programme. Annual report submitted to Bank of Zambia on 30 March 2024 as required."
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "workflowType": "BudgetApproval",
+    "entityType": "BudgetPlan",
+    "entityId": 17,
+    "initiatedBy": "Grace Lungu (CFO)",
+    "initiatedDate": "2024-09-10T09:00:00",
+    "currentStep": "Board Finance Committee",
+    "status": "Rejected",
+    "completedDate": null,
+    "completedBy": null,
+    "rejectionReason": "Proposed FY2025 capital expenditure budget of ZMW 890,000,000 exceeded board-approved parameters by 45%. Board Finance Committee rejected the submission and directed management to revise with a minimum 30% reduction in non-critical technology capital expenditure and resubmit with detailed ROI justification by 15 November 2024.",
+    "approvalHistory": [
+      {
+        "stepName": "Department Consolidation",
+        "approvedBy": "Grace Lungu (CFO)",
+        "completedDate": "2024-09-25T17:00:00",
+        "comments": "Departmental budget submissions consolidated. Total FY2025 budget: ZMW 2,340,000,000 operating costs plus ZMW 890,000,000 capital expenditure for digital transformation platform and 25-branch network expansion."
+      },
+      {
+        "stepName": "CFO Review",
+        "approvedBy": "Grace Lungu (CFO)",
+        "completedDate": "2024-10-05T14:00:00",
+        "comments": "Budget reviewed and submitted for Board consideration. Technology investment reflects requirements of 5-year digital strategy. ROI projected at 19% over 5 years."
+      },
+      {
+        "stepName": "Board Finance Committee",
+        "approvedBy": "Situmbeko Nkonde (Finance Committee Chair)",
+        "completedDate": "2024-10-20T10:00:00",
+        "comments": "REJECTED. Capex of ZMW 890,000,000 exceeds board-approved parameters by 45%. Detailed ROI analysis insufficient for the digital platform component. Management directed to apply a minimum 30% capex reduction and resubmit with strengthened business case by 15 November 2024."
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "workflowType": "ContractApproval",
+    "entityType": "Contract",
+    "entityId": 18,
+    "initiatedBy": "Bwalya Mwinga (Chief Information Officer)",
+    "initiatedDate": "2024-03-01T09:00:00",
+    "currentStep": "Board Approval",
+    "status": "Completed",
+    "completedDate": "2024-05-20T15:00:00",
+    "completedBy": "Humphrey Muleba (Board Chair)",
+    "rejectionReason": null,
+    "approvalHistory": [
+      {
+        "stepName": "Procurement Evaluation",
+        "approvedBy": "Bwalya Mwinga (CIO)",
+        "completedDate": "2024-03-15T17:00:00",
+        "comments": "RFP evaluation complete for Core Banking System upgrade. Temenos T24 selected at ZMW 156,000,000 over a 5-year contract. Scored highest on functionality, regional implementation track record, and local support capacity."
+      },
+      {
+        "stepName": "IT Committee Review",
+        "approvedBy": "Kondwani Siame (IT Steering Committee Chair)",
+        "completedDate": "2024-03-28T14:00:00",
+        "comments": "IT Steering Committee endorses Temenos T24 selection. Enterprise architecture review completed. Data migration and parallel-run risk assessment reviewed; mitigations agreed and documented."
+      },
+      {
+        "stepName": "CFO Approval",
+        "approvedBy": "Grace Lungu (CFO)",
+        "completedDate": "2024-04-10T11:00:00",
+        "comments": "ZMW 156,000,000 within approved IT capital budget. Board approval required as contract value exceeds ZMW 100,000,000 threshold."
+      },
+      {
+        "stepName": "CEO Approval",
+        "approvedBy": "Chanda Kasolo (CEO)",
+        "completedDate": "2024-05-01T11:00:00",
+        "comments": "CEO approves and forwards to Board. Core banking modernisation is foundational to digital transformation strategy. Implementation partner accountability provisions confirmed in contract."
+      },
+      {
+        "stepName": "Board Approval",
+        "approvedBy": "Humphrey Muleba (Board Chair)",
+        "completedDate": "2024-05-20T15:00:00",
+        "comments": "Board approves Temenos T24 5-year contract at ZMW 156,000,000. Implementation programme to commence June 2024 with go-live targeted Q1 2026."
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "workflowType": "DividendApproval",
+    "entityType": "DividendPayment",
+    "entityId": 19,
+    "initiatedBy": "Grace Lungu (CFO)",
+    "initiatedDate": "2024-08-01T09:00:00",
+    "currentStep": "Board Approval",
+    "status": "InProgress",
+    "completedDate": null,
+    "completedBy": null,
+    "rejectionReason": null,
+    "approvalHistory": [
+      {
+        "stepName": "CFO Calculation",
+        "approvedBy": "Grace Lungu (CFO)",
+        "completedDate": "2024-08-10T14:00:00",
+        "comments": "H1 2024 interim dividend calculated at ZMW 105,000,000 (25% of H1 after-tax profit). CAR remains above 12% at 13.8% post-payment. BoZ pre-approval notification submitted."
+      },
+      {
+        "stepName": "CEO Endorsement",
+        "approvedBy": "Chanda Kasolo (CEO)",
+        "completedDate": "2024-08-20T11:00:00",
+        "comments": "CEO endorses interim dividend. BoZ has acknowledged pre-approval notification. Shareholder will receive ZMW 105,000,000 representing healthy return on GRZ equity stake."
+      },
+      {
+        "stepName": "Board Approval",
+        "approvedBy": null,
+        "completedDate": null,
+        "comments": "Dividend resolution tabled for Special Board Meeting scheduled 5 September 2024. Quorum confirmed."
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "workflowType": "AuditReport",
+    "entityType": "AuditRecord",
+    "entityId": 20,
+    "initiatedBy": "Chanda Kasolo (CEO)",
+    "initiatedDate": "2024-01-10T09:00:00",
+    "currentStep": "Full Board Approval",
+    "status": "Completed",
+    "completedDate": "2024-03-15T14:00:00",
+    "completedBy": "Humphrey Muleba (Board Chair)",
+    "rejectionReason": null,
+    "approvalHistory": [
+      {
+        "stepName": "External Audit Engagement",
+        "approvedBy": "Grace Lungu (CFO)",
+        "completedDate": "2024-01-20T14:00:00",
+        "comments": "Deloitte Zambia engaged as external auditors for FY2023. Audit engagement letter signed. Audit plan including emphasis on IFRS 9 ECL and digital banking revenue recognition reviewed by Audit Committee."
+      },
+      {
+        "stepName": "Management Representation",
+        "approvedBy": "Chanda Kasolo (CEO)",
+        "completedDate": "2024-02-28T11:00:00",
+        "comments": "Management representation letter signed. All audit queries resolved. No material misstatements identified. Deloitte confirmed unqualified audit opinion with emphasis of matter on IFRS 9 transition."
+      },
+      {
+        "stepName": "Board Audit Committee",
+        "approvedBy": "Charity Musonda (Audit Committee Chair)",
+        "completedDate": "2024-03-05T10:00:00",
+        "comments": "Audit Committee reviewed FY2023 audited statements and discussed findings directly with Deloitte. Satisfied with audit quality and independence. Recommends full board adoption."
+      },
+      {
+        "stepName": "Full Board Approval",
+        "approvedBy": "Humphrey Muleba (Board Chair)",
+        "completedDate": "2024-03-15T14:00:00",
+        "comments": "Board adopts FY2023 audited financial statements. Total assets ZMW 16,800,000,000, net profit ZMW 385,000,000. Annual report to be published and submitted to BoZ by 31 March 2024."
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "workflowType": "InvestmentApproval",
+    "entityType": "InvestmentProject",
+    "entityId": 21,
+    "initiatedBy": "Josephine Banda (Head of Retail Banking)",
+    "initiatedDate": "2024-10-01T09:00:00",
+    "currentStep": "Board Approval",
+    "status": "PendingApproval",
+    "completedDate": null,
+    "completedBy": null,
+    "rejectionReason": null,
+    "approvalHistory": [
+      {
+        "stepName": "Branch Feasibility Study",
+        "approvedBy": "Josephine Banda (Head of Retail Banking)",
+        "completedDate": "2024-10-20T17:00:00",
+        "comments": "Feasibility study for 12 new branch openings in underserved provinces (North-Western, Luapula, Muchinga, Western) completed. Total investment ZMW 42,000,000. Business case projects break-even by month 36 at target deposit volumes."
+      },
+      {
+        "stepName": "CFO Review",
+        "approvedBy": "Grace Lungu (CFO)",
+        "completedDate": "2024-11-05T14:00:00",
+        "comments": "Financial model reviewed. ROI of 22% over 5 years. Capital allocation within approved FY2025 investment budget. Recommend board approval."
+      },
+      {
+        "stepName": "Board Approval",
+        "approvedBy": null,
+        "completedDate": null,
+        "comments": "Branch expansion investment proposal tabled for Board consideration at November 2024 meeting. Decision pending board deliberations."
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "workflowType": "FinancialReport",
+    "entityType": "FinancialReport",
+    "entityId": 22,
+    "initiatedBy": "Kondwani Phiri (CFO)",
+    "initiatedDate": "2025-01-08T09:00:00",
+    "currentStep": "Board Audit Committee",
+    "status": "PendingApproval",
+    "completedDate": null,
+    "completedBy": null,
+    "rejectionReason": null,
+    "approvalHistory": [
+      {
+        "stepName": "CFO Review",
+        "approvedBy": "Kondwani Phiri (CFO)",
+        "completedDate": "2025-01-18T14:00:00",
+        "comments": "FY2024 draft financial statements prepared. Revenue ZMW 420,000,000 against budget ZMW 610,000,000 (31% shortfall). GRZ operating subsidy of ZMW 280,000,000 recognised. Infrastructure impairment of ZMW 180,000,000 applied."
+      },
+      {
+        "stepName": "Internal Audit Review",
+        "approvedBy": "Musonda Chikwanda (Head of Internal Audit)",
+        "completedDate": "2025-01-27T11:00:00",
+        "comments": "Asset impairment methodology reviewed with KPMG external auditors. Revenue recognition for government freight contracts confirmed. Three minor disclosure corrections made."
+      },
+      {
+        "stepName": "Board Audit Committee",
+        "approvedBy": null,
+        "completedDate": null,
+        "comments": "Audit Committee review of FY2024 financial statements scheduled for 12 February 2025."
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "workflowType": "InvestmentApproval",
+    "entityType": "InvestmentProject",
+    "entityId": 23,
+    "initiatedBy": "Misheck Kakonde (CEO)",
+    "initiatedDate": "2024-07-01T09:00:00",
+    "currentStep": "Board Investment Committee",
+    "status": "Rejected",
+    "completedDate": null,
+    "completedBy": null,
+    "rejectionReason": "Board rejected the Northern Corridor track upgrade investment proposal of ZMW 2,800,000,000 due to unconfirmed funding structure. Only ZMW 1,400,000,000 of the required amount was secured. Board directed management to obtain a signed AfDB concessional loan facility agreement before resubmitting.",
+    "approvalHistory": [
+      {
+        "stepName": "Technical Assessment",
+        "approvedBy": "Makwebo Siame (Chief Technical Officer)",
+        "completedDate": "2024-07-15T15:00:00",
+        "comments": "Technical assessment of Northern Corridor upgrade completed. Scope: 312 km of track replacement (Lusaka-Chipata), 8 bridge rehabilitations, and 3 new passing loops. Engineering design at 30% completion. Estimated construction period 36 months."
+      },
+      {
+        "stepName": "CFO Financial Review",
+        "approvedBy": "Kondwani Phiri (CFO)",
+        "completedDate": "2024-07-30T14:00:00",
+        "comments": "Project NPV ZMW 1,200,000,000 over 30 years. Total cost ZMW 2,800,000,000. Funding gap of ZMW 1,400,000,000 identified. AfDB term sheet not yet finalised. GRZ equity injection verbally indicated but not confirmed in writing."
+      },
+      {
+        "stepName": "CEO Endorsement",
+        "approvedBy": "Misheck Kakonde (CEO)",
+        "completedDate": "2024-08-10T11:00:00",
+        "comments": "CEO endorses strategic importance of project for the Chipata-Zambia-Mozambique corridor. Notes funding gap risk but recommends board approval in principle pending AfDB facility confirmation within 90 days."
+      },
+      {
+        "stepName": "Board Investment Committee",
+        "approvedBy": "Dr. Bwalya Mutale (Board Chair)",
+        "completedDate": "2024-08-28T10:00:00",
+        "comments": "REJECTED. Board cannot approve ZMW 2,800,000,000 commitment without confirmed financing. ZR balance sheet cannot absorb ZMW 1,400,000,000 funding gap. Resubmit with signed AfDB facility agreement and revised financial model within 90 days of facility signing."
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "workflowType": "BudgetApproval",
+    "entityType": "BudgetPlan",
+    "entityId": 24,
+    "initiatedBy": "Kondwani Phiri (CFO)",
+    "initiatedDate": "2024-09-15T09:00:00",
+    "currentStep": "Full Board Approval",
+    "status": "InProgress",
+    "completedDate": null,
+    "completedBy": null,
+    "rejectionReason": null,
+    "approvalHistory": [
+      {
+        "stepName": "Department Consolidation",
+        "approvedBy": "Kondwani Phiri (CFO)",
+        "completedDate": "2024-09-30T17:00:00",
+        "comments": "FY2025 departmental budgets consolidated. Total budget ZMW 780,000,000 including ZMW 320,000,000 rehabilitation capex (Phase 1 track works) and ZMW 240,000,000 GRZ operating subsidy assumption pending confirmation."
+      },
+      {
+        "stepName": "CFO Review",
+        "approvedBy": "Kondwani Phiri (CFO)",
+        "completedDate": "2024-10-10T14:00:00",
+        "comments": "Revenue projections revised to ZMW 450,000,000 reflecting improved copper freight volumes. Cost optimisation measures targeting ZMW 35,000,000 savings identified in fuel and maintenance."
+      },
+      {
+        "stepName": "CEO Approval",
+        "approvedBy": "Misheck Kakonde (CEO)",
+        "completedDate": "2024-10-22T11:00:00",
+        "comments": "CEO approves budget for board consideration. GRZ operating subsidy assumption of ZMW 240,000,000 requires written confirmation from Ministry of Transport before finalisation."
+      },
+      {
+        "stepName": "Board Finance Committee",
+        "approvedBy": "Lumbwe Kabwe (Finance Committee Chair)",
+        "completedDate": "2024-11-08T15:00:00",
+        "comments": "Finance Committee endorses budget subject to GRZ subsidy confirmation. Directs management to obtain Ministry of Finance letter before full board meeting."
+      },
+      {
+        "stepName": "Full Board Approval",
+        "approvedBy": null,
+        "completedDate": null,
+        "comments": "Awaiting Ministry of Finance letter confirming FY2025 operating subsidy of ZMW 240,000,000. Full Board meeting scheduled 20 November 2024."
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "workflowType": "ContractApproval",
+    "entityType": "Contract",
+    "entityId": 25,
+    "initiatedBy": "Chanda Mwale (Chief Procurement Officer)",
+    "initiatedDate": "2024-04-01T09:00:00",
+    "currentStep": "CEO Approval",
+    "status": "Completed",
+    "completedDate": "2024-05-28T15:00:00",
+    "completedBy": "Misheck Kakonde (CEO)",
+    "rejectionReason": null,
+    "approvalHistory": [
+      {
+        "stepName": "Procurement Review",
+        "approvedBy": "Chanda Mwale (Chief Procurement Officer)",
+        "completedDate": "2024-04-15T17:00:00",
+        "comments": "RFP evaluation complete for 3-year locomotive preventive and corrective maintenance contract. General Electric (Zambia) selected at ZMW 58,000,000. Evaluation criteria: technical capability 40%, price 40%, local content 20%."
+      },
+      {
+        "stepName": "Technical Evaluation",
+        "approvedBy": "Makwebo Siame (Chief Technical Officer)",
+        "completedDate": "2024-04-28T14:00:00",
+        "comments": "GE Zambia technical proposal reviewed. Preventive maintenance schedule, spare parts inventory commitments, and engineer qualifications confirmed. Technical score 87/100. Workshop facilities in Kabwe inspected."
+      },
+      {
+        "stepName": "CFO Approval",
+        "approvedBy": "Kondwani Phiri (CFO)",
+        "completedDate": "2024-05-10T11:00:00",
+        "comments": "Contract value of ZMW 58,000,000 within CFO approval limit for operational contracts. Budget provision confirmed in FY2024 maintenance opex. Monthly payments of ZMW 1,611,111 over 36 months."
+      },
+      {
+        "stepName": "CEO Approval",
+        "approvedBy": "Misheck Kakonde (CEO)",
+        "completedDate": "2024-05-28T15:00:00",
+        "comments": "CEO approves locomotive maintenance contract with GE Zambia. Contract signed 1 June 2024. Fleet availability target of 75% per month included as contractual KPI."
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "workflowType": "AuditReport",
+    "entityType": "AuditRecord",
+    "entityId": 26,
+    "initiatedBy": "Felix Zimba (Chief Safety Officer)",
+    "initiatedDate": "2023-08-01T09:00:00",
+    "currentStep": "RTSA Submission",
+    "status": "Completed",
+    "completedDate": "2023-11-30T14:00:00",
+    "completedBy": "RTSA Director General",
+    "rejectionReason": null,
+    "approvalHistory": [
+      {
+        "stepName": "Safety Audit Engagement",
+        "approvedBy": "Felix Zimba (Chief Safety Officer)",
+        "completedDate": "2023-08-20T17:00:00",
+        "comments": "Independent safety auditor Railway Safety International (RSI) engaged per RTSA-DIR-2023-018. Audit scope covers mainline Livingstone-Kitwe, Mulobezi branch, and Chipata Corridor operations. Audit plan agreed with RTSA prior to commencement."
+      },
+      {
+        "stepName": "Management Response",
+        "approvedBy": "Misheck Kakonde (CEO)",
+        "completedDate": "2023-10-31T14:00:00",
+        "comments": "RSI safety audit completed 15 October 2023. Findings: 12 Category A (critical), 24 Category B (major), 37 Category C (minor). Management response with remediation plans, owners, and timelines submitted for each finding."
+      },
+      {
+        "stepName": "Board Audit Committee",
+        "approvedBy": "Nalumino Mwansa (Audit Committee Chair)",
+        "completedDate": "2023-11-15T10:00:00",
+        "comments": "Board Audit Committee reviewed safety audit findings and remediation plan. Notes seriousness of Category A findings on track condition and level crossing safety. Monthly progress reporting mandated."
+      },
+      {
+        "stepName": "RTSA Submission",
+        "approvedBy": "RTSA Director General",
+        "completedDate": "2023-11-30T14:00:00",
+        "comments": "RTSA acknowledges receipt of safety audit report and management remediation plan. ZR operating certificate renewed for 12 months subject to monthly compliance reporting and Category A deficiency rectification."
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "workflowType": "GovernanceCompliance",
+    "entityType": "ComplianceItem",
+    "entityId": 27,
+    "initiatedBy": "Tamara Simukoko (Company Secretary)",
+    "initiatedDate": "2024-05-01T09:00:00",
+    "currentStep": "Board Presentation",
+    "status": "OnHold",
+    "completedDate": null,
+    "completedBy": null,
+    "rejectionReason": null,
+    "approvalHistory": [
+      {
+        "stepName": "Compliance Gap Analysis",
+        "approvedBy": "Tamara Simukoko (Company Secretary)",
+        "completedDate": "2024-05-20T17:00:00",
+        "comments": "Gap analysis against RTSA Safety Management System (SMS) requirements completed. Eight gaps identified: safety management plan, incident investigation procedures, competency assurance framework, fatigue management, and level crossing management plan."
+      },
+      {
+        "stepName": "Management Plan",
+        "approvedBy": "Misheck Kakonde (CEO)",
+        "completedDate": "2024-06-05T14:00:00",
+        "comments": "SMS implementation plan developed with external safety consultant Transnet Engineering. Estimated cost ZMW 4,200,000. Implementation timeline 18 months. Three consultants to be embedded in ZR safety department."
+      },
+      {
+        "stepName": "Board Presentation",
+        "approvedBy": null,
+        "completedDate": null,
+        "comments": "On hold pending finalisation of updated RTSA SMS standards under public consultation through Q3 2024. Board presentation deferred to avoid rework should standards change materially."
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "workflowType": "BoardResolution",
+    "entityType": "BoardMeeting",
+    "entityId": 28,
+    "initiatedBy": "Tamara Simukoko (Company Secretary)",
+    "initiatedDate": "2025-01-15T09:00:00",
+    "currentStep": "Board Approval",
+    "status": "InProgress",
+    "completedDate": null,
+    "completedBy": null,
+    "rejectionReason": null,
+    "approvalHistory": [
+      {
+        "stepName": "Company Secretary Draft",
+        "approvedBy": "Tamara Simukoko (Company Secretary)",
+        "completedDate": "2025-01-20T17:00:00",
+        "comments": "Board resolution on Fleet Renewal Programme authority drafted. Resolution authorises CEO to execute AfDB loan facility agreement up to USD 85,000,000 for procurement of 15 mainline locomotives and 200 freight wagons per MoT-DIR-2024-009."
+      },
+      {
+        "stepName": "Legal Review",
+        "approvedBy": "Mwape Kabunda (General Counsel)",
+        "completedDate": "2025-01-27T14:00:00",
+        "comments": "Resolution text reviewed. Consistent with ZR Act, Companies Act 2017, and Ministry of Transport mandate. GRZ sovereign guarantee provision included. Resolution structure confirms authority limits within ZR Articles."
+      },
+      {
+        "stepName": "CEO Endorsement",
+        "approvedBy": "Misheck Kakonde (CEO)",
+        "completedDate": "2025-02-03T11:00:00",
+        "comments": "CEO endorses resolution. AfDB financing terms finalised: USD 85,000,000 at 3.5% over 20 years with 5-year grace period. GRZ sovereign guarantee letter being prepared by Ministry of Finance."
+      },
+      {
+        "stepName": "Board Approval",
+        "approvedBy": null,
+        "completedDate": null,
+        "comments": "Resolution tabled for Special Board Meeting scheduled 15 February 2025. GRZ guarantee letter expected before meeting date."
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "workflowType": "DividendRemittance",
+    "entityType": "Dividend",
+    "entityId": 33,
+    "initiatedBy": "Nsangu Mulwanda (CFO)",
+    "initiatedDate": "2024-06-01T09:00:00",
+    "currentStep": "Treasury Payment",
+    "status": "Completed",
+    "completedDate": "2024-06-28T16:00:00",
+    "completedBy": "Nsangu Mulwanda",
+    "rejectionReason": null,
+    "approvalHistory": [
+      {
+        "stepName": "CFO Initiation",
+        "approvedBy": "Nsangu Mulwanda (CFO)",
+        "completedDate": "2024-06-01T09:00:00",
+        "comments": "FY2023 final dividend of ZMW 0.58/share (ZMW 275,000,000 total) approved at AGM 28 May 2024. Payment due 28 June 2024."
+      },
+      {
+        "stepName": "Company Secretary Verification",
+        "approvedBy": "Winifred Kapanga (Company Secretary)",
+        "completedDate": "2024-06-05T14:00:00",
+        "comments": "Shareholder register confirmed. Dividend tax withholding computations reviewed. LuSE and AIM notifications prepared."
+      },
+      {
+        "stepName": "Board Confirmation",
+        "approvedBy": "Dr. Mwila Phiri (Chairman)",
+        "completedDate": "2024-06-10T11:00:00",
+        "comments": "Chairman confirms dividend payment per AGM resolution. Dividend tax deduction at source at 15% for non-exempt shareholders."
+      },
+      {
+        "stepName": "Treasury Payment",
+        "approvedBy": "Nsangu Mulwanda (CFO)",
+        "completedDate": "2024-06-28T16:00:00",
+        "comments": "Dividend payments processed via LuSE Central Securities Depository. GRZ received ZMW 213,125,000 (77.5% share). AIM investors paid in USD via Citibank London."
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "workflowType": "AnnualReportSignOff",
+    "entityType": "FinancialReport",
+    "entityId": 33,
+    "initiatedBy": "Nsangu Mulwanda (CFO)",
+    "initiatedDate": "2025-02-01T09:00:00",
+    "currentStep": "External Audit Clearance",
+    "status": "InProgress",
+    "completedDate": null,
+    "completedBy": null,
+    "rejectionReason": null,
+    "approvalHistory": [
+      {
+        "stepName": "CFO Draft Preparation",
+        "approvedBy": "Nsangu Mulwanda (CFO)",
+        "completedDate": "2025-02-01T09:00:00",
+        "comments": "FY2024 draft financial statements prepared. Total revenue ZMW 6.35 billion, net profit ZMW 1.24 billion. Submitted to Ernst & Young for audit."
+      },
+      {
+        "stepName": "Audit Committee Review",
+        "approvedBy": "Grace Chanda (Audit Committee Chair)",
+        "completedDate": "2025-02-28T15:00:00",
+        "comments": "Audit Committee reviewed draft accounts. No material concerns raised. Mine rehabilitation provision confirmed adequate. EY audit in progress."
+      },
+      {
+        "stepName": "External Audit Clearance",
+        "approvedBy": null,
+        "completedDate": null,
+        "comments": "Ernst & Young Zambia conducting FY2024 audit. Final audit opinion expected by 31 March 2025."
+      },
+      {
+        "stepName": "Board Approval",
+        "approvedBy": null,
+        "completedDate": null,
+        "comments": "Pending EY audit clearance. Scheduled for Board meeting 25 March 2025."
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "workflowType": "BoardDirectorAppointment",
+    "entityType": "Governance",
+    "entityId": 5,
+    "initiatedBy": "Dr. Mwila Phiri (Chairman)",
+    "initiatedDate": "2024-10-01T09:00:00",
+    "currentStep": "Completed",
+    "status": "Completed",
+    "completedDate": "2024-12-15T00:00:00",
+    "completedBy": "Dr. Mwila Phiri",
+    "rejectionReason": null,
+    "approvalHistory": [
+      {
+        "stepName": "Nominations Committee Recommendation",
+        "approvedBy": "Vivienne Kapata (Nominations Committee Chair)",
+        "completedDate": "2024-10-15T11:00:00",
+        "comments": "Nominations Committee recommends appointment of two independent non-executive directors to fill the Mining Technical and ESG skills gaps identified in the 2024 Board skills matrix assessment."
+      },
+      {
+        "stepName": "IDC Shareholder Approval",
+        "approvedBy": "IDC Board (Shareholder Representative)",
+        "completedDate": "2024-11-15T00:00:00",
+        "comments": "IDC as majority shareholder approves proposed director candidates per ZCCM-IH Articles of Association and IDC nomination rights. Candidates: Dr. Chola Kasonde (Mining Technical) and Ms. Lungowe Mwila (ESG)."
+      },
+      {
+        "stepName": "Board Approval",
+        "approvedBy": "Dr. Mwila Phiri (Chairman)",
+        "completedDate": "2024-12-01T00:00:00",
+        "comments": "Board approves appointment of Dr. Chola Kasonde and Ms. Lungowe Mwila as independent NEDs effective 15 December 2024."
+      },
+      {
+        "stepName": "LuSE Disclosure and Filing",
+        "approvedBy": "Winifred Kapanga (Company Secretary)",
+        "completedDate": "2024-12-15T00:00:00",
+        "comments": "LuSE and AIM regulatory announcements issued. PACRA director appointment notices filed. Director declarations of interest completed."
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "workflowType": "InvestmentDivestitureApproval",
+    "entityType": "InvestmentProject",
+    "entityId": 5,
+    "initiatedBy": "Mabvuto Chipata (CEO)",
+    "initiatedDate": "2024-09-01T09:00:00",
+    "currentStep": "Ministry of Mines Clearance",
+    "status": "InProgress",
+    "completedDate": null,
+    "completedBy": null,
+    "rejectionReason": null,
+    "approvalHistory": [
+      {
+        "stepName": "CEO Proposal",
+        "approvedBy": "Mabvuto Chipata (CEO)",
+        "completedDate": "2024-09-01T09:00:00",
+        "comments": "CEO proposes partial divestiture of ZCCM-IH's 5% stake in Chibuluma Mines Plc to fund cobalt refinery acquisition. Investment case prepared."
+      },
+      {
+        "stepName": "Investment Committee Review",
+        "approvedBy": "Solomon Banda (Investment Committee Chair)",
+        "completedDate": "2024-09-20T14:00:00",
+        "comments": "Investment Committee reviewed divestiture proposal. Supports partial disposal subject to regulatory and shareholder approval. Recommends engaging Ministry of Mines for pre-clearance."
+      },
+      {
+        "stepName": "Ministry of Mines Clearance",
+        "approvedBy": null,
+        "completedDate": null,
+        "comments": "Pre-clearance request submitted to Ministry of Mines and Minerals Development. Response expected Q1 2025."
+      },
+      {
+        "stepName": "Board and Shareholder Approval",
+        "approvedBy": null,
+        "completedDate": null,
+        "comments": "Pending Ministry clearance. Board resolution and extraordinary shareholder approval required per ZCCM-IH Memorandum and Articles."
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "workflowType": "MineRehabilitationPlanSubmission",
+    "entityType": "Compliance",
+    "entityId": 5,
+    "initiatedBy": "ZCCM-IH Environmental Manager",
+    "initiatedDate": "2024-07-01T09:00:00",
+    "currentStep": "Completed",
+    "status": "Completed",
+    "completedDate": "2024-10-31T00:00:00",
+    "completedBy": "ZCCM-IH Environmental Manager",
+    "rejectionReason": null,
+    "approvalHistory": [
+      {
+        "stepName": "Environmental Manager Preparation",
+        "approvedBy": "Environmental Manager",
+        "completedDate": "2024-07-15T09:00:00",
+        "comments": "Updated mine rehabilitation plan prepared for all portfolio mines incorporating 2024 actuarial cost review, AMD remediation programme, and tailings facility updates."
+      },
+      {
+        "stepName": "CFO Financial Review",
+        "approvedBy": "Nsangu Mulwanda (CFO)",
+        "completedDate": "2024-08-15T14:00:00",
+        "comments": "Financial provisions reviewed and confirmed adequate. ZMW 3.8 billion rehabilitation fund balance validated. No additional provisioning required for FY2024."
+      },
+      {
+        "stepName": "Board Audit Committee Endorsement",
+        "approvedBy": "Grace Chanda (Audit Committee Chair)",
+        "completedDate": "2024-09-15T00:00:00",
+        "comments": "Audit Committee endorsed updated rehabilitation plan and fund adequacy assessment."
+      },
+      {
+        "stepName": "ZEMA Submission",
+        "approvedBy": "Environmental Manager",
+        "completedDate": "2024-10-31T00:00:00",
+        "comments": "Updated mine rehabilitation plan submitted to ZEMA per environmental licence conditions. ZEMA acknowledged receipt and will confirm review outcome within 60 days."
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "workflowType": "FinancialReport",
+    "entityType": "FinancialReport",
+    "entityId": 36,
+    "initiatedBy": "Zambia Gold Company CFO",
+    "initiatedDate": "2024-03-15T09:00:00",
+    "currentStep": "Completed",
+    "status": "Completed",
+    "completedDate": "2024-05-15T16:00:00",
+    "completedBy": "Dr. Situmbeko Musokotwane (Minister of Finance)",
+    "rejectionReason": null,
+    "approvalHistory": [
+      {
+        "stepName": "CFO Review",
+        "approvedBy": "Brenda Mwale (CFO)",
+        "completedDate": "2024-03-17T14:00:00",
+        "comments": "FY2023 financials reviewed and verified. Total revenue ZMW 2,450,000,000, net profit ZMW 270,000,000. Audited by Deloitte Zambia — clean opinion."
+      },
+      {
+        "stepName": "Internal Audit Review",
+        "approvedBy": "Grace Mulenga (Head of Internal Audit)",
+        "completedDate": "2024-03-22T11:00:00",
+        "comments": "No material issues identified. Minor disclosure improvements made on related-party procurement transactions. Actioned by management before submission."
+      },
+      {
+        "stepName": "Board Audit Committee",
+        "approvedBy": "Francis Chanda (Audit Committee Chair)",
+        "completedDate": "2024-03-28T10:00:00",
+        "comments": "Committee satisfied with FY2023 financial statements and Deloitte clean audit opinion. Recommended for full board adoption."
+      },
+      {
+        "stepName": "Full Board Approval",
+        "approvedBy": "Dr. Emmanuel Mutati (Board Chair)",
+        "completedDate": "2024-04-05T15:00:00",
+        "comments": "Board approved FY2023 annual financial statements unanimously. Strong performance recognised. Board directed management to progress gold refinery expansion."
+      },
+      {
+        "stepName": "Ministry Submission",
+        "approvedBy": "Brenda Mwale (CFO)",
+        "completedDate": "2024-04-10T09:00:00",
+        "comments": "Audited financial statements submitted to Ministry of Mines and Minerals Development and Ministry of Finance with board approval resolution and covering letter."
+      },
+      {
+        "stepName": "Ministry Approval",
+        "approvedBy": "Dr. Situmbeko Musokotwane (Minister of Finance)",
+        "completedDate": "2024-05-15T16:00:00",
+        "comments": "Ministry of Finance approved FY2023 financial statements. Dividend of ZMW 120,000,000 to be tabled at AGM."
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "workflowType": "DividendApproval",
+    "entityType": "DividendPayment",
+    "entityId": 34,
+    "initiatedBy": "Zambia Gold Company CFO",
+    "initiatedDate": "2024-06-28T10:00:00",
+    "currentStep": "Completed",
+    "status": "Completed",
+    "completedDate": "2024-07-31T00:00:00",
+    "completedBy": "Zambia Gold Company CFO",
+    "rejectionReason": null,
+    "approvalHistory": [
+      {
+        "stepName": "AGM Resolution",
+        "approvedBy": "Shareholders at AGM 2024",
+        "completedDate": "2024-06-28T11:30:00",
+        "comments": "FY2023 final dividend of ZMW 120,000,000 approved at AGM 2024 unanimously."
+      },
+      {
+        "stepName": "Ministry of Finance Notification",
+        "approvedBy": "Brenda Mwale (CFO)",
+        "completedDate": "2024-07-01T09:00:00",
+        "comments": "Ministry of Finance notified of dividend resolution. Payment instruction prepared for Bank of Zambia."
+      },
+      {
+        "stepName": "Dividend Payment",
+        "approvedBy": "Brenda Mwale (CFO)",
+        "completedDate": "2024-07-31T00:00:00",
+        "comments": "ZMW 120,000,000 transferred to Ministry of Finance consolidated fund account. Payment confirmed."
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "workflowType": "BudgetApproval",
+    "entityType": "BudgetPlan",
+    "entityId": 33,
+    "initiatedBy": "Zambia Gold Company CFO",
+    "initiatedDate": "2025-01-15T09:00:00",
+    "currentStep": "Completed",
+    "status": "Completed",
+    "completedDate": "2025-02-20T12:00:00",
+    "completedBy": "Dr. Emmanuel Mutati (Board Chair)",
+    "rejectionReason": null,
+    "approvalHistory": [
+      {
+        "stepName": "Management Preparation",
+        "approvedBy": "Brenda Mwale (CFO)",
+        "completedDate": "2025-01-17T14:00:00",
+        "comments": "FY2025 budget of ZMW 2,950,000,000 prepared by finance team. Budget includes ZMW 650,000,000 for refinery Phase 2 capex and ZMW 480,000,000 for ASM formalisation programme."
+      },
+      {
+        "stepName": "Executive Review",
+        "approvedBy": "Clement Ng'uni (CEO)",
+        "completedDate": "2025-01-25T10:00:00",
+        "comments": "CEO reviewed and endorsed budget. Requested reallocation of ZMW 20,000,000 from administrative to operations to strengthen buying centre staffing."
+      },
+      {
+        "stepName": "Board Approval",
+        "approvedBy": "Dr. Emmanuel Mutati (Board Chair)",
+        "completedDate": "2025-02-20T12:00:00",
+        "comments": "Board approved FY2025 budget of ZMW 2,950,000,000 at Q1 2025 board meeting. One board member voted against citing concerns about refinery capex phasing. Budget effective immediately."
+      }
+    ]
+  }
+]
