@@ -1,0 +1,1683 @@
+[
+  {
+    "id": 2200,
+    "companyId": 10,
+    "companyName": "Eskom Holdings SOC",
+    "auditType": "External Financial Audit",
+    "auditFirm": "Auditor-General of South Africa (AGSA)",
+    "leadAuditor": "Deputy Auditor-General: Cornelius Diale",
+    "startDate": "2024-09-01T00:00:00Z",
+    "endDate": "2024-11-30T00:00:00Z",
+    "status": "Completed",
+    "scope": "Annual Financial Statements for year ended 31 March 2024 including performance information, compliance with applicable legislation and internal control assessment.",
+    "riskRating": "Medium",
+    "executiveSummary": "Unqualified audit opinion issued for FY2024 - first in six years. Significant improvement in financial controls, reduction in irregular expenditure from R4.2bn to R1.1bn, and improved revenue recognition processes. Material emphasis of matter paragraph retained for going concern related to R254bn debt restructuring.",
+    "reportReference": "AGSA-ESK-2024-AUD-001",
+    "nextAuditDate": "2025-09-01T00:00:00Z",
+    "findings": [
+      {
+        "id": "F2200-01",
+        "category": "Internal Control",
+        "severity": "Medium",
+        "description": "Procurement process controls at three power stations (Tutuka, Arnot, Hendrina) remain inadequate. Bid adjudication committee minutes incomplete in 14 of 20 sampled transactions.",
+        "recommendation": "Implement centralised SCM oversight for all power station procurement above R500,000. Mandatory committee minutes template to be adopted by 31 March 2025.",
+        "status": "In Progress"
+      },
+      {
+        "id": "F2200-02",
+        "category": "Revenue",
+        "severity": "Low",
+        "description": "Municipal debt collection processes improved but R18.2bn in long-outstanding municipal debt remains unrecovered. Provision for doubtful debts methodology updated but still conservative.",
+        "recommendation": "Implement National Revenue Court debt enforcement programme. Consider credit limit suspension for non-paying municipalities.",
+        "status": "In Progress"
+      },
+      {
+        "id": "F2200-03",
+        "category": "IT Systems",
+        "severity": "Low",
+        "description": "SAP access control: 124 users have excessive system access rights not aligned to their job functions. Segregation of duties exceptions inadequately managed.",
+        "recommendation": "Conduct SAP access rights recertification by all business unit heads. Implement automated SoD monitoring tool.",
+        "status": "Resolved"
+      }
+    ]
+  },
+  {
+    "id": 2201,
+    "companyId": 10,
+    "companyName": "Eskom Holdings SOC",
+    "auditType": "External Financial Audit",
+    "auditFirm": "Auditor-General of South Africa (AGSA)",
+    "leadAuditor": "Deputy Auditor-General: Cornelius Diale",
+    "startDate": "2023-08-01T00:00:00Z",
+    "endDate": "2023-11-30T00:00:00Z",
+    "status": "Completed",
+    "scope": "Annual Financial Statements for year ended 31 March 2023.",
+    "riskRating": "High",
+    "executiveSummary": "Qualified audit opinion issued due to material irregular expenditure of R4.2bn and revenue recognition disputes regarding R2.1bn in disputed municipal invoices. Going concern emphasis retained. Significant internal control deficiencies noted in coal procurement and supply chain management.",
+    "reportReference": "AGSA-ESK-2023-AUD-001",
+    "nextAuditDate": "2024-09-01T00:00:00Z",
+    "findings": [
+      {
+        "id": "F2201-01",
+        "category": "Compliance",
+        "severity": "Critical",
+        "description": "Irregular expenditure of R4.2bn identified including R1.8bn in emergency coal procurement without competitive quotes, R1.4bn in OCGT diesel procurement deviations, and R1.0bn in maintenance contracts awarded without full SCM compliance.",
+        "recommendation": "Implement consequence management for all identified irregular expenditure. Review emergency procurement policies. Strengthen SCM oversight committee.",
+        "status": "In Progress"
+      },
+      {
+        "id": "F2201-02",
+        "category": "Revenue",
+        "severity": "High",
+        "description": "Revenue recognition dispute: R2.1bn in invoices to municipalities disputed by Eskom as correctly invoiced but municipalities contesting surcharge components. Treatment inconsistent with IFRS 15.",
+        "recommendation": "Obtain independent legal opinion on revenue recognition treatment. Implement consistent IFRS 15 policy. Engage National Treasury for municipal debt resolution.",
+        "status": "Resolved"
+      },
+      {
+        "id": "F2201-03",
+        "category": "Governance",
+        "severity": "High",
+        "description": "Three board committee positions vacant for more than 6 months impacting governance effectiveness. Audit Committee quorum barely met on two occasions.",
+        "recommendation": "DPE to expedite board appointment processes. Implement succession planning for board committees.",
+        "status": "Resolved"
+      }
+    ]
+  },
+  {
+    "id": 2202,
+    "companyId": 10,
+    "companyName": "Eskom Holdings SOC",
+    "auditType": "Internal Audit",
+    "auditFirm": "Eskom Internal Audit Division",
+    "leadAuditor": "Chief Internal Auditor: Siphiwe Mavundla",
+    "startDate": "2024-04-01T00:00:00Z",
+    "endDate": "2024-06-30T00:00:00Z",
+    "status": "Completed",
+    "scope": "Q1 FY2024/25 review of generation operational controls, procurement compliance, and IT governance at 8 power stations.",
+    "riskRating": "Medium",
+    "executiveSummary": "Q1 internal audit findings show continued improvement from prior period. 22 findings raised, down from 38 in Q1 FY2023/24. High-severity findings reduced to 2 from 9. Coal stockpile management and OCGT fuel procurement notably improved.",
+    "reportReference": "ESK-IA-Q1-2024",
+    "nextAuditDate": "2024-10-01T00:00:00Z",
+    "findings": [
+      {
+        "id": "F2202-01",
+        "category": "Procurement",
+        "severity": "High",
+        "description": "Deviation from SCM Policy: Matimba power station awarded R285m maintenance contract to single supplier without obtaining three quotes as required. Business justification provided but process non-compliant.",
+        "recommendation": "Submit to consequence management committee. Implement mandatory SCM training for station management. Pre-approve emergency supplier list.",
+        "status": "In Progress"
+      },
+      {
+        "id": "F2202-02",
+        "category": "Information Technology",
+        "severity": "Medium",
+        "description": "SCADA system vulnerabilities at Tutuka and Duvha stations identified in cybersecurity assessment. 6 medium-severity vulnerabilities require patching. External attack surface partially exposed.",
+        "recommendation": "Apply security patches within 30 days. Implement network segmentation. Increase OT/IT security monitoring frequency.",
+        "status": "Resolved"
+      }
+    ]
+  },
+  {
+    "id": 2203,
+    "companyId": 10,
+    "companyName": "Eskom Holdings SOC",
+    "auditType": "Performance Audit",
+    "auditFirm": "Auditor-General of South Africa (AGSA)",
+    "leadAuditor": "Business Unit Director: Nkosazana Mthembu",
+    "startDate": "2023-03-01T00:00:00Z",
+    "endDate": "2023-09-30T00:00:00Z",
+    "status": "Completed",
+    "scope": "Performance audit of Eskom's load shedding management programme, fuel supply chain, and plant maintenance programme effectiveness.",
+    "riskRating": "Critical",
+    "executiveSummary": "AGSA Performance Audit found systemic management failures in plant maintenance programme leading to the load shedding crisis. Preventable outages identified at Kusile (unit 3 design fault not timeously addressed), Tutuka (delayed maintenance refusals) and Duvha (inadequate coal stockpiles). Estimated economic cost of R56bn to GDP quantified.",
+    "reportReference": "AGSA-ESK-PERF-2023-001",
+    "nextAuditDate": "2025-03-01T00:00:00Z",
+    "findings": [
+      {
+        "id": "F2203-01",
+        "category": "Operational",
+        "severity": "Critical",
+        "description": "Plant maintenance deferrals: Between 2019-2022, Eskom deferred R28bn in planned maintenance at coal stations to manage cash flow. This directly caused an additional 8,000-12,000MW of unplanned outages contributing to stage 6 load shedding.",
+        "recommendation": "Implement non-deferrable maintenance ring-fenced budget. Board to approve maintenance as non-negotiable operational expenditure. Independent maintenance audit annually.",
+        "status": "In Progress"
+      },
+      {
+        "id": "F2203-02",
+        "category": "Supply Chain",
+        "severity": "High",
+        "description": "Coal stockpile management: Emergency protocols not triggered at 11 stations when stocks fell below 20-day threshold. Spot purchases at R280/ton premium vs long-term contract price of R180/ton cost Eskom R12bn in FY2022-2023.",
+        "recommendation": "Implement automated stockpile monitoring and mandatory alert system. Centralise coal procurement decision-making.",
+        "status": "In Progress"
+      }
+    ]
+  },
+  {
+    "id": 2204,
+    "companyId": 11,
+    "companyName": "Transnet SOC Limited",
+    "auditType": "External Financial Audit",
+    "auditFirm": "KPMG Inc.",
+    "leadAuditor": "Audit Partner: Mxolisi Nkosi",
+    "startDate": "2024-08-01T00:00:00Z",
+    "endDate": "2024-10-20T00:00:00Z",
+    "status": "Completed",
+    "scope": "Annual Financial Statements for year ended 31 March 2024 including consolidated group and all material subsidiaries (TNPA, TFR, TNP, TPT).",
+    "riskRating": "Medium",
+    "executiveSummary": "Unqualified audit opinion issued for FY2024. Going concern emphasis of matter paragraph included due to R132bn debt level and refinancing requirements. Irregular expenditure reduced to R1.8bn from R2.4bn prior year. Recovery Plan progress reflected positively in results. State Capture legacy matters continuing to reduce through consequence management.",
+    "reportReference": "KPMG-TN-2024-AUD-001",
+    "nextAuditDate": "2025-08-01T00:00:00Z",
+    "findings": [
+      {
+        "id": "F2204-01",
+        "category": "Debt Management",
+        "severity": "Medium",
+        "description": "Concentration risk in debt maturity profile: R28bn in bonds and loans mature within 12 months. Refinancing plan not fully committed. Three bond issuances may be needed in a compressed timeframe potentially at elevated rates.",
+        "recommendation": "Accelerate refinancing programme with 12-month advance preparation. Diversify funding sources to include green bonds and DFI facilities. Engage PIC for bond rollover.",
+        "status": "In Progress"
+      },
+      {
+        "id": "F2204-02",
+        "category": "Asset Valuation",
+        "severity": "Low",
+        "description": "R2.4bn in Port equipment assets require independent valuation update. Last full valuation conducted FY2021. Carrying values may not reflect current fair value given condition deterioration.",
+        "recommendation": "Commission independent valuation of all port equipment assets above R10m by 31 March 2025.",
+        "status": "In Progress"
+      },
+      {
+        "id": "F2204-03",
+        "category": "Procurement",
+        "severity": "Low",
+        "description": "Minor procurement deviations: 8 of 120 sampled procurement transactions deviated from SCM policy, down from 22 in FY2023. All related to emergency maintenance situations at ports.",
+        "recommendation": "Maintain improvement trajectory. Pre-approved emergency supplier panel to be established for all port terminals.",
+        "status": "Resolved"
+      }
+    ]
+  },
+  {
+    "id": 2205,
+    "companyId": 11,
+    "companyName": "Transnet SOC Limited",
+    "auditType": "External Financial Audit",
+    "auditFirm": "KPMG Inc.",
+    "leadAuditor": "Audit Partner: Mxolisi Nkosi",
+    "startDate": "2022-07-01T00:00:00Z",
+    "endDate": "2022-09-30T00:00:00Z",
+    "status": "Completed",
+    "scope": "Annual Financial Statements FY2022. Special emphasis on State Capture procurement and irregular expenditure remediation.",
+    "riskRating": "High",
+    "executiveSummary": "Unqualified audit opinion with multiple emphasis of matter paragraphs. R2.4bn new irregular expenditure identified. SIU investigations ongoing on R14bn State Capture contracts. Going concern emphasis retained. Port congestion impact on revenue performance noted.",
+    "reportReference": "KPMG-TN-2022-AUD-001",
+    "nextAuditDate": "2023-08-01T00:00:00Z",
+    "findings": [
+      {
+        "id": "F2205-01",
+        "category": "Compliance",
+        "severity": "High",
+        "description": "Irregular expenditure R2.4bn: Ongoing legacy contracts from State Capture era continue to generate irregular expenditure. 6 contracts with Gupta-linked entities still active awaiting legal termination processes.",
+        "recommendation": "Legal team to accelerate contract termination and civil recovery proceedings. Consequence management for all contract managers involved.",
+        "status": "In Progress"
+      },
+      {
+        "id": "F2205-02",
+        "category": "Operational",
+        "severity": "High",
+        "description": "Port of Durban equipment maintenance backlog: 18 cranes operating below design capacity due to deferred maintenance. Estimated R1.2bn maintenance backlog creating revenue risk.",
+        "recommendation": "Board to approve emergency maintenance allocation. 24-hour crane maintenance programme to be implemented.",
+        "status": "Resolved"
+      }
+    ]
+  },
+  {
+    "id": 2206,
+    "companyId": 11,
+    "companyName": "Transnet SOC Limited",
+    "auditType": "Internal Audit",
+    "auditFirm": "Transnet Group Internal Audit",
+    "leadAuditor": "Chief Internal Auditor: Nomathemba Kunene",
+    "startDate": "2024-05-01T00:00:00Z",
+    "endDate": "2024-07-31T00:00:00Z",
+    "status": "Completed",
+    "scope": "Q1 FY2024/25 review of port operations, new locomotive programme delivery controls and pipeline integrity management.",
+    "riskRating": "Medium",
+    "executiveSummary": "Q1 internal audit shows continued improvement. 15 findings down from 24 in Q1 FY2023/24. Port operations controls notably stronger. Locomotive programme delivery tracking improved. Pipeline integrity management fully compliant.",
+    "reportReference": "TN-IA-Q1-2025",
+    "nextAuditDate": "2024-11-01T00:00:00Z",
+    "findings": [
+      {
+        "id": "F2206-01",
+        "category": "Operational",
+        "severity": "Medium",
+        "description": "Crane utilisation data integrity: At Durban Container Terminal, crane availability data in the Operations System does not fully reconcile with maintenance records. 3 cranes recorded as available in OPS system were on maintenance hold.",
+        "recommendation": "Implement real-time IoT crane status monitoring. Data reconciliation to be performed daily by terminal operations manager.",
+        "status": "In Progress"
+      },
+      {
+        "id": "F2206-02",
+        "category": "Procurement",
+        "severity": "Low",
+        "description": "CRRC locomotive delivery inspection documentation incomplete. 28 units accepted into service without full PDI (pre-delivery inspection) signoff. Warranty claim risk.",
+        "recommendation": "Retrospective PDI documentation to be obtained from CRRC. Implement mandatory 3-party inspection protocol for all future deliveries.",
+        "status": "Resolved"
+      }
+    ]
+  },
+  {
+    "id": 2207,
+    "companyId": 11,
+    "companyName": "Transnet SOC Limited",
+    "auditType": "Performance Audit",
+    "auditFirm": "Auditor-General of South Africa (AGSA)",
+    "leadAuditor": "Business Unit Director: Thembeka Ntuli",
+    "startDate": "2023-01-01T00:00:00Z",
+    "endDate": "2023-06-30T00:00:00Z",
+    "status": "Completed",
+    "scope": "Performance audit of Transnet's National Development Plan (NDP) capital expenditure programme, procurement processes and service delivery obligations.",
+    "riskRating": "High",
+    "executiveSummary": "AGSA Performance Audit identified significant concerns with NDP capital programme delivery: 18 major projects behind schedule (average delay 2.3 years), R18bn in cost overruns since inception, and inadequate project management controls. Locomotive programme identified as highest risk due to delivery delays and local content dispute.",
+    "reportReference": "AGSA-TN-PERF-2023-001",
+    "nextAuditDate": "2025-06-01T00:00:00Z",
+    "findings": [
+      {
+        "id": "F2207-01",
+        "category": "Capital Programme",
+        "severity": "High",
+        "description": "NDP project delivery failures: 18 of 42 NDP projects are behind schedule. Key projects including Durban Port expansion Phase 2 (38 months late) and Manganese line capacity expansion (22 months late) impacting SA export revenues.",
+        "recommendation": "Implement independent Programme Management Office for NDP. Monthly CEO-chaired NDP review. Contractor penalties to be enforced.",
+        "status": "In Progress"
+      },
+      {
+        "id": "F2207-02",
+        "category": "Procurement",
+        "severity": "Critical",
+        "description": "CRRC locomotive contract: Original contract did not adequately protect Transnet's interests on local content enforcement. R4.2bn penalty exposure for Transnet if local content targets not met by contractual date.",
+        "recommendation": "Legal team to renegotiate local content timeline. Invoke dispute resolution mechanism. Consequence management for executives involved in original contracting.",
+        "status": "In Progress"
+      }
+    ]
+  },
+  {
+    "id": 2208,
+    "companyId": 12,
+    "companyName": "South African Airways",
+    "auditType": "External Financial Audit",
+    "auditFirm": "BDO South Africa Inc.",
+    "leadAuditor": "Audit Partner: Zanele Nkosi",
+    "startDate": "2025-01-15T00:00:00Z",
+    "endDate": "2025-03-10T00:00:00Z",
+    "status": "Completed",
+    "scope": "Annual Financial Statements for year ended 31 March 2024.",
+    "riskRating": "High",
+    "executiveSummary": "Qualified audit opinion issued due to material uncertainty relating to going concern (negative equity of R300m) and uncertainty over the Strategic Equity Partner process outcome. The qualified opinion is an improvement from the prior year adverse opinion and reflects SAA's path to recovery. Loss reduced to R800m from R1.5bn.",
+    "reportReference": "BDO-SAA-2024-AUD-001",
+    "nextAuditDate": "2026-01-15T00:00:00Z",
+    "findings": [
+      {
+        "id": "F2208-01",
+        "category": "Going Concern",
+        "severity": "Critical",
+        "description": "Negative equity of R300m and continued net loss of R800m raise material going concern uncertainty. SAA's continued operation depends on government support and successful SEP transaction. No committed equity from government beyond R10.5bn already received.",
+        "recommendation": "Conclude SEP process. Obtain written commitment from government on contingent equity support. Achieve profitability within 18 months.",
+        "status": "In Progress"
+      },
+      {
+        "id": "F2208-02",
+        "category": "Revenue",
+        "severity": "Medium",
+        "description": "Codeshare and interline revenue recognition: R420m in codeshare revenue from Air France-KLM and Singapore Airlines not reconciled to BSP reporting. Potential revenue understatement.",
+        "recommendation": "Implement dedicated interline settlement reconciliation process. Appoint specialist interline auditor.",
+        "status": "In Progress"
+      },
+      {
+        "id": "F2208-03",
+        "category": "Asset Valuation",
+        "severity": "Low",
+        "description": "Aircraft maintenance reserves: Three A320 aircraft have maintenance reserves deposited with lessors that are not properly reflected in financial statements as assets.",
+        "recommendation": "Reclassify lessors' maintenance reserves as other receivables. Engage lessors for written confirmation of balances.",
+        "status": "Resolved"
+      }
+    ]
+  },
+  {
+    "id": 2209,
+    "companyId": 12,
+    "companyName": "South African Airways",
+    "auditType": "External Financial Audit",
+    "auditFirm": "BDO South Africa Inc.",
+    "leadAuditor": "Audit Partner: Zanele Nkosi",
+    "startDate": "2023-01-15T00:00:00Z",
+    "endDate": "2023-03-15T00:00:00Z",
+    "status": "Completed",
+    "scope": "Annual Financial Statements for year ended 31 March 2023.",
+    "riskRating": "Critical",
+    "executiveSummary": "Qualified audit opinion. Going concern uncertainty remains fundamental. Negative equity of R1.3bn. Net loss of R1.5bn. Recovery trajectory evident but profitability still 2+ years away. Fuel hedging strategy absence noted as significant risk factor.",
+    "reportReference": "BDO-SAA-2023-AUD-001",
+    "nextAuditDate": "2025-01-15T00:00:00Z",
+    "findings": [
+      {
+        "id": "F2209-01",
+        "category": "Financial Risk",
+        "severity": "High",
+        "description": "No fuel hedging programme in place despite 32% exposure of operating costs to jet fuel price. Jet fuel at $900/MT in FY2023 vs budget of $720/MT added R600m to costs.",
+        "recommendation": "Implement structured fuel hedging programme covering 50% of next 12-month consumption. Appoint treasury risk manager.",
+        "status": "Resolved"
+      },
+      {
+        "id": "F2209-02",
+        "category": "Controls",
+        "severity": "Medium",
+        "description": "Payroll controls post-restructuring: 124 employees appear on payroll with terminated employment contracts in HR system. Risk of fraudulent payments.",
+        "recommendation": "Immediate payroll audit and reconciliation to HR system. Implement monthly payroll sign-off by HR and Finance jointly.",
+        "status": "Resolved"
+      }
+    ]
+  },
+  {
+    "id": 2210,
+    "companyId": 12,
+    "companyName": "South African Airways",
+    "auditType": "Internal Audit",
+    "auditFirm": "SAA Internal Audit Division",
+    "leadAuditor": "Chief Internal Auditor: Andile Zulu",
+    "startDate": "2024-06-01T00:00:00Z",
+    "endDate": "2024-08-31T00:00:00Z",
+    "status": "Completed",
+    "scope": "H1 FY2024/25 review of revenue management, maintenance controls and digital transformation programme.",
+    "riskRating": "Medium",
+    "executiveSummary": "H1 internal audit shows solid control environment for a recently restructured airline. 12 findings noted, all low-to-medium severity. Revenue management system controls strong. Digital transformation programme governance needs strengthening. Fleet maintenance documentation fully compliant.",
+    "reportReference": "SAA-IA-H1-2024",
+    "nextAuditDate": "2025-02-01T00:00:00Z",
+    "findings": [
+      {
+        "id": "F2210-01",
+        "category": "Technology",
+        "severity": "Medium",
+        "description": "Digital transformation programme (DTP) governance: R280m committed without formal project steering committee. Project deviations from original scope not formally approved. Risk of scope creep.",
+        "recommendation": "Establish formal DTP Steering Committee with CFO as sponsor. Implement change control process. Monthly progress reports to EXCO.",
+        "status": "In Progress"
+      },
+      {
+        "id": "F2210-02",
+        "category": "Revenue",
+        "severity": "Low",
+        "description": "Ancillary revenue tracking: Additional baggage fees and seat selection revenue not systematically tracked. Estimated R45m annual ancillary revenue may be understated.",
+        "recommendation": "Implement ancillary revenue reporting module in new PSS system. Establish ancillary revenue KPIs.",
+        "status": "In Progress"
+      }
+    ]
+  },
+  {
+    "id": 2211,
+    "companyId": 13,
+    "companyName": "Denel SOC Limited",
+    "auditType": "External Financial Audit",
+    "auditFirm": "Auditor-General of South Africa (AGSA)",
+    "leadAuditor": "Senior Manager: Boitumelo Mokoena",
+    "startDate": "2025-01-10T00:00:00Z",
+    "endDate": "2025-03-31T00:00:00Z",
+    "status": "In Progress",
+    "scope": "Annual Financial Statements FY2024 including pension fund disclosures and turnaround plan performance information.",
+    "riskRating": "High",
+    "executiveSummary": "Audit in progress. Expected outcome: qualified opinion due to ongoing pension fund deficit accounting complexity. However significant improvement from prior years anticipated. Turnaround plan performance information expected to receive clean assurance.",
+    "reportReference": "AGSA-DENEL-2024-AUD-001",
+    "nextAuditDate": "2026-01-10T00:00:00Z",
+    "findings": [
+      {
+        "id": "F2211-01",
+        "category": "Pension Fund",
+        "severity": "High",
+        "description": "Pension fund deficit accounting: R2.5bn defined benefit obligation not consistently measured. Actuarial assumptions applied by Denel's appointed actuary differ from prior year without adequate justification. AGSA required restatement discussion.",
+        "recommendation": "Appoint independent actuary to confirm actuarial assumptions. Align with IAS 19 requirements. Board Audit Committee to oversee actuarial appointment.",
+        "status": "In Progress"
+      },
+      {
+        "id": "F2211-02",
+        "category": "Compliance",
+        "severity": "Medium",
+        "description": "OHS non-compliance at Swartklip facility: R2.5m fine from DoEL not adequately disclosed in financial statements as contingent liability. Risk of further fines if remediation plan not approved.",
+        "recommendation": "Include OHS fine in contingent liability note. Update remediation plan timeline. Appoint SHEQ compliance officer at Swartklip.",
+        "status": "In Progress"
+      }
+    ]
+  },
+  {
+    "id": 2212,
+    "companyId": 13,
+    "companyName": "Denel SOC Limited",
+    "auditType": "External Financial Audit",
+    "auditFirm": "Auditor-General of South Africa (AGSA)",
+    "leadAuditor": "Senior Manager: Boitumelo Mokoena",
+    "startDate": "2022-10-01T00:00:00Z",
+    "endDate": "2023-03-18T00:00:00Z",
+    "status": "Completed",
+    "scope": "Annual Financial Statements FY2022. Special emphasis on going concern, salary arrears settlement and government assistance.",
+    "riskRating": "Critical",
+    "executiveSummary": "Qualified audit opinion. Material uncertainty about going concern: negative cash flow operations, R1.8bn net loss, and dependence on continued government support. Salary arrears of R3.8bn settled using R3bn emergency government funding noted. State entity grants not meeting GRAP requirements for recognition.",
+    "reportReference": "AGSA-DENEL-2022-AUD-001",
+    "nextAuditDate": "2023-10-01T00:00:00Z",
+    "findings": [
+      {
+        "id": "F2212-01",
+        "category": "Going Concern",
+        "severity": "Critical",
+        "description": "Material going concern uncertainty: Denel has negative operating cash flows, R7.8bn in total liabilities exceeding R9.1bn assets. Continued operation dependent on R3bn emergency government grant and ongoing forbearance from creditors.",
+        "recommendation": "Board to obtain written government commitment for continued support. Turnaround Plan milestones to be achieved within 12 months. Independent financial advisor to review viability.",
+        "status": "Resolved"
+      },
+      {
+        "id": "F2212-02",
+        "category": "Compliance",
+        "severity": "High",
+        "description": "PFMA consequence management: R1.2bn in irregular expenditure identified from 2019-2022. No consequence management actions completed. 8 executives implicated in SCM violations not disciplined.",
+        "recommendation": "Immediately initiate disciplinary proceedings for implicated officials. Submit consequence management progress report to DPE quarterly.",
+        "status": "In Progress"
+      },
+      {
+        "id": "F2212-03",
+        "category": "Human Resources",
+        "severity": "High",
+        "description": "Skills retention crisis documentation: 580 engineers and technical staff resigned due to salary arrears. No formal skills gap assessment conducted. Risk to strategic capabilities in propulsion, guidance and avionics systems.",
+        "recommendation": "Conduct immediate skills gap assessment. Develop skills recovery plan with timeline. Engage universities and CSIR for collaborative programme.",
+        "status": "In Progress"
+      }
+    ]
+  },
+  {
+    "id": 2213,
+    "companyId": 13,
+    "companyName": "Denel SOC Limited",
+    "auditType": "Internal Audit",
+    "auditFirm": "Denel Internal Audit Division",
+    "leadAuditor": "Chief Internal Auditor: Pieter van Rensburg",
+    "startDate": "2024-04-01T00:00:00Z",
+    "endDate": "2024-06-30T00:00:00Z",
+    "status": "Completed",
+    "scope": "Q1 FY2024/25 review of turnaround plan implementation, Rooivalk contract controls and supply chain management.",
+    "riskRating": "Medium",
+    "executiveSummary": "Q1 audit shows positive improvement trajectory. 14 findings compared to 28 in Q1 FY2023. Turnaround plan implementation controls substantially improved. Rooivalk contract management controls strengthened. Skills retention programme showing results.",
+    "reportReference": "DENEL-IA-Q1-2024",
+    "nextAuditDate": "2024-10-01T00:00:00Z",
+    "findings": [
+      {
+        "id": "F2213-01",
+        "category": "Contract Management",
+        "severity": "Medium",
+        "description": "Rooivalk delivery schedule management: Production milestone tracking system not adequately capturing sub-component delays. 4-month delivery delay not escalated to Board for 6 weeks after identification.",
+        "recommendation": "Implement weekly Rooivalk programme review with CEO attendance. Red flag escalation within 5 business days of milestone deviation. Client notification within 10 days.",
+        "status": "Resolved"
+      },
+      {
+        "id": "F2213-02",
+        "category": "Human Resources",
+        "severity": "Low",
+        "description": "Skills retention incentive: R180m retention package disbursed but 22% of beneficiaries did not sign required 2-year service commitment documents. Legal enforceability of retention bonuses at risk.",
+        "recommendation": "Obtain retrospective signed commitments from all beneficiaries. Future retention payments conditional on signed agreement.",
+        "status": "Resolved"
+      }
+    ]
+  },
+  {
+    "id": 2214,
+    "companyId": 13,
+    "companyName": "Denel SOC Limited",
+    "auditType": "Special Purpose Audit",
+    "auditFirm": "SIU - Special Investigating Unit",
+    "leadAuditor": "SIU Head of Investigations",
+    "startDate": "2022-06-01T00:00:00Z",
+    "endDate": "2024-06-30T00:00:00Z",
+    "status": "Completed",
+    "scope": "SIU investigation per Proclamation R28/2020 into Denel procurement irregularities, suspected corruption and maladministration.",
+    "riskRating": "Critical",
+    "executiveSummary": "SIU investigation concluded with R2.1bn in irregular, fruitless and wasteful expenditure confirmed. 14 former employees and 8 external parties referred to NPA for prosecution. Civil asset recovery proceedings initiated. R680m in assets frozen. Turnaround governance improvements noted.",
+    "reportReference": "SIU-DENEL-R28-2020-FINAL",
+    "nextAuditDate": null,
+    "findings": [
+      {
+        "id": "F2214-01",
+        "category": "Corruption",
+        "severity": "Critical",
+        "description": "Contract manipulation: 6 contracts worth R1.4bn awarded to connected parties without competitive procurement. Senior SCM officials and two former executives implicated. False BEE documentation used in two awards.",
+        "recommendation": "Criminal referrals made to NPA. Civil recovery initiated. Denel to implement enhanced BEE verification process for all contracts above R500,000.",
+        "status": "In Progress"
+      },
+      {
+        "id": "F2214-02",
+        "category": "Financial Misconduct",
+        "severity": "High",
+        "description": "Misappropriation of R180m: Transfer of Denel funds to fictitious consultancy companies. Documentation trail indicates former CFO and two division heads involved. Funds partially recovered.",
+        "recommendation": "Full criminal prosecution by NPA. Asset forfeiture proceedings. Insurance claims lodged. R85m recovered to date.",
+        "status": "In Progress"
+      }
+    ]
+  },
+  {
+    "id": 2215,
+    "companyId": 10,
+    "companyName": "Eskom Holdings SOC",
+    "auditType": "Internal Audit",
+    "auditFirm": "Eskom Internal Audit Division",
+    "leadAuditor": "Chief Internal Auditor: Siphiwe Mavundla",
+    "startDate": "2023-04-01T00:00:00Z",
+    "endDate": "2023-06-30T00:00:00Z",
+    "status": "Completed",
+    "scope": "Q1 FY2023/24 review of load shedding management, emergency procurement and coal supply chain.",
+    "riskRating": "High",
+    "executiveSummary": "Load shedding crisis context dominates Q1 audit. 38 findings, highest in 3 years. Emergency procurement controls inadequate. Coal stockpile management critical deficiencies. Multiple deviations from SCM policy under emergency conditions.",
+    "reportReference": "ESK-IA-Q1-2023",
+    "nextAuditDate": "2023-10-01T00:00:00Z",
+    "findings": [
+      {
+        "id": "F2215-01",
+        "category": "Procurement",
+        "severity": "Critical",
+        "description": "Emergency diesel procurement deviations: R1.4bn in OCGT diesel purchases made without competitive quotes. Limited evidence of emergency need justification. Possible price inflation above market rates.",
+        "recommendation": "Implement emergency procurement pre-approved supplier list at fixed rates. All emergency deviations require CFO and CEO dual approval.",
+        "status": "Resolved"
+      },
+      {
+        "id": "F2215-02",
+        "category": "Operational",
+        "severity": "High",
+        "description": "EAF reporting accuracy: Plant availability data submitted to NERSA and the public differed from internal EMS records in 12% of instances. Risk of regulatory misrepresentation.",
+        "recommendation": "Implement automated EAF reporting directly from EMS system. Monthly reconciliation between EMS and external reports by independent reviewer.",
+        "status": "Resolved"
+      }
+    ]
+  },
+  {
+    "id": 2216,
+    "companyId": 11,
+    "companyName": "Transnet SOC Limited",
+    "auditType": "External Financial Audit",
+    "auditFirm": "KPMG Inc.",
+    "leadAuditor": "Audit Partner: Mxolisi Nkosi",
+    "startDate": "2020-07-01T00:00:00Z",
+    "endDate": "2020-09-30T00:00:00Z",
+    "status": "Completed",
+    "scope": "Annual Financial Statements FY2020.",
+    "riskRating": "Medium",
+    "executiveSummary": "Unqualified audit opinion with going concern emphasis. NDP capital programme delivery concerns noted. Preliminary findings on State Capture era contracts raised for first time. COVID-19 operational impact adequately disclosed.",
+    "reportReference": "KPMG-TN-2020-AUD-001",
+    "nextAuditDate": "2021-07-01T00:00:00Z",
+    "findings": [
+      {
+        "id": "F2216-01",
+        "category": "Procurement",
+        "severity": "High",
+        "description": "State Capture procurement: Initial findings indicate R8.6bn in contracts awarded to Gupta-linked entities without adequate competitive procurement. Referral to Board for independent investigation recommended.",
+        "recommendation": "Commission independent forensic investigation. All implicated contracts reviewed for termination. SIU proclamation requested.",
+        "status": "Resolved"
+      },
+      {
+        "id": "F2216-02",
+        "category": "Capital Programme",
+        "severity": "Medium",
+        "description": "NDP project management: R12bn in capital projects overrunning budget by more than 20% without Board-approved contingency authorisation. PMO controls inadequate.",
+        "recommendation": "Implement mandatory Board approval for all capex overruns above 15%. PMO restructuring required.",
+        "status": "Resolved"
+      }
+    ]
+  },
+  {
+    "id": 2217,
+    "companyId": 12,
+    "companyName": "South African Airways",
+    "auditType": "External Financial Audit",
+    "auditFirm": "BDO South Africa Inc.",
+    "leadAuditor": "Audit Partner: Zanele Nkosi",
+    "startDate": "2021-06-01T00:00:00Z",
+    "endDate": "2022-06-15T00:00:00Z",
+    "status": "Completed",
+    "scope": "Annual Financial Statements FY2021 - business rescue period. Special going concern and insolvency accounting considerations.",
+    "riskRating": "Critical",
+    "executiveSummary": "Adverse audit opinion issued. SAA in business rescue during FY2021 with negative equity of R14.5bn. Revenue collapsed to R3.2bn due to COVID-19. Government capital injection of R10.5bn partially mitigated but insolvency risk persistent. Business rescue plan successfully voted through.",
+    "reportReference": "BDO-SAA-2021-AUD-001",
+    "nextAuditDate": "2023-01-15T00:00:00Z",
+    "findings": [
+      {
+        "id": "F2217-01",
+        "category": "Going Concern",
+        "severity": "Critical",
+        "description": "Adverse opinion: Negative equity of R14.5bn, net loss of R7.8bn and negative operating cash flows of R4.8bn indicate that SAA cannot continue as a going concern on its own resources. Business rescue plan is the only viable pathway.",
+        "recommendation": "Business rescue plan to be executed in full. Government equity injection essential. Headcount reduction and cost restructuring non-negotiable.",
+        "status": "Resolved"
+      },
+      {
+        "id": "F2217-02",
+        "category": "Compliance",
+        "severity": "High",
+        "description": "Business rescue fee disclosures: R580m in business rescue practitioner fees inadequately disclosed as related party transactions. Practitioners' independence not sufficiently documented.",
+        "recommendation": "Full disclosure of all business rescue fees in notes to AFS. Independent assessment of practitioner fees by DPE.",
+        "status": "Resolved"
+      }
+    ]
+  },
+  {
+    "id": 2218,
+    "companyId": 13,
+    "companyName": "Denel SOC Limited",
+    "auditType": "External Financial Audit",
+    "auditFirm": "Auditor-General of South Africa (AGSA)",
+    "leadAuditor": "Senior Manager: Boitumelo Mokoena",
+    "startDate": "2024-01-15T00:00:00Z",
+    "endDate": "2024-03-22T00:00:00Z",
+    "status": "Completed",
+    "scope": "Annual Financial Statements FY2023.",
+    "riskRating": "High",
+    "executiveSummary": "Qualified audit opinion. Improvement from prior year. Net loss reduced to R900m. Turnaround plan showing results. Pension fund deficit remains key unresolved audit matter. Skills recovery programme on track. Rooivalk contract signed providing revenue visibility.",
+    "reportReference": "AGSA-DENEL-2023-AUD-001",
+    "nextAuditDate": "2025-01-10T00:00:00Z",
+    "findings": [
+      {
+        "id": "F2218-01",
+        "category": "Pension Fund",
+        "severity": "High",
+        "description": "Denel Pension Fund deficit: R2.5bn defined benefit obligation recognised but recovery plan disclosures insufficient. IAS 19 actuarial gains/losses recognition method needs updating.",
+        "recommendation": "Update actuarial assumptions to current market rates. Enhance IAS 19 disclosures in financial statements. Board to approve comprehensive 15-year funding plan.",
+        "status": "In Progress"
+      },
+      {
+        "id": "F2218-02",
+        "category": "Revenue Recognition",
+        "severity": "Medium",
+        "description": "Percentage completion method applied to Rooivalk contract: R420m revenue recognised in FY2023 on basis of costs incurred. AGSA requires independent technical assessment of completion percentage.",
+        "recommendation": "Obtain independent engineering assessment of Rooivalk completion percentage. Align revenue recognition with independently verified milestones.",
+        "status": "Resolved"
+      }
+    ]
+  },
+  {
+    "id": 2219,
+    "companyId": 10,
+    "companyName": "Eskom Holdings SOC",
+    "auditType": "Internal Audit",
+    "auditFirm": "Eskom Internal Audit Division",
+    "leadAuditor": "Chief Internal Auditor: Siphiwe Mavundla",
+    "startDate": "2022-04-01T00:00:00Z",
+    "endDate": "2022-06-30T00:00:00Z",
+    "status": "Completed",
+    "scope": "Q1 FY2022/23 audit focused on coal procurement, plant maintenance and Kusile construction controls.",
+    "riskRating": "High",
+    "executiveSummary": "Significant deficiencies in coal supply chain management at 8 stations. Kusile Units 4-6 construction controls inadequate. Stage 4-6 load shedding forecast imminent based on EAF trajectory. 45 findings - highest in company history.",
+    "reportReference": "ESK-IA-Q1-2022",
+    "nextAuditDate": "2022-10-01T00:00:00Z",
+    "findings": [
+      {
+        "id": "F2219-01",
+        "category": "Supply Chain",
+        "severity": "Critical",
+        "description": "Coal stockpile at 9 stations below critical 20-day threshold. Spot purchase deviations from SCM policy at all 9 stations. Price premiums paid without formal justification at Matimba, Lethabo and Kendal stations.",
+        "recommendation": "Immediate emergency measures: CEO authorised emergency procurement. Weekly stockpile reporting to EXCO. Quarterly deviation report to Board.",
+        "status": "Resolved"
+      },
+      {
+        "id": "F2219-02",
+        "category": "Construction",
+        "severity": "High",
+        "description": "Kusile Unit 5 and 6 construction: Quality control deviations from approved design specifications at boiler secondary air ports. Risk of repeat Kusile units 3 design fault causing future outages.",
+        "recommendation": "Independent engineering review of Units 5 and 6. Eskom engineer of record sign-off on all future construction deviations. CDM Smith independent technical oversight.",
+        "status": "Resolved"
+      }
+    ]
+  },
+  {
+    "id": 2220,
+    "companyId": 11,
+    "companyName": "Transnet SOC Limited",
+    "auditType": "External Financial Audit",
+    "auditFirm": "KPMG Inc.",
+    "leadAuditor": "Audit Partner: Mxolisi Nkosi",
+    "startDate": "2021-07-01T00:00:00Z",
+    "endDate": "2021-09-30T00:00:00Z",
+    "status": "Completed",
+    "scope": "Annual Financial Statements FY2021.",
+    "riskRating": "High",
+    "executiveSummary": "Unqualified opinion with going concern emphasis and State Capture emphasis of matter. R14bn in State Capture-era contracts under forensic investigation. COVID-19 impact fully disclosed. SATAWU strike risk noted.",
+    "reportReference": "KPMG-TN-2021-AUD-001",
+    "nextAuditDate": "2022-07-01T00:00:00Z",
+    "findings": [
+      {
+        "id": "F2220-01",
+        "category": "Compliance",
+        "severity": "Critical",
+        "description": "R14bn State Capture contracts: Forensic investigation confirms R14bn in irregular contracts. Multiple senior executives implicated. Criminal referrals to NPA. SIU investigation underway per Proclamation R29/2019.",
+        "recommendation": "Continue full cooperation with SIU. Accelerate disciplinary proceedings. Terminate remaining implicated contracts with legal safeguards.",
+        "status": "In Progress"
+      },
+      {
+        "id": "F2220-02",
+        "category": "Debt Management",
+        "severity": "Medium",
+        "description": "Covenant compliance: Three loan agreements require minimum debt service coverage ratio of 1.5x. Transnet FY2021 DSCR at 1.42x, breaching covenants. Waivers obtained but covenant risk elevated.",
+        "recommendation": "Negotiate covenant reset with lenders. Improve DSCR through operational cash flow improvement. Board to approve formal covenant management framework.",
+        "status": "Resolved"
+      }
+    ]
+  },
+  {
+    "id": 2221,
+    "companyId": 12,
+    "companyName": "South African Airways",
+    "auditType": "External Financial Audit",
+    "auditFirm": "BDO South Africa Inc.",
+    "leadAuditor": "Audit Partner: Zanele Nkosi",
+    "startDate": "2022-10-01T00:00:00Z",
+    "endDate": "2023-03-20T00:00:00Z",
+    "status": "Completed",
+    "scope": "Annual Financial Statements FY2022.",
+    "riskRating": "High",
+    "executiveSummary": "Qualified audit opinion. First post-rescue AFS. Revenue R9.4bn but still negative equity. Going concern emphasis. Significant internal control weaknesses in new IT systems. Fuel hedging absence flagged as material risk.",
+    "reportReference": "BDO-SAA-2022-AUD-001",
+    "nextAuditDate": "2024-01-15T00:00:00Z",
+    "findings": [
+      {
+        "id": "F2221-01",
+        "category": "Financial Risk",
+        "severity": "High",
+        "description": "Fuel hedging absence: SAA has no fuel hedging programme despite volatile jet fuel prices. A 20% fuel price increase would add R600m to costs. Fuel represents 35% of operating expenditure.",
+        "recommendation": "Implement structured fuel hedging programme within 90 days. Appoint treasury risk specialist. Board to approve hedging policy.",
+        "status": "Resolved"
+      },
+      {
+        "id": "F2221-02",
+        "category": "Information Technology",
+        "severity": "Medium",
+        "description": "Post-migration IT controls: SAA migrated to new Amadeus platform post-rescue but access controls and reconciliation processes not fully implemented. R120m reconciliation gap between booking system and bank receipts.",
+        "recommendation": "Implement full IT controls programme for Amadeus. Daily reconciliation to bank account. Appoint dedicated IT audit resource.",
+        "status": "Resolved"
+      }
+    ]
+  },
+  {
+    "id": 2222,
+    "companyId": 10,
+    "companyName": "Eskom Holdings SOC",
+    "auditType": "External Financial Audit",
+    "auditFirm": "Auditor-General of South Africa (AGSA)",
+    "leadAuditor": "Deputy Auditor-General: Cornelius Diale",
+    "startDate": "2022-08-01T00:00:00Z",
+    "endDate": "2022-11-30T00:00:00Z",
+    "status": "Completed",
+    "scope": "Annual Financial Statements FY2022.",
+    "riskRating": "High",
+    "executiveSummary": "Qualified audit opinion. Net loss R12.3bn. R3.2bn irregular expenditure. Debt R418bn. Emphasis on going concern. Coal supply chain management deficiencies noted. Kusile Unit 3 design fault disclosure concerns.",
+    "reportReference": "AGSA-ESK-2022-AUD-001",
+    "nextAuditDate": "2023-08-01T00:00:00Z",
+    "findings": [
+      {
+        "id": "F2222-01",
+        "category": "Compliance",
+        "severity": "High",
+        "description": "R3.2bn irregular expenditure: Emergency procurement deviations, maintenance contract deviations and information technology procurement irregularities.",
+        "recommendation": "Full SCM compliance review. Consequence management for all deviations. Board oversight strengthened.",
+        "status": "Resolved"
+      },
+      {
+        "id": "F2222-02",
+        "category": "Asset Management",
+        "severity": "Medium",
+        "description": "Kusile Unit 3 design fault: Secondary air port design deficiency at Kusile not adequately disclosed as a contingent liability. R4.8bn rectification cost understated.",
+        "recommendation": "Obtain independent engineering cost estimate. Disclose full rectification liability in next AFS. Expedite design fix on Units 4-6.",
+        "status": "Resolved"
+      }
+    ]
+  },
+  {
+    "id": 2223,
+    "companyId": 13,
+    "companyName": "Denel SOC Limited",
+    "auditType": "External Financial Audit",
+    "auditFirm": "Auditor-General of South Africa (AGSA)",
+    "leadAuditor": "Senior Manager: Boitumelo Mokoena",
+    "startDate": "2021-10-01T00:00:00Z",
+    "endDate": "2022-03-20T00:00:00Z",
+    "status": "Completed",
+    "scope": "Annual Financial Statements FY2021.",
+    "riskRating": "Critical",
+    "executiveSummary": "Adverse audit opinion. Deepest financial crisis in Denel history. Net loss R2.3bn, negative cash flows, salary arrears R3.8bn. Government emergency grant R3bn partially offsetting but not sufficient. Critical skills exodus. Pension deficit R2.5bn.",
+    "reportReference": "AGSA-DENEL-2021-AUD-001",
+    "nextAuditDate": "2022-10-01T00:00:00Z",
+    "findings": [
+      {
+        "id": "F2223-01",
+        "category": "Going Concern",
+        "severity": "Critical",
+        "description": "Adverse opinion: Denel cannot continue as a going concern. Zero cash balance, R3.8bn salary arrears, negative equity approaching. Pension deficit R2.5bn. Only government guarantee prevents formal insolvency.",
+        "recommendation": "Immediate government intervention required. Cabinet approval for R3bn emergency grant. Turnaround plan mandatory. Board composition overhaul.",
+        "status": "Resolved"
+      },
+      {
+        "id": "F2223-02",
+        "category": "HR",
+        "severity": "Critical",
+        "description": "580 engineers and technicians resigned or absconded due to salary non-payment. Certain weapons system capabilities now below operationally viable staff levels. Risk to SANDF operational readiness.",
+        "recommendation": "Emergency salary payments. Retention packages for critical staff. SANDF impact assessment. University collaboration to rebuild capabilities.",
+        "status": "In Progress"
+      },
+      {
+        "id": "F2223-03",
+        "category": "Compliance",
+        "severity": "High",
+        "description": "R2.3bn in irregular expenditure: Legacy from 2016-2021 period. Multiple procurement processes manipulated. Former CEO, CFO and divisional directors implicated by internal forensic report.",
+        "recommendation": "NPA criminal referrals. Asset attachment orders. Consequence management for all implicated personnel.",
+        "status": "In Progress"
+      }
+    ]
+  },
+  {
+    "id": 2224,
+    "companyId": 11,
+    "companyName": "Transnet SOC Limited",
+    "auditType": "Internal Audit",
+    "auditFirm": "Transnet Group Internal Audit",
+    "leadAuditor": "Chief Internal Auditor: Nomathemba Kunene",
+    "startDate": "2023-04-01T00:00:00Z",
+    "endDate": "2023-06-30T00:00:00Z",
+    "status": "Completed",
+    "scope": "Q1 FY2023/24 review of port recovery plan controls, locomotive programme and pipeline integrity.",
+    "riskRating": "High",
+    "executiveSummary": "Q1 audit focused on Recovery Plan implementation readiness. 24 findings. Port operations controls significantly weak. Cable theft prevention programme controls adequate. Locomotive delivery tracking inadequate.",
+    "reportReference": "TN-IA-Q1-2024",
+    "nextAuditDate": "2023-11-01T00:00:00Z",
+    "findings": [
+      {
+        "id": "F2224-01",
+        "category": "Operational",
+        "severity": "High",
+        "description": "Port Recovery Plan KPI baseline data inaccurate: 3 of 8 KPI baselines for the Recovery Plan were based on system data not reconciled to manual logs. Throughput baseline overstated by 12%, making targets appear easier than reality.",
+        "recommendation": "Recalibrate all Recovery Plan KPI baselines using reconciled data. Independent verification of baseline data by internal audit quarterly.",
+        "status": "Resolved"
+      },
+      {
+        "id": "F2224-02",
+        "category": "IT Systems",
+        "severity": "Medium",
+        "description": "Freight Rail TMS system downtime: Terminal Management System at Johannesburg marshalling yard experienced 48 hours of unplanned downtime in Q1 causing R280m in delayed freight revenue.",
+        "recommendation": "Implement TMS high-availability architecture. DR testing quarterly. SLA with IT vendor to include 4-hour recovery time objective.",
+        "status": "Resolved"
+      }
+    ]
+  },
+  {
+    "id": 2225,
+    "companyId": 10,
+    "companyName": "Eskom Holdings SOC",
+    "auditType": "External Financial Audit",
+    "auditFirm": "Auditor-General of South Africa (AGSA)",
+    "leadAuditor": "Deputy Auditor-General: Cornelius Diale",
+    "startDate": "2020-08-01T00:00:00Z",
+    "endDate": "2020-11-30T00:00:00Z",
+    "status": "Completed",
+    "scope": "Annual Financial Statements FY2020. First year of major COVID-19 impact.",
+    "riskRating": "High",
+    "executiveSummary": "Qualified audit opinion. Net loss R20.5bn. Debt R418bn. Going concern emphasis. COVID-19 electricity demand reduction adequately disclosed. Escalating irregular expenditure trend of concern. Stage 2-4 load shedding disclosed as risk.",
+    "reportReference": "AGSA-ESK-2020-AUD-001",
+    "nextAuditDate": "2021-08-01T00:00:00Z",
+    "findings": [
+      {
+        "id": "F2225-01",
+        "category": "Compliance",
+        "severity": "High",
+        "description": "Irregular expenditure R2.1bn: Deviations in coal procurement (R980m), maintenance contracts (R640m) and IT procurement (R480m). COVID-19 emergency protocols improperly invoked for non-COVID procurement.",
+        "recommendation": "COVID-19 procurement protocols to be applied strictly. All deviations require CEO and CFO dual approval. Post-COVID procurement review to be conducted.",
+        "status": "Resolved"
+      },
+      {
+        "id": "F2225-02",
+        "category": "Financial Risk",
+        "severity": "Critical",
+        "description": "Debt sustainability: R418bn debt with R32bn maturing within 12 months. Government guarantee ceiling of R350bn nearly exhausted. Without debt relief, Eskom will breach financial covenants by FY2022.",
+        "recommendation": "Government debt relief essential. National Treasury to commit to at least R200bn debt assumption. Accelerate MYPD tariff increase applications.",
+        "status": "Resolved"
+      }
+    ]
+  },
+  {
+    "id": 2302,
+    "companyId": 20,
+    "companyName": "Kenya Power and Lighting Company",
+    "auditType": "External Financial Audit",
+    "auditFirm": "KPMG Kenya",
+    "leadAuditor": "James Kariuki",
+    "startDate": "2024-07-15T00:00:00Z",
+    "endDate": "2024-09-30T00:00:00Z",
+    "status": "In Progress",
+    "scope": "Audit of KPLC Annual Financial Statements for the year ended 30 June 2024 in accordance with International Standards on Auditing (ISA) and IFRS.",
+    "riskRating": "Medium",
+    "executiveSummary": "KPMG audit of FY2024 financial statements in progress. Interim procedures completed. Focus areas include power purchase cost accruals, trade receivables provisioning, and capital works in progress.",
+    "reportReference": "KPMG/KPLC/2024/AUD",
+    "nextAuditDate": "2025-07-15T00:00:00Z",
+    "findings": [
+      {
+        "findingId": "F001",
+        "type": "Accounting",
+        "severity": "Medium",
+        "description": "Power purchase cost accruals as at June 2024 require additional vendor confirmations.",
+        "status": "In Progress"
+      }
+    ]
+  },
+  {
+    "id": 2303,
+    "companyId": 20,
+    "companyName": "Kenya Power and Lighting Company",
+    "auditType": "External Financial Audit",
+    "auditFirm": "Deloitte Kenya",
+    "leadAuditor": "Angela Waweru",
+    "startDate": "2023-07-10T00:00:00Z",
+    "endDate": "2023-10-15T00:00:00Z",
+    "status": "Completed",
+    "scope": "Audit of KPLC Annual Financial Statements for the year ended 30 June 2023. Includes review of related party transactions with KenGen, Kenya Electricity Transmission Company (KETRACO), and REA.",
+    "riskRating": "Medium",
+    "executiveSummary": "Deloitte issued an unqualified opinion with an emphasis of matter paragraph on related party transactions totalling KES 42bn with KenGen. IFRS 16 lease accounting treatment verified. All 2022 audit management letter recommendations implemented.",
+    "reportReference": "DEL/KPLC/FY2023/FINAL",
+    "nextAuditDate": "2024-07-10T00:00:00Z",
+    "findings": [
+      {
+        "findingId": "F001",
+        "type": "Disclosure",
+        "severity": "Low",
+        "description": "Enhanced disclosure on nature and terms of KenGen Power Purchase Agreement recommended.",
+        "status": "Resolved"
+      },
+      {
+        "findingId": "F002",
+        "type": "Valuation",
+        "severity": "Medium",
+        "description": "Unbilled revenue estimation methodology requires recalibration to post-COVID consumption patterns.",
+        "status": "Resolved"
+      }
+    ]
+  },
+  {
+    "id": 2304,
+    "companyId": 20,
+    "companyName": "Kenya Power and Lighting Company",
+    "auditType": "Internal Audit — Revenue Management",
+    "auditFirm": "KPLC Internal Audit Department",
+    "leadAuditor": "Mary Achieng",
+    "startDate": "2024-04-01T00:00:00Z",
+    "endDate": "2024-05-15T00:00:00Z",
+    "status": "Completed",
+    "scope": "Review of revenue management controls covering billing accuracy, collection processes, meter tampering detection, and revenue protection operations for H1 FY2024.",
+    "riskRating": "High",
+    "executiveSummary": "Internal audit identified 12 high-priority findings. Key issues: (1) CIS system unpatched since March 2023 creating cybersecurity vulnerability; (2) 1,240 commercial accounts with revenue discrepancies totalling KES 85m; (3) Revenue protection teams covering only 60% of high-risk areas.",
+    "reportReference": "IA/KPLC/2024/REV/003",
+    "nextAuditDate": "2025-04-01T00:00:00Z",
+    "findings": [
+      {
+        "findingId": "F001",
+        "type": "IT Security",
+        "severity": "Critical",
+        "description": "CIS unpatched since March 2023 — 3 critical CVEs identified. Risk of billing data breach.",
+        "status": "In Remediation"
+      },
+      {
+        "findingId": "F002",
+        "type": "Financial",
+        "severity": "High",
+        "description": "1,240 commercial accounts with unexplained revenue discrepancies of KES 85m.",
+        "status": "Investigation Underway"
+      },
+      {
+        "findingId": "F003",
+        "type": "Operational",
+        "severity": "High",
+        "description": "Revenue protection field operations covering only 60% of high-risk areas.",
+        "status": "Action Plan In Progress"
+      }
+    ]
+  },
+  {
+    "id": 2305,
+    "companyId": 20,
+    "companyName": "Kenya Power and Lighting Company",
+    "auditType": "Internal Audit — Procurement Compliance",
+    "auditFirm": "KPLC Internal Audit Department",
+    "leadAuditor": "Mary Achieng",
+    "startDate": "2023-10-01T00:00:00Z",
+    "endDate": "2023-11-30T00:00:00Z",
+    "status": "Completed",
+    "scope": "Compliance audit of procurement processes for contracts above KES 50m awarded in FY2023/24 Q1, covering PPRA compliance, competitive tendering, and contract management.",
+    "riskRating": "Medium",
+    "executiveSummary": "14 contracts reviewed totalling KES 3.8bn. 2 high-risk findings: one contract awarded without required PPRA approval and one contract with scope creep increasing value by 42% without competitive re-bidding. 4 medium-risk findings on documentation.",
+    "reportReference": "IA/KPLC/2023/PROC/002",
+    "nextAuditDate": "2024-10-01T00:00:00Z",
+    "findings": [
+      {
+        "findingId": "F001",
+        "type": "Compliance",
+        "severity": "High",
+        "description": "Contract for meter procurement KES 850m awarded without mandatory PPRA approval.",
+        "status": "Resolved"
+      },
+      {
+        "findingId": "F002",
+        "type": "Compliance",
+        "severity": "High",
+        "description": "Distribution line contract scope increased 42% without competitive re-bidding.",
+        "status": "Under Review"
+      }
+    ]
+  },
+  {
+    "id": 2306,
+    "companyId": 20,
+    "companyName": "Kenya Power and Lighting Company",
+    "auditType": "Regulatory Audit",
+    "auditFirm": "Energy and Petroleum Regulatory Authority (EPRA)",
+    "leadAuditor": "EPRA Inspection Team",
+    "startDate": "2024-07-08T00:00:00Z",
+    "endDate": "2024-07-19T00:00:00Z",
+    "status": "Completed",
+    "scope": "Annual EPRA compliance inspection covering technical standards compliance, quality of supply (voltage levels, frequency), customer service standards, and licence condition compliance.",
+    "riskRating": "Low",
+    "executiveSummary": "EPRA inspection rated KPLC overall compliance as Satisfactory. SAIDI performance noted as requiring improvement (38 hours vs. 35-hour standard). Customer complaint resolution timelines within acceptable range. Revenue protection activities assessed as adequate.",
+    "reportReference": "EPRA/INSP/KPLC/2024/07",
+    "nextAuditDate": "2025-07-01T00:00:00Z",
+    "findings": [
+      {
+        "findingId": "F001",
+        "type": "Regulatory",
+        "severity": "Medium",
+        "description": "SAIDI of 38 hours exceeds 35-hour minimum standard. KPLC directed to submit improvement plan.",
+        "status": "In Progress"
+      },
+      {
+        "findingId": "F002",
+        "type": "Customer Service",
+        "severity": "Low",
+        "description": "Fault clearance response time in Mombasa North region averaging 8.2 hours vs 6-hour standard.",
+        "status": "In Progress"
+      }
+    ]
+  },
+  {
+    "id": 2307,
+    "companyId": 20,
+    "companyName": "Kenya Power and Lighting Company",
+    "auditType": "IT Security Audit",
+    "auditFirm": "Serianu Cybersecurity Ltd",
+    "leadAuditor": "Victor Kamau",
+    "startDate": "2024-09-01T00:00:00Z",
+    "endDate": "2024-09-30T00:00:00Z",
+    "status": "Completed",
+    "scope": "External penetration testing and vulnerability assessment of KPLC core IT systems including CIS, ERP (FINESSE), SCADA, and network infrastructure.",
+    "riskRating": "Critical",
+    "executiveSummary": "4 critical vulnerabilities identified: (1) CIS unpatched CVEs enabling potential remote code execution; (2) SCADA network accessible from corporate LAN without proper segmentation; (3) Default credentials on 3 substation SCADA RTUs; (4) Insufficient MFA on remote access VPN. Immediate remediation required.",
+    "reportReference": "SERIANU/KPLC/2024/PENTEST",
+    "nextAuditDate": "2025-03-01T00:00:00Z",
+    "findings": [
+      {
+        "findingId": "F001",
+        "type": "Cybersecurity",
+        "severity": "Critical",
+        "description": "CIS unpatched — 3 critical CVEs enabling remote code execution on billing server.",
+        "status": "Emergency Patching In Progress"
+      },
+      {
+        "findingId": "F002",
+        "type": "Cybersecurity",
+        "severity": "Critical",
+        "description": "SCADA network not segmented from corporate LAN — potential for OT network attack.",
+        "status": "Mitigation In Progress"
+      }
+    ]
+  },
+  {
+    "id": 2308,
+    "companyId": 21,
+    "companyName": "Kenya Airways",
+    "auditType": "External Financial Audit",
+    "auditFirm": "Ernst & Young Kenya",
+    "leadAuditor": "Patrick Githinji",
+    "startDate": "2024-02-01T00:00:00Z",
+    "endDate": "2024-04-15T00:00:00Z",
+    "status": "Completed",
+    "scope": "Audit of Kenya Airways Plc Consolidated Financial Statements for the year ended 31 December 2023 including Group and Company statements, IFRS 16 lease liabilities, and going concern assessment.",
+    "riskRating": "High",
+    "executiveSummary": "EY issued a modified opinion with emphasis of matter on going concern. Net loss of KES 3.8bn and negative equity of KES 36bn noted. 5 high-risk audit findings including revenue leakage in code-share settlements and jet fuel cost accrual discrepancies. Government letter of support obtained for going concern note.",
+    "reportReference": "EY/KQ/FY2023/FINAL",
+    "nextAuditDate": "2025-02-01T00:00:00Z",
+    "findings": [
+      {
+        "findingId": "F001",
+        "type": "Going Concern",
+        "severity": "Critical",
+        "description": "Negative equity KES 36bn and continued losses require going concern emphasis. Government support letter obtained.",
+        "status": "Noted"
+      },
+      {
+        "findingId": "F002",
+        "type": "Revenue",
+        "severity": "High",
+        "description": "Code-share settlement revenue leakage estimated KES 320m — reconciliation controls inadequate.",
+        "status": "In Remediation"
+      },
+      {
+        "findingId": "F003",
+        "type": "Cost Accruals",
+        "severity": "Medium",
+        "description": "Jet fuel cost accrual at year-end understated by KES 85m.",
+        "status": "Resolved"
+      }
+    ]
+  },
+  {
+    "id": 2309,
+    "companyId": 21,
+    "companyName": "Kenya Airways",
+    "auditType": "IATA IOSA Safety Audit",
+    "auditFirm": "IATA Audit Organization",
+    "leadAuditor": "IATA-Approved Audit Team",
+    "startDate": "2024-05-06T00:00:00Z",
+    "endDate": "2024-05-17T00:00:00Z",
+    "status": "Completed",
+    "scope": "IATA Operational Safety Audit (IOSA) biennial renewal covering flight operations, cabin operations, ground operations, dispatch, maintenance, security, and cargo operations.",
+    "riskRating": "Low",
+    "executiveSummary": "Kenya Airways retained IOSA registration for 2024-2026 period. 3 findings raised — all categorised as Findings (not Observations). KQ issued corrective action plans within required 30 days. IOSA renewal critical for maintaining codeshare agreements with SkyTeam partners.",
+    "reportReference": "IATA/IOSA/KQ/2024/001",
+    "nextAuditDate": "2026-05-01T00:00:00Z",
+    "findings": [
+      {
+        "findingId": "F001",
+        "type": "Safety",
+        "severity": "Low",
+        "description": "Documentation gap in minimum equipment list (MEL) for B737-800 series — update required.",
+        "status": "Resolved"
+      },
+      {
+        "findingId": "F002",
+        "type": "Safety",
+        "severity": "Low",
+        "description": "Cargo dangerous goods training records incomplete for 18 handlers.",
+        "status": "Resolved"
+      }
+    ]
+  },
+  {
+    "id": 2310,
+    "companyId": 21,
+    "companyName": "Kenya Airways",
+    "auditType": "Internal Audit — MRO Costs",
+    "auditFirm": "Kenya Airways Internal Audit",
+    "leadAuditor": "Titus Naikuni (Audit Committee Chair)",
+    "startDate": "2024-01-15T00:00:00Z",
+    "endDate": "2024-02-28T00:00:00Z",
+    "status": "Completed",
+    "scope": "Review of KQ MRO expenditure for FY2023 covering heavy maintenance contracts, parts procurement, and component pooling agreements with MRO providers.",
+    "riskRating": "Medium",
+    "executiveSummary": "MRO costs totalling KES 7.1bn reviewed. 4 medium-risk findings: (1) KES 850m in uncompetitively tendered parts from approved vendors; (2) Component loan agreements resulting in KES 280m in avoidable fees; (3) Workshop labour rate benchmarking showing 12% premium vs market. Overall MRO governance rated Moderate.",
+    "reportReference": "IA/KQ/2024/MRO/001",
+    "nextAuditDate": "2025-01-15T00:00:00Z",
+    "findings": [
+      {
+        "findingId": "F001",
+        "type": "Procurement",
+        "severity": "Medium",
+        "description": "KES 850m parts procurement without competitive tender from preferred vendors.",
+        "status": "Management Response Received"
+      },
+      {
+        "findingId": "F002",
+        "type": "Financial",
+        "severity": "Medium",
+        "description": "Component loan fees of KES 280m avoidable with improved stock management.",
+        "status": "Action Plan In Progress"
+      }
+    ]
+  },
+  {
+    "id": 2311,
+    "companyId": 21,
+    "companyName": "Kenya Airways",
+    "auditType": "External Financial Audit",
+    "auditFirm": "Ernst & Young Kenya",
+    "leadAuditor": "Patrick Githinji",
+    "startDate": "2023-02-01T00:00:00Z",
+    "endDate": "2023-04-30T00:00:00Z",
+    "status": "Completed",
+    "scope": "Audit of Kenya Airways Plc Consolidated Financial Statements for year ended 31 December 2022.",
+    "riskRating": "High",
+    "executiveSummary": "EY issued modified opinion with going concern emphasis. FY2022 net loss KES 5.2bn, negative equity KES 36bn. Government equity injection KES 15bn correctly classified. Key risk areas: IFRS 16 lease modification accounting for COVID-era lease deferrals.",
+    "reportReference": "EY/KQ/FY2022/FINAL",
+    "nextAuditDate": "2024-02-01T00:00:00Z",
+    "findings": [
+      {
+        "findingId": "F001",
+        "type": "Going Concern",
+        "severity": "Critical",
+        "description": "Continued negative equity and losses. Going concern emphasis required.",
+        "status": "Noted"
+      },
+      {
+        "findingId": "F002",
+        "type": "Accounting",
+        "severity": "Medium",
+        "description": "IFRS 16 lease modification accounting for COVID-era deferrals required restatement.",
+        "status": "Resolved"
+      }
+    ]
+  },
+  {
+    "id": 2312,
+    "companyId": 21,
+    "companyName": "Kenya Airways",
+    "auditType": "Regulatory Audit — KCAA Safety Inspection",
+    "auditFirm": "Kenya Civil Aviation Authority",
+    "leadAuditor": "KCAA Chief Inspector",
+    "startDate": "2023-11-13T00:00:00Z",
+    "endDate": "2023-11-17T00:00:00Z",
+    "status": "Completed",
+    "scope": "KCAA Line Station inspection at JKIA covering ramp operations, aircraft documentation compliance, crew briefing facilities, and fuelling procedures.",
+    "riskRating": "Low",
+    "executiveSummary": "KCAA line station inspection at JKIA completed with 2 minor findings. Aircraft documentation compliance satisfactory. Crew briefing facilities below standard specification — upgrade required within 90 days.",
+    "reportReference": "KCAA/INS/KQ/2023/11",
+    "nextAuditDate": "2024-11-01T00:00:00Z",
+    "findings": [
+      {
+        "findingId": "F001",
+        "type": "Safety",
+        "severity": "Low",
+        "description": "Crew briefing room size below KCAA minimum specification for 250-seat aircraft operations.",
+        "status": "Resolved"
+      }
+    ]
+  },
+  {
+    "id": 2313,
+    "companyId": 22,
+    "companyName": "Kenya Ports Authority",
+    "auditType": "External Financial Audit",
+    "auditFirm": "PricewaterhouseCoopers Kenya",
+    "leadAuditor": "David Kamau",
+    "startDate": "2024-07-08T00:00:00Z",
+    "endDate": "2024-09-30T00:00:00Z",
+    "status": "In Progress",
+    "scope": "Audit of KPA Annual Financial Statements for year ended 30 June 2024, including revenue recognition for berth charges, pilotage fees, and storage charges; review of Berths 21-24 asset capitalisation.",
+    "riskRating": "Low",
+    "executiveSummary": "FY2024 audit in progress. Interim audit procedures completed. No significant issues identified to date. Berths 21-24 KES 18.2bn asset capitalisation review ongoing.",
+    "reportReference": "PwC/KPA/FY2024/INTERIM",
+    "nextAuditDate": "2025-07-08T00:00:00Z",
+    "findings": []
+  },
+  {
+    "id": 2314,
+    "companyId": 22,
+    "companyName": "Kenya Ports Authority",
+    "auditType": "External Financial Audit",
+    "auditFirm": "PricewaterhouseCoopers Kenya",
+    "leadAuditor": "David Kamau",
+    "startDate": "2023-07-10T00:00:00Z",
+    "endDate": "2023-10-20T00:00:00Z",
+    "status": "Completed",
+    "scope": "Audit of KPA Annual Financial Statements for year ended 30 June 2023. Includes review of KES 10.1bn Berths 21-24 capital work in progress and KRA disputed tax assessment provisioning.",
+    "riskRating": "Low",
+    "executiveSummary": "PwC issued clean unqualified opinion. KPA FY2023 results: revenue KES 40.5bn, net profit KES 8.2bn — strongest performance in KPA's history. KRA disputed tax assessment of KES 420m adequately disclosed as contingent liability. No material weaknesses in internal controls.",
+    "reportReference": "PwC/KPA/FY2023/FINAL",
+    "nextAuditDate": "2024-07-10T00:00:00Z",
+    "findings": [
+      {
+        "findingId": "F001",
+        "type": "Disclosure",
+        "severity": "Low",
+        "description": "KRA disputed assessment of KES 420m to be disclosed as contingent liability per IAS 37.",
+        "status": "Resolved — Disclosed"
+      }
+    ]
+  },
+  {
+    "id": 2315,
+    "companyId": 22,
+    "companyName": "Kenya Ports Authority",
+    "auditType": "Internal Audit — Procurement",
+    "auditFirm": "KPA Internal Audit Department",
+    "leadAuditor": "James Otieno (Audit Committee)",
+    "startDate": "2023-10-02T00:00:00Z",
+    "endDate": "2023-11-30T00:00:00Z",
+    "status": "Completed",
+    "scope": "Compliance audit of procurement processes for Q1 and Q2 FY2023/24 including Navis N4 TOS procurement, crane procurement contracts, and direct procurement exemptions.",
+    "riskRating": "Medium",
+    "executiveSummary": "8 contracts reviewed totalling KES 6.8bn. 8 medium-risk findings mainly on documentation completeness and approval matrix compliance. Overall procurement governance rated Adequate. No evidence of fraud or corrupt practices. Navis N4 TOS procurement followed correct competitive process.",
+    "reportReference": "IA/KPA/2023/PROC/002",
+    "nextAuditDate": "2024-10-01T00:00:00Z",
+    "findings": [
+      {
+        "findingId": "F001",
+        "type": "Documentation",
+        "severity": "Medium",
+        "description": "3 contracts missing signed vendor performance evaluation forms post-award.",
+        "status": "Resolved"
+      },
+      {
+        "findingId": "F002",
+        "type": "Process",
+        "severity": "Medium",
+        "description": "2 direct procurement exemptions did not receive MD approval as required by KPA Procurement Policy.",
+        "status": "Resolved"
+      }
+    ]
+  },
+  {
+    "id": 2316,
+    "companyId": 22,
+    "companyName": "Kenya Ports Authority",
+    "auditType": "Environmental Audit",
+    "auditFirm": "Earthcare Consulting Ltd",
+    "leadAuditor": "Dr. Kipkirui Langat",
+    "startDate": "2023-08-01T00:00:00Z",
+    "endDate": "2023-09-15T00:00:00Z",
+    "status": "Completed",
+    "scope": "Annual environmental compliance audit covering MARPOL waste reception facility compliance, Kilindini Harbour water quality monitoring, dust management from bulk cargo operations, and mangrove replanting at Lamu.",
+    "riskRating": "Medium",
+    "executiveSummary": "KPA's environmental compliance rated Moderate. Key finding: Kilindini Harbour water quality at 3 monitoring points shows elevated total dissolved solids from bunkering operations. Waste reception facility capacity needs upgrading. Lamu mangrove replanting programme on track — 15,000 of 18,000 target trees planted.",
+    "reportReference": "EARTH/KPA/2023/ENV",
+    "nextAuditDate": "2024-08-01T00:00:00Z",
+    "findings": [
+      {
+        "findingId": "F001",
+        "type": "Environmental",
+        "severity": "Medium",
+        "description": "Kilindini Harbour TDS levels elevated at 3 monitoring points — above NEMA water quality guidelines.",
+        "status": "Monitoring and Mitigation"
+      },
+      {
+        "findingId": "F002",
+        "type": "Compliance",
+        "severity": "Low",
+        "description": "Waste reception facility at capacity — upgrade required per MARPOL Annex V obligations.",
+        "status": "Procurement In Progress"
+      }
+    ]
+  },
+  {
+    "id": 2317,
+    "companyId": 21,
+    "companyName": "Kenya Airways",
+    "auditType": "Forensic Audit — Revenue Leakage",
+    "auditFirm": "Forensic Risk Alliance",
+    "leadAuditor": "FRA Kenya Team",
+    "startDate": "2024-06-01T00:00:00Z",
+    "endDate": "2024-08-31T00:00:00Z",
+    "status": "Completed",
+    "scope": "Forensic investigation into code-share settlement revenue leakage identified by Ernst & Young during FY2023 audit. Scope covers Air France-KLM, Delta, and Ethiopian Airlines prorate settlements 2020-2023.",
+    "riskRating": "High",
+    "executiveSummary": "Forensic investigation confirmed revenue leakage of KES 285m (slightly below EY estimate of KES 320m). Root cause: outdated prorate settlement rules in Amadeus Altéa not updated after route changes. No fraud identified — systems error. KQ raised formal claims with AF-KLM (KES 162m) and Ethiopian Airlines (KES 78m). Delta settlement agreed (KES 45m).",
+    "reportReference": "FRA/KQ/2024/CODE-SHARE",
+    "nextAuditDate": "2025-06-01T00:00:00Z",
+    "findings": [
+      {
+        "findingId": "F001",
+        "type": "Systems",
+        "severity": "High",
+        "description": "Altéa prorate rules not updated for 14 route changes since 2020 — revenue leakage KES 285m.",
+        "status": "Remediation Completed"
+      },
+      {
+        "findingId": "F002",
+        "type": "Process",
+        "severity": "Medium",
+        "description": "Monthly settlement reconciliation process not performed as per GDS operations manual.",
+        "status": "Process Reinstated"
+      }
+    ]
+  },
+  {
+    "id": 2318,
+    "companyId": 20,
+    "companyName": "Kenya Power and Lighting Company",
+    "auditType": "External Financial Audit",
+    "auditFirm": "Deloitte Kenya",
+    "leadAuditor": "Angela Waweru",
+    "startDate": "2022-07-11T00:00:00Z",
+    "endDate": "2022-10-14T00:00:00Z",
+    "status": "Completed",
+    "scope": "Audit of KPLC Annual Financial Statements for the year ended 30 June 2022.",
+    "riskRating": "Medium",
+    "executiveSummary": "Deloitte issued unqualified opinion. FY2022 revenue KES 54.2bn, net profit KES 2.1bn. Focus areas: deferred power purchase costs (regulatory asset) — KES 8.2bn balance; Last Mile Connectivity Project expenditure capitalisation; IFRS 16 compliance for network leases.",
+    "reportReference": "DEL/KPLC/FY2022/FINAL",
+    "nextAuditDate": "2023-07-10T00:00:00Z",
+    "findings": [
+      {
+        "findingId": "F001",
+        "type": "Accounting",
+        "severity": "Medium",
+        "description": "LMCP capitalisation policy requires clearer criteria distinguishing capital vs operational expenditure.",
+        "status": "Resolved"
+      }
+    ]
+  },
+  {
+    "id": 2319,
+    "companyId": 22,
+    "companyName": "Kenya Ports Authority",
+    "auditType": "Performance Audit",
+    "auditFirm": "Office of the Auditor General",
+    "leadAuditor": "OAG Audit Team",
+    "startDate": "2023-03-01T00:00:00Z",
+    "endDate": "2023-05-31T00:00:00Z",
+    "status": "Completed",
+    "scope": "Value for money audit on Berths 21-24 construction project, assessing procurement process, project management, cost control, and planned benefits realisation.",
+    "riskRating": "Medium",
+    "executiveSummary": "OAG Performance Audit rated Berths 21-24 project as Generally Satisfactory. Project delivered broadly on time (2 months delay) and on budget (96% cost utilisation). Procurement followed correct procedures. OAG raised concerns on consultant appointment without public tender and project supervision gaps during COVID-19.",
+    "reportReference": "OAG/PERF/KPA/2023/001",
+    "nextAuditDate": "2026-01-01T00:00:00Z",
+    "findings": [
+      {
+        "findingId": "F001",
+        "type": "Procurement",
+        "severity": "Medium",
+        "description": "Project management consultant appointed by direct procurement — KES 420m value should have required open tender.",
+        "status": "Noted for Future Compliance"
+      },
+      {
+        "findingId": "F002",
+        "type": "Contract Management",
+        "severity": "Low",
+        "description": "Supervision gaps identified during March–September 2021 COVID period. Site engineer reports incomplete.",
+        "status": "Noted"
+      }
+    ]
+  },
+  {
+    "id": 2320,
+    "companyId": 20,
+    "companyName": "Kenya Power and Lighting Company",
+    "auditType": "Safety Audit",
+    "auditFirm": "Bureau Veritas Kenya",
+    "leadAuditor": "BV OHSAS Team",
+    "startDate": "2024-02-01T00:00:00Z",
+    "endDate": "2024-02-28T00:00:00Z",
+    "status": "Completed",
+    "scope": "Occupational Health and Safety Management System audit of KPLC field operations, distribution centres, and substations for ISO 45001:2018 compliance.",
+    "riskRating": "Medium",
+    "executiveSummary": "KPLC OH&S compliance rated Adequate. 6 non-conformances identified: (1) PPE usage compliance at 72% (target 100%); (2) Safety induction incomplete for 340 contractors; (3) 2 substations with outdated emergency response plans. Machine guarding satisfactory in 95% of reviewed locations.",
+    "reportReference": "BV/KPLC/OHS/2024/001",
+    "nextAuditDate": "2025-02-01T00:00:00Z",
+    "findings": [
+      {
+        "findingId": "F001",
+        "type": "Safety",
+        "severity": "Medium",
+        "description": "PPE compliance rate 72% against 100% target — primarily an enforcement issue in distribution depots.",
+        "status": "In Progress"
+      },
+      {
+        "findingId": "F002",
+        "type": "Safety",
+        "severity": "Medium",
+        "description": "340 active contractors with incomplete KPLC site safety induction records.",
+        "status": "In Progress"
+      }
+    ]
+  },
+  {
+    "id": 2321,
+    "companyId": 21,
+    "companyName": "Kenya Airways",
+    "auditType": "Internal Audit — HR and Payroll",
+    "auditFirm": "Kenya Airways Internal Audit",
+    "leadAuditor": "KQ Internal Audit Team",
+    "startDate": "2023-07-01T00:00:00Z",
+    "endDate": "2023-08-31T00:00:00Z",
+    "status": "Completed",
+    "scope": "Review of KQ payroll controls, allowance entitlements, and HR data accuracy for all staff categories (pilots, cabin crew, ground staff, administration).",
+    "riskRating": "Low",
+    "executiveSummary": "Payroll audit of 4,200 employees. 3 low-risk findings: (1) 45 terminated employees still receiving allowances totalling KES 2.8m; (2) 12 staff with dual employment records; (3) Overtime approval controls require tightening. Overall payroll governance rated Good.",
+    "reportReference": "IA/KQ/2023/HR/001",
+    "nextAuditDate": "2024-07-01T00:00:00Z",
+    "findings": [
+      {
+        "findingId": "F001",
+        "type": "Financial",
+        "severity": "Low",
+        "description": "45 terminated employees receiving allowances — KES 2.8m to be recovered.",
+        "status": "Resolved"
+      },
+      {
+        "findingId": "F002",
+        "type": "Data Integrity",
+        "severity": "Low",
+        "description": "12 staff with duplicate HRMS records — data cleansing required.",
+        "status": "Resolved"
+      }
+    ]
+  },
+  {
+    "id": 2322,
+    "companyId": 22,
+    "companyName": "Kenya Ports Authority",
+    "auditType": "IT Audit — Port Community System",
+    "auditFirm": "Serianu Cybersecurity Ltd",
+    "leadAuditor": "Victor Kamau",
+    "startDate": "2024-01-15T00:00:00Z",
+    "endDate": "2024-02-15T00:00:00Z",
+    "status": "Completed",
+    "scope": "IT security audit of Port Community System Phase 1 (existing TOS) covering access controls, user authentication, data integrity, and network security.",
+    "riskRating": "Medium",
+    "executiveSummary": "PCS Phase 1 security audit identified 2 medium-risk findings: (1) 8 dormant user accounts with active system access; (2) PCS admin credentials shared between 3 operators. No critical vulnerabilities found. Data integrity controls rated Satisfactory. Audit supports Navis N4 upgrade decision.",
+    "reportReference": "SERIANU/KPA/2024/PCS",
+    "nextAuditDate": "2025-06-01T00:00:00Z",
+    "findings": [
+      {
+        "findingId": "F001",
+        "type": "Access Control",
+        "severity": "Medium",
+        "description": "8 dormant PCS user accounts with active access — deactivation required.",
+        "status": "Resolved"
+      },
+      {
+        "findingId": "F002",
+        "type": "Security",
+        "severity": "Medium",
+        "description": "PCS admin credentials shared between 3 operators — individual accounts required.",
+        "status": "Resolved"
+      }
+    ]
+  },
+  {
+    "id": 2323,
+    "companyId": 22,
+    "companyName": "Kenya Ports Authority",
+    "auditType": "External Financial Audit",
+    "auditFirm": "PricewaterhouseCoopers Kenya",
+    "leadAuditor": "David Kamau",
+    "startDate": "2022-07-11T00:00:00Z",
+    "endDate": "2022-10-20T00:00:00Z",
+    "status": "Completed",
+    "scope": "Audit of KPA Annual Financial Statements for year ended 30 June 2022.",
+    "riskRating": "Low",
+    "executiveSummary": "PwC issued clean unqualified opinion. FY2022 revenue KES 38.2bn, net profit KES 7.1bn. Revenue recognition policies reviewed — berth and pilotage charges correctly recognised on completion of service. Berths 21-24 KES 6.8bn CWIP appropriately carried.",
+    "reportReference": "PwC/KPA/FY2022/FINAL",
+    "nextAuditDate": "2023-07-10T00:00:00Z",
+    "findings": []
+  },
+  {
+    "id": 2324,
+    "companyId": 20,
+    "companyName": "Kenya Power and Lighting Company",
+    "auditType": "Value for Money Audit",
+    "auditFirm": "Office of the Auditor General",
+    "leadAuditor": "OAG Audit Team",
+    "startDate": "2023-09-01T00:00:00Z",
+    "endDate": "2023-11-30T00:00:00Z",
+    "status": "Completed",
+    "scope": "VFM audit of KPLC's Last Mile Connectivity Project Phase III covering procurement efficiency, connections quality, cost per connection, and beneficiary satisfaction.",
+    "riskRating": "Medium",
+    "executiveSummary": "OAG VFM audit rated LMCP Phase III as Satisfactory. Average cost per connection of KES 43,000 within acceptable range. 97% of sampled connections (n=500) found to be energised and functional. However, 8% of connections did not have service agreements in place. Meter bypass by 4% of new customers noted.",
+    "reportReference": "OAG/VFM/LMCP3/2023",
+    "nextAuditDate": "2025-09-01T00:00:00Z",
+    "findings": [
+      {
+        "findingId": "F001",
+        "type": "Compliance",
+        "severity": "Medium",
+        "description": "8% of LMCP connections (approx. 18,000) completed without signed service agreements.",
+        "status": "In Progress"
+      },
+      {
+        "findingId": "F002",
+        "type": "Financial",
+        "severity": "Medium",
+        "description": "Meter bypass by approximately 4% of new LMCP customers representing KES 185m annual revenue loss.",
+        "status": "Revenue Protection Programme Active"
+      }
+    ]
+  },
+  {
+    "id": 2325,
+    "companyId": 21,
+    "companyName": "Kenya Airways",
+    "auditType": "External Financial Audit",
+    "auditFirm": "Ernst & Young Kenya",
+    "leadAuditor": "Patrick Githinji",
+    "startDate": "2022-02-01T00:00:00Z",
+    "endDate": "2022-04-30T00:00:00Z",
+    "status": "Completed",
+    "scope": "Audit of Kenya Airways Plc for year ended 31 December 2021.",
+    "riskRating": "High",
+    "executiveSummary": "EY issued modified going concern opinion. FY2021 net loss KES 8.6bn — worst year in KQ history. Negative equity KES 35bn. COVID-19 provisions and aircraft impairments of KES 4.8bn reviewed and confirmed adequate. Government letter of support obtained.",
+    "reportReference": "EY/KQ/FY2021/FINAL",
+    "nextAuditDate": "2023-02-01T00:00:00Z",
+    "findings": [
+      {
+        "findingId": "F001",
+        "type": "Going Concern",
+        "severity": "Critical",
+        "description": "Net loss KES 8.6bn and negative equity KES 35bn require going concern modification.",
+        "status": "Noted"
+      }
+    ]
+  },
+  {
+    "id": 2326,
+    "companyId": 22,
+    "companyName": "Kenya Ports Authority",
+    "auditType": "Internal Audit — Fleet and Equipment",
+    "auditFirm": "KPA Internal Audit Department",
+    "leadAuditor": "Sylvia Mwamburi",
+    "startDate": "2024-06-01T00:00:00Z",
+    "endDate": "2024-07-31T00:00:00Z",
+    "status": "Completed",
+    "scope": "Review of KPA equipment management, maintenance records, crane certification, and disposal of life-expired equipment including 3 STS cranes beyond 25-year design life.",
+    "riskRating": "High",
+    "executiveSummary": "Equipment audit identified critical risk: 3 STS gantry cranes (Cranes 4, 7, and 11) operating beyond design life with increasing defect rates. Crane 4 had 18 breakdowns in FY2024 — average 12 hours downtime per breakdown. Emergency crane replacement programme recommended for FY2025/26 capital budget at estimated KES 3.8bn for 3 replacements.",
+    "reportReference": "IA/KPA/2024/EQP/001",
+    "nextAuditDate": "2025-06-01T00:00:00Z",
+    "findings": [
+      {
+        "findingId": "F001",
+        "type": "Asset",
+        "severity": "Critical",
+        "description": "3 STS cranes beyond 25-year design life with increasing failure rates — replacement urgently required.",
+        "status": "Capital Plan Submitted"
+      },
+      {
+        "findingId": "F002",
+        "type": "Safety",
+        "severity": "High",
+        "description": "Crane 4 major defect report (MDR) frequency of 18 times in FY2024 — above acceptable 4 per year safety threshold.",
+        "status": "Under Review"
+      }
+    ]
+  }
+]
