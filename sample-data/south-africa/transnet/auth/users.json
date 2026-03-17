@@ -1,0 +1,46 @@
+[
+  {
+    "id": "transnet-001",
+    "username": "michelle.phillips@transnet.net",
+    "firstName": "Michelle",
+    "lastName": "Phillips",
+    "email": "michelle.phillips@transnet.net",
+    "roles": ["CEO", "Administrator"],
+    "password": "Test123!",
+    "department": "Executive",
+    "title": "Group Chief Executive Officer"
+  },
+  {
+    "id": "transnet-002",
+    "username": "phetolo.ramosebudi@transnet.net",
+    "firstName": "Phetolo",
+    "lastName": "Ramosebudi",
+    "email": "phetolo.ramosebudi@transnet.net",
+    "roles": ["CFO"],
+    "password": "Test123!",
+    "department": "Finance",
+    "title": "Chief Financial Officer"
+  },
+  {
+    "id": "transnet-003",
+    "username": "nomvula.sithole@transnet.net",
+    "firstName": "Nomvula",
+    "lastName": "Sithole",
+    "email": "nomvula.sithole@transnet.net",
+    "roles": ["Risk Manager"],
+    "password": "Test123!",
+    "department": "Risk & Sustainability",
+    "title": "Chief Risk Officer"
+  },
+  {
+    "id": "transnet-004",
+    "username": "sipho.zwane@transnet.net",
+    "firstName": "Sipho",
+    "lastName": "Zwane",
+    "email": "sipho.zwane@transnet.net",
+    "roles": ["Operations Director"],
+    "password": "Test123!",
+    "department": "Operations",
+    "title": "Chief Operations Officer"
+  }
+]

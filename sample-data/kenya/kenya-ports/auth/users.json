@@ -1,0 +1,46 @@
+[
+  {
+    "id": "kpa-001",
+    "username": "william.ruto@kpa.go.ke",
+    "firstName": "William",
+    "lastName": "Ruto",
+    "email": "william.ruto@kpa.go.ke",
+    "roles": ["Director General", "Administrator"],
+    "password": "Test123!",
+    "department": "Executive",
+    "title": "Director General"
+  },
+  {
+    "id": "kpa-002",
+    "username": "peris.wambugu@kpa.go.ke",
+    "firstName": "Peris",
+    "lastName": "Wambugu",
+    "email": "peris.wambugu@kpa.go.ke",
+    "roles": ["Finance Director"],
+    "password": "Test123!",
+    "department": "Finance",
+    "title": "Director Finance"
+  },
+  {
+    "id": "kpa-003",
+    "username": "daniel.owino@kpa.go.ke",
+    "firstName": "Daniel",
+    "lastName": "Owino",
+    "email": "daniel.owino@kpa.go.ke",
+    "roles": ["Operations Director"],
+    "password": "Test123!",
+    "department": "Operations",
+    "title": "Director Operations"
+  },
+  {
+    "id": "kpa-004",
+    "username": "mercy.kamau@kpa.go.ke",
+    "firstName": "Mercy",
+    "lastName": "Kamau",
+    "email": "mercy.kamau@kpa.go.ke",
+    "roles": ["Compliance Officer"],
+    "password": "Test123!",
+    "department": "Compliance",
+    "title": "Head of Compliance"
+  }
+]
