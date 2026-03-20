@@ -1,19 +1,21 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html lang="en">
 
 <head>
+    <base href="/SoeMonitorWebApp/" />
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Industrial Corporation  Web App</title>
-    <base href="/" id="dynamic-base">
     <script>
-        // Dynamically set base path for GitHub Pages deployment
+        // Set base href BEFORE any resources load so relative URLs resolve correctly.
+        // This is required for GitHub Pages where the app lives under /SoeMonitorWebApp/.
         (function () {
-            var base = document.getElementById('dynamic-base');
-            var path = window.location.pathname.includes('/SoeMonitorWebApp')
+            var base = document.createElement('base');
+            var path = window.location.pathname.startsWith('/SoeMonitorWebApp')
                 ? '/SoeMonitorWebApp/'
                 : '/';
             base.setAttribute('href', path);
+            document.head.appendChild(base);
         })();
     </script>
     <link rel="stylesheet" href="lib/bootstrap/dist/css/bootstrap.min.css" />
