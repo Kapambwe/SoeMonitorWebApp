@@ -1,0 +1,24 @@
+{
+  "tenders": [
+    { "id": 1, "companyId": 2, "companyName": "ZESCO", "tenderNumber": "ZESCO/2024/001", "title": "Power Line Maintenance Equipment", "category": "Goods", "estimatedValue": 15000000, "bidsReceived": 8, "status": "Published" },
+    { "id": 2, "companyId": 5, "companyName": "Zambia Railways", "tenderNumber": "ZRL/2024/015", "title": "Track Rehabilitation Services", "category": "Works", "estimatedValue": 45000000, "bidsReceived": 5, "status": "Evaluation", "awardedVendor": "", "awardedAmount": 0 },
+    { "id": 3, "companyId": 1, "companyName": "KAGEM Mining", "tenderNumber": "KAG/2024/008", "title": "Mining Equipment Supply", "category": "Goods", "estimatedValue": 28000000, "bidsReceived": 6, "status": "Awarded", "awardedVendor": "Sandvik Mining", "awardedAmount": 26500000 },
+    { "id": 4, "companyId": 7, "companyName": "Mopani Copper Mines", "tenderNumber": "MCM/2024/022", "title": "Environmental Consulting Services", "category": "Consulting", "estimatedValue": 5000000, "bidsReceived": 12, "status": "Published" }
+  ],
+  "vendors": [
+    { "id": 1, "name": "Sandvik Mining", "registrationNumber": "VEN001", "category": "Large Enterprise", "industry": "Mining Equipment", "isLocalContent": false, "performanceRating": 4.5, "contractsCompleted": 15, "totalContractValue": 180000000, "status": "Active" },
+    { "id": 2, "name": "Zambia Construction Co.", "registrationNumber": "VEN002", "category": "SME", "industry": "Construction", "isLocalContent": true, "performanceRating": 4.2, "contractsCompleted": 28, "totalContractValue": 95000000, "status": "Active" },
+    { "id": 3, "name": "Tech Solutions Zambia", "registrationNumber": "VEN003", "category": "Woman-Owned", "industry": "IT Services", "isLocalContent": true, "performanceRating": 4.8, "contractsCompleted": 12, "totalContractValue": 25000000, "status": "Active" },
+    { "id": 4, "name": "ABC Supplies Ltd", "registrationNumber": "VEN004", "category": "SME", "industry": "General Supplies", "isLocalContent": true, "performanceRating": 2.1, "contractsCompleted": 5, "totalContractValue": 8000000, "status": "Suspended", "blacklistReason": "Poor performance" }
+  ],
+  "contracts": [
+    { "id": 1, "companyId": 2, "companyName": "ZESCO", "contractNumber": "ZESCO/CON/2024/001", "title": "Grid Maintenance", "vendorId": 2, "vendorName": "Zambia Construction Co.", "contractValue": 35000000, "amountPaid": 21000000, "status": "Active", "amendments": 1, "performanceBondValue": 3500000, "isPerformanceBondValid": true },
+    { "id": 2, "companyId": 1, "companyName": "KAGEM Mining", "contractNumber": "KAG/CON/2024/005", "title": "Equipment Supply", "vendorId": 1, "vendorName": "Sandvik Mining", "contractValue": 26500000, "amountPaid": 26500000, "status": "Active", "amendments": 0, "performanceBondValue": 2650000, "isPerformanceBondValid": true },
+    { "id": 3, "companyId": 7, "companyName": "Mopani Copper Mines", "contractNumber": "MCM/CON/2023/018", "title": "IT Infrastructure", "vendorId": 3, "vendorName": "Tech Solutions Zambia", "contractValue": 12000000, "amountPaid": 12000000, "status": "Completed", "amendments": 0, "performanceBondValue": 1200000, "isPerformanceBondValid": false }
+  ],
+  "relatedPartyTransactions": [
+    { "id": 1, "companyId": 2, "companyName": "ZESCO", "relatedParty": "Zambia Railways", "relationshipType": "Inter-SOE", "transactionType": "Service", "transactionValue": 8500000, "isArmsLength": true, "isApproved": true, "approvalAuthority": "Board", "status": "Approved" },
+    { "id": 2, "companyId": 5, "companyName": "Zambia Railways", "relatedParty": "ZESCO", "relationshipType": "Inter-SOE", "transactionType": "Purchase", "transactionValue": 12000000, "isArmsLength": true, "isApproved": true, "approvalAuthority": "Board", "status": "Approved" },
+    { "id": 3, "companyId": 1, "companyName": "KAGEM Mining", "relatedParty": "Director's Company", "relationshipType": "Director Related", "transactionType": "Service", "transactionValue": 2500000, "isArmsLength": false, "isApproved": false, "status": "Pending Approval" }
+  ]
+}

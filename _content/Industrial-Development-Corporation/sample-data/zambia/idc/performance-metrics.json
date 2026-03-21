@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1, "companyId": 1, "companyName": "KAGEM Mining Ltd",
+    "fiscalYear": 2024, "quarter": "Annual",
+    "revenueTarget": 2500000000, "revenueActual": 2800000000,
+    "profitTarget": 750000000, "profitActual": 850000000,
+    "employeeTarget": 1800, "employeeActual": 1850,
+    "customerSatisfaction": 88, "overallScore": 92, "status": "Exceeds Target"
+  },
+  {
+    "id": 2, "companyId": 2, "companyName": "ZESCO Limited",
+    "fiscalYear": 2024, "quarter": "Annual",
+    "revenueTarget": 9500000000, "revenueActual": 8500000000,
+    "profitTarget": 500000000, "profitActual": -700000000,
+    "employeeTarget": 7000, "employeeActual": 6800,
+    "customerSatisfaction": 52, "overallScore": 48, "status": "Below Target"
+  },
+  {
+    "id": 3, "companyId": 3, "companyName": "Zambia National Commercial Bank Plc (ZANACO)",
+    "fiscalYear": 2024, "quarter": "Annual",
+    "revenueTarget": 3000000000, "revenueActual": 3200000000,
+    "profitTarget": 950000000, "profitActual": 1100000000,
+    "employeeTarget": 2800, "employeeActual": 2850,
+    "customerSatisfaction": 76, "overallScore": 84, "status": "Meets Target"
+  },
+  {
+    "id": 4, "companyId": 4, "companyName": "Zambia Telecommunications Company Ltd (ZAMTEL)",
+    "fiscalYear": 2024, "quarter": "Annual",
+    "revenueTarget": 2000000000, "revenueActual": 1850000000,
+    "profitTarget": 300000000, "profitActual": 200000000,
+    "employeeTarget": 3000, "employeeActual": 3200,
+    "customerSatisfaction": 62, "overallScore": 65, "status": "Below Target"
+  },
+  {
+    "id": 5, "companyId": 5, "companyName": "Zambia Railways Limited",
+    "fiscalYear": 2024, "quarter": "Annual",
+    "revenueTarget": 1500000000, "revenueActual": 1200000000,
+    "profitTarget": 100000000, "profitActual": -180000000,
+    "employeeTarget": 4200, "employeeActual": 4500,
+    "customerSatisfaction": 58, "overallScore": 52, "status": "Below Target"
+  },
+  {
+    "id": 6, "companyId": 6, "companyName": "Zambeef Products Plc",
+    "fiscalYear": 2024, "quarter": "Annual",
+    "revenueTarget": 4200000000, "revenueActual": 4500000000,
+    "profitTarget": 600000000, "profitActual": 700000000,
+    "employeeTarget": 8000, "employeeActual": 8200,
+    "customerSatisfaction": 82, "overallScore": 87, "status": "Meets Target"
+  },
+  {
+    "id": 7, "companyId": 7, "companyName": "Mopani Copper Mines Plc",
+    "fiscalYear": 2024, "quarter": "Annual",
+    "revenueTarget": 13000000000, "revenueActual": 12500000000,
+    "profitTarget": 3000000000, "profitActual": 2700000000,
+    "employeeTarget": 9000, "employeeActual": 8500,
+    "customerSatisfaction": 75, "overallScore": 78, "status": "Below Target"
+  },
+  {
+    "id": 8, "companyId": 8, "companyName": "Indeni Petroleum Refinery Company Ltd",
+    "fiscalYear": 2024, "quarter": "Annual",
+    "revenueTarget": 3500000000, "revenueActual": 3800000000,
+    "profitTarget": 250000000, "profitActual": 300000000,
+    "employeeTarget": 600, "employeeActual": 620,
+    "customerSatisfaction": 72, "overallScore": 78, "status": "Meets Target"
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "id": 1, "companyId": 1, "companyName": "KAGEM Mining Ltd",
+    "fiscalYear": 2025, "budgetType": "Annual",
+    "totalBudget": 2200000000, "allocatedAmount": 2200000000, "spentAmount": 480000000,
+    "status": "Active", "approvalDate": "2025-01-15", "approvedBy": "KAGEM Board",
+    "notes": "FY2025 budget includes Phase 3 expansion capex of ZMW 650M.",
+    "lineItems": [
+      { "id": 1, "budgetId": 1, "category": "Operations", "description": "Mining Operations", "budgetedAmount": 850000000, "actualAmount": 195000000, "costCenter": "KAGEM-OPS", "accountCode": "5001" },
+      { "id": 2, "budgetId": 1, "category": "Capital", "description": "Phase 3 Expansion Capex", "budgetedAmount": 650000000, "actualAmount": 120000000, "costCenter": "KAGEM-CAP", "accountCode": "6001" },
+      { "id": 3, "budgetId": 1, "category": "Personnel", "description": "Staff Costs", "budgetedAmount": 420000000, "actualAmount": 105000000, "costCenter": "KAGEM-HR", "accountCode": "5002" },
+      { "id": 4, "budgetId": 1, "category": "Administration", "description": "General & Administrative", "budgetedAmount": 280000000, "actualAmount": 60000000, "costCenter": "KAGEM-ADM", "accountCode": "5003" }
+    ],
+    "variances": [
+      { "id": 1, "budgetId": 1, "period": "Q1 2025", "budgetedAmount": 550000000, "actualAmount": 480000000, "explanation": "Phase 3 capex delayed by 6 weeks due to equipment delivery.", "correctiveAction": "Expedite equipment delivery. Revised schedule submitted." }
+    ]
+  },
+  {
+    "id": 2, "companyId": 2, "companyName": "ZESCO Limited",
+    "fiscalYear": 2025, "budgetType": "Annual",
+    "totalBudget": 9800000000, "allocatedAmount": 9800000000, "spentAmount": 2100000000,
+    "status": "Active", "approvalDate": "2025-01-20", "approvedBy": "ZESCO Board",
+    "notes": "FY2025 budget reflects turnaround plan cost reduction targets.",
+    "lineItems": [
+      { "id": 5, "budgetId": 2, "category": "Operations", "description": "Power Generation & Distribution", "budgetedAmount": 5500000000, "actualAmount": 1200000000, "costCenter": "ZESCO-OPS", "accountCode": "5001" },
+      { "id": 6, "budgetId": 2, "category": "Capital", "description": "Infrastructure Rehabilitation", "budgetedAmount": 2200000000, "actualAmount": 450000000, "costCenter": "ZESCO-CAP", "accountCode": "6001" },
+      { "id": 7, "budgetId": 2, "category": "Personnel", "description": "Staff Costs", "budgetedAmount": 1500000000, "actualAmount": 380000000, "costCenter": "ZESCO-HR", "accountCode": "5002" },
+      { "id": 8, "budgetId": 2, "category": "Administration", "description": "General & Administrative", "budgetedAmount": 600000000, "actualAmount": 70000000, "costCenter": "ZESCO-ADM", "accountCode": "5003" }
+    ],
+    "variances": []
+  },
+  {
+    "id": 3, "companyId": 4, "companyName": "Zambia Telecommunications Company Ltd (ZAMTEL)",
+    "fiscalYear": 2025, "budgetType": "Annual",
+    "totalBudget": 2100000000, "allocatedAmount": 2100000000, "spentAmount": 520000000,
+    "status": "Active", "approvalDate": "2025-01-10", "approvedBy": "ZAMTEL Board",
+    "notes": "FY2025 budget prioritises 4G LTE network rollout.",
+    "lineItems": [
+      { "id": 9, "budgetId": 3, "category": "Capital", "description": "4G LTE Network Rollout", "budgetedAmount": 800000000, "actualAmount": 180000000, "costCenter": "ZAMTEL-CAP", "accountCode": "6001" },
+      { "id": 10, "budgetId": 3, "category": "Operations", "description": "Network Operations", "budgetedAmount": 650000000, "actualAmount": 165000000, "costCenter": "ZAMTEL-OPS", "accountCode": "5001" },
+      { "id": 11, "budgetId": 3, "category": "Personnel", "description": "Staff Costs", "budgetedAmount": 420000000, "actualAmount": 105000000, "costCenter": "ZAMTEL-HR", "accountCode": "5002" },
+      { "id": 12, "budgetId": 3, "category": "Administration", "description": "General & Administrative", "budgetedAmount": 230000000, "actualAmount": 70000000, "costCenter": "ZAMTEL-ADM", "accountCode": "5003" }
+    ],
+    "variances": []
+  }
+]

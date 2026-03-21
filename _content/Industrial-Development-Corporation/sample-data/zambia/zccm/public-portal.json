@@ -1,0 +1,21 @@
+{
+  "soes": [
+    { "id": 1, "name": "ZESCO Limited", "sector": "Energy", "registrationNumber": "NAB-SOE-001", "ownershipPercentage": 100, "employees": 6500, "annualRevenue": 15000000000, "totalAssets": 50000000000, "complianceScore": 88, "status": "Active" },
+    { "id": 2, "name": "Industrial Development Corporation", "sector": "Finance", "registrationNumber": "NAB-SOE-002", "ownershipPercentage": 100, "employees": 850, "annualRevenue": 8500000000, "totalAssets": 25000000000, "complianceScore": 92, "status": "Active" },
+    { "id": 3, "name": "ZANACO", "sector": "Finance", "registrationNumber": "NAB-SOE-003", "ownershipPercentage": 45, "employees": 2100, "annualRevenue": 5200000000, "totalAssets": 18000000000, "complianceScore": 65, "status": "Active" },
+    { "id": 4, "name": "Zambia Railways", "sector": "Transport", "registrationNumber": "NAB-SOE-004", "ownershipPercentage": 100, "employees": 4200, "annualRevenue": 1800000000, "totalAssets": 12000000000, "complianceScore": 74, "status": "Active" },
+    { "id": 5, "name": "KAGEM Mining Limited", "sector": "Mining", "registrationNumber": "NAB-SOE-005", "ownershipPercentage": 75, "employees": 1200, "annualRevenue": 3500000000, "totalAssets": 8000000000, "complianceScore": 81, "status": "Active" }
+  ],
+  "reports": [
+    { "id": 1, "title": "ZESCO Annual Report 2025", "companyName": "ZESCO Limited", "reportType": "Annual Report", "year": 2025, "publishedDate": "2026-01-15", "fileSize": 2048000 },
+    { "id": 2, "title": "IDC Q3 2025 Performance Report", "companyName": "IDC", "reportType": "Performance Report", "year": 2025, "publishedDate": "2025-10-31", "fileSize": 512000 },
+    { "id": 3, "title": "ZANACO Audit Report FY2024", "companyName": "ZANACO", "reportType": "Audit Report", "year": 2024, "publishedDate": "2025-03-20", "fileSize": 768000 },
+    { "id": 4, "title": "Zambia Railways Annual Report 2024", "companyName": "Zambia Railways", "reportType": "Annual Report", "year": 2024, "publishedDate": "2025-02-28", "fileSize": 1536000 },
+    { "id": 5, "title": "KAGEM Mining Q2 2025 Quarterly Report", "companyName": "KAGEM Mining Limited", "reportType": "Quarterly Report", "year": 2025, "publishedDate": "2025-08-15", "fileSize": 384000 }
+  ],
+  "publicDocuments": [
+    { "id": 1, "title": "Corporate Governance Framework", "companyName": "IDC", "category": "Policy", "documentType": "PDF", "version": "2.1", "accessLevel": "Public", "uploadDate": "2025-06-01", "uploadedBy": "IDC Governance Office" },
+    { "id": 2, "title": "SOE Ownership Policy 2025", "companyName": "Ministry of Finance", "category": "Policy", "documentType": "PDF", "version": "1.0", "accessLevel": "Public", "uploadDate": "2025-01-15", "uploadedBy": "Ministry of Finance" },
+    { "id": 3, "title": "ZESCO Tariff Schedule 2026", "companyName": "ZESCO Limited", "category": "Financial", "documentType": "PDF", "version": "1.0", "accessLevel": "Public", "uploadDate": "2025-12-01", "uploadedBy": "ZESCO Finance" }
+  ]
+}

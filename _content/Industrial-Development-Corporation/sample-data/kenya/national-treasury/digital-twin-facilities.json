@@ -1,0 +1,14 @@
+[
+  { "id": 1, "companyId": 1, "companyName": "KenGen", "facilityName": "Olkaria Geothermal Complex", "facilityType": "Power Plant", "location": "Naivasha, Nakuru County", "status": "Online", "sensors": 485, "lastUpdated": "2024-10-28T06:00:00Z" },
+  { "id": 2, "companyId": 1, "companyName": "KenGen", "facilityName": "Masinga Hydro Dam", "facilityType": "Hydro Power Plant", "location": "Machakos County", "status": "Online", "sensors": 128, "lastUpdated": "2024-10-28T06:00:00Z" },
+  { "id": 3, "companyId": 1, "companyName": "KenGen", "facilityName": "Ngong Wind Farm", "facilityType": "Wind Farm", "location": "Ngong Hills, Kajiado County", "status": "Online", "sensors": 96, "lastUpdated": "2024-10-28T05:45:00Z" },
+  { "id": 4, "companyId": 3, "companyName": "KPLC", "facilityName": "Nairobi North 220kV Substation", "facilityType": "Electrical Substation", "location": "Nairobi", "status": "Online", "sensors": 215, "lastUpdated": "2024-10-28T06:00:00Z" },
+  { "id": 5, "companyId": 3, "companyName": "KPLC", "facilityName": "Mombasa 132kV Substation", "facilityType": "Electrical Substation", "location": "Mombasa", "status": "Online", "sensors": 185, "lastUpdated": "2024-10-28T06:00:00Z" },
+  { "id": 6, "companyId": 4, "companyName": "KPA", "facilityName": "Mombasa Container Terminal", "facilityType": "Port Terminal", "location": "Mombasa", "status": "Online", "sensors": 342, "lastUpdated": "2024-10-28T06:00:00Z" },
+  { "id": 7, "companyId": 4, "companyName": "KPA", "facilityName": "Lamu Port Phase 1", "facilityType": "Port Terminal", "location": "Lamu", "status": "Online", "sensors": 156, "lastUpdated": "2024-10-28T05:30:00Z" },
+  { "id": 8, "companyId": 5, "companyName": "KRC", "facilityName": "SGR Nairobi Terminus (Syokimau)", "facilityType": "Railway Station", "location": "Nairobi", "status": "Online", "sensors": 245, "lastUpdated": "2024-10-28T06:00:00Z" },
+  { "id": 9, "companyId": 5, "companyName": "KRC", "facilityName": "SGR Mombasa Terminus (Miritini)", "facilityType": "Railway Station", "location": "Mombasa", "status": "Online", "sensors": 198, "lastUpdated": "2024-10-28T05:55:00Z" },
+  { "id": 10, "companyId": 6, "companyName": "KPC", "facilityName": "Mombasa Kipevu Oil Terminal", "facilityType": "Pipeline Terminal", "location": "Mombasa", "status": "Online", "sensors": 312, "lastUpdated": "2024-10-28T06:00:00Z" },
+  { "id": 11, "companyId": 6, "companyName": "KPC", "facilityName": "Nairobi Pumping Station", "facilityType": "Pipeline Pumping Station", "location": "Nairobi", "status": "Online", "sensors": 145, "lastUpdated": "2024-10-28T06:00:00Z" },
+  { "id": 12, "companyId": 6, "companyName": "KPC", "facilityName": "Eldoret Depot", "facilityType": "Petroleum Depot", "location": "Eldoret, Uasin Gishu County", "status": "Online", "sensors": 168, "lastUpdated": "2024-10-28T05:50:00Z" }
+]

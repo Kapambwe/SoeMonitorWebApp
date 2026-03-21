@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1, "name": "KAGEM Mining Ltd", "sector": "Mining",
+    "ownershipPercentage": 75, "revenue": 2800000000, "ebitda": 1100000000,
+    "netProfit": 850000000, "assets": 5200000000, "jobsCreated": 1850,
+    "localEmployees": 1820, "foreignEmployees": 30, "currency": "ZMW",
+    "status": "Active", "lastUpdated": "2024-12-31",
+    "boardMembers": ["Palitha Palliyaguru", "Sean Gilbertson", "David Lovett"],
+    "contactEmail": "info@kagem.co.zm", "contactPhone": "+260 212 000 001"
+  },
+  {
+    "id": 2, "name": "ZESCO Limited", "sector": "Energy",
+    "ownershipPercentage": 100, "revenue": 8500000000, "ebitda": 500000000,
+    "netProfit": -700000000, "assets": 42000000000, "jobsCreated": 6800,
+    "localEmployees": 6750, "foreignEmployees": 50, "currency": "ZMW",
+    "status": "Underperforming", "lastUpdated": "2024-12-31",
+    "boardMembers": ["Victor Mapani", "Eng. Chishimba Nkole", "Dr. Mwila Chanda"],
+    "contactEmail": "info@zesco.co.zm", "contactPhone": "+260 211 000 002"
+  },
+  {
+    "id": 3, "name": "Zambia National Commercial Bank Plc (ZANACO)", "sector": "Finance",
+    "ownershipPercentage": 25, "revenue": 3200000000, "ebitda": 1400000000,
+    "netProfit": 1100000000, "assets": 28000000000, "jobsCreated": 2850,
+    "localEmployees": 2820, "foreignEmployees": 30, "currency": "ZMW",
+    "status": "Active", "lastUpdated": "2024-12-31",
+    "boardMembers": ["Mukwandi Chibesakunda", "Charity Lumpa", "Bwalya Ng'andu"],
+    "contactEmail": "info@zanaco.co.zm", "contactPhone": "+260 211 000 003"
+  },
+  {
+    "id": 4, "name": "Zambia Telecommunications Company Ltd (ZAMTEL)", "sector": "Telecommunications",
+    "ownershipPercentage": 100, "revenue": 1850000000, "ebitda": 420000000,
+    "netProfit": 200000000, "assets": 6800000000, "jobsCreated": 3200,
+    "localEmployees": 3180, "foreignEmployees": 20, "currency": "ZMW",
+    "status": "Active", "lastUpdated": "2024-12-31",
+    "boardMembers": ["Sydney Mupeta", "Eng. Mwamba Mwila", "Chanda Kasolo"],
+    "contactEmail": "info@zamtel.co.zm", "contactPhone": "+260 211 000 004"
+  },
+  {
+    "id": 5, "name": "Zambia Railways Limited", "sector": "Transport",
+    "ownershipPercentage": 100, "revenue": 1200000000, "ebitda": 100000000,
+    "netProfit": -180000000, "assets": 12500000000, "jobsCreated": 4500,
+    "localEmployees": 4480, "foreignEmployees": 20, "currency": "ZMW",
+    "status": "Underperforming", "lastUpdated": "2024-12-31",
+    "boardMembers": ["Eng. Chipango Mwale", "Mwansa Kapatamoyo", "Lombe Chibesakunda"],
+    "contactEmail": "info@zrl.co.zm", "contactPhone": "+260 215 000 005"
+  },
+  {
+    "id": 6, "name": "Zambeef Products Plc", "sector": "Agriculture",
+    "ownershipPercentage": 18, "revenue": 4500000000, "ebitda": 950000000,
+    "netProfit": 700000000, "assets": 8500000000, "jobsCreated": 8200,
+    "localEmployees": 8100, "foreignEmployees": 100, "currency": "ZMW",
+    "status": "Active", "lastUpdated": "2024-12-31",
+    "boardMembers": ["Francis Grogan", "Carl Irwin", "Yollard Kachinda"],
+    "contactEmail": "info@zambeef.co.zm", "contactPhone": "+260 211 000 006"
+  },
+  {
+    "id": 7, "name": "Mopani Copper Mines Plc", "sector": "Mining",
+    "ownershipPercentage": 49, "revenue": 12500000000, "ebitda": 3500000000,
+    "netProfit": 2700000000, "assets": 22000000000, "jobsCreated": 8500,
+    "localEmployees": 8300, "foreignEmployees": 200, "currency": "ZMW",
+    "status": "Active", "lastUpdated": "2024-12-31",
+    "boardMembers": ["Raphael Mwenye", "Goodwell Mateyo", "Eng. Chanda Mwale"],
+    "contactEmail": "info@mopani.co.zm", "contactPhone": "+260 212 000 007"
+  },
+  {
+    "id": 8, "name": "Indeni Petroleum Refinery Company Ltd", "sector": "Energy",
+    "ownershipPercentage": 100, "revenue": 3800000000, "ebitda": 580000000,
+    "netProfit": 300000000, "assets": 4200000000, "jobsCreated": 620,
+    "localEmployees": 600, "foreignEmployees": 20, "currency": "ZMW",
+    "status": "Active", "lastUpdated": "2024-12-31",
+    "boardMembers": ["Mwamba Chanda", "Eng. Bwalya Mutale", "Chanda Kasonde"],
+    "contactEmail": "info@indeni.co.zm", "contactPhone": "+260 212 000 008"
+  }
+]

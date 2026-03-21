@@ -1,0 +1,21 @@
+{
+  "cashPositions": [
+    { "id": 1, "companyId": 1, "companyName": "KAGEM Mining", "cashOnHand": 15000000, "bankBalance": 85000000, "shortTermInvestments": 25000000, "dailyOperatingCashNeed": 2500000 },
+    { "id": 2, "companyId": 2, "companyName": "ZESCO", "cashOnHand": 45000000, "bankBalance": 180000000, "shortTermInvestments": 50000000, "dailyOperatingCashNeed": 15000000 },
+    { "id": 3, "companyId": 3, "companyName": "ZANACO", "cashOnHand": 120000000, "bankBalance": 450000000, "shortTermInvestments": 200000000, "dailyOperatingCashNeed": 8000000 },
+    { "id": 4, "companyId": 5, "companyName": "Zambia Railways", "cashOnHand": 8000000, "bankBalance": 35000000, "shortTermInvestments": 10000000, "dailyOperatingCashNeed": 3500000 },
+    { "id": 5, "companyId": 7, "companyName": "Mopani Copper Mines", "cashOnHand": 28000000, "bankBalance": 95000000, "shortTermInvestments": 40000000, "dailyOperatingCashNeed": 8500000 }
+  ],
+  "debtInstruments": [
+    { "id": 1, "companyId": 2, "companyName": "ZESCO", "instrumentType": "Bond", "lender": "Government of Zambia", "principalAmount": 500000000, "outstandingBalance": 450000000, "interestRate": 12.5, "isSovereignGuaranteed": true, "creditRating": "B", "status": "Active" },
+    { "id": 2, "companyId": 5, "companyName": "Zambia Railways", "instrumentType": "Loan", "lender": "African Development Bank", "principalAmount": 150000000, "outstandingBalance": 120000000, "interestRate": 8.5, "isSovereignGuaranteed": true, "creditRating": "BB-", "status": "Maturing Soon" },
+    { "id": 3, "companyId": 7, "companyName": "Mopani Copper Mines", "instrumentType": "Loan", "lender": "Standard Chartered Bank", "principalAmount": 200000000, "outstandingBalance": 175000000, "interestRate": 9.5, "isSovereignGuaranteed": false, "creditRating": "B+", "status": "Active" },
+    { "id": 4, "companyId": 3, "companyName": "ZANACO", "instrumentType": "Bond", "lender": "Capital Markets", "principalAmount": 100000000, "outstandingBalance": 85000000, "interestRate": 11.0, "isSovereignGuaranteed": false, "creditRating": "BB", "status": "Active" }
+  ],
+  "dividends": [
+    { "id": 1, "companyId": 1, "companyName": "KAGEM Mining", "fiscalYear": 2024, "netIncome": 85000000, "dividendDeclared": 25500000, "dividendPaid": 25500000, "retainedEarnings": 59500000, "dividendYield": 4.2, "status": "Paid" },
+    { "id": 2, "companyId": 3, "companyName": "ZANACO", "fiscalYear": 2024, "netIncome": 120000000, "dividendDeclared": 36000000, "dividendPaid": 36000000, "retainedEarnings": 84000000, "dividendYield": 5.1, "status": "Paid" },
+    { "id": 3, "companyId": 2, "companyName": "ZESCO", "fiscalYear": 2024, "netIncome": 45000000, "dividendDeclared": 9000000, "dividendPaid": 0, "retainedEarnings": 36000000, "dividendYield": 1.8, "status": "Declared" },
+    { "id": 4, "companyId": 7, "companyName": "Mopani Copper Mines", "fiscalYear": 2024, "netIncome": 65000000, "dividendDeclared": 19500000, "dividendPaid": 19500000, "retainedEarnings": 45500000, "dividendYield": 3.8, "status": "Paid" }
+  ]
+}

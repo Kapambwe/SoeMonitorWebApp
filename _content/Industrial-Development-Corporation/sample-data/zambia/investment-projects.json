@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1, "name": "KAGEM Emerald Mine Expansion Phase 3", "companyId": 1, "companyName": "KAGEM Mining Ltd",
+    "sector": "Mining", "budgetAllocated": 1850000000, "amountSpent": 680000000,
+    "status": "In Progress", "startDate": "2023-07-01", "completionDate": "2026-12-31",
+    "projectedROI": 18.5, "actualROI": 0, "fundingSource": "IDC Equity + Commercial Debt",
+    "description": "Expansion of KAGEM emerald mining operations to increase annual production from 30 million to 45 million carats."
+  },
+  {
+    "id": 2, "name": "Kafue Gorge Lower Hydropower Project", "companyId": 2, "companyName": "ZESCO Limited",
+    "sector": "Energy", "budgetAllocated": 52500000000, "amountSpent": 42000000000,
+    "status": "In Progress", "startDate": "2015-01-01", "completionDate": "2025-06-30",
+    "projectedROI": 12.2, "actualROI": 0, "fundingSource": "Chinese Development Banks (Sovereign Guarantee)",
+    "description": "750MW hydropower station on the Kafue River. Financed by Chinese development banks."
+  },
+  {
+    "id": 3, "name": "ZAMTEL 4G LTE Network Rollout", "companyId": 4, "companyName": "Zambia Telecommunications Company Ltd (ZAMTEL)",
+    "sector": "Telecommunications", "budgetAllocated": 1200000000, "amountSpent": 480000000,
+    "status": "In Progress", "startDate": "2024-01-01", "completionDate": "2026-06-30",
+    "projectedROI": 22.0, "actualROI": 0, "fundingSource": "IDC Equity",
+    "description": "Deployment of 4G LTE network across all 10 provincial capitals and major towns."
+  },
+  {
+    "id": 4, "name": "Zambia Railways Track Rehabilitation Programme", "companyId": 5, "companyName": "Zambia Railways Limited",
+    "sector": "Transport", "budgetAllocated": 4800000000, "amountSpent": 1200000000,
+    "status": "In Progress", "startDate": "2023-01-01", "completionDate": "2027-12-31",
+    "projectedROI": 0, "actualROI": 0, "fundingSource": "African Development Bank",
+    "description": "Rehabilitation of 800 km of priority track sections on the main line of rail from Livingstone to Ndola."
+  },
+  {
+    "id": 5, "name": "Zambeef Mpongwe Farm Irrigation Expansion", "companyId": 6, "companyName": "Zambeef Products Plc",
+    "sector": "Agriculture", "budgetAllocated": 850000000, "amountSpent": 320000000,
+    "status": "In Progress", "startDate": "2023-06-01", "completionDate": "2026-05-31",
+    "projectedROI": 28.5, "actualROI": 0, "fundingSource": "Zambeef Internal Funds + IFC",
+    "description": "Expansion of irrigation infrastructure at Mpongwe Farm to increase irrigated area from 5,000 to 12,000 hectares."
+  },
+  {
+    "id": 6, "name": "Indeni Refinery Modernisation Project", "companyId": 8, "companyName": "Indeni Petroleum Refinery Company Ltd",
+    "sector": "Energy", "budgetAllocated": 3200000000, "amountSpent": 150000000,
+    "status": "Proposed", "startDate": "2025-07-01", "completionDate": "2029-12-31",
+    "projectedROI": 15.8, "actualROI": 0, "fundingSource": "IDC Equity + Development Finance",
+    "description": "Modernisation of Indeni refinery to increase throughput capacity and improve product quality to Euro 4 standards."
+  }
+]

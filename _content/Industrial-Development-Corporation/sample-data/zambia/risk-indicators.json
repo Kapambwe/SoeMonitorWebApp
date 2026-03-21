@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1, "companyId": 1, "companyName": "KAGEM Mining Ltd",
+    "riskType": "Market", "severity": "High",
+    "description": "Global emerald price volatility based on consumer demand and competing gemstone markets.",
+    "identifiedDate": "2024-01-15", "isResolved": false, "resolvedDate": null, "auditStatus": "Current"
+  },
+  {
+    "id": 2, "companyId": 2, "companyName": "ZESCO Limited",
+    "riskType": "Financial", "severity": "Critical",
+    "description": "ZESCO's USD 500M sovereign-guaranteed debt poses systemic risk to Zambia's fiscal position.",
+    "identifiedDate": "2024-02-01", "isResolved": false, "resolvedDate": null, "auditStatus": "Current"
+  },
+  {
+    "id": 3, "companyId": 3, "companyName": "Zambia National Commercial Bank Plc (ZANACO)",
+    "riskType": "Financial", "severity": "High",
+    "description": "Rising NPL ratio in the SME and agricultural lending portfolio due to economic pressures.",
+    "identifiedDate": "2024-03-10", "isResolved": false, "resolvedDate": null, "auditStatus": "Current"
+  },
+  {
+    "id": 4, "companyId": 4, "companyName": "Zambia Telecommunications Company Ltd (ZAMTEL)",
+    "riskType": "Market", "severity": "High",
+    "description": "ZAMTEL continues to lose market share to MTN Zambia and Airtel Zambia due to inferior network quality.",
+    "identifiedDate": "2024-01-20", "isResolved": false, "resolvedDate": null, "auditStatus": "Current"
+  },
+  {
+    "id": 5, "companyId": 5, "companyName": "Zambia Railways Limited",
+    "riskType": "Operational", "severity": "High",
+    "description": "Zambia Railways' track infrastructure is over 50 years old with significant sections requiring urgent rehabilitation.",
+    "identifiedDate": "2024-01-05", "isResolved": false, "resolvedDate": null, "auditStatus": "Current"
+  },
+  {
+    "id": 6, "companyId": 6, "companyName": "Zambeef Products Plc",
+    "riskType": "Operational", "severity": "Medium",
+    "description": "El Niño-related drought reduces maize and soya production, increasing animal feed costs.",
+    "identifiedDate": "2024-02-15", "isResolved": false, "resolvedDate": null, "auditStatus": "Current"
+  },
+  {
+    "id": 7, "companyId": 7, "companyName": "Mopani Copper Mines Plc",
+    "riskType": "Financial", "severity": "High",
+    "description": "Post-acquisition debt servicing creates significant obligations that could strain cash flow if copper prices decline.",
+    "identifiedDate": "2024-04-01", "isResolved": false, "resolvedDate": null, "auditStatus": "Current"
+  },
+  {
+    "id": 8, "companyId": 8, "companyName": "Indeni Petroleum Refinery Company Ltd",
+    "riskType": "Operational", "severity": "Critical",
+    "description": "Indeni's operations depend entirely on crude oil supply through the aging TAZAMA pipeline.",
+    "identifiedDate": "2024-01-10", "isResolved": false, "resolvedDate": null, "auditStatus": "Current"
+  }
+]

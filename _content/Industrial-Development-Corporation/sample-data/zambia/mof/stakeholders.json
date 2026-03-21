@@ -1,0 +1,57 @@
+[
+  {
+    "id": 1, "companyId": 1, "companyName": "ZESCO Limited",
+    "name": "Ministry of Energy Zambia", "type": "Government",
+    "organization": "Government of the Republic of Zambia",
+    "engagementStatus": "Active", "influenceLevel": "High", "interestLevel": "High",
+    "contactEmail": "ps@energy.gov.zm",
+    "engagements": [
+      { "id": 1, "stakeholderId": 1, "engagementType": "Policy Review", "engagementDate": "2024-11-10", "status": "Completed", "notes": "Reviewed ZESCO tariff application and load shedding reduction plan." },
+      { "id": 2, "stakeholderId": 1, "engagementType": "Performance Review", "engagementDate": "2024-09-15", "status": "Completed", "notes": "Q2 2024 performance contract review meeting." }
+    ]
+  },
+  {
+    "id": 2, "companyId": 1, "companyName": "ZESCO Limited",
+    "name": "Energy Regulation Board Zambia", "type": "Regulator",
+    "organization": "ERB",
+    "engagementStatus": "Active", "influenceLevel": "High", "interestLevel": "High",
+    "contactEmail": "info@erb.org.zm",
+    "engagements": [
+      { "id": 3, "stakeholderId": 2, "engagementType": "Tariff Application", "engagementDate": "2024-08-01", "status": "Completed", "notes": "ZESCO submitted 35% tariff increase application. ERB approved 18% increase." },
+      { "id": 4, "stakeholderId": 2, "engagementType": "Licence Renewal", "engagementDate": "2024-06-30", "status": "Completed", "notes": "ZESCO generation and distribution licences renewed for 5 years." }
+    ]
+  },
+  {
+    "id": 3, "companyId": 2, "companyName": "Zambia Revenue Authority",
+    "name": "International Monetary Fund", "type": "International Organisation",
+    "organization": "IMF",
+    "engagementStatus": "Active", "influenceLevel": "High", "interestLevel": "High",
+    "contactEmail": "zambia@imf.org",
+    "engagements": [
+      { "id": 5, "stakeholderId": 3, "engagementType": "Programme Review", "engagementDate": "2024-10-20", "status": "Completed", "notes": "IMF Article IV consultation and ECF programme review. Revenue performance commended." },
+      { "id": 6, "stakeholderId": 3, "engagementType": "Technical Assistance", "engagementDate": "2024-07-15", "status": "Completed", "notes": "IMF FAD technical assistance on tax administration modernisation." }
+    ]
+  },
+  {
+    "id": 4, "companyId": 4, "companyName": "National Pension Scheme Authority",
+    "name": "Pensions and Insurance Authority", "type": "Regulator",
+    "organization": "PIA",
+    "engagementStatus": "Active", "influenceLevel": "High", "interestLevel": "High",
+    "contactEmail": "info@pia.org.zm",
+    "engagements": [
+      { "id": 7, "stakeholderId": 4, "engagementType": "Annual Inspection", "engagementDate": "2024-09-01", "status": "Completed", "notes": "PIA annual inspection of NAPSA investment portfolio and benefit payment processes." },
+      { "id": 8, "stakeholderId": 4, "engagementType": "Regulatory Reporting", "engagementDate": "2024-07-31", "status": "Completed", "notes": "Submitted H1 2024 actuarial valuation report to PIA." }
+    ]
+  },
+  {
+    "id": 5, "companyId": 5, "companyName": "Road Development Agency",
+    "name": "World Bank Zambia", "type": "Development Partner",
+    "organization": "World Bank Group",
+    "engagementStatus": "Active", "influenceLevel": "High", "interestLevel": "Medium",
+    "contactEmail": "zambia@worldbank.org",
+    "engagements": [
+      { "id": 9, "stakeholderId": 5, "engagementType": "Project Supervision", "engagementDate": "2024-10-05", "status": "Completed", "notes": "World Bank supervision mission for ZRTDP road project. Disbursement conditions reviewed." },
+      { "id": 10, "stakeholderId": 5, "engagementType": "Procurement Review", "engagementDate": "2024-08-20", "status": "Completed", "notes": "Post-procurement review of 12 contracts. 2 contracts flagged for further review." }
+    ]
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1, "issuingAuthority": "Ministry of Finance Zambia",
+    "directiveNumber": "MOF/SOE/2024/001",
+    "title": "Dividend Remittance Policy for State-Owned Enterprises",
+    "description": "All SOEs and investment holding companies must remit a minimum of 30% of net profit as dividends to the Government of Zambia within 90 days of financial year end.",
+    "issuedDate": "2024-01-15", "complianceDeadline": "2024-09-30",
+    "status": "Active", "implementationStatus": "Implemented",
+    "affectedCompanies": ["ZCCM Investment Holdings Plc", "Konkola Copper Mines Plc", "Ndola Lime Company Ltd"]
+  },
+  {
+    "id": 2, "issuingAuthority": "Ministry of Mines and Minerals Development",
+    "directiveNumber": "MMMD/2024/015",
+    "title": "Local Content Requirements for Mining Procurement",
+    "description": "Mining companies must achieve minimum 30% local content in procurement of goods and services by December 2025, increasing to 50% by 2027.",
+    "issuedDate": "2024-03-01", "complianceDeadline": "2025-12-31",
+    "status": "Active", "implementationStatus": "In Progress",
+    "affectedCompanies": ["Mopani Copper Mines Plc", "Konkola Copper Mines Plc", "NFC Africa Mining Plc", "Lubambe Copper Mine Ltd"]
+  },
+  {
+    "id": 3, "issuingAuthority": "Ministry of Finance Zambia",
+    "directiveNumber": "MOF/SOE/2024/008",
+    "title": "Performance Contract Framework for SOEs",
+    "description": "All SOEs must sign annual performance contracts with their line ministries and the Ministry of Finance by 31 March each year, incorporating financial and non-financial KPIs.",
+    "issuedDate": "2024-02-01", "complianceDeadline": "2024-03-31",
+    "status": "Active", "implementationStatus": "Implemented",
+    "affectedCompanies": ["ZCCM Investment Holdings Plc", "Konkola Copper Mines Plc", "Maamba Collieries Ltd", "Ndola Lime Company Ltd"]
+  },
+  {
+    "id": 4, "issuingAuthority": "Zambia Environmental Management Agency",
+    "directiveNumber": "ZEMA/2024/022",
+    "title": "Environmental Impact Assessment for Mine Expansions",
+    "description": "All mine expansion projects exceeding ZMW 500 million must complete a full Environmental Impact Assessment before commencement of construction activities.",
+    "issuedDate": "2024-04-15", "complianceDeadline": "2025-04-15",
+    "status": "Active", "implementationStatus": "In Progress",
+    "affectedCompanies": ["Konkola Copper Mines Plc", "Mopani Copper Mines Plc", "Maamba Collieries Ltd"]
+  },
+  {
+    "id": 5, "issuingAuthority": "Securities and Exchange Commission Zambia",
+    "directiveNumber": "SEC/2024/005",
+    "title": "Enhanced Disclosure Requirements for Listed Companies",
+    "description": "Listed companies must publish quarterly financial results within 45 days of quarter end and disclose all material transactions above ZMW 50 million.",
+    "issuedDate": "2024-05-01", "complianceDeadline": "2024-12-31",
+    "status": "Active", "implementationStatus": "Implemented",
+    "affectedCompanies": ["ZCCM Investment Holdings Plc", "Copperbelt Energy Corporation Plc"]
+  }
+]

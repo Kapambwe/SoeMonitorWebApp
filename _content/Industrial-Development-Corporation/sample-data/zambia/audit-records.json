@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1, "companyId": 1, "companyName": "KAGEM Mining Ltd",
+    "auditType": "External", "auditFirm": "Deloitte Zambia", "leadAuditor": "Chanda Mwila",
+    "startDate": "2024-09-01", "endDate": "2024-10-15", "status": "Completed",
+    "scope": "Annual financial statements audit for FY2024",
+    "riskRating": "Low", "executiveSummary": "Unqualified audit opinion issued. No material misstatements found.",
+    "reportReference": "DEL/KAGEM/2024/AUD", "nextAuditDate": "2025-09-01",
+    "findings": [
+      {
+        "id": 1, "auditId": 1, "findingNumber": "F001",
+        "title": "Fixed Asset Register Reconciliation",
+        "description": "Minor discrepancies found in fixed asset register for mining equipment.",
+        "severity": "Low", "category": "Financial", "status": "Resolved",
+        "recommendation": "Reconcile fixed asset register monthly.",
+        "managementResponse": "Agreed. Monthly reconciliation process implemented.",
+        "responsiblePerson": "KAGEM CFO", "dueDate": "2024-12-31",
+        "resolutionDate": "2024-11-30", "actionTaken": "Fixed asset register reconciled and discrepancies corrected."
+      }
+    ]
+  },
+  {
+    "id": 2, "companyId": 2, "companyName": "ZESCO Limited",
+    "auditType": "External", "auditFirm": "KPMG Zambia", "leadAuditor": "Bwalya Mutale",
+    "startDate": "2024-10-01", "endDate": "2025-01-31", "status": "Completed",
+    "scope": "Annual financial statements audit for FY2024",
+    "riskRating": "High", "executiveSummary": "Qualified audit opinion due to revenue recognition issues and going concern uncertainty.",
+    "reportReference": "KPMG/ZESCO/2024/AUD", "nextAuditDate": "2025-10-01",
+    "findings": [
+      {
+        "id": 2, "auditId": 2, "findingNumber": "F001",
+        "title": "Revenue Recognition — Unbilled Revenue",
+        "description": "ZESCO has not consistently applied IFRS 15 for unbilled revenue recognition.",
+        "severity": "High", "category": "Financial", "status": "In Progress",
+        "recommendation": "Implement IFRS 15 compliant revenue recognition policy.",
+        "managementResponse": "Agreed. IFRS 15 implementation project initiated.",
+        "responsiblePerson": "ZESCO CFO", "dueDate": "2025-06-30",
+        "resolutionDate": null, "actionTaken": "IFRS 15 policy drafted. Implementation in progress."
+      },
+      {
+        "id": 3, "auditId": 2, "findingNumber": "F002",
+        "title": "Debt Covenant Compliance",
+        "description": "ZESCO is in breach of two financial covenants on its USD 500M sovereign-guaranteed loan.",
+        "severity": "Critical", "category": "Financial", "status": "Open",
+        "recommendation": "Engage lenders immediately to obtain covenant waiver.",
+        "managementResponse": "Waiver negotiations in progress with Ministry of Finance support.",
+        "responsiblePerson": "ZESCO CEO", "dueDate": "2025-03-31",
+        "resolutionDate": null, "actionTaken": "Waiver application submitted to lenders."
+      }
+    ]
+  },
+  {
+    "id": 3, "companyId": 3, "companyName": "Zambia National Commercial Bank Plc (ZANACO)",
+    "auditType": "External", "auditFirm": "PwC Zambia", "leadAuditor": "Mwansa Kapatamoyo",
+    "startDate": "2024-08-01", "endDate": "2024-09-30", "status": "Completed",
+    "scope": "Annual financial statements audit for FY2024",
+    "riskRating": "Low", "executiveSummary": "Unqualified audit opinion. Strong capital adequacy and liquidity position.",
+    "reportReference": "PWC/ZANACO/2024/AUD", "nextAuditDate": "2025-08-01",
+    "findings": [
+      {
+        "id": 4, "auditId": 3, "findingNumber": "F001",
+        "title": "Loan Loss Provisioning — SME Portfolio",
+        "description": "Loan loss provisions for SME portfolio may be understated given rising NPL trends.",
+        "severity": "Medium", "category": "Financial", "status": "In Progress",
+        "recommendation": "Review and strengthen loan loss provisioning methodology.",
+        "managementResponse": "Agreed. Provisioning methodology review underway.",
+        "responsiblePerson": "ZANACO CFO", "dueDate": "2025-03-31",
+        "resolutionDate": null, "actionTaken": "External credit review commissioned."
+      }
+    ]
+  },
+  {
+    "id": 4, "companyId": 7, "companyName": "Mopani Copper Mines Plc",
+    "auditType": "Internal", "auditFirm": "Mopani Internal Audit", "leadAuditor": "Goodwell Mateyo",
+    "startDate": "2024-07-01", "endDate": "2024-08-31", "status": "Completed",
+    "scope": "Procurement and contract management audit",
+    "riskRating": "Medium", "executiveSummary": "Several procurement process weaknesses identified. No fraud detected.",
+    "reportReference": "MCM/IA/2024/PROC", "nextAuditDate": "2025-07-01",
+    "findings": [
+      {
+        "id": 5, "auditId": 4, "findingNumber": "F001",
+        "title": "Tender Evaluation Documentation",
+        "description": "Tender evaluation records incomplete for 3 contracts above ZMW 50M threshold.",
+        "severity": "Medium", "category": "Compliance", "status": "Resolved",
+        "recommendation": "Ensure all tender evaluations are fully documented per procurement policy.",
+        "managementResponse": "Agreed. Procurement team retrained on documentation requirements.",
+        "responsiblePerson": "Mopani Procurement Manager", "dueDate": "2024-10-31",
+        "resolutionDate": "2024-10-15", "actionTaken": "Documentation completed and filed. Training conducted."
+      }
+    ]
+  }
+]

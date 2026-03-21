@@ -1,0 +1,7 @@
+[
+  { "id": 1, "companyId": 1, "companyName": "ZESCO", "title": "Annual Financial Report", "deadlineType": "Financial Report", "dueDateOffsetDays": 15, "status": "Pending", "responsiblePerson": "CFO", "responsibleEmail": "cfo@zesco.co.zm", "reminderDays": 7 },
+  { "id": 2, "companyId": 2, "companyName": "ZCCM-IH", "title": "Q3 Board Meeting", "deadlineType": "Board Meeting", "dueDateOffsetDays": 5, "status": "Pending", "responsiblePerson": "Company Secretary", "responsibleEmail": "sec@zccm.co.zm", "reminderDays": 3 },
+  { "id": 3, "companyId": 3, "companyName": "ZNBC", "title": "External Audit Submission", "deadlineType": "Audit", "dueDateOffsetDays": -5, "status": "Overdue", "responsiblePerson": "Internal Auditor", "responsibleEmail": "audit@znbc.co.zm", "reminderDays": 7 },
+  { "id": 4, "companyId": 4, "companyName": "Indeni Petroleum", "title": "Quarterly Compliance Report", "deadlineType": "Financial Report", "dueDateOffsetDays": 30, "status": "Pending", "responsiblePerson": "Compliance Officer", "responsibleEmail": "compliance@indeni.co.zm", "reminderDays": 14 },
+  { "id": 5, "companyId": 1, "companyName": "ZESCO", "title": "ESG Disclosure Report", "deadlineType": "Other", "dueDateOffsetDays": -15, "status": "Completed", "responsiblePerson": "ESG Manager", "responsibleEmail": "esg@zesco.co.zm", "reminderDays": 7 }
+]

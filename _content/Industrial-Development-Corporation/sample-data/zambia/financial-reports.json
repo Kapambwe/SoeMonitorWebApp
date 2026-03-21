@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1, "companyId": 1, "year": 2024, "quarter": null, "reportType": "Annual",
+    "totalRevenue": 2800000000, "netProfit": 850000000, "totalAssets": 5200000000,
+    "totalLiabilities": 1800000000, "totalEquity": 3400000000, "operatingCashFlow": 1100000000,
+    "status": "Approved", "submissionDate": "2025-03-15", "approvalDate": "2025-04-01",
+    "approvedBy": "IDC Board", "comments": "Unqualified audit opinion. Strong emerald production year."
+  },
+  {
+    "id": 2, "companyId": 2, "year": 2024, "quarter": null, "reportType": "Annual",
+    "totalRevenue": 8500000000, "netProfit": -700000000, "totalAssets": 42000000000,
+    "totalLiabilities": 28500000000, "totalEquity": 13500000000, "operatingCashFlow": 1200000000,
+    "status": "Approved", "submissionDate": "2025-04-10", "approvalDate": "2025-05-01",
+    "approvedBy": "IDC Board", "comments": "Qualified audit opinion due to revenue recognition issues. Turnaround plan in progress."
+  },
+  {
+    "id": 3, "companyId": 3, "year": 2024, "quarter": null, "reportType": "Annual",
+    "totalRevenue": 3200000000, "netProfit": 1100000000, "totalAssets": 28000000000,
+    "totalLiabilities": 24500000000, "totalEquity": 3500000000, "operatingCashFlow": 1800000000,
+    "status": "Approved", "submissionDate": "2025-03-01", "approvalDate": "2025-03-20",
+    "approvedBy": "IDC Board", "comments": "Unqualified audit opinion. Strong performance across all business lines."
+  },
+  {
+    "id": 4, "companyId": 4, "year": 2024, "quarter": null, "reportType": "Annual",
+    "totalRevenue": 1850000000, "netProfit": 200000000, "totalAssets": 6800000000,
+    "totalLiabilities": 4200000000, "totalEquity": 2600000000, "operatingCashFlow": 420000000,
+    "status": "Approved", "submissionDate": "2025-03-20", "approvalDate": "2025-04-05",
+    "approvedBy": "IDC Board", "comments": "Unqualified audit opinion. Revenue below target due to market share loss."
+  },
+  {
+    "id": 5, "companyId": 5, "year": 2024, "quarter": null, "reportType": "Annual",
+    "totalRevenue": 1200000000, "netProfit": -180000000, "totalAssets": 12500000000,
+    "totalLiabilities": 9800000000, "totalEquity": 2700000000, "operatingCashFlow": 350000000,
+    "status": "Approved", "submissionDate": "2025-04-15", "approvalDate": "2025-05-10",
+    "approvedBy": "IDC Board", "comments": "Qualified audit opinion. Infrastructure rehabilitation costs impacted profitability."
+  },
+  {
+    "id": 6, "companyId": 6, "year": 2024, "quarter": null, "reportType": "Annual",
+    "totalRevenue": 4500000000, "netProfit": 700000000, "totalAssets": 8500000000,
+    "totalLiabilities": 5200000000, "totalEquity": 3300000000, "operatingCashFlow": 950000000,
+    "status": "Approved", "submissionDate": "2025-02-28", "approvalDate": "2025-03-15",
+    "approvedBy": "IDC Board", "comments": "Unqualified audit opinion. Exceeded revenue and profit targets."
+  },
+  {
+    "id": 7, "companyId": 7, "year": 2024, "quarter": null, "reportType": "Annual",
+    "totalRevenue": 12500000000, "netProfit": 2700000000, "totalAssets": 22000000000,
+    "totalLiabilities": 14500000000, "totalEquity": 7500000000, "operatingCashFlow": 3200000000,
+    "status": "Approved", "submissionDate": "2025-03-10", "approvalDate": "2025-03-28",
+    "approvedBy": "IDC Board", "comments": "Unqualified audit opinion. Strong copper production and prices."
+  },
+  {
+    "id": 8, "companyId": 8, "year": 2024, "quarter": null, "reportType": "Annual",
+    "totalRevenue": 3800000000, "netProfit": 300000000, "totalAssets": 4200000000,
+    "totalLiabilities": 2800000000, "totalEquity": 1400000000, "operatingCashFlow": 480000000,
+    "status": "Approved", "submissionDate": "2025-03-25", "approvalDate": "2025-04-10",
+    "approvedBy": "IDC Board", "comments": "Unqualified audit opinion. Refinery operating at 92% capacity."
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1, "companyId": 1, "companyName": "ZCCM Investment Holdings Plc",
+    "reportType": "Annual", "fiscalYear": 2024, "quarter": null,
+    "revenue": 39850000000, "expenses": 18200000000, "netIncome": 21650000000,
+    "totalAssets": 85000000000, "totalLiabilities": 32000000000, "equity": 53000000000,
+    "cashFlow": 15800000000, "status": "Audited", "currency": "ZMW",
+    "auditOpinion": "Unqualified"
+  },
+  {
+    "id": 2, "companyId": 2, "companyName": "Mopani Copper Mines Plc",
+    "reportType": "Annual", "fiscalYear": 2024, "quarter": null,
+    "revenue": 12500000000, "expenses": 9800000000, "netIncome": 2700000000,
+    "totalAssets": 22000000000, "totalLiabilities": 14500000000, "equity": 7500000000,
+    "cashFlow": 3200000000, "status": "Audited", "currency": "ZMW",
+    "auditOpinion": "Unqualified"
+  },
+  {
+    "id": 3, "companyId": 3, "companyName": "Konkola Copper Mines Plc",
+    "reportType": "Annual", "fiscalYear": 2024, "quarter": null,
+    "revenue": 9800000000, "expenses": 8200000000, "netIncome": 1600000000,
+    "totalAssets": 18500000000, "totalLiabilities": 12000000000, "equity": 6500000000,
+    "cashFlow": 2100000000, "status": "Audited", "currency": "ZMW",
+    "auditOpinion": "Qualified"
+  },
+  {
+    "id": 4, "companyId": 4, "companyName": "Copperbelt Energy Corporation Plc",
+    "reportType": "Annual", "fiscalYear": 2024, "quarter": null,
+    "revenue": 4200000000, "expenses": 3100000000, "netIncome": 1100000000,
+    "totalAssets": 9500000000, "totalLiabilities": 4800000000, "equity": 4700000000,
+    "cashFlow": 1350000000, "status": "Audited", "currency": "ZMW",
+    "auditOpinion": "Unqualified"
+  },
+  {
+    "id": 5, "companyId": 7, "companyName": "Maamba Collieries Ltd",
+    "reportType": "Annual", "fiscalYear": 2024, "quarter": null,
+    "revenue": 1850000000, "expenses": 1420000000, "netIncome": 430000000,
+    "totalAssets": 4200000000, "totalLiabilities": 2800000000, "equity": 1400000000,
+    "cashFlow": 580000000, "status": "Audited", "currency": "ZMW",
+    "auditOpinion": "Unqualified"
+  },
+  {
+    "id": 6, "companyId": 1, "companyName": "ZCCM Investment Holdings Plc",
+    "reportType": "Quarterly", "fiscalYear": 2024, "quarter": "Q3",
+    "revenue": 10200000000, "expenses": 4800000000, "netIncome": 5400000000,
+    "totalAssets": 83000000000, "totalLiabilities": 31500000000, "equity": 51500000000,
+    "cashFlow": 4200000000, "status": "Unaudited", "currency": "ZMW",
+    "auditOpinion": "N/A"
+  },
+  {
+    "id": 7, "companyId": 8, "companyName": "Ndola Lime Company Ltd",
+    "reportType": "Annual", "fiscalYear": 2024, "quarter": null,
+    "revenue": 520000000, "expenses": 380000000, "netIncome": 140000000,
+    "totalAssets": 980000000, "totalLiabilities": 420000000, "equity": 560000000,
+    "cashFlow": 185000000, "status": "Audited", "currency": "ZMW",
+    "auditOpinion": "Unqualified"
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1, "companyId": 1, "companyName": "ZESCO Limited",
+    "projectName": "Kafue Gorge Lower Hydropower Project",
+    "description": "Construction of the 750MW Kafue Gorge Lower hydropower station to increase Zambia's generation capacity. The project is financed by Chinese development banks with sovereign guarantee.",
+    "sector": "Energy", "status": "In Progress",
+    "totalBudget": 52500000000, "amountInvested": 42000000000,
+    "expectedReturn": 85000000000, "startDate": "2015-01-01", "endDate": "2025-06-30",
+    "currency": "ZMW"
+  },
+  {
+    "id": 2, "companyId": 1, "companyName": "ZESCO Limited",
+    "projectName": "National Grid Expansion and Rehabilitation",
+    "description": "Expansion and rehabilitation of the national electricity transmission and distribution grid to reduce technical losses and improve reliability. Covers 5,000 km of transmission lines.",
+    "sector": "Energy", "status": "In Progress",
+    "totalBudget": 18500000000, "amountInvested": 7200000000,
+    "expectedReturn": 35000000000, "startDate": "2022-01-01", "endDate": "2027-12-31",
+    "currency": "ZMW"
+  },
+  {
+    "id": 3, "companyId": 5, "companyName": "Road Development Agency",
+    "projectName": "Link Zambia 8000 Road Programme",
+    "description": "Construction and rehabilitation of 8,000 km of roads connecting provincial and district centres. Funded through fuel levy, road user charges, and external financing.",
+    "sector": "Infrastructure", "status": "In Progress",
+    "totalBudget": 85000000000, "amountInvested": 38000000000,
+    "expectedReturn": 0, "startDate": "2012-01-01", "endDate": "2026-12-31",
+    "currency": "ZMW"
+  },
+  {
+    "id": 4, "companyId": 5, "companyName": "Road Development Agency",
+    "projectName": "Lusaka-Ndola Dual Carriageway",
+    "description": "Construction of a dual carriageway between Lusaka and Ndola to reduce travel time and improve safety on Zambia's busiest road corridor.",
+    "sector": "Infrastructure", "status": "Planning",
+    "totalBudget": 22000000000, "amountInvested": 850000000,
+    "expectedReturn": 0, "startDate": "2025-07-01", "endDate": "2030-06-30",
+    "currency": "ZMW"
+  },
+  {
+    "id": 5, "companyId": 4, "companyName": "National Pension Scheme Authority",
+    "projectName": "NAPSA Affordable Housing Programme",
+    "description": "Construction of 10,000 affordable housing units in Lusaka, Kitwe, and Ndola for NAPSA members and low-income earners. Part of the government's housing deficit reduction strategy.",
+    "sector": "Real Estate", "status": "In Progress",
+    "totalBudget": 12500000000, "amountInvested": 4800000000,
+    "expectedReturn": 18000000000, "startDate": "2021-01-01", "endDate": "2027-12-31",
+    "currency": "ZMW"
+  },
+  {
+    "id": 6, "companyId": 6, "companyName": "Zambia National Building Society",
+    "projectName": "ZNBS Digital Mortgage Platform",
+    "description": "Development of a digital mortgage application and management platform to reduce processing time from 90 days to 14 days and expand access to housing finance.",
+    "sector": "Finance", "status": "In Progress",
+    "totalBudget": 280000000, "amountInvested": 120000000,
+    "expectedReturn": 950000000, "startDate": "2024-01-01", "endDate": "2025-12-31",
+    "currency": "ZMW"
+  }
+]

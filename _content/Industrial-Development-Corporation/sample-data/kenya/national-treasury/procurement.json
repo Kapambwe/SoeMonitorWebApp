@@ -1,0 +1,30 @@
+{
+  "tenders": [
+    { "id": 1, "companyId": 1, "companyName": "KenGen", "tenderNumber": "KenGen/2024/001", "title": "Olkaria VI Drilling Rig Services", "category": "Services", "estimatedValue": 4500000000, "bidsReceived": 5, "status": "Evaluation", "awardedVendor": "", "awardedAmount": 0 },
+    { "id": 2, "companyId": 2, "companyName": "Kenya Airways", "tenderNumber": "KQ/2024/015", "title": "Aircraft Maintenance, Repair and Overhaul (MRO) Services", "category": "Services", "estimatedValue": 8500000000, "bidsReceived": 4, "status": "Awarded", "awardedVendor": "Lufthansa Technik", "awardedAmount": 8200000000 },
+    { "id": 3, "companyId": 3, "companyName": "KPLC", "tenderNumber": "KPLC/2024/022", "title": "Smart Prepaid Meters Supply and Installation", "category": "Goods & Works", "estimatedValue": 6800000000, "bidsReceived": 8, "status": "Awarded", "awardedVendor": "Hexing Electrical Co.", "awardedAmount": 6500000000 },
+    { "id": 4, "companyId": 4, "companyName": "KPA", "tenderNumber": "KPA/2024/008", "title": "Ship-to-Shore Gantry Cranes Supply", "category": "Goods", "estimatedValue": 12000000000, "bidsReceived": 6, "status": "Published" },
+    { "id": 5, "companyId": 5, "companyName": "KRC", "tenderNumber": "KRC/2024/003", "title": "SGR Rolling Stock Maintenance Services", "category": "Services", "estimatedValue": 3200000000, "bidsReceived": 3, "status": "Evaluation" },
+    { "id": 6, "companyId": 6, "companyName": "KPC", "tenderNumber": "KPC/2024/011", "title": "Pipeline Cathodic Protection System Upgrade", "category": "Works", "estimatedValue": 1800000000, "bidsReceived": 7, "status": "Awarded", "awardedVendor": "Corrpro Companies Africa", "awardedAmount": 1720000000 }
+  ],
+  "vendors": [
+    { "id": 1, "name": "Lufthansa Technik AG", "registrationNumber": "VEN-KE-001", "category": "Large Enterprise", "industry": "Aviation MRO", "isLocalContent": false, "performanceRating": 4.7, "contractsCompleted": 8, "totalContractValue": 42000000000, "status": "Active" },
+    { "id": 2, "name": "Hexing Electrical Co. Ltd", "registrationNumber": "VEN-KE-002", "category": "Large Enterprise", "industry": "Electrical Equipment", "isLocalContent": false, "performanceRating": 4.3, "contractsCompleted": 5, "totalContractValue": 18500000000, "status": "Active" },
+    { "id": 3, "name": "Corrpro Companies Africa", "registrationNumber": "VEN-KE-003", "category": "SME", "industry": "Pipeline Services", "isLocalContent": true, "performanceRating": 4.5, "contractsCompleted": 12, "totalContractValue": 8200000000, "status": "Active" },
+    { "id": 4, "name": "Kentech Engineering Ltd", "registrationNumber": "VEN-KE-004", "category": "SME", "industry": "Civil Engineering", "isLocalContent": true, "performanceRating": 4.1, "contractsCompleted": 22, "totalContractValue": 5600000000, "status": "Active" },
+    { "id": 5, "name": "Safaricom PLC", "registrationNumber": "VEN-KE-005", "category": "Large Enterprise", "industry": "ICT Services", "isLocalContent": true, "performanceRating": 4.8, "contractsCompleted": 18, "totalContractValue": 3200000000, "status": "Active" },
+    { "id": 6, "name": "Apex Steel Ltd", "registrationNumber": "VEN-KE-006", "category": "SME", "industry": "Steel & Fabrication", "isLocalContent": true, "performanceRating": 2.8, "contractsCompleted": 4, "totalContractValue": 850000000, "status": "Suspended", "blacklistReason": "Substandard materials supplied" }
+  ],
+  "contracts": [
+    { "id": 1, "companyId": 2, "companyName": "Kenya Airways", "contractNumber": "KQ/CON/2024/001", "title": "MRO Services Agreement", "vendorId": 1, "vendorName": "Lufthansa Technik AG", "contractValue": 8200000000, "amountPaid": 4100000000, "status": "Active", "amendments": 0, "performanceBondValue": 820000000, "isPerformanceBondValid": true },
+    { "id": 2, "companyId": 3, "companyName": "KPLC", "contractNumber": "KPLC/CON/2024/005", "title": "Smart Meter Supply & Installation", "vendorId": 2, "vendorName": "Hexing Electrical Co.", "contractValue": 6500000000, "amountPaid": 2600000000, "status": "Active", "amendments": 1, "performanceBondValue": 650000000, "isPerformanceBondValid": true },
+    { "id": 3, "companyId": 6, "companyName": "KPC", "contractNumber": "KPC/CON/2024/003", "title": "Cathodic Protection Upgrade", "vendorId": 3, "vendorName": "Corrpro Companies Africa", "contractValue": 1720000000, "amountPaid": 860000000, "status": "Active", "amendments": 0, "performanceBondValue": 172000000, "isPerformanceBondValid": true },
+    { "id": 4, "companyId": 4, "companyName": "KPA", "contractNumber": "KPA/CON/2023/018", "title": "Port Security Systems", "vendorId": 5, "vendorName": "Safaricom PLC", "contractValue": 1200000000, "amountPaid": 1200000000, "status": "Completed", "amendments": 0, "performanceBondValue": 120000000, "isPerformanceBondValid": false }
+  ],
+  "relatedPartyTransactions": [
+    { "id": 1, "companyId": 3, "companyName": "KPLC", "relatedParty": "KenGen", "relationshipType": "Inter-SOE", "transactionType": "Power Purchase", "transactionValue": 42000000000, "isArmsLength": true, "isApproved": true, "approvalAuthority": "Energy Regulatory Commission", "status": "Approved" },
+    { "id": 2, "companyId": 5, "companyName": "KRC", "relatedParty": "KPA", "relationshipType": "Inter-SOE", "transactionType": "Port-Rail Interface Services", "transactionValue": 2800000000, "isArmsLength": true, "isApproved": true, "approvalAuthority": "Board", "status": "Approved" },
+    { "id": 3, "companyId": 2, "companyName": "Kenya Airways", "relatedParty": "KAA (Kenya Airports Authority)", "relationshipType": "Inter-SOE", "transactionType": "Landing Fees & Ground Handling", "transactionValue": 5500000000, "isArmsLength": true, "isApproved": true, "approvalAuthority": "Board", "status": "Approved" },
+    { "id": 4, "companyId": 7, "companyName": "KBC", "relatedParty": "Director's Media Company", "relationshipType": "Director Related", "transactionType": "Content Production", "transactionValue": 85000000, "isArmsLength": false, "isApproved": false, "status": "Pending Approval" }
+  ]
+}

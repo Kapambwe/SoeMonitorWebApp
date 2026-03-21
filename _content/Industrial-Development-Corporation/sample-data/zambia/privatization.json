@@ -1,0 +1,22 @@
+{
+  "candidates": [
+    { "id": 1, "companyId": 3, "companyName": "ZANACO", "privatizationType": "Partial Sale", "stage": "Preparation", "estimatedValue": 850000000, "minimumTargetProceeds": 400000000, "advisor": "Rothschild & Co", "governmentApprovalStatus": "Cabinet Approved", "keyRisks": "Market conditions, regulatory approvals", "investorInterestLevel": 4 },
+    { "id": 2, "companyId": 7, "companyName": "Mopani Copper Mines", "privatizationType": "Strategic Partner", "stage": "Marketing", "estimatedValue": 1200000000, "minimumTargetProceeds": 600000000, "advisor": "JP Morgan", "governmentApprovalStatus": "Parliament Approved", "keyRisks": "Copper price volatility, environmental liabilities", "investorInterestLevel": 5 },
+    { "id": 3, "companyId": 8, "companyName": "ZAMTEL", "privatizationType": "Full Sale", "stage": "Feasibility", "estimatedValue": 250000000, "minimumTargetProceeds": 180000000, "advisor": "PwC", "governmentApprovalStatus": "Pending", "keyRisks": "Technology obsolescence, competition", "investorInterestLevel": 3 }
+  ],
+  "transactions": [
+    { "id": 1, "companyId": 6, "companyName": "ZAMBEEF", "transactionType": "Privatization", "counterparty": "CDC Group", "transactionValue": 150000000, "equityStakeSold": 25, "status": "Completed", "proceedsReceived": 150000000 },
+    { "id": 2, "companyId": 7, "companyName": "Mopani Copper Mines", "transactionType": "Acquisition", "counterparty": "ZCCM-IH", "transactionValue": 1500000000, "equityStakeSold": 0, "status": "Completed", "proceedsReceived": 0 },
+    { "id": 3, "companyId": 3, "companyName": "ZANACO", "transactionType": "Divestiture", "counterparty": "TBD", "transactionValue": 400000000, "equityStakeSold": 49, "status": "Due Diligence" }
+  ],
+  "restructuringProjects": [
+    { "id": 1, "companyId": 5, "companyName": "Zambia Railways", "restructuringType": "Operational", "description": "Route optimization and staff rightsizing", "projectedSavings": 25000000, "achievedSavings": 8500000, "workforceImpact": -150, "progress": 45, "status": "In Progress", "projectManager": "Frank Tayali" },
+    { "id": 2, "companyId": 2, "companyName": "ZESCO", "restructuringType": "Financial", "description": "Debt restructuring and working capital optimization", "projectedSavings": 45000000, "achievedSavings": 12000000, "workforceImpact": 0, "progress": 30, "status": "In Progress", "projectManager": "Mary Tembo" },
+    { "id": 3, "companyId": 8, "companyName": "ZAMTEL", "restructuringType": "Merger", "description": "Proposed merger with mobile operator", "projectedSavings": 80000000, "achievedSavings": 0, "workforceImpact": -200, "progress": 10, "status": "Planning", "projectManager": "TBD" }
+  ],
+  "postSaleObligations": [
+    { "id": 1, "transactionId": 1, "companyId": 6, "companyName": "ZAMBEEF", "obligationType": "Employment Guarantee", "description": "Maintain 80% workforce for 3 years", "committedValue": 0, "achievedValue": 0, "status": "On Track", "monitoringBody": "IDC", "lastAssessment": "95% workforce maintained" },
+    { "id": 2, "transactionId": 1, "companyId": 6, "companyName": "ZAMBEEF", "obligationType": "Investment Commitment", "description": "Capital investment in processing facilities", "committedValue": 50000000, "achievedValue": 35000000, "status": "On Track", "monitoringBody": "IDC", "lastAssessment": "Investment on schedule" },
+    { "id": 3, "transactionId": 2, "companyId": 7, "companyName": "Mopani Copper Mines", "obligationType": "Environmental", "description": "Environmental remediation fund", "committedValue": 100000000, "achievedValue": 15000000, "status": "At Risk", "monitoringBody": "ZEMA", "lastAssessment": "Contribution below schedule" }
+  ]
+}

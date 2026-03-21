@@ -1,0 +1,23 @@
+{
+  "rationales": [
+    { "id": 1, "companyId": 2, "companyName": "ZESCO", "ownershipPurpose": "Natural Monopoly", "justification": "National power utility with natural monopoly characteristics", "privatizationReadiness": "Not Applicable", "publicInterestRationale": "Essential public service", "reviewOutcome": "Retain", "isStrategic": true },
+    { "id": 2, "companyId": 3, "companyName": "ZANACO", "ownershipPurpose": "Strategic", "justification": "Strategic financial sector presence for government", "privatizationReadiness": "Under Consideration", "publicInterestRationale": "Financial inclusion mandate", "reviewOutcome": "Consider Privatization", "isStrategic": true },
+    { "id": 3, "companyId": 5, "companyName": "Zambia Railways", "ownershipPurpose": "Market Failure", "justification": "Private sector unwilling to invest in rail infrastructure", "privatizationReadiness": "Not Ready", "publicInterestRationale": "Critical transport infrastructure", "reviewOutcome": "Retain", "isStrategic": true },
+    { "id": 4, "companyId": 1, "companyName": "KAGEM Mining", "ownershipPurpose": "Strategic", "justification": "Strategic mineral resources ownership", "privatizationReadiness": "Under Consideration", "publicInterestRationale": "National resource sovereignty", "reviewOutcome": "Monitor", "isStrategic": true }
+  ],
+  "policyAlignments": [
+    { "id": 1, "companyId": 2, "companyName": "ZESCO", "policyFramework": "Vision 2030", "specificGoal": "Universal electricity access", "alignmentArea": "Infrastructure Development", "contributionScore": 78, "status": "Aligned", "measurableOutcome": "85% electrification rate achieved", "sdgsAddressed": ["SDG 7", "SDG 9"] },
+    { "id": 2, "companyId": 3, "companyName": "ZANACO", "policyFramework": "NDP", "specificGoal": "Financial inclusion for rural areas", "alignmentArea": "Economic Development", "contributionScore": 82, "status": "Aligned", "measurableOutcome": "500,000 new rural accounts opened", "sdgsAddressed": ["SDG 1", "SDG 8", "SDG 10"] },
+    { "id": 3, "companyId": 5, "companyName": "Zambia Railways", "policyFramework": "Vision 2030", "specificGoal": "Integrated transport network", "alignmentArea": "Transport", "contributionScore": 45, "status": "Partially Aligned", "measurableOutcome": "Limited progress on rail modernization", "sdgsAddressed": ["SDG 9", "SDG 11"] }
+  ],
+  "communityServiceObligations": [
+    { "id": 1, "companyId": 2, "companyName": "ZESCO", "serviceType": "Rural Electrification", "description": "Below-cost electricity to rural areas", "targetBeneficiaries": "Rural households", "beneficiariesServed": 850000, "annualCost": 45000000, "governmentCompensation": 25000000, "fiscalYear": 2024, "compensationMechanism": "Direct Subsidy", "status": "Partially Funded" },
+    { "id": 2, "companyId": 5, "companyName": "Zambia Railways", "serviceType": "Subsidized Transport", "description": "Below-cost passenger rail services", "targetBeneficiaries": "Commuters", "beneficiariesServed": 120000, "annualCost": 18000000, "governmentCompensation": 8000000, "fiscalYear": 2024, "compensationMechanism": "Direct Subsidy", "status": "Partially Funded" },
+    { "id": 3, "companyId": 3, "companyName": "ZANACO", "serviceType": "Below-Cost Services", "description": "Free banking for pensioners", "targetBeneficiaries": "Senior citizens", "beneficiariesServed": 85000, "annualCost": 5000000, "governmentCompensation": 0, "fiscalYear": 2024, "compensationMechanism": "Cross-Subsidy", "status": "Unfunded" }
+  ],
+  "performanceContracts": [
+    { "id": 1, "companyId": 2, "companyName": "ZESCO", "contractType": "CEO Performance", "contractingParty": "Ministry of Finance", "fiscalYear": 2024, "totalKRAs": 10, "krasAchieved": 7, "overallScore": 72, "status": "Active", "performanceRating": "Meets" },
+    { "id": 2, "companyId": 1, "companyName": "KAGEM Mining", "contractType": "CEO Performance", "contractingParty": "IDC", "fiscalYear": 2024, "totalKRAs": 8, "krasAchieved": 7, "overallScore": 88, "status": "Active", "performanceRating": "Exceeds" },
+    { "id": 3, "companyId": 5, "companyName": "Zambia Railways", "contractType": "CEO Performance", "contractingParty": "Ministry of Transport", "fiscalYear": 2024, "totalKRAs": 12, "krasAchieved": 5, "overallScore": 45, "status": "Active", "performanceRating": "Below" }
+  ]
+}

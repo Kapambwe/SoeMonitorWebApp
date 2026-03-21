@@ -1,0 +1,25 @@
+{
+  "predictions": [
+    { "id": 1, "companyId": 2, "companyName": "ZESCO", "predictionType": "Revenue", "predictionPeriod": "Q4", "fiscalYear": 2024, "predictedValue": 1250000000, "actualValue": 0, "confidenceLevel": 78, "modelUsed": "Time Series ARIMA", "status": "Pending" },
+    { "id": 2, "companyId": 1, "companyName": "KAGEM Mining", "predictionType": "Revenue", "predictionPeriod": "Q4", "fiscalYear": 2024, "predictedValue": 380000000, "actualValue": 0, "confidenceLevel": 82, "modelUsed": "Gradient Boosting", "status": "Pending" },
+    { "id": 3, "companyId": 2, "companyName": "ZESCO", "predictionType": "Cash Flow", "predictionPeriod": "Q3", "fiscalYear": 2024, "predictedValue": 85000000, "actualValue": 92000000, "confidenceLevel": 75, "modelUsed": "Random Forest", "status": "Verified" },
+    { "id": 4, "companyId": 5, "companyName": "Zambia Railways", "predictionType": "Risk Event", "predictionPeriod": "Annual", "fiscalYear": 2024, "predictedValue": 0.65, "actualValue": 0, "confidenceLevel": 68, "modelUsed": "Logistic Regression", "status": "Pending" }
+  ],
+  "anomalies": [
+    { "id": 1, "companyId": 2, "companyName": "ZESCO", "anomalyType": "Expense", "description": "Unusual increase in travel expenses", "dataSource": "ERP System", "anomalyValue": 8500000, "expectedValue": 2500000, "severity": "High", "status": "Under Review", "investigation": "Assigned to internal audit" },
+    { "id": 2, "companyId": 3, "companyName": "ZANACO", "anomalyType": "Transaction", "description": "Large cash withdrawal pattern", "dataSource": "Core Banking", "anomalyValue": 45000000, "expectedValue": 15000000, "severity": "Critical", "status": "Under Review", "investigation": "Compliance team reviewing" },
+    { "id": 3, "companyId": 1, "companyName": "KAGEM Mining", "anomalyType": "Procurement", "description": "Single-source contract without justification", "dataSource": "Procurement Module", "anomalyValue": 12000000, "expectedValue": 0, "severity": "Medium", "status": "Explained", "investigation": "Emergency procurement justified" },
+    { "id": 4, "companyId": 5, "companyName": "Zambia Railways", "anomalyType": "Financial", "description": "Revenue recognition timing issue", "dataSource": "Financial Statements", "anomalyValue": 25000000, "expectedValue": 18000000, "severity": "Low", "status": "New" }
+  ],
+  "insights": [
+    { "id": 1, "companyId": 2, "companyName": "ZESCO", "insightType": "Opportunity", "category": "Operational", "title": "Energy Trading Opportunity", "description": "Cross-border electricity sales potential identified", "recommendedAction": "Engage regional utilities for power trading agreements", "confidenceScore": 85, "potentialImpact": 150000000, "priority": "High", "status": "New" },
+    { "id": 2, "companyId": 1, "companyName": "KAGEM Mining", "insightType": "Risk", "category": "Market", "title": "Price Volatility Warning", "description": "Emerald price decline predicted based on market indicators", "recommendedAction": "Consider forward contracts to hedge price risk", "confidenceScore": 72, "potentialImpact": -25000000, "priority": "High", "status": "Reviewed" },
+    { "id": 3, "companyId": 0, "companyName": "", "insightType": "Improvement", "category": "Governance", "title": "Board Diversity Gap", "description": "Portfolio-wide analysis shows low female board representation", "recommendedAction": "Implement board diversity policy across SOEs", "confidenceScore": 95, "potentialImpact": 0, "priority": "Medium", "status": "Actioned" },
+    { "id": 4, "companyId": 5, "companyName": "Zambia Railways", "insightType": "Trend", "category": "Financial", "title": "Working Capital Deterioration", "description": "Negative trend in working capital over 6 months", "recommendedAction": "Review receivables collection and payables management", "confidenceScore": 88, "potentialImpact": -35000000, "priority": "High", "status": "New" }
+  ],
+  "benchmarks": [
+    { "id": 1, "companyId": 2, "companyName": "ZESCO", "metricCategory": "Financial", "metricName": "ROE", "companyValue": 8.5, "industryAverage": 12.0, "bestInClass": 18.5, "percentile": 35, "performance": "Below Average", "peerGroup": "African Utilities" },
+    { "id": 2, "companyId": 3, "companyName": "ZANACO", "metricCategory": "Financial", "metricName": "ROE", "companyValue": 15.2, "industryAverage": 14.0, "bestInClass": 22.0, "percentile": 62, "performance": "Above Average", "peerGroup": "African Banks" },
+    { "id": 3, "companyId": 1, "companyName": "KAGEM Mining", "metricCategory": "Operational", "metricName": "Cost per Carat", "companyValue": 45.0, "industryAverage": 52.0, "bestInClass": 38.0, "percentile": 72, "performance": "Above Average", "peerGroup": "Global Gemstone Miners" }
+  ]
+}

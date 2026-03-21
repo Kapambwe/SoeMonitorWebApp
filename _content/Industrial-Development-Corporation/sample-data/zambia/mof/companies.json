@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1, "name": "ZESCO Limited", "sector": "Energy", "industry": "Power Generation & Distribution",
+    "registrationNumber": "ZESCO/1970/001", "country": "Zambia", "city": "Lusaka",
+    "employees": 6800, "revenue": 8500000000, "assets": 42000000000, "governmentOwnership": 100,
+    "status": "Active", "ceo": "Victor Mapani", "established": 1970,
+    "description": "ZESCO is Zambia's national power utility responsible for generation, transmission, and distribution of electricity. It operates Kariba North Bank, Kafue Gorge, and other hydropower stations.",
+    "website": "https://www.zesco.co.zm"
+  },
+  {
+    "id": 2, "name": "Zambia Revenue Authority", "sector": "Government", "industry": "Tax Administration",
+    "registrationNumber": "ZRA/1994/001", "country": "Zambia", "city": "Lusaka",
+    "employees": 4200, "revenue": 125000000000, "assets": 3800000000, "governmentOwnership": 100,
+    "status": "Active", "ceo": "Dingani Banda", "established": 1994,
+    "description": "ZRA is the government agency responsible for collecting taxes and customs duties on behalf of the Government of Zambia. It administers income tax, VAT, customs, and excise duties.",
+    "website": "https://www.zra.org.zm"
+  },
+  {
+    "id": 3, "name": "Bank of Zambia", "sector": "Finance", "industry": "Central Banking",
+    "registrationNumber": "BOZ/1964/001", "country": "Zambia", "city": "Lusaka",
+    "employees": 1250, "revenue": 4200000000, "assets": 85000000000, "governmentOwnership": 100,
+    "status": "Active", "ceo": "Denny Kalyalya", "established": 1964,
+    "description": "Bank of Zambia is the central bank responsible for monetary policy, financial system stability, and regulation of financial institutions. It manages foreign exchange reserves and issues currency.",
+    "website": "https://www.boz.zm"
+  },
+  {
+    "id": 4, "name": "National Pension Scheme Authority", "sector": "Finance", "industry": "Pension Administration",
+    "registrationNumber": "NAPSA/2000/001", "country": "Zambia", "city": "Lusaka",
+    "employees": 1850, "revenue": 6800000000, "assets": 52000000000, "governmentOwnership": 100,
+    "status": "Active", "ceo": "Mildred Chabalenge", "established": 2000,
+    "description": "NAPSA administers the national pension scheme for Zambian workers in both public and private sectors. It manages pension contributions and investments for over 1.2 million members.",
+    "website": "https://www.napsa.co.zm"
+  },
+  {
+    "id": 5, "name": "Road Development Agency", "sector": "Infrastructure", "industry": "Road Construction & Maintenance",
+    "registrationNumber": "RDA/2002/001", "country": "Zambia", "city": "Lusaka",
+    "employees": 3200, "revenue": 12500000000, "assets": 28000000000, "governmentOwnership": 100,
+    "status": "Active", "ceo": "Eng. Misheck Lungu", "established": 2002,
+    "description": "RDA is responsible for the development, rehabilitation, and maintenance of Zambia's national road network of over 67,000 km. It manages road construction contracts and fuel levy disbursements.",
+    "website": "https://www.rda.org.zm"
+  },
+  {
+    "id": 6, "name": "Zambia National Building Society", "sector": "Finance", "industry": "Mortgage & Housing Finance",
+    "registrationNumber": "ZNBS/1951/001", "country": "Zambia", "city": "Lusaka",
+    "employees": 680, "revenue": 1850000000, "assets": 9500000000, "governmentOwnership": 100,
+    "status": "Active", "ceo": "Chanda Kasolo", "established": 1951,
+    "description": "ZNBS provides mortgage finance and housing loans to Zambian citizens. It is the oldest building society in Zambia and plays a key role in the government's affordable housing programme.",
+    "website": "https://www.znbs.co.zm"
+  }
+]

@@ -1,0 +1,27 @@
+{
+  "soes": [
+    { "id": 1, "name": "KenGen — Kenya Electricity Generating Company", "sector": "Energy", "registrationNumber": "CPR/2010/KenGen", "ownershipPercentage": 70.0, "employees": 2800, "annualRevenue": 50200000000, "totalAssets": 185000000000, "complianceScore": 92, "status": "Active" },
+    { "id": 2, "name": "Kenya Airways (KQ)", "sector": "Transport", "registrationNumber": "CPR/1977/KQ", "ownershipPercentage": 48.9, "employees": 4200, "annualRevenue": 120000000000, "totalAssets": 95000000000, "complianceScore": 62, "status": "Active" },
+    { "id": 3, "name": "Kenya Power & Lighting Company (KPLC)", "sector": "Energy", "registrationNumber": "CPR/1954/KPLC", "ownershipPercentage": 50.1, "employees": 9500, "annualRevenue": 180000000000, "totalAssets": 220000000000, "complianceScore": 78, "status": "Active" },
+    { "id": 4, "name": "Kenya Ports Authority (KPA)", "sector": "Transport", "registrationNumber": "CPR/1978/KPA", "ownershipPercentage": 100.0, "employees": 6800, "annualRevenue": 30000000000, "totalAssets": 180000000000, "complianceScore": 88, "status": "Active" },
+    { "id": 5, "name": "Kenya Railways Corporation (KRC)", "sector": "Transport", "registrationNumber": "CPR/1978/KRC", "ownershipPercentage": 100.0, "employees": 3200, "annualRevenue": 18000000000, "totalAssets": 820000000000, "complianceScore": 38, "status": "Active" },
+    { "id": 6, "name": "Kenya Pipeline Company (KPC)", "sector": "Energy", "registrationNumber": "CPR/1973/KPC", "ownershipPercentage": 100.0, "employees": 1200, "annualRevenue": 22000000000, "totalAssets": 85000000000, "complianceScore": 85, "status": "Active" },
+    { "id": 7, "name": "Kenya Broadcasting Corporation (KBC)", "sector": "Media", "registrationNumber": "CPR/1989/KBC", "ownershipPercentage": 100.0, "employees": 1800, "annualRevenue": 3500000000, "totalAssets": 12000000000, "complianceScore": 55, "status": "Active" }
+  ],
+  "reports": [
+    { "id": 1, "title": "KenGen Annual Report FY2024", "companyName": "KenGen", "reportType": "Annual Report", "year": 2024, "publishedDate": "2024-09-30", "fileSize": 3145728 },
+    { "id": 2, "title": "KPLC Annual Report FY2024", "companyName": "KPLC", "reportType": "Annual Report", "year": 2024, "publishedDate": "2024-09-30", "fileSize": 4194304 },
+    { "id": 3, "title": "KPA Annual Report FY2024", "companyName": "KPA", "reportType": "Annual Report", "year": 2024, "publishedDate": "2024-09-30", "fileSize": 2621440 },
+    { "id": 4, "title": "KPC Annual Report FY2024", "companyName": "KPC", "reportType": "Annual Report", "year": 2024, "publishedDate": "2024-09-30", "fileSize": 2097152 },
+    { "id": 5, "title": "Kenya Airways Annual Report FY2024", "companyName": "Kenya Airways", "reportType": "Annual Report", "year": 2024, "publishedDate": "2024-10-15", "fileSize": 5242880 },
+    { "id": 6, "title": "National Treasury SOE Portfolio Report FY2023", "companyName": "National Treasury", "reportType": "Portfolio Report", "year": 2023, "publishedDate": "2024-06-30", "fileSize": 8388608 },
+    { "id": 7, "title": "KenGen Q2 FY2024 Quarterly Results", "companyName": "KenGen", "reportType": "Quarterly Report", "year": 2024, "publishedDate": "2024-08-15", "fileSize": 1048576 }
+  ],
+  "publicDocuments": [
+    { "id": 1, "title": "Mwongozo Code of Governance for State Corporations (2015, Revised 2019)", "companyName": "National Treasury", "category": "Policy", "documentType": "PDF", "version": "2019", "accessLevel": "Public", "uploadDate": "2019-06-01", "uploadedBy": "State Corporations Advisory Committee" },
+    { "id": 2, "title": "State Corporations Act Cap 446 — Consolidated Edition", "companyName": "National Treasury", "category": "Legislation", "documentType": "PDF", "version": "2012", "accessLevel": "Public", "uploadDate": "2023-01-15", "uploadedBy": "National Treasury Legal Department" },
+    { "id": 3, "title": "Public Finance Management Act 2012 — SOE Provisions", "companyName": "National Treasury", "category": "Legislation", "documentType": "PDF", "version": "2012", "accessLevel": "Public", "uploadDate": "2023-01-15", "uploadedBy": "National Treasury Legal Department" },
+    { "id": 4, "title": "Kenya Vision 2030 — Energy and Infrastructure Pillars", "companyName": "National Treasury", "category": "Policy", "documentType": "PDF", "version": "2030", "accessLevel": "Public", "uploadDate": "2022-06-01", "uploadedBy": "Vision 2030 Delivery Secretariat" },
+    { "id": 5, "title": "KPC Petroleum Pipeline Tariff Schedule 2024", "companyName": "KPC", "category": "Financial", "documentType": "PDF", "version": "2024", "accessLevel": "Public", "uploadDate": "2024-01-01", "uploadedBy": "KPC Commercial Department" }
+  ]
+}

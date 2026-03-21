@@ -1,0 +1,68 @@
+[
+  {
+    "id": 1, "companyId": 1, "companyName": "KAGEM Mining Ltd",
+    "name": "Gemfields Group Ltd", "type": "Investor",
+    "organization": "Gemfields Group",
+    "engagementStatus": "Active", "influenceLevel": "High", "interestLevel": "High",
+    "contactEmail": "zambia@gemfields.com",
+    "engagements": [
+      { "id": 1, "stakeholderId": 1, "engagementType": "Board Meeting", "engagementDate": "2024-10-15", "status": "Completed", "notes": "Reviewed FY2024 production results and FY2025 expansion budget." },
+      { "id": 2, "stakeholderId": 1, "engagementType": "Auction Planning", "engagementDate": "2024-08-01", "status": "Completed", "notes": "Planned Singapore emerald auction for Q4 2024." }
+    ]
+  },
+  {
+    "id": 2, "companyId": 2, "companyName": "ZESCO Limited",
+    "name": "Ministry of Finance Zambia", "type": "Government",
+    "organization": "Government of the Republic of Zambia",
+    "engagementStatus": "Active", "influenceLevel": "High", "interestLevel": "High",
+    "contactEmail": "ps@mof.gov.zm",
+    "engagements": [
+      { "id": 3, "stakeholderId": 2, "engagementType": "Debt Review", "engagementDate": "2024-11-20", "status": "Completed", "notes": "Reviewed ZESCO sovereign debt restructuring options with IMF." },
+      { "id": 4, "stakeholderId": 2, "engagementType": "Tariff Policy", "engagementDate": "2024-09-10", "status": "Completed", "notes": "Discussed cost-reflective tariff roadmap and social protection measures." }
+    ]
+  },
+  {
+    "id": 3, "companyId": 3, "companyName": "Zambia National Commercial Bank Plc (ZANACO)",
+    "name": "Bank of Zambia", "type": "Regulator",
+    "organization": "Bank of Zambia",
+    "engagementStatus": "Active", "influenceLevel": "High", "interestLevel": "High",
+    "contactEmail": "banking@boz.zm",
+    "engagements": [
+      { "id": 5, "stakeholderId": 3, "engagementType": "Prudential Review", "engagementDate": "2024-09-30", "status": "Completed", "notes": "Quarterly prudential review. Capital adequacy and liquidity ratios reviewed." },
+      { "id": 6, "stakeholderId": 3, "engagementType": "AML Inspection", "engagementDate": "2024-07-15", "status": "Completed", "notes": "Annual AML/CFT compliance inspection. No material findings." }
+    ]
+  },
+  {
+    "id": 4, "companyId": 4, "companyName": "Zambia Telecommunications Company Ltd (ZAMTEL)",
+    "name": "Zambia Information and Communications Technology Authority", "type": "Regulator",
+    "organization": "ZICTA",
+    "engagementStatus": "Active", "influenceLevel": "High", "interestLevel": "High",
+    "contactEmail": "info@zicta.zm",
+    "engagements": [
+      { "id": 7, "stakeholderId": 4, "engagementType": "QoS Audit", "engagementDate": "2024-08-20", "status": "Completed", "notes": "ZICTA QoS audit found ZAMTEL below minimum standards for data speed." },
+      { "id": 8, "stakeholderId": 4, "engagementType": "Spectrum Review", "engagementDate": "2024-06-01", "status": "Completed", "notes": "Reviewed ZAMTEL spectrum utilisation and 4G rollout progress." }
+    ]
+  },
+  {
+    "id": 5, "companyId": 5, "companyName": "Zambia Railways Limited",
+    "name": "African Development Bank", "type": "Development Partner",
+    "organization": "AfDB",
+    "engagementStatus": "Active", "influenceLevel": "High", "interestLevel": "Medium",
+    "contactEmail": "zambia@afdb.org",
+    "engagements": [
+      { "id": 9, "stakeholderId": 5, "engagementType": "Project Supervision", "engagementDate": "2024-10-01", "status": "Completed", "notes": "AfDB supervision mission for track rehabilitation project. Disbursement of tranche 2 approved." },
+      { "id": 10, "stakeholderId": 5, "engagementType": "Safeguards Review", "engagementDate": "2024-07-20", "status": "Completed", "notes": "Environmental and social safeguards review for track rehabilitation works." }
+    ]
+  },
+  {
+    "id": 6, "companyId": 7, "companyName": "Mopani Copper Mines Plc",
+    "name": "Copperbelt Mineworkers Union", "type": "Labour",
+    "organization": "MUZ",
+    "engagementStatus": "Active", "influenceLevel": "High", "interestLevel": "High",
+    "contactEmail": "secretary@muz.co.zm",
+    "engagements": [
+      { "id": 11, "stakeholderId": 6, "engagementType": "Wage Negotiation", "engagementDate": "2024-08-15", "status": "Completed", "notes": "2024-2025 collective bargaining agreement signed with 12% wage increase." },
+      { "id": 12, "stakeholderId": 6, "engagementType": "Safety Committee", "engagementDate": "2024-10-05", "status": "Completed", "notes": "Joint safety committee meeting reviewed underground safety incidents." }
+    ]
+  }
+]

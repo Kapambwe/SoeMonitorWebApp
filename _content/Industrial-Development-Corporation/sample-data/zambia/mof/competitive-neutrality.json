@@ -1,0 +1,17 @@
+{
+  "subsidies": [
+    { "id": 1, "companyId": 2, "companyName": "ZESCO", "subsidyType": "Direct Subsidy", "description": "Rural electrification subsidy", "value": 25000000, "fiscalYear": 2024, "grantingAuthority": "Ministry of Finance", "legalBasis": "Energy Act", "isWTONotifiable": false, "status": "Active" },
+    { "id": 2, "companyId": 2, "companyName": "ZESCO", "subsidyType": "Tax Exemption", "description": "Import duty exemption on power equipment", "value": 15000000, "fiscalYear": 2024, "grantingAuthority": "ZRA", "legalBasis": "Tax Incentives Act", "isWTONotifiable": true, "status": "Active" },
+    { "id": 3, "companyId": 5, "companyName": "Zambia Railways", "subsidyType": "Government Guarantee", "description": "Sovereign guarantee on AfDB loan", "value": 120000000, "fiscalYear": 2024, "grantingAuthority": "Ministry of Finance", "legalBasis": "Loans and Guarantees Act", "isWTONotifiable": false, "status": "Active" },
+    { "id": 4, "companyId": 5, "companyName": "Zambia Railways", "subsidyType": "Direct Subsidy", "description": "Passenger rail service subsidy", "value": 8000000, "fiscalYear": 2024, "grantingAuthority": "Ministry of Transport", "legalBasis": "Railways Act", "isWTONotifiable": false, "status": "Active" }
+  ],
+  "marketConduct": [
+    { "id": 1, "companyId": 2, "companyName": "ZESCO", "marketType": "Monopoly", "marketShare": 98.5, "hasPredatoryPricingConcern": false, "hasCrossSubsidizationConcern": true, "pricingPolicy": "Regulated", "competitorAveragePrice": 0, "soePrice": 0.85, "competitiveNeutralityStatus": "Under Review" },
+    { "id": 2, "companyId": 3, "companyName": "ZANACO", "marketType": "Competitive", "marketShare": 18.5, "hasPredatoryPricingConcern": false, "hasCrossSubsidizationConcern": false, "pricingPolicy": "Market-Based", "competitorAveragePrice": 2.5, "soePrice": 2.3, "competitiveNeutralityStatus": "Compliant" },
+    { "id": 3, "companyId": 7, "companyName": "Mopani Copper Mines", "marketType": "Oligopoly", "marketShare": 25.0, "hasPredatoryPricingConcern": false, "hasCrossSubsidizationConcern": false, "pricingPolicy": "Market-Based", "competitorAveragePrice": 8500, "soePrice": 8450, "competitiveNeutralityStatus": "Compliant" }
+  ],
+  "cases": [
+    { "id": 1, "companyId": 2, "companyName": "ZESCO", "caseNumber": "CCPC-2024-001", "caseType": "Complaint", "allegationType": "Cross-Subsidization", "complainant": "Solar Energy Association", "competitionAuthority": "CCPC", "status": "Under Investigation" },
+    { "id": 2, "companyId": 3, "companyName": "ZANACO", "caseNumber": "CCPC-2023-015", "caseType": "Investigation", "allegationType": "Predatory Pricing", "complainant": "Private Banks Association", "competitionAuthority": "CCPC", "status": "Closed", "outcome": "Not Substantiated", "penaltyAmount": 0 }
+  ]
+}

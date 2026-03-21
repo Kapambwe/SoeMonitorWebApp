@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1, "companyId": 1, "companyName": "ZESCO Limited",
+    "reportType": "Annual", "fiscalYear": 2024, "quarter": null,
+    "revenue": 8500000000, "expenses": 9200000000, "netIncome": -700000000,
+    "totalAssets": 42000000000, "totalLiabilities": 28500000000, "equity": 13500000000,
+    "cashFlow": 1200000000, "status": "Audited", "currency": "ZMW",
+    "auditOpinion": "Qualified"
+  },
+  {
+    "id": 2, "companyId": 2, "companyName": "Zambia Revenue Authority",
+    "reportType": "Annual", "fiscalYear": 2024, "quarter": null,
+    "revenue": 125000000000, "expenses": 3800000000, "netIncome": 121200000000,
+    "totalAssets": 3800000000, "totalLiabilities": 1200000000, "equity": 2600000000,
+    "cashFlow": 2500000000, "status": "Audited", "currency": "ZMW",
+    "auditOpinion": "Unqualified"
+  },
+  {
+    "id": 3, "companyId": 3, "companyName": "Bank of Zambia",
+    "reportType": "Annual", "fiscalYear": 2024, "quarter": null,
+    "revenue": 4200000000, "expenses": 2800000000, "netIncome": 1400000000,
+    "totalAssets": 85000000000, "totalLiabilities": 72000000000, "equity": 13000000000,
+    "cashFlow": 3500000000, "status": "Audited", "currency": "ZMW",
+    "auditOpinion": "Unqualified"
+  },
+  {
+    "id": 4, "companyId": 4, "companyName": "National Pension Scheme Authority",
+    "reportType": "Annual", "fiscalYear": 2024, "quarter": null,
+    "revenue": 6800000000, "expenses": 4200000000, "netIncome": 2600000000,
+    "totalAssets": 52000000000, "totalLiabilities": 8500000000, "equity": 43500000000,
+    "cashFlow": 4800000000, "status": "Audited", "currency": "ZMW",
+    "auditOpinion": "Unqualified"
+  },
+  {
+    "id": 5, "companyId": 5, "companyName": "Road Development Agency",
+    "reportType": "Annual", "fiscalYear": 2024, "quarter": null,
+    "revenue": 12500000000, "expenses": 11800000000, "netIncome": 700000000,
+    "totalAssets": 28000000000, "totalLiabilities": 18500000000, "equity": 9500000000,
+    "cashFlow": 1500000000, "status": "Audited", "currency": "ZMW",
+    "auditOpinion": "Unqualified"
+  },
+  {
+    "id": 6, "companyId": 6, "companyName": "Zambia National Building Society",
+    "reportType": "Annual", "fiscalYear": 2024, "quarter": null,
+    "revenue": 1850000000, "expenses": 1350000000, "netIncome": 500000000,
+    "totalAssets": 9500000000, "totalLiabilities": 7200000000, "equity": 2300000000,
+    "cashFlow": 680000000, "status": "Audited", "currency": "ZMW",
+    "auditOpinion": "Unqualified"
+  },
+  {
+    "id": 7, "companyId": 1, "companyName": "ZESCO Limited",
+    "reportType": "Quarterly", "fiscalYear": 2024, "quarter": "Q3",
+    "revenue": 2100000000, "expenses": 2350000000, "netIncome": -250000000,
+    "totalAssets": 41500000000, "totalLiabilities": 28200000000, "equity": 13300000000,
+    "cashFlow": 280000000, "status": "Unaudited", "currency": "ZMW",
+    "auditOpinion": "N/A"
+  }
+]

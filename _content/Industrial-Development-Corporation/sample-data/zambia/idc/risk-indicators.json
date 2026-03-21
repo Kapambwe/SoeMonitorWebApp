@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1, "companyId": 1, "companyName": "KAGEM Mining Ltd",
+    "riskCategory": "Market", "riskTitle": "Emerald Price Volatility",
+    "description": "Global emerald prices are subject to significant volatility based on consumer demand, competing gemstone markets, and economic conditions in key markets (USA, Europe, Middle East).",
+    "likelihood": "Medium", "impact": "High", "riskScore": 12,
+    "status": "Active", "mitigationPlan": "Diversify sales channels; develop direct-to-consumer marketing; maintain strategic stockpile.",
+    "owner": "KAGEM CEO", "reviewDate": "2025-06-30"
+  },
+  {
+    "id": 2, "companyId": 2, "companyName": "ZESCO Limited",
+    "riskCategory": "Financial", "riskTitle": "Sovereign Debt Default Risk",
+    "description": "ZESCO's USD 500M sovereign-guaranteed debt poses systemic risk to Zambia's fiscal position. Continued operating losses increase probability of government bailout.",
+    "likelihood": "High", "impact": "Critical", "riskScore": 20,
+    "status": "Active", "mitigationPlan": "Implement cost-reflective tariffs; restructure debt; reduce technical losses from 22% to 15%.",
+    "owner": "IDC Board", "reviewDate": "2025-03-31"
+  },
+  {
+    "id": 3, "companyId": 3, "companyName": "Zambia National Commercial Bank Plc (ZANACO)",
+    "riskCategory": "Financial", "riskTitle": "Non-Performing Loans",
+    "description": "Rising NPL ratio in the SME and agricultural lending portfolio due to economic pressures and drought impact on farming clients.",
+    "likelihood": "Medium", "impact": "High", "riskScore": 12,
+    "status": "Active", "mitigationPlan": "Strengthen credit underwriting; increase loan loss provisions; implement early warning system.",
+    "owner": "ZANACO CEO", "reviewDate": "2025-04-30"
+  },
+  {
+    "id": 4, "companyId": 4, "companyName": "Zambia Telecommunications Company Ltd (ZAMTEL)",
+    "riskCategory": "Market", "riskTitle": "Market Share Erosion",
+    "description": "ZAMTEL continues to lose market share to MTN Zambia and Airtel Zambia due to inferior network quality and limited 4G/5G coverage.",
+    "likelihood": "High", "impact": "High", "riskScore": 16,
+    "status": "Active", "mitigationPlan": "Invest ZMW 1.2B in network modernisation; launch 4G LTE in all provincial capitals by 2025.",
+    "owner": "ZAMTEL CEO", "reviewDate": "2025-02-28"
+  },
+  {
+    "id": 5, "companyId": 5, "companyName": "Zambia Railways Limited",
+    "riskCategory": "Operational", "riskTitle": "Aging Rail Infrastructure",
+    "description": "Zambia Railways' track infrastructure is over 50 years old with significant sections requiring urgent rehabilitation. Derailment risk is elevated.",
+    "likelihood": "High", "impact": "High", "riskScore": 16,
+    "status": "Active", "mitigationPlan": "Prioritise rehabilitation of highest-risk sections; implement speed restrictions; seek AfDB financing.",
+    "owner": "ZRL CEO", "reviewDate": "2025-01-31"
+  },
+  {
+    "id": 6, "companyId": 6, "companyName": "Zambeef Products Plc",
+    "riskCategory": "Operational", "riskTitle": "Feed Cost and Drought Risk",
+    "description": "El Niño-related drought reduces maize and soya production, increasing animal feed costs and threatening Zambeef's integrated farming operations.",
+    "likelihood": "High", "impact": "Medium", "riskScore": 12,
+    "status": "Active", "mitigationPlan": "Expand irrigation infrastructure; diversify feed sourcing to regional markets; maintain 90-day feed stockpile.",
+    "owner": "Zambeef CEO", "reviewDate": "2025-05-31"
+  },
+  {
+    "id": 7, "companyId": 7, "companyName": "Mopani Copper Mines Plc",
+    "riskCategory": "Financial", "riskTitle": "Post-Acquisition Debt Servicing",
+    "description": "IRH/Delta Mining acquisition financing creates significant debt obligations that could strain Mopani's cash flow if copper prices decline.",
+    "likelihood": "Medium", "impact": "High", "riskScore": 12,
+    "status": "Active", "mitigationPlan": "Monitor copper price hedging; maintain minimum cash reserve of ZMW 500M; quarterly debt covenant review.",
+    "owner": "Mopani CFO", "reviewDate": "2025-06-30"
+  },
+  {
+    "id": 8, "companyId": 8, "companyName": "Indeni Petroleum Refinery Company Ltd",
+    "riskCategory": "Operational", "riskTitle": "TAZAMA Pipeline Reliability",
+    "description": "Indeni's operations depend entirely on crude oil supply through the aging TAZAMA pipeline from Dar es Salaam. Pipeline failures cause refinery shutdowns.",
+    "likelihood": "Medium", "impact": "Critical", "riskScore": 16,
+    "status": "Active", "mitigationPlan": "Advocate for TAZAMA pipeline rehabilitation; develop emergency crude storage capacity; explore alternative supply routes.",
+    "owner": "Indeni CEO", "reviewDate": "2025-03-31"
+  }
+]

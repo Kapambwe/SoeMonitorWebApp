@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1, "name": "ZCCM Investment Holdings Plc", "sector": "Mining", "industry": "Investment Holding",
+    "registrationNumber": "ZCCM-IH/2000/001", "country": "Zambia", "city": "Lusaka",
+    "employees": 320, "revenue": 39850000000, "assets": 85000000000, "governmentOwnership": 77.5,
+    "status": "Active", "ceo": "Mabvuto Chipata", "established": 2000,
+    "description": "ZCCM-IH is a state-owned investment holding company listed on the Lusaka Securities Exchange, London Stock Exchange, and Euronext. It holds strategic stakes in Zambia's mining and energy sector companies.",
+    "website": "https://www.zccm-ih.com.zm"
+  },
+  {
+    "id": 2, "name": "Mopani Copper Mines Plc", "sector": "Mining", "industry": "Copper Mining",
+    "registrationNumber": "MCM/1999/045", "country": "Zambia", "city": "Kitwe",
+    "employees": 8500, "revenue": 12500000000, "assets": 22000000000, "governmentOwnership": 49,
+    "status": "Active", "ceo": "Raphael Mwenye", "established": 1999,
+    "description": "Mopani Copper Mines operates the Mufulira and Nkana copper mines on the Copperbelt. ZCCM-IH holds 49% stake following the 2024 IRH/Delta Mining acquisition of 51%.",
+    "website": "https://www.mopani.co.zm"
+  },
+  {
+    "id": 3, "name": "Konkola Copper Mines Plc", "sector": "Mining", "industry": "Copper Mining",
+    "registrationNumber": "KCM/1999/012", "country": "Zambia", "city": "Chingola",
+    "employees": 11200, "revenue": 9800000000, "assets": 18500000000, "governmentOwnership": 100,
+    "status": "Active", "ceo": "Barnabas Mwewa", "established": 1999,
+    "description": "Konkola Copper Mines is 100% owned by ZCCM-IH following government reacquisition. KCM operates the Konkola Deep Mine, Nchanga open pit, and Nchanga underground mines in Chingola.",
+    "website": "https://www.kcm.co.zm"
+  },
+  {
+    "id": 4, "name": "Copperbelt Energy Corporation Plc", "sector": "Energy", "industry": "Power Transmission",
+    "registrationNumber": "CEC/1997/003", "country": "Zambia", "city": "Kitwe",
+    "employees": 1850, "revenue": 4200000000, "assets": 9500000000, "governmentOwnership": 20,
+    "status": "Active", "ceo": "Owen Silavwe", "established": 1997,
+    "description": "CEC is a private power utility supplying electricity to Copperbelt mining companies. ZCCM-IH holds a 20% strategic stake. CEC is listed on the Lusaka Securities Exchange.",
+    "website": "https://www.cec.co.zm"
+  },
+  {
+    "id": 5, "name": "NFC Africa Mining Plc", "sector": "Mining", "industry": "Copper Mining",
+    "registrationNumber": "NFCA/2003/007", "country": "Zambia", "city": "Luanshya",
+    "employees": 4200, "revenue": 3800000000, "assets": 7200000000, "governmentOwnership": 15,
+    "status": "Active", "ceo": "Zhang Wei", "established": 2003,
+    "description": "NFC Africa Mining operates the Chambishi copper mine in Luanshya. ZCCM-IH holds a 15% stake. The majority shareholder is China Nonferrous Metal Mining Group.",
+    "website": "https://www.nfca.co.zm"
+  },
+  {
+    "id": 6, "name": "Lubambe Copper Mine Ltd", "sector": "Mining", "industry": "Copper Mining",
+    "registrationNumber": "LCM/2012/018", "country": "Zambia", "city": "Chililabombwe",
+    "employees": 2100, "revenue": 2200000000, "assets": 5800000000, "governmentOwnership": 20,
+    "status": "Active", "ceo": "Tendai Moyo", "established": 2012,
+    "description": "Lubambe Copper Mine is located in Chililabombwe on the Copperbelt. ZCCM-IH holds a 20% stake. The mine focuses on underground copper extraction.",
+    "website": "https://www.lubambe.co.zm"
+  },
+  {
+    "id": 7, "name": "Maamba Collieries Ltd", "sector": "Energy", "industry": "Coal Mining & Power",
+    "registrationNumber": "MCL/2009/022", "country": "Zambia", "city": "Maamba",
+    "employees": 1650, "revenue": 1850000000, "assets": 4200000000, "governmentOwnership": 35,
+    "status": "Active", "ceo": "Prashant Ruia", "established": 2009,
+    "description": "Maamba Collieries operates Zambia's largest coal mine and a 300MW thermal power plant in Sinazongwe District. ZCCM-IH holds a 35% stake.",
+    "website": "https://www.maamba.co.zm"
+  },
+  {
+    "id": 8, "name": "Ndola Lime Company Ltd", "sector": "Manufacturing", "industry": "Lime Production",
+    "registrationNumber": "NLC/1985/004", "country": "Zambia", "city": "Ndola",
+    "employees": 480, "revenue": 520000000, "assets": 980000000, "governmentOwnership": 100,
+    "status": "Active", "ceo": "Chanda Mwila", "established": 1985,
+    "description": "Ndola Lime Company is 100% owned by ZCCM-IH and produces lime for the mining industry. It is a critical supplier to Copperbelt mining operations.",
+    "website": "https://www.ndolalime.co.zm"
+  }
+]

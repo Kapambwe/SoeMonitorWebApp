@@ -1,0 +1,24 @@
+{
+  "assets": [
+    { "id": 1, "companyId": 2, "companyName": "ZESCO", "assetType": "Building", "assetCode": "ZESCO-BLD-001", "description": "Head Office Complex", "location": "Lusaka", "acquisitionCost": 45000000, "bookValue": 28000000, "fairValue": 65000000, "condition": "Good", "isOperational": true },
+    { "id": 2, "companyId": 2, "companyName": "ZESCO", "assetType": "Equipment", "assetCode": "ZESCO-EQP-101", "description": "Power Transmission Equipment", "location": "Kafue", "acquisitionCost": 120000000, "bookValue": 72000000, "fairValue": 85000000, "condition": "Good", "isOperational": true },
+    { "id": 3, "companyId": 1, "companyName": "KAGEM Mining", "assetType": "Land", "assetCode": "KAG-LND-001", "description": "Mining Concession Land", "location": "Lufwanyama", "acquisitionCost": 15000000, "bookValue": 15000000, "fairValue": 180000000, "condition": "Excellent", "isOperational": true },
+    { "id": 4, "companyId": 5, "companyName": "Zambia Railways", "assetType": "Equipment", "assetCode": "ZRL-EQP-001", "description": "Diesel Locomotives Fleet", "location": "Kabwe", "acquisitionCost": 85000000, "bookValue": 12000000, "fairValue": 8000000, "condition": "Poor", "isOperational": false },
+    { "id": 5, "companyId": 3, "companyName": "ZANACO", "assetType": "Building", "assetCode": "ZAN-BLD-001", "description": "Bank Headquarters", "location": "Lusaka CBD", "acquisitionCost": 35000000, "bookValue": 22000000, "fairValue": 48000000, "condition": "Good", "isOperational": true }
+  ],
+  "utilization": [
+    { "id": 1, "companyId": 2, "companyName": "ZESCO", "assetCategory": "Buildings", "totalAssets": 45, "assetsInUse": 42, "idleAssets": 3, "occupancyRate": 85, "idleAssetValue": 8500000, "optimizationOpportunity": "Consider subleasing vacant office space" },
+    { "id": 2, "companyId": 2, "companyName": "ZESCO", "assetCategory": "Equipment", "totalAssets": 1250, "assetsInUse": 1100, "idleAssets": 150, "equipmentUptime": 88, "idleAssetValue": 25000000, "optimizationOpportunity": "Equipment maintenance program needed" },
+    { "id": 3, "companyId": 5, "companyName": "Zambia Railways", "assetCategory": "Rolling Stock", "totalAssets": 85, "assetsInUse": 35, "idleAssets": 50, "equipmentUptime": 41, "idleAssetValue": 45000000, "optimizationOpportunity": "Major fleet rehabilitation required" },
+    { "id": 4, "companyId": 1, "companyName": "KAGEM Mining", "assetCategory": "Mining Equipment", "totalAssets": 120, "assetsInUse": 115, "idleAssets": 5, "equipmentUptime": 96, "idleAssetValue": 3500000, "optimizationOpportunity": "Optimal utilization achieved" }
+  ],
+  "disposals": [
+    { "id": 1, "companyId": 2, "companyName": "ZESCO", "assetDescription": "Old generators (5 units)", "disposalMethod": "Auction", "bookValueAtDisposal": 2500000, "disposalProceeds": 1800000, "approvalAuthority": "Board", "buyer": "Scrap Metal Dealers", "status": "Completed", "environmentalRemediationRequired": false },
+    { "id": 2, "companyId": 5, "companyName": "Zambia Railways", "assetDescription": "Decommissioned locomotives (3 units)", "disposalMethod": "Sale", "bookValueAtDisposal": 5000000, "disposalProceeds": 0, "approvalAuthority": "Ministry", "status": "In Progress", "environmentalRemediationRequired": true }
+  ],
+  "concessions": [
+    { "id": 1, "companyId": 1, "companyName": "KAGEM Mining", "concessionType": "Mining", "concessionHolder": "KAGEM Mining Ltd", "asset": "Emerald Mining Rights - Lufwanyama", "annualFee": 8500000, "feesCollectedYTD": 6375000, "status": "Active" },
+    { "id": 2, "companyId": 7, "companyName": "Mopani Copper Mines", "concessionType": "Mining", "concessionHolder": "Mopani Copper Mines Plc", "asset": "Copper Mining Rights - Mufulira", "annualFee": 25000000, "feesCollectedYTD": 25000000, "status": "Active" },
+    { "id": 3, "companyId": 2, "companyName": "ZESCO", "concessionType": "Spectrum", "concessionHolder": "ZESCO Ltd", "asset": "Radio Spectrum License", "annualFee": 500000, "feesCollectedYTD": 500000, "status": "Active" }
+  ]
+}

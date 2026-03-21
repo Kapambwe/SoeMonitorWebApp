@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1, "companyId": 2, "companyName": "Mopani Copper Mines Plc",
+    "projectName": "Mopani 51% Stake Sale to IRH/Delta Mining",
+    "description": "Sale of 51% stake in Mopani Copper Mines to International Resources Holdings (IRH) and Delta Mining Consolidated for USD 1.1 billion. Transaction completed in 2024, with ZCCM-IH retaining 49%.",
+    "sector": "Mining", "status": "Completed",
+    "totalBudget": 28820000000, "amountInvested": 28820000000,
+    "expectedReturn": 39850000000, "startDate": "2023-01-01", "endDate": "2024-06-30",
+    "currency": "ZMW"
+  },
+  {
+    "id": 2, "companyId": 3, "companyName": "Konkola Copper Mines Plc",
+    "projectName": "Konkola Deep Mine Development Phase 2",
+    "description": "Development of the Konkola Deep Mine to increase copper production capacity from 50,000 to 150,000 tonnes per annum. Includes shaft sinking, underground infrastructure, and processing plant upgrades.",
+    "sector": "Mining", "status": "In Progress",
+    "totalBudget": 18500000000, "amountInvested": 6200000000,
+    "expectedReturn": 45000000000, "startDate": "2024-01-01", "endDate": "2028-12-31",
+    "currency": "ZMW"
+  },
+  {
+    "id": 3, "companyId": 3, "companyName": "Konkola Copper Mines Plc",
+    "projectName": "Nchanga Tailings Leach Plant Rehabilitation",
+    "description": "Rehabilitation of the Nchanga Tailings Leach Plant to recover copper from historical tailings deposits. Expected to produce 15,000 tonnes of copper per annum.",
+    "sector": "Mining", "status": "In Progress",
+    "totalBudget": 3200000000, "amountInvested": 1100000000,
+    "expectedReturn": 8500000000, "startDate": "2024-03-01", "endDate": "2026-06-30",
+    "currency": "ZMW"
+  },
+  {
+    "id": 4, "companyId": 7, "companyName": "Maamba Collieries Ltd",
+    "projectName": "Maamba 300MW Power Plant Expansion",
+    "description": "Expansion of the Maamba thermal power plant by an additional 150MW to address Zambia's power deficit. Project includes coal supply chain upgrades.",
+    "sector": "Energy", "status": "Planning",
+    "totalBudget": 5500000000, "amountInvested": 250000000,
+    "expectedReturn": 12000000000, "startDate": "2025-01-01", "endDate": "2028-06-30",
+    "currency": "ZMW"
+  },
+  {
+    "id": 5, "companyId": 1, "companyName": "ZCCM Investment Holdings Plc",
+    "projectName": "ZCCM-IH Diversification into Battery Minerals",
+    "description": "Strategic investment in cobalt and manganese processing to capitalise on global energy transition demand. Includes feasibility studies for a battery precursor materials plant.",
+    "sector": "Mining", "status": "Planning",
+    "totalBudget": 2800000000, "amountInvested": 180000000,
+    "expectedReturn": 9500000000, "startDate": "2024-07-01", "endDate": "2030-12-31",
+    "currency": "ZMW"
+  },
+  {
+    "id": 6, "companyId": 5, "companyName": "NFC Africa Mining Plc",
+    "projectName": "Chambishi Copper Smelter Upgrade",
+    "description": "Upgrade of the Chambishi copper smelter to increase capacity and reduce sulphur dioxide emissions in compliance with environmental regulations.",
+    "sector": "Mining", "status": "In Progress",
+    "totalBudget": 4200000000, "amountInvested": 1800000000,
+    "expectedReturn": 11000000000, "startDate": "2023-06-01", "endDate": "2026-12-31",
+    "currency": "ZMW"
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1, "companyId": 1, "companyName": "KAGEM Mining Ltd",
+    "reportType": "Annual", "fiscalYear": 2024, "quarter": null,
+    "revenue": 2800000000, "expenses": 1950000000, "netIncome": 850000000,
+    "totalAssets": 5200000000, "totalLiabilities": 1800000000, "equity": 3400000000,
+    "cashFlow": 1100000000, "status": "Audited", "currency": "ZMW",
+    "auditOpinion": "Unqualified"
+  },
+  {
+    "id": 2, "companyId": 2, "companyName": "ZESCO Limited",
+    "reportType": "Annual", "fiscalYear": 2024, "quarter": null,
+    "revenue": 8500000000, "expenses": 9200000000, "netIncome": -700000000,
+    "totalAssets": 42000000000, "totalLiabilities": 28500000000, "equity": 13500000000,
+    "cashFlow": 1200000000, "status": "Audited", "currency": "ZMW",
+    "auditOpinion": "Qualified"
+  },
+  {
+    "id": 3, "companyId": 3, "companyName": "Zambia National Commercial Bank Plc (ZANACO)",
+    "reportType": "Annual", "fiscalYear": 2024, "quarter": null,
+    "revenue": 3200000000, "expenses": 2100000000, "netIncome": 1100000000,
+    "totalAssets": 28000000000, "totalLiabilities": 24500000000, "equity": 3500000000,
+    "cashFlow": 1800000000, "status": "Audited", "currency": "ZMW",
+    "auditOpinion": "Unqualified"
+  },
+  {
+    "id": 4, "companyId": 4, "companyName": "Zambia Telecommunications Company Ltd (ZAMTEL)",
+    "reportType": "Annual", "fiscalYear": 2024, "quarter": null,
+    "revenue": 1850000000, "expenses": 1650000000, "netIncome": 200000000,
+    "totalAssets": 6800000000, "totalLiabilities": 4200000000, "equity": 2600000000,
+    "cashFlow": 420000000, "status": "Audited", "currency": "ZMW",
+    "auditOpinion": "Unqualified"
+  },
+  {
+    "id": 5, "companyId": 5, "companyName": "Zambia Railways Limited",
+    "reportType": "Annual", "fiscalYear": 2024, "quarter": null,
+    "revenue": 1200000000, "expenses": 1380000000, "netIncome": -180000000,
+    "totalAssets": 12500000000, "totalLiabilities": 9800000000, "equity": 2700000000,
+    "cashFlow": 350000000, "status": "Audited", "currency": "ZMW",
+    "auditOpinion": "Qualified"
+  },
+  {
+    "id": 6, "companyId": 6, "companyName": "Zambeef Products Plc",
+    "reportType": "Annual", "fiscalYear": 2024, "quarter": null,
+    "revenue": 4500000000, "expenses": 3800000000, "netIncome": 700000000,
+    "totalAssets": 8500000000, "totalLiabilities": 5200000000, "equity": 3300000000,
+    "cashFlow": 950000000, "status": "Audited", "currency": "ZMW",
+    "auditOpinion": "Unqualified"
+  },
+  {
+    "id": 7, "companyId": 7, "companyName": "Mopani Copper Mines Plc",
+    "reportType": "Annual", "fiscalYear": 2024, "quarter": null,
+    "revenue": 12500000000, "expenses": 9800000000, "netIncome": 2700000000,
+    "totalAssets": 22000000000, "totalLiabilities": 14500000000, "equity": 7500000000,
+    "cashFlow": 3200000000, "status": "Audited", "currency": "ZMW",
+    "auditOpinion": "Unqualified"
+  },
+  {
+    "id": 8, "companyId": 8, "companyName": "Indeni Petroleum Refinery Company Ltd",
+    "reportType": "Annual", "fiscalYear": 2024, "quarter": null,
+    "revenue": 3800000000, "expenses": 3500000000, "netIncome": 300000000,
+    "totalAssets": 4200000000, "totalLiabilities": 2800000000, "equity": 1400000000,
+    "cashFlow": 480000000, "status": "Audited", "currency": "ZMW",
+    "auditOpinion": "Unqualified"
+  }
+]
