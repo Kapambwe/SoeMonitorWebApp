@@ -1,21 +1,23 @@
 {
   "soes": [
-    { "id": 1, "name": "ZESCO Limited", "sector": "Energy", "registrationNumber": "NAB-SOE-001", "ownershipPercentage": 100, "employees": 6500, "annualRevenue": 15000000000, "totalAssets": 50000000000, "complianceScore": 88, "status": "Active" },
-    { "id": 2, "name": "Industrial Development Corporation", "sector": "Finance", "registrationNumber": "NAB-SOE-002", "ownershipPercentage": 100, "employees": 850, "annualRevenue": 8500000000, "totalAssets": 25000000000, "complianceScore": 92, "status": "Active" },
-    { "id": 3, "name": "ZANACO", "sector": "Finance", "registrationNumber": "NAB-SOE-003", "ownershipPercentage": 45, "employees": 2100, "annualRevenue": 5200000000, "totalAssets": 18000000000, "complianceScore": 65, "status": "Active" },
-    { "id": 4, "name": "Zambia Railways", "sector": "Transport", "registrationNumber": "NAB-SOE-004", "ownershipPercentage": 100, "employees": 4200, "annualRevenue": 1800000000, "totalAssets": 12000000000, "complianceScore": 74, "status": "Active" },
-    { "id": 5, "name": "KAGEM Mining Limited", "sector": "Mining", "registrationNumber": "NAB-SOE-005", "ownershipPercentage": 75, "employees": 1200, "annualRevenue": 3500000000, "totalAssets": 8000000000, "complianceScore": 81, "status": "Active" }
+    { "id": 1, "name": "Eskom Holdings SOC Limited", "sector": "Energy", "registrationNumber": "2002/015527/30", "ownershipPercentage": 100, "employees": 42000, "annualRevenue": 285000000000, "totalAssets": 1200000000000, "complianceScore": 72, "status": "Active" },
+    { "id": 2, "name": "Transnet SOC Limited", "sector": "Logistics", "registrationNumber": "1990/000900/30", "ownershipPercentage": 100, "employees": 50000, "annualRevenue": 82000000000, "totalAssets": 350000000000, "complianceScore": 65, "status": "Active" },
+    { "id": 3, "name": "South African Airways SOC Limited", "sector": "Aviation", "registrationNumber": "1997/022444/30", "ownershipPercentage": 49, "employees": 3800, "annualRevenue": 12000000000, "totalAssets": 8500000000, "complianceScore": 58, "status": "Active" },
+    { "id": 4, "name": "Passenger Rail Agency of South Africa", "sector": "Transport", "registrationNumber": "2008/007441/30", "ownershipPercentage": 100, "employees": 16000, "annualRevenue": 4500000000, "totalAssets": 45000000000, "complianceScore": 55, "status": "Active" },
+    { "id": 5, "name": "Denel SOC Limited", "sector": "Defence", "registrationNumber": "1992/001337/30", "ownershipPercentage": 100, "employees": 3200, "annualRevenue": 2800000000, "totalAssets": 6500000000, "complianceScore": 62, "status": "Active" },
+    { "id": 6, "name": "South African Broadcasting Corporation SOC Limited", "sector": "Media", "registrationNumber": "2001/013187/30", "ownershipPercentage": 100, "employees": 3500, "annualRevenue": 7200000000, "totalAssets": 4800000000, "complianceScore": 68, "status": "Active" },
+    { "id": 7, "name": "Airports Company South Africa SOC Limited", "sector": "Aviation", "registrationNumber": "1993/004149/30", "ownershipPercentage": 74.6, "employees": 2800, "annualRevenue": 9500000000, "totalAssets": 28000000000, "complianceScore": 88, "status": "Active" }
   ],
   "reports": [
-    { "id": 1, "title": "ZESCO Annual Report 2025", "companyName": "ZESCO Limited", "reportType": "Annual Report", "year": 2025, "publishedDate": "2026-01-15", "fileSize": 2048000 },
-    { "id": 2, "title": "IDC Q3 2025 Performance Report", "companyName": "IDC", "reportType": "Performance Report", "year": 2025, "publishedDate": "2025-10-31", "fileSize": 512000 },
-    { "id": 3, "title": "ZANACO Audit Report FY2024", "companyName": "ZANACO", "reportType": "Audit Report", "year": 2024, "publishedDate": "2025-03-20", "fileSize": 768000 },
-    { "id": 4, "title": "Zambia Railways Annual Report 2024", "companyName": "Zambia Railways", "reportType": "Annual Report", "year": 2024, "publishedDate": "2025-02-28", "fileSize": 1536000 },
-    { "id": 5, "title": "KAGEM Mining Q2 2025 Quarterly Report", "companyName": "KAGEM Mining Limited", "reportType": "Quarterly Report", "year": 2025, "publishedDate": "2025-08-15", "fileSize": 384000 }
+    { "id": 1, "title": "Eskom Annual Report 2025", "companyName": "Eskom Holdings SOC Limited", "reportType": "Annual Report", "year": 2025, "publishedDate": "2026-01-15", "fileSize": 8192000 },
+    { "id": 2, "title": "Transnet Q3 2025 Performance Report", "companyName": "Transnet SOC Limited", "reportType": "Performance Report", "year": 2025, "publishedDate": "2025-10-31", "fileSize": 2048000 },
+    { "id": 3, "title": "SABC AGSA Audit Report FY2024", "companyName": "South African Broadcasting Corporation SOC Limited", "reportType": "Audit Report", "year": 2024, "publishedDate": "2025-03-20", "fileSize": 1536000 },
+    { "id": 4, "title": "PRASA Annual Report 2024", "companyName": "Passenger Rail Agency of South Africa", "reportType": "Annual Report", "year": 2024, "publishedDate": "2025-02-28", "fileSize": 4096000 },
+    { "id": 5, "title": "ACSA Q2 2025 Quarterly Report", "companyName": "Airports Company South Africa SOC Limited", "reportType": "Quarterly Report", "year": 2025, "publishedDate": "2025-08-15", "fileSize": 1024000 }
   ],
   "publicDocuments": [
-    { "id": 1, "title": "Corporate Governance Framework", "companyName": "IDC", "category": "Policy", "documentType": "PDF", "version": "2.1", "accessLevel": "Public", "uploadDate": "2025-06-01", "uploadedBy": "IDC Governance Office" },
-    { "id": 2, "title": "SOE Ownership Policy 2025", "companyName": "Ministry of Finance", "category": "Policy", "documentType": "PDF", "version": "1.0", "accessLevel": "Public", "uploadDate": "2025-01-15", "uploadedBy": "Ministry of Finance" },
-    { "id": 3, "title": "ZESCO Tariff Schedule 2026", "companyName": "ZESCO Limited", "category": "Financial", "documentType": "PDF", "version": "1.0", "accessLevel": "Public", "uploadDate": "2025-12-01", "uploadedBy": "ZESCO Finance" }
+    { "id": 1, "title": "SOE Corporate Governance Framework — King IV", "companyName": "SAMSOC", "category": "Policy", "documentType": "PDF", "version": "3.0", "accessLevel": "Public", "uploadDate": "2025-06-01", "uploadedBy": "SAMSOC Governance Office" },
+    { "id": 2, "title": "SOE Ownership Policy 2025", "companyName": "Department of Public Enterprises", "category": "Policy", "documentType": "PDF", "version": "2.0", "accessLevel": "Public", "uploadDate": "2025-01-15", "uploadedBy": "DPE Policy Division" },
+    { "id": 3, "title": "Eskom NERSA Tariff Schedule 2026", "companyName": "Eskom Holdings SOC Limited", "category": "Financial", "documentType": "PDF", "version": "1.0", "accessLevel": "Public", "uploadDate": "2025-12-01", "uploadedBy": "Eskom Regulatory Affairs" }
   ]
 }

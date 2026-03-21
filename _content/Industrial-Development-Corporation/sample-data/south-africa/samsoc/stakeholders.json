@@ -1,0 +1,101 @@
+[
+  {
+    "id": 1, "companyId": 1, "companyName": "Eskom Holdings SOC Limited",
+    "name": "National Treasury", "type": "Government",
+    "organization": "Government of South Africa",
+    "engagementStatus": "Active", "influenceLevel": "High", "interestLevel": "High",
+    "contactEmail": "dg@treasury.gov.za",
+    "engagements": [
+      { "id": 1, "stakeholderId": 1, "engagementType": "Debt Relief Review", "engagementDate": "2024-10-15", "status": "Completed", "notes": "Reviewed implementation of R254bn debt relief package. Tranche 3 disbursement approved." },
+      { "id": 2, "stakeholderId": 1, "engagementType": "Tariff Policy", "engagementDate": "2024-08-20", "status": "Completed", "notes": "Discussed NERSA tariff determination and social tariff protection for indigent households." }
+    ]
+  },
+  {
+    "id": 2, "companyId": 1, "companyName": "Eskom Holdings SOC Limited",
+    "name": "National Energy Regulator of South Africa (NERSA)", "type": "Regulator",
+    "organization": "NERSA",
+    "engagementStatus": "Active", "influenceLevel": "High", "interestLevel": "High",
+    "contactEmail": "info@nersa.org.za",
+    "engagements": [
+      { "id": 3, "stakeholderId": 2, "engagementType": "Tariff Application", "engagementDate": "2024-09-30", "status": "Completed", "notes": "Submitted MYPD6 tariff application. Public hearings scheduled for Q1 2025." },
+      { "id": 4, "stakeholderId": 2, "engagementType": "Licence Compliance", "engagementDate": "2024-07-15", "status": "Completed", "notes": "Annual licence compliance review. Generation and distribution licences confirmed valid." }
+    ]
+  },
+  {
+    "id": 3, "companyId": 1, "companyName": "Eskom Holdings SOC Limited",
+    "name": "Congress of South African Trade Unions (COSATU)", "type": "Labour",
+    "organization": "COSATU",
+    "engagementStatus": "Active", "influenceLevel": "High", "interestLevel": "High",
+    "contactEmail": "info@cosatu.org.za",
+    "engagements": [
+      { "id": 5, "stakeholderId": 3, "engagementType": "Just Transition Consultation", "engagementDate": "2024-11-05", "status": "Completed", "notes": "Consulted on JETP worker transition plan. Agreement on retraining fund of R2bn." },
+      { "id": 6, "stakeholderId": 3, "engagementType": "Wage Negotiation", "engagementDate": "2024-06-01", "status": "Completed", "notes": "2024-2025 wage agreement signed. 7.5% increase for bargaining unit employees." }
+    ]
+  },
+  {
+    "id": 4, "companyId": 2, "companyName": "Transnet SOC Limited",
+    "name": "Ports Regulator of South Africa", "type": "Regulator",
+    "organization": "Ports Regulator",
+    "engagementStatus": "Active", "influenceLevel": "High", "interestLevel": "High",
+    "contactEmail": "info@portsregulator.org",
+    "engagements": [
+      { "id": 7, "stakeholderId": 4, "engagementType": "Tariff Review", "engagementDate": "2024-08-01", "status": "Completed", "notes": "Annual port tariff review. 9.8% tariff increase approved for 2025/26." },
+      { "id": 8, "stakeholderId": 4, "engagementType": "Performance Monitoring", "engagementDate": "2024-10-20", "status": "Completed", "notes": "Port efficiency metrics reviewed. Vessel turnaround times remain above benchmark." }
+    ]
+  },
+  {
+    "id": 5, "companyId": 2, "companyName": "Transnet SOC Limited",
+    "name": "Business Unity South Africa (BUSA)", "type": "Industry",
+    "organization": "BUSA",
+    "engagementStatus": "Active", "influenceLevel": "High", "interestLevel": "High",
+    "contactEmail": "info@busa.co.za",
+    "engagements": [
+      { "id": 9, "stakeholderId": 5, "engagementType": "Freight Logistics Forum", "engagementDate": "2024-09-15", "status": "Completed", "notes": "Quarterly freight logistics forum. Mining and agricultural exporters raised concerns about rail reliability." },
+      { "id": 10, "stakeholderId": 5, "engagementType": "Private Sector Participation", "engagementDate": "2024-07-10", "status": "Completed", "notes": "Discussed private terminal operator model for Durban Container Terminal." }
+    ]
+  },
+  {
+    "id": 6, "companyId": 3, "companyName": "South African Airways SOC Limited",
+    "name": "Takatso Consortium", "type": "Investor",
+    "organization": "Takatso Consortium",
+    "engagementStatus": "Active", "influenceLevel": "High", "interestLevel": "High",
+    "contactEmail": "info@takatso.co.za",
+    "engagements": [
+      { "id": 11, "stakeholderId": 6, "engagementType": "Shareholder Meeting", "engagementDate": "2024-10-01", "status": "Completed", "notes": "Reviewed SAA FY2024 performance. Discussed conditions precedent for 51% equity transfer." },
+      { "id": 12, "stakeholderId": 6, "engagementType": "Network Strategy", "engagementDate": "2024-08-15", "status": "Completed", "notes": "Agreed on route expansion strategy for 2025. New routes to Nairobi and Lagos approved." }
+    ]
+  },
+  {
+    "id": 7, "companyId": 4, "companyName": "Passenger Rail Agency of South Africa",
+    "name": "Department of Transport", "type": "Government",
+    "organization": "Government of South Africa",
+    "engagementStatus": "Active", "influenceLevel": "High", "interestLevel": "High",
+    "contactEmail": "dg@transport.gov.za",
+    "engagements": [
+      { "id": 13, "stakeholderId": 7, "engagementType": "Service Recovery Plan Review", "engagementDate": "2024-11-20", "status": "Completed", "notes": "Reviewed PRASA service recovery plan. Additional R8bn capital allocation approved for rolling stock." },
+      { "id": 14, "stakeholderId": 7, "engagementType": "Security Improvement", "engagementDate": "2024-09-05", "status": "Completed", "notes": "Joint security task team established with SAPS to address cable theft and vandalism." }
+    ]
+  },
+  {
+    "id": 8, "companyId": 5, "companyName": "Denel SOC Limited",
+    "name": "Department of Defence", "type": "Government",
+    "organization": "Government of South Africa",
+    "engagementStatus": "Active", "influenceLevel": "High", "interestLevel": "High",
+    "contactEmail": "sec@defence.gov.za",
+    "engagements": [
+      { "id": 15, "stakeholderId": 8, "engagementType": "Contract Review", "engagementDate": "2024-10-10", "status": "Completed", "notes": "Reviewed SANDF procurement pipeline. R1.2bn in new contracts confirmed for FY2025." },
+      { "id": 16, "stakeholderId": 8, "engagementType": "Strategic Capability Review", "engagementDate": "2024-07-20", "status": "Completed", "notes": "Assessed Denel's strategic defence manufacturing capabilities. Missile and artillery lines prioritised." }
+    ]
+  },
+  {
+    "id": 9, "companyId": 7, "companyName": "Airports Company South Africa SOC Limited",
+    "name": "South African Civil Aviation Authority (SACAA)", "type": "Regulator",
+    "organization": "SACAA",
+    "engagementStatus": "Active", "influenceLevel": "High", "interestLevel": "High",
+    "contactEmail": "info@caa.co.za",
+    "engagements": [
+      { "id": 17, "stakeholderId": 9, "engagementType": "Safety Audit", "engagementDate": "2024-09-20", "status": "Completed", "notes": "Annual SACAA safety audit of all 9 managed airports. All airports confirmed compliant with ICAO Annex 14." },
+      { "id": 18, "stakeholderId": 9, "engagementType": "Tariff Consultation", "engagementDate": "2024-06-15", "status": "Completed", "notes": "Consulted on aeronautical tariff review for 2025/26. SACAA approved 8.2% increase." }
+    ]
+  }
+]

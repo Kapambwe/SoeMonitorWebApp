@@ -1,0 +1,203 @@
+[
+  {
+    "id": 301,
+    "companyId": 6,
+    "companyName": "Industrial Development Corporation",
+    "fiscalYear": 2025,
+    "budgetType": "Annual",
+    "totalBudget": 7500000000,
+    "allocatedAmount": 7500000000,
+    "spentAmount": 3800000000,
+    "status": "Active",
+    "approvalDate": "2024-12-18T00:00:00",
+    "approvedBy": "IDC Board of Directors",
+    "notes": "2025 Annual Budget approved with emphasis on strategic investments in agriculture, manufacturing, and green energy sectors.",
+    "lineItems": [
+      {
+        "id": 301,
+        "budgetId": 301,
+        "category": "Capital",
+        "description": "Strategic equity investments in portfolio companies",
+        "budgetedAmount": 2800000000,
+        "actualAmount": 1400000000,
+        "costCenter": "Investments",
+        "accountCode": "IDC-4001"
+      },
+      {
+        "id": 302,
+        "budgetId": 301,
+        "category": "Personnel",
+        "description": "Staff salaries, benefits, and professional development",
+        "budgetedAmount": 850000000,
+        "actualAmount": 420000000,
+        "costCenter": "Human Resources",
+        "accountCode": "IDC-1001"
+      },
+      {
+        "id": 303,
+        "budgetId": 301,
+        "category": "Operations",
+        "description": "Portfolio management, due diligence, and monitoring costs",
+        "budgetedAmount": 1200000000,
+        "actualAmount": 680000000,
+        "costCenter": "Operations",
+        "accountCode": "IDC-2001"
+      },
+      {
+        "id": 304,
+        "budgetId": 301,
+        "category": "Contingency",
+        "description": "Portfolio company liquidity support reserve",
+        "budgetedAmount": 2000000000,
+        "actualAmount": 980000000,
+        "costCenter": "Finance",
+        "accountCode": "IDC-6001"
+      }
+    ],
+    "variances": [
+      {
+        "id": 301,
+        "budgetId": 301,
+        "period": "Q1 2025",
+        "budgetedAmount": 1875000000,
+        "actualAmount": 1650000000,
+        "explanation": "Investment disbursements behind schedule pending due diligence completion on two new investments",
+        "correctiveAction": "Investment team to conclude due diligence by end of April 2025"
+      }
+    ]
+  },
+  {
+    "id": 302,
+    "companyId": 1,
+    "companyName": "ZESCO Limited",
+    "fiscalYear": 2025,
+    "budgetType": "Annual",
+    "totalBudget": 12500000000,
+    "allocatedAmount": 12500000000,
+    "spentAmount": 8200000000,
+    "status": "Active",
+    "approvalDate": "2024-12-15T00:00:00",
+    "approvedBy": "IDC Board of Directors",
+    "notes": "Approved with conditions on capex disbursement schedule. Quarterly budget reviews mandated by IDC.",
+    "lineItems": [
+      {
+        "id": 305,
+        "budgetId": 302,
+        "category": "Capital",
+        "description": "Grid expansion — Lusaka South and Kafue corridors",
+        "budgetedAmount": 4000000000,
+        "actualAmount": 2800000000,
+        "costCenter": "Engineering",
+        "accountCode": "ZESCO-4001"
+      },
+      {
+        "id": 306,
+        "budgetId": 302,
+        "category": "Personnel",
+        "description": "Salaries, wages, and employee benefits",
+        "budgetedAmount": 3500000000,
+        "actualAmount": 2900000000,
+        "costCenter": "Human Resources",
+        "accountCode": "ZESCO-1001"
+      },
+      {
+        "id": 307,
+        "budgetId": 302,
+        "category": "Operations",
+        "description": "Power purchase agreements, fuel, and generation costs",
+        "budgetedAmount": 3000000000,
+        "actualAmount": 1800000000,
+        "costCenter": "Operations",
+        "accountCode": "ZESCO-2001"
+      },
+      {
+        "id": 308,
+        "budgetId": 302,
+        "category": "Maintenance",
+        "description": "Plant and equipment preventive and corrective maintenance",
+        "budgetedAmount": 2000000000,
+        "actualAmount": 700000000,
+        "costCenter": "Technical Services",
+        "accountCode": "ZESCO-5001"
+      }
+    ],
+    "variances": [
+      {
+        "id": 302,
+        "budgetId": 302,
+        "period": "Q1 2025",
+        "budgetedAmount": 3125000000,
+        "actualAmount": 2900000000,
+        "explanation": "Capital projects delayed due to procurement processes and contractor mobilisation delays",
+        "correctiveAction": "Accelerate procurement and fast-track approvals for Q2 2025"
+      }
+    ]
+  },
+  {
+    "id": 303,
+    "companyId": 3,
+    "companyName": "Zambia Railways Limited",
+    "fiscalYear": 2025,
+    "budgetType": "Annual",
+    "totalBudget": 3200000000,
+    "allocatedAmount": 3200000000,
+    "spentAmount": 1100000000,
+    "status": "Active",
+    "approvalDate": "2025-01-10T00:00:00",
+    "approvedBy": "IDC Board of Directors",
+    "notes": "Budget includes GRZ capital injection of ZMW 800 million and IDC bridging facility of ZMW 150 million. Strict milestone-based disbursement conditions apply.",
+    "lineItems": [
+      {
+        "id": 309,
+        "budgetId": 303,
+        "category": "Capital",
+        "description": "Track rehabilitation — Livingstone-Mazabuka Phase 1",
+        "budgetedAmount": 1200000000,
+        "actualAmount": 350000000,
+        "costCenter": "Engineering",
+        "accountCode": "ZRL-4001"
+      },
+      {
+        "id": 310,
+        "budgetId": 303,
+        "category": "Capital",
+        "description": "Locomotive overhaul and fleet maintenance",
+        "budgetedAmount": 600000000,
+        "actualAmount": 180000000,
+        "costCenter": "Fleet",
+        "accountCode": "ZRL-4002"
+      },
+      {
+        "id": 311,
+        "budgetId": 303,
+        "category": "Personnel",
+        "description": "Staff salaries and benefits",
+        "budgetedAmount": 900000000,
+        "actualAmount": 450000000,
+        "costCenter": "Human Resources",
+        "accountCode": "ZRL-1001"
+      },
+      {
+        "id": 312,
+        "budgetId": 303,
+        "category": "Operations",
+        "description": "Fuel, utilities, and operational costs",
+        "budgetedAmount": 500000000,
+        "actualAmount": 120000000,
+        "costCenter": "Operations",
+        "accountCode": "ZRL-2001"
+      }
+    ],
+    "variances": [
+      {
+        "id": 303,
+        "budgetId": 303,
+        "period": "Q1 2025",
+        "budgetedAmount": 800000000,
+        "actualAmount": 550000000,
+        "explanation": "Track rehabilitation contractor mobilisation delayed by 6 weeks due to procurement process",
+        "correctiveAction": "Contractor now mobilised. Accelerated works schedule approved to recover lost time."
+      }
+    ]
+  }
+]

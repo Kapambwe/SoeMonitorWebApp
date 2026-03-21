@@ -1,0 +1,74 @@
+[
+  {
+    "id": 401,
+    "title": "KRA Exceeds FY2024 Revenue Target",
+    "message": "Kenya Revenue Authority has collected KES 2.52 trillion in FY2024, exceeding the target of KES 2.49 trillion. Customs and VAT collections were the strongest performers.",
+    "type": "Success",
+    "priority": "High",
+    "companyId": 23,
+    "companyName": "Kenya Revenue Authority (KRA)",
+    "createdDate": "2025-03-01T09:00:00",
+    "isRead": false,
+    "category": "Revenue Performance"
+  },
+  {
+    "id": 402,
+    "title": "Kenya Airways Debt Restructuring — Lenders Agreement Progressing",
+    "message": "Kenya Airways reports that 8 of 12 lenders in the KQ Lenders Group have agreed in principle to the debt restructuring terms. Remaining 4 lenders expected to conclude by 30 April 2025.",
+    "type": "Info",
+    "priority": "High",
+    "companyId": 21,
+    "companyName": "Kenya Airways Limited",
+    "createdDate": "2025-02-20T09:00:00",
+    "isRead": false,
+    "category": "Financial Restructuring"
+  },
+  {
+    "id": 403,
+    "title": "KPA Record Container Throughput — FY2024",
+    "message": "Kenya Ports Authority reports record container throughput of 1.72 million TEUs at the Port of Mombasa in FY2024, up 8% from FY2023. Vessel turnaround time improved to 3.8 days.",
+    "type": "Success",
+    "priority": "Medium",
+    "companyId": 22,
+    "companyName": "Kenya Ports Authority (KPA)",
+    "createdDate": "2025-03-05T09:00:00",
+    "isRead": false,
+    "category": "Operations"
+  },
+  {
+    "id": 404,
+    "title": "Kenya Power System Losses Reduced to 21.5%",
+    "message": "Kenya Power reports system losses have been reduced to 21.5% as at Q3 FY2024, down from 23% at the start of the year. Smart metering rollout contributing to commercial loss reduction.",
+    "type": "Info",
+    "priority": "Medium",
+    "companyId": 20,
+    "companyName": "Kenya Power and Lighting Company",
+    "createdDate": "2025-01-15T09:00:00",
+    "isRead": true,
+    "category": "Operations"
+  },
+  {
+    "id": 405,
+    "title": "NSSF Act 2023 — Court of Appeal Ruling Awaited",
+    "message": "The Court of Appeal is expected to deliver its ruling on the NSSF Act 2023 implementation by 30 April 2025. NSSF is operating under a court-supervised implementation framework pending the ruling.",
+    "type": "Warning",
+    "priority": "High",
+    "companyId": 25,
+    "companyName": "National Social Security Fund (NSSF)",
+    "createdDate": "2025-02-10T09:00:00",
+    "isRead": false,
+    "category": "Regulatory Compliance"
+  },
+  {
+    "id": 406,
+    "title": "KDB MSME Lending Reaches KES 11.2 Billion",
+    "message": "Kenya Development Bank reports MSME lending portfolio has reached KES 11.2 billion, representing 35% of total loan book. 1,850 MSMEs supported in FY2024 creating an estimated 12,000 jobs.",
+    "type": "Success",
+    "priority": "Medium",
+    "companyId": 24,
+    "companyName": "Kenya Development Bank Limited",
+    "createdDate": "2025-03-10T09:00:00",
+    "isRead": false,
+    "category": "Operations"
+  }
+]

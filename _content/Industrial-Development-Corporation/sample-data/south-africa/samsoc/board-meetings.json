@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1, "companyId": 1, "companyName": "Eskom Holdings SOC Limited",
+    "title": "Eskom Board Meeting Q3 FY2024", "meetingDate": "2024-11-28",
+    "location": "Megawatt Park, Sunninghill, Johannesburg", "meetingType": "Regular", "status": "Completed",
+    "attendees": ["Dan Marokane", "Mteto Nyati", "Busisiwe Mavuso", "Calib Cassim", "Bheki Nxumalo", "Sonto Mayise"],
+    "absentees": [], "agenda": "1. Load-shedding Reduction Progress\n2. FY2024 Financial Results\n3. JETP Implementation Update\n4. Debt Relief Tranche 3\n5. Unbundling Roadmap",
+    "minutes": "Board reviewed load-shedding reduction to Stage 2 average. FY2024 loss of R54.6bn noted. JETP implementation on track. Debt relief tranche 3 of R78bn received.",
+    "chairPerson": "Mteto Nyati", "secretary": "Sonto Mayise",
+    "quorumRequired": 5, "actualAttendance": 6,
+    "resolutions": [
+      {
+        "id": 1, "meetingId": 1, "resolutionNumber": "ESK/2024/Q3/001",
+        "title": "Approval of Eskom Just Energy Transition Plan",
+        "description": "Approve the Eskom Just Energy Transition Plan 2024-2034 including coal plant decommissioning schedule and renewable energy investment programme.",
+        "status": "Approved", "votesFor": 6, "votesAgainst": 0, "abstentions": 0,
+        "resolutionDate": "2024-11-28", "implementationStatus": "In Progress",
+        "implementationDeadline": "2034-12-31", "responsiblePerson": "Eskom CEO"
+      }
+    ]
+  },
+  {
+    "id": 2, "companyId": 2, "companyName": "Transnet SOC Limited",
+    "title": "Transnet Board Meeting — Private Sector Participation", "meetingDate": "2024-12-10",
+    "location": "Transnet House, Johannesburg", "meetingType": "Special", "status": "Completed",
+    "attendees": ["Michelle Phillips", "Andile Sangqu", "Phumla Mnganga", "Theo Venter", "Nomvula Mokonyane"],
+    "absentees": ["Sipho Masondo"], "agenda": "1. Durban Container Terminal PSP Update\n2. Rail Corridor Private Participation\n3. Debt Restructuring Progress\n4. Cable Theft Mitigation",
+    "minutes": "Board approved Durban Container Terminal PSP framework. Three qualified bidders shortlisted. Rail corridor PSP for Ore Export Line approved in principle.",
+    "chairPerson": "Andile Sangqu", "secretary": "Phumla Mnganga",
+    "quorumRequired": 4, "actualAttendance": 5,
+    "resolutions": [
+      {
+        "id": 2, "meetingId": 2, "resolutionNumber": "TRN/2024/SP/001",
+        "title": "Approval of Durban Container Terminal PSP Framework",
+        "description": "Approve the Private Sector Participation framework for Durban Container Terminal including concession structure, evaluation criteria and timeline.",
+        "status": "Approved", "votesFor": 5, "votesAgainst": 0, "abstentions": 0,
+        "resolutionDate": "2024-12-10", "implementationStatus": "In Progress",
+        "implementationDeadline": "2025-12-31", "responsiblePerson": "Transnet CEO"
+      }
+    ]
+  },
+  {
+    "id": 3, "companyId": 3, "companyName": "South African Airways SOC Limited",
+    "title": "SAA Board Meeting Q3 2024", "meetingDate": "2024-10-22",
+    "location": "Airways Park, OR Tambo International Airport", "meetingType": "Regular", "status": "Completed",
+    "attendees": ["John Lamola", "Thandeka Mgoduso", "Sipho Pityana", "Zuks Ramasia", "Musa Zwane"],
+    "absentees": [], "agenda": "1. Q3 Financial Results\n2. Takatso Transaction Update\n3. Route Network Expansion\n4. Fleet Renewal Plan",
+    "minutes": "Q3 revenue of R2.35bn reviewed. Takatso transaction conditions precedent 80% complete. New routes to Nairobi and Lagos approved for Q1 2025.",
+    "chairPerson": "Thandeka Mgoduso", "secretary": "Musa Zwane",
+    "quorumRequired": 4, "actualAttendance": 5,
+    "resolutions": [
+      {
+        "id": 3, "meetingId": 3, "resolutionNumber": "SAA/2024/Q3/001",
+        "title": "Approval of Route Expansion to East and West Africa",
+        "description": "Approve new SAA routes to Nairobi (Kenya) and Lagos (Nigeria) commencing Q1 2025, subject to air service agreement approvals.",
+        "status": "Approved", "votesFor": 5, "votesAgainst": 0, "abstentions": 0,
+        "resolutionDate": "2024-10-22", "implementationStatus": "In Progress",
+        "implementationDeadline": "2025-03-31", "responsiblePerson": "SAA CEO"
+      }
+    ]
+  },
+  {
+    "id": 4, "companyId": 7, "companyName": "Airports Company South Africa SOC Limited",
+    "title": "ACSA Board Meeting Q3 FY2024", "meetingDate": "2024-11-14",
+    "location": "ACSA Head Office, OR Tambo International Airport", "meetingType": "Regular", "status": "Completed",
+    "attendees": ["Mpumi Mpofu", "Tumi Mkhwanazi", "Bongiwe Mbatha", "Sipho Hlongwane", "Nolitha Fakude"],
+    "absentees": [], "agenda": "1. Q3 Financial Results\n2. OR Tambo Solar Project Update\n3. Cape Town Airport Expansion\n4. Passenger Volume Forecast",
+    "minutes": "Q3 revenue of R2.72bn exceeds target by 4.6%. OR Tambo 10MW solar project 85% complete. Cape Town expansion Phase 2 approved.",
+    "chairPerson": "Tumi Mkhwanazi", "secretary": "Bongiwe Mbatha",
+    "quorumRequired": 4, "actualAttendance": 5,
+    "resolutions": [
+      {
+        "id": 4, "meetingId": 4, "resolutionNumber": "ACSA/2024/Q3/001",
+        "title": "Approval of Cape Town International Airport Phase 2 Expansion",
+        "description": "Approve R4.2bn Phase 2 expansion of Cape Town International Airport including new international pier and expanded terminal capacity.",
+        "status": "Approved", "votesFor": 5, "votesAgainst": 0, "abstentions": 0,
+        "resolutionDate": "2024-11-14", "implementationStatus": "Not Started",
+        "implementationDeadline": "2028-12-31", "responsiblePerson": "ACSA CEO"
+      }
+    ]
+  }
+]

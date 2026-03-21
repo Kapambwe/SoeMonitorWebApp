@@ -1,0 +1,126 @@
+[
+  {
+    "id": 201,
+    "name": "Hon. Situmbeko Musokotwane",
+    "type": "Government",
+    "organization": "Ministry of Finance and National Planning",
+    "position": "Minister of Finance",
+    "contactEmail": "minister@mofnp.gov.zm",
+    "contactPhone": "+260-211-250400",
+    "influenceLevel": "High",
+    "interestLevel": "High",
+    "engagementStatus": "Active",
+    "notes": "Key shareholder representative for all Zambian SOEs. Oversees dividend policy, financial oversight, and government shareholder directions.",
+    "engagements": [
+      {
+        "id": 201,
+        "stakeholderId": 201,
+        "stakeholderName": "Hon. Situmbeko Musokotwane",
+        "companyId": 2,
+        "companyName": "Industrial Development Corporation",
+        "engagementType": "Meeting",
+        "subject": "Annual Performance Review 2024",
+        "engagementDate": "2025-01-15T10:00:00",
+        "attendees": "IDC CEO, IDC CFO, Ministry PS, Ministry Finance Director",
+        "summary": "Reviewed IDC portfolio performance and dividend remittance targets for 2024 and 2025.",
+        "outcomes": "Agreed on 2025 dividend targets of ZMW 350 million to GRZ; Ministry requested enhanced quarterly reporting.",
+        "followUpActions": "IDC to submit dividend schedule by February 2025.",
+        "nextEngagementDate": "2025-04-15T00:00:00",
+        "status": "Completed"
+      }
+    ]
+  },
+  {
+    "id": 202,
+    "name": "Dr. Denny Kalyalya",
+    "type": "Regulator",
+    "organization": "Bank of Zambia",
+    "position": "Governor",
+    "contactEmail": "governor@boz.zm",
+    "contactPhone": "+260-211-228888",
+    "influenceLevel": "High",
+    "interestLevel": "High",
+    "engagementStatus": "Active",
+    "notes": "Apex banking regulator. Primary regulator for ZANACO. Regulatory directives on capital adequacy, KYC, AML/CFT must be monitored closely.",
+    "engagements": [
+      {
+        "id": 202,
+        "stakeholderId": 202,
+        "stakeholderName": "Dr. Denny Kalyalya",
+        "companyId": 3,
+        "companyName": "Zambia National Commercial Bank",
+        "engagementType": "Meeting",
+        "subject": "Annual Supervisory Meeting 2024",
+        "engagementDate": "2024-11-20T09:00:00",
+        "attendees": "ZANACO MD/CEO, CFO, Chief Risk Officer, BOZ Bank Supervision Director",
+        "summary": "Annual supervisory meeting reviewing ZANACO's capital adequacy and Basel III implementation progress.",
+        "outcomes": "BOZ noted ZANACO's strong capital position at 18.2% CAR; affirmed Basel III compliance timeline to Q2 2025.",
+        "followUpActions": "ZANACO to submit Basel III readiness report by January 2025.",
+        "nextEngagementDate": "2025-05-20T00:00:00",
+        "status": "Completed"
+      }
+    ]
+  },
+  {
+    "id": 203,
+    "name": "Oumar Samba Mamadou",
+    "type": "Development Partner",
+    "organization": "World Bank",
+    "position": "Country Director for Zambia",
+    "contactEmail": "osmamadou@worldbank.org",
+    "contactPhone": "+260-211-252811",
+    "influenceLevel": "High",
+    "interestLevel": "High",
+    "engagementStatus": "Active",
+    "notes": "World Bank is a major development finance partner for Zambia's energy and transport infrastructure. Active lender to ZESCO and Zambia Railways.",
+    "engagements": [
+      {
+        "id": 203,
+        "stakeholderId": 203,
+        "stakeholderName": "Oumar Samba Mamadou",
+        "companyId": 1,
+        "companyName": "ZESCO Limited",
+        "engagementType": "Meeting",
+        "subject": "Zambia Energy Sector Development Policy Credit — Progress Review",
+        "engagementDate": "2024-09-25T10:00:00",
+        "attendees": "ZESCO CEO, CFO, World Bank Country Director, World Bank Energy Specialist",
+        "summary": "Semi-annual review of the World Bank Energy Sector Development Policy Credit.",
+        "outcomes": "World Bank noted satisfactory progress; USD 150 million second tranche disbursement confirmed.",
+        "followUpActions": "ZESCO to submit Q4 2024 implementation report.",
+        "nextEngagementDate": "2025-03-25T00:00:00",
+        "status": "Completed"
+      }
+    ]
+  },
+  {
+    "id": 204,
+    "name": "Hora Hoban",
+    "type": "Development Partner",
+    "organization": "International Monetary Fund",
+    "position": "Resident Representative for Zambia",
+    "contactEmail": "h.hoban@imf.org",
+    "contactPhone": "+260-211-251055",
+    "influenceLevel": "High",
+    "interestLevel": "High",
+    "engagementStatus": "Active",
+    "notes": "IMF monitors Zambia's macroeconomic performance and SOE fiscal risks under the Extended Credit Facility programme.",
+    "engagements": [
+      {
+        "id": 204,
+        "stakeholderId": 204,
+        "stakeholderName": "Hora Hoban",
+        "companyId": 2,
+        "companyName": "Industrial Development Corporation",
+        "engagementType": "Meeting",
+        "subject": "SOE Portfolio Fiscal Risk Assessment — IMF ECF Review",
+        "engagementDate": "2024-11-05T10:00:00",
+        "attendees": "IDC CEO, CFO, IMF Resident Representative, Ministry of Finance PS",
+        "summary": "IMF ECF Article IV consultation included assessment of fiscal risks from Zambia's SOE portfolio.",
+        "outcomes": "IMF noted improvement in dividend remittances; flagged Zambia Railways fiscal risk.",
+        "followUpActions": "IDC to submit enhanced quarterly SOE fiscal risk dashboard to Ministry of Finance.",
+        "nextEngagementDate": "2025-05-05T00:00:00",
+        "status": "Completed"
+      }
+    ]
+  }
+]

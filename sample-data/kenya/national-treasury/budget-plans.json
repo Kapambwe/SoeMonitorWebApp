@@ -1,0 +1,203 @@
+[
+  {
+    "id": 401,
+    "companyId": 20,
+    "companyName": "Kenya Power and Lighting Company",
+    "fiscalYear": 2025,
+    "budgetType": "Annual",
+    "totalBudget": 62000000000,
+    "allocatedAmount": 62000000000,
+    "spentAmount": 28500000000,
+    "status": "Active",
+    "approvalDate": "2024-12-15T00:00:00",
+    "approvedBy": "Ministry of Energy and Petroleum",
+    "notes": "FY2025 budget prioritises smart metering rollout, distribution network rehabilitation, and system loss reduction.",
+    "lineItems": [
+      {
+        "id": 401,
+        "budgetId": 401,
+        "category": "Operations",
+        "description": "Power purchase costs from KenGen, IPPs, and imports",
+        "budgetedAmount": 32000000000,
+        "actualAmount": 15200000000,
+        "costCenter": "Power Purchase",
+        "accountCode": "KP-2001"
+      },
+      {
+        "id": 402,
+        "budgetId": 401,
+        "category": "Capital",
+        "description": "Smart metering rollout and distribution network upgrades",
+        "budgetedAmount": 15000000000,
+        "actualAmount": 6800000000,
+        "costCenter": "Engineering",
+        "accountCode": "KP-4001"
+      },
+      {
+        "id": 403,
+        "budgetId": 401,
+        "category": "Personnel",
+        "description": "Staff salaries and benefits",
+        "budgetedAmount": 8500000000,
+        "actualAmount": 4200000000,
+        "costCenter": "Human Resources",
+        "accountCode": "KP-1001"
+      },
+      {
+        "id": 404,
+        "budgetId": 401,
+        "category": "Maintenance",
+        "description": "Network maintenance and emergency repairs",
+        "budgetedAmount": 6500000000,
+        "actualAmount": 2300000000,
+        "costCenter": "Technical Services",
+        "accountCode": "KP-5001"
+      }
+    ],
+    "variances": [
+      {
+        "id": 401,
+        "budgetId": 401,
+        "period": "H1 FY2025",
+        "budgetedAmount": 31000000000,
+        "actualAmount": 28500000000,
+        "explanation": "Smart metering procurement delayed due to forex constraints on meter imports",
+        "correctiveAction": "Local assembly arrangement with Landis+Gyr to reduce forex requirement; procurement back on track"
+      }
+    ]
+  },
+  {
+    "id": 402,
+    "companyId": 22,
+    "companyName": "Kenya Ports Authority (KPA)",
+    "fiscalYear": 2025,
+    "budgetType": "Annual",
+    "totalBudget": 45000000000,
+    "allocatedAmount": 45000000000,
+    "spentAmount": 19800000000,
+    "status": "Active",
+    "approvalDate": "2024-12-20T00:00:00",
+    "approvedBy": "Ministry of Roads and Transport",
+    "notes": "FY2025 budget focused on berth expansion, equipment modernisation, and SGR integration.",
+    "lineItems": [
+      {
+        "id": 405,
+        "budgetId": 402,
+        "category": "Capital",
+        "description": "Berth 22 and 23 construction and container yard expansion",
+        "budgetedAmount": 18000000000,
+        "actualAmount": 7800000000,
+        "costCenter": "Engineering",
+        "accountCode": "KPA-4001"
+      },
+      {
+        "id": 406,
+        "budgetId": 402,
+        "category": "Operations",
+        "description": "Port operations, pilotage, and stevedoring",
+        "budgetedAmount": 14000000000,
+        "actualAmount": 6500000000,
+        "costCenter": "Operations",
+        "accountCode": "KPA-2001"
+      },
+      {
+        "id": 407,
+        "budgetId": 402,
+        "category": "Personnel",
+        "description": "Staff costs",
+        "budgetedAmount": 8000000000,
+        "actualAmount": 3900000000,
+        "costCenter": "Human Resources",
+        "accountCode": "KPA-1001"
+      },
+      {
+        "id": 408,
+        "budgetId": 402,
+        "category": "Maintenance",
+        "description": "Equipment and infrastructure maintenance",
+        "budgetedAmount": 5000000000,
+        "actualAmount": 1600000000,
+        "costCenter": "Technical Services",
+        "accountCode": "KPA-5001"
+      }
+    ],
+    "variances": [
+      {
+        "id": 402,
+        "budgetId": 402,
+        "period": "H1 FY2025",
+        "budgetedAmount": 22500000000,
+        "actualAmount": 19800000000,
+        "explanation": "Berth construction slightly behind schedule due to marine works contractor delays",
+        "correctiveAction": "Additional marine contractor mobilised; revised completion schedule agreed"
+      }
+    ]
+  },
+  {
+    "id": 403,
+    "companyId": 23,
+    "companyName": "Kenya Revenue Authority (KRA)",
+    "fiscalYear": 2025,
+    "budgetType": "Annual",
+    "totalBudget": 22000000000,
+    "allocatedAmount": 22000000000,
+    "spentAmount": 9800000000,
+    "status": "Active",
+    "approvalDate": "2024-12-10T00:00:00",
+    "approvedBy": "National Treasury Kenya",
+    "notes": "FY2025 budget focused on digital tax administration, compliance enforcement, and staff capacity building.",
+    "lineItems": [
+      {
+        "id": 409,
+        "budgetId": 403,
+        "category": "Personnel",
+        "description": "Staff salaries, benefits, and training",
+        "budgetedAmount": 10000000000,
+        "actualAmount": 4900000000,
+        "costCenter": "Human Resources",
+        "accountCode": "KRA-1001"
+      },
+      {
+        "id": 410,
+        "budgetId": 403,
+        "category": "Capital",
+        "description": "iTax platform upgrades and digital infrastructure",
+        "budgetedAmount": 5500000000,
+        "actualAmount": 2200000000,
+        "costCenter": "ICT",
+        "accountCode": "KRA-4001"
+      },
+      {
+        "id": 411,
+        "budgetId": 403,
+        "category": "Operations",
+        "description": "Compliance enforcement and audit operations",
+        "budgetedAmount": 4500000000,
+        "actualAmount": 1900000000,
+        "costCenter": "Compliance",
+        "accountCode": "KRA-2001"
+      },
+      {
+        "id": 412,
+        "budgetId": 403,
+        "category": "Administrative",
+        "description": "Office and administrative costs",
+        "budgetedAmount": 2000000000,
+        "actualAmount": 800000000,
+        "costCenter": "Corporate Services",
+        "accountCode": "KRA-3001"
+      }
+    ],
+    "variances": [
+      {
+        "id": 403,
+        "budgetId": 403,
+        "period": "H1 FY2025",
+        "budgetedAmount": 11000000000,
+        "actualAmount": 9800000000,
+        "explanation": "ICT procurement underspend due to extended vendor evaluation process for iTax Phase 3",
+        "correctiveAction": "Vendor evaluation completed; contract award expected Q3 2025"
+      }
+    ]
+  }
+]

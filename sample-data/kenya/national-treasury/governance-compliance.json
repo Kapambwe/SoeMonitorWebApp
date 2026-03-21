@@ -1,0 +1,86 @@
+[
+  {
+    "id": 401,
+    "companyId": 20,
+    "companyName": "Kenya Power and Lighting Company",
+    "complianceArea": "EPRA Licence Conditions",
+    "requirement": "Full compliance with Energy and Petroleum Regulatory Authority licence conditions",
+    "status": "PartiallyCompliant",
+    "score": 75,
+    "lastReviewDate": "2025-01-31T00:00:00",
+    "nextReviewDate": "2025-07-31T00:00:00",
+    "notes": "System loss target of 18% not yet achieved (currently 21.5%). SAIDI target partially met. EPRA monitoring smart metering rollout progress quarterly."
+  },
+  {
+    "id": 402,
+    "companyId": 20,
+    "companyName": "Kenya Power and Lighting Company",
+    "complianceArea": "NSE Listing Requirements",
+    "requirement": "Compliance with Nairobi Securities Exchange listing rules and CMA regulations",
+    "status": "Compliant",
+    "score": 88,
+    "lastReviewDate": "2025-02-28T00:00:00",
+    "nextReviewDate": "2025-08-31T00:00:00",
+    "notes": "All quarterly and annual results published on time. Related party transactions disclosed. CMA compliance certificate current."
+  },
+  {
+    "id": 403,
+    "companyId": 21,
+    "companyName": "Kenya Airways Limited",
+    "complianceArea": "KCAA Air Operator Certificate",
+    "requirement": "Full compliance with Kenya Civil Aviation Authority Air Operator Certificate conditions",
+    "status": "Compliant",
+    "score": 82,
+    "lastReviewDate": "2025-01-31T00:00:00",
+    "nextReviewDate": "2025-07-31T00:00:00",
+    "notes": "KQ Air Operator Certificate in good standing. IOSA certification renewed. Safety management system compliant with ICAO standards."
+  },
+  {
+    "id": 404,
+    "companyId": 21,
+    "companyName": "Kenya Airways Limited",
+    "complianceArea": "NSE Listing Requirements",
+    "requirement": "Compliance with NSE listing rules and CMA regulations",
+    "status": "PartiallyCompliant",
+    "score": 65,
+    "lastReviewDate": "2025-02-28T00:00:00",
+    "nextReviewDate": "2025-05-31T00:00:00",
+    "notes": "Going concern disclosure required. Negative equity position disclosed. CMA granted waiver on certain financial ratio requirements pending restructuring completion."
+  },
+  {
+    "id": 405,
+    "companyId": 22,
+    "companyName": "Kenya Ports Authority (KPA)",
+    "complianceArea": "State Corporations Act Compliance",
+    "requirement": "Full compliance with State Corporations Act and Mwongozo Code of Governance",
+    "status": "Compliant",
+    "score": 90,
+    "lastReviewDate": "2025-02-28T00:00:00",
+    "nextReviewDate": "2025-08-31T00:00:00",
+    "notes": "KPA fully compliant with Mwongozo Code. Board evaluation completed. Annual report submitted on time. No adverse findings from State Corporations Advisory Committee."
+  },
+  {
+    "id": 406,
+    "companyId": 23,
+    "companyName": "Kenya Revenue Authority (KRA)",
+    "complianceArea": "KRA Act and Tax Procedures Act",
+    "requirement": "Full compliance with KRA Act, Tax Procedures Act, and National Treasury guidelines",
+    "status": "Compliant",
+    "score": 95,
+    "lastReviewDate": "2025-02-28T00:00:00",
+    "nextReviewDate": "2025-08-31T00:00:00",
+    "notes": "KRA fully compliant with all statutory requirements. Annual performance contract with National Treasury met. Taxpayer charter obligations fulfilled."
+  },
+  {
+    "id": 407,
+    "companyId": 25,
+    "companyName": "National Social Security Fund (NSSF)",
+    "complianceArea": "NSSF Act Compliance",
+    "requirement": "Full compliance with NSSF Act 2013 and NSSF Act 2023 (as applicable)",
+    "status": "PartiallyCompliant",
+    "score": 72,
+    "lastReviewDate": "2025-02-28T00:00:00",
+    "nextReviewDate": "2025-05-31T00:00:00",
+    "notes": "NSSF Act 2023 implementation subject to ongoing legal challenges. NSSF operating under court-supervised implementation framework. Compliance with NSSF Act 2013 fully maintained."
+  }
+]

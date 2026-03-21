@@ -1,12 +1,12 @@
 [
-  { "id": 1, "name": "KAGEM Emerald Mine", "type": "Mine", "companyName": "KAGEM Mining", "location": "Ndola", "status": "Operational", "latitude": -12.9584, "longitude": 28.6368 },
-  { "id": 2, "name": "Mopani Copper Mine", "type": "Mine", "companyName": "Mopani Copper Mines", "location": "Kitwe", "status": "Operational", "latitude": -12.8024, "longitude": 28.2132 },
-  { "id": 3, "name": "Kawambwa Tea Estate", "type": "Farm", "companyName": "Kawambwa Tea", "location": "Kawambwa", "status": "Operational", "latitude": -9.7938, "longitude": 29.0791 },
-  { "id": 4, "name": "ZAFFICO Forestry", "type": "Farm", "companyName": "ZAFFICO", "location": "Copperbelt", "status": "Operational", "latitude": -12.5, "longitude": 28.0 },
-  { "id": 5, "name": "NCZ Fertilizer Plant", "type": "Factory", "companyName": "Nitrogen Chemicals of Zambia", "location": "Kafue", "status": "Operational", "latitude": -15.7719, "longitude": 28.1813 },
-  { "id": 6, "name": "Superior Milling Factory", "type": "Factory", "companyName": "Superior Milling", "location": "Lusaka", "status": "Operational", "latitude": -15.4167, "longitude": 28.2833 },
-  { "id": 7, "name": "Mukuba Hotel", "type": "Hotel", "companyName": "Mukuba Hotel", "location": "Kitwe", "status": "Operational", "latitude": -12.8024, "longitude": 28.2132 },
-  { "id": 8, "name": "Lusaka Trust Hospital", "type": "Hospital", "companyName": "Lusaka Trust Hospital", "location": "Lusaka", "status": "Operational", "latitude": -15.4167, "longitude": 28.2833 },
-  { "id": 9, "name": "Zambia Railways Central", "type": "Transport", "companyName": "Zambia Railways", "location": "Lusaka", "status": "Under Maintenance", "latitude": -15.4167, "longitude": 28.2833 },
-  { "id": 10, "name": "ZAMTEL Tower Network", "type": "Transport", "companyName": "ZAMTEL", "location": "Nationwide", "status": "Operational", "latitude": -15.4167, "longitude": 28.2833 }
+  { "id": 1, "name": "Medupi Power Station", "type": "Factory", "companyName": "Eskom Holdings SOC Limited", "location": "Lephalale, Limpopo", "status": "Operational", "latitude": -23.6667, "longitude": 27.6667 },
+  { "id": 2, "name": "Kusile Power Station", "type": "Factory", "companyName": "Eskom Holdings SOC Limited", "location": "Emalahleni, Mpumalanga", "status": "Operational", "latitude": -26.0833, "longitude": 29.1667 },
+  { "id": 3, "name": "Koeberg Nuclear Power Station", "type": "Factory", "companyName": "Eskom Holdings SOC Limited", "location": "Cape Town, Western Cape", "status": "Operational", "latitude": -33.6667, "longitude": 18.4333 },
+  { "id": 4, "name": "Port of Durban", "type": "Transport", "companyName": "Transnet SOC Limited", "location": "Durban, KwaZulu-Natal", "status": "Operational", "latitude": -29.8587, "longitude": 31.0218 },
+  { "id": 5, "name": "Port of Cape Town", "type": "Transport", "companyName": "Transnet SOC Limited", "location": "Cape Town, Western Cape", "status": "Operational", "latitude": -33.9167, "longitude": 18.4333 },
+  { "id": 6, "name": "Transnet Freight Rail — Ore Line", "type": "Transport", "companyName": "Transnet SOC Limited", "location": "Northern Cape Corridor", "status": "Operational", "latitude": -28.7282, "longitude": 24.7499 },
+  { "id": 7, "name": "O.R. Tambo International Airport", "type": "Transport", "companyName": "Airports Company South Africa SOC Limited", "location": "Johannesburg, Gauteng", "status": "Operational", "latitude": -26.1367, "longitude": 28.2411 },
+  { "id": 8, "name": "Cape Town International Airport", "type": "Transport", "companyName": "Airports Company South Africa SOC Limited", "location": "Cape Town, Western Cape", "status": "Operational", "latitude": -33.9648, "longitude": 18.6017 },
+  { "id": 9, "name": "PRASA Metrorail — Gauteng Central Line", "type": "Transport", "companyName": "Passenger Rail Agency of South Africa", "location": "Johannesburg, Gauteng", "status": "Under Maintenance", "latitude": -26.2041, "longitude": 28.0473 },
+  { "id": 10, "name": "Denel Overberg Test Range", "type": "Factory", "companyName": "Denel SOC Limited", "location": "Bredasdorp, Western Cape", "status": "Operational", "latitude": -34.5833, "longitude": 20.0333 }
 ]
