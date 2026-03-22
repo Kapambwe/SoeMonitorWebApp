@@ -1,0 +1,151 @@
+{
+  "tenders": [
+    {
+      "id": 1,
+      "companyId": 2,
+      "companyName": "Industrial Development Corporation",
+      "tenderNumber": "IDC/T/2025/001",
+      "title": "IT Infrastructure Upgrade",
+      "category": "ICT",
+      "description": "Supply and installation of servers, networking equipment and cybersecurity solutions.",
+      "estimatedValue": 4200000,
+      "publishDate": "2025-01-15T00:00:00",
+      "closingDate": "2025-02-28T00:00:00",
+      "bidsReceived": 6,
+      "status": "Awarded",
+      "awardedVendor": "Zambia ICT Solutions Ltd",
+      "awardedAmount": 3980000
+    },
+    {
+      "id": 2,
+      "companyId": 2,
+      "companyName": "Industrial Development Corporation",
+      "tenderNumber": "IDC/T/2025/002",
+      "title": "Transaction Advisory Services — ZAFFICO Privatisation",
+      "category": "Professional Services",
+      "description": "Transaction advisory services for the privatisation of Zambia Forestry and Forest Industries Corporation.",
+      "estimatedValue": 2500000,
+      "publishDate": "2025-02-01T00:00:00",
+      "closingDate": "2025-03-15T00:00:00",
+      "bidsReceived": 4,
+      "status": "Evaluation",
+      "awardedVendor": "",
+      "awardedAmount": 0
+    },
+    {
+      "id": 3,
+      "companyId": 1,
+      "companyName": "ZESCO Limited",
+      "tenderNumber": "ZESCO/T/2025/008",
+      "title": "Transmission Line Maintenance — Copperbelt Region",
+      "category": "Engineering",
+      "description": "Maintenance and rehabilitation of 132kV transmission lines in the Copperbelt region.",
+      "estimatedValue": 18500000,
+      "publishDate": "2025-03-01T00:00:00",
+      "closingDate": "2025-04-30T00:00:00",
+      "bidsReceived": 0,
+      "status": "Published",
+      "awardedVendor": "",
+      "awardedAmount": 0
+    }
+  ],
+  "vendors": [
+    {
+      "id": 1,
+      "name": "Zambia ICT Solutions Ltd",
+      "registrationNumber": "120045678",
+      "category": "ICT",
+      "industry": "Technology",
+      "isLocalContent": true,
+      "performanceRating": 4.2,
+      "contractsCompleted": 8,
+      "totalContractValue": 22500000,
+      "status": "Active",
+      "registrationDate": "2018-05-10T00:00:00",
+      "blacklistDate": null,
+      "blacklistReason": ""
+    },
+    {
+      "id": 2,
+      "name": "Copperbelt Engineering Services Ltd",
+      "registrationNumber": "120089234",
+      "category": "Engineering",
+      "industry": "Construction & Engineering",
+      "isLocalContent": true,
+      "performanceRating": 3.8,
+      "contractsCompleted": 14,
+      "totalContractValue": 85000000,
+      "status": "Active",
+      "registrationDate": "2015-03-22T00:00:00",
+      "blacklistDate": null,
+      "blacklistReason": ""
+    },
+    {
+      "id": 3,
+      "name": "Pan African Advisory Group",
+      "registrationNumber": "FOREIGN-ZM-0042",
+      "category": "Professional Services",
+      "industry": "Financial Advisory",
+      "isLocalContent": false,
+      "performanceRating": 4.6,
+      "contractsCompleted": 3,
+      "totalContractValue": 12000000,
+      "status": "Active",
+      "registrationDate": "2022-08-01T00:00:00",
+      "blacklistDate": null,
+      "blacklistReason": ""
+    }
+  ],
+  "contracts": [
+    {
+      "id": 1,
+      "companyId": 2,
+      "companyName": "Industrial Development Corporation",
+      "contractNumber": "IDC/C/2025/001",
+      "title": "IT Infrastructure Upgrade",
+      "vendorId": 1,
+      "vendorName": "Zambia ICT Solutions Ltd",
+      "contractValue": 3980000,
+      "amountPaid": 1990000,
+      "startDate": "2025-03-15T00:00:00",
+      "endDate": "2025-09-15T00:00:00",
+      "status": "Active",
+      "amendments": 0,
+      "performanceBondValue": 398000,
+      "isPerformanceBondValid": true
+    },
+    {
+      "id": 2,
+      "companyId": 1,
+      "companyName": "ZESCO Limited",
+      "contractNumber": "ZESCO/C/2024/022",
+      "title": "Lusaka South Substation Upgrade",
+      "vendorId": 2,
+      "vendorName": "Copperbelt Engineering Services Ltd",
+      "contractValue": 24500000,
+      "amountPaid": 22050000,
+      "startDate": "2024-04-01T00:00:00",
+      "endDate": "2025-04-30T00:00:00",
+      "status": "Active",
+      "amendments": 1,
+      "performanceBondValue": 2450000,
+      "isPerformanceBondValid": true
+    }
+  ],
+  "relatedPartyTransactions": [
+    {
+      "id": 1,
+      "companyId": 2,
+      "companyName": "Industrial Development Corporation",
+      "relatedParty": "ZESCO Limited",
+      "relationshipType": "Portfolio Company",
+      "transactionType": "Management Fee",
+      "transactionValue": 12000000,
+      "transactionDate": "2025-01-31T00:00:00",
+      "isArmsLength": true,
+      "isApproved": true,
+      "approvalAuthority": "IDC Board",
+      "status": "Completed"
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "cashPositions": [
+    {
+      "id": 1,
+      "companyId": 2,
+      "companyName": "Industrial Development Corporation",
+      "date": "2025-03-20T00:00:00",
+      "cashOnHand": 12500000,
+      "bankBalance": 285000000,
+      "shortTermInvestments": 150000000,
+      "dailyOperatingCashNeed": 4200000,
+      "currency": "ZMW"
+    },
+    {
+      "id": 2,
+      "companyId": 1,
+      "companyName": "ZESCO Limited",
+      "date": "2025-03-20T00:00:00",
+      "cashOnHand": 8200000,
+      "bankBalance": 420000000,
+      "shortTermInvestments": 80000000,
+      "dailyOperatingCashNeed": 18500000,
+      "currency": "ZMW"
+    },
+    {
+      "id": 3,
+      "companyId": 5,
+      "companyName": "ZCCM Investments Holdings PLC",
+      "date": "2025-03-20T00:00:00",
+      "cashOnHand": 5400000,
+      "bankBalance": 195000000,
+      "shortTermInvestments": 220000000,
+      "dailyOperatingCashNeed": 8800000,
+      "currency": "ZMW"
+    }
+  ],
+  "debtInstruments": [
+    {
+      "id": 1,
+      "companyId": 1,
+      "companyName": "ZESCO Limited",
+      "instrumentType": "Term Loan",
+      "lender": "African Development Bank",
+      "principalAmount": 1200000000,
+      "outstandingBalance": 840000000,
+      "interestRate": 4.5,
+      "issueDate": "2019-06-01T00:00:00",
+      "maturityDate": "2029-06-01T00:00:00",
+      "currency": "USD",
+      "isSovereignGuaranteed": true,
+      "creditRating": "B+",
+      "status": "Current"
+    },
+    {
+      "id": 2,
+      "companyId": 5,
+      "companyName": "ZCCM Investments Holdings PLC",
+      "instrumentType": "Corporate Bond",
+      "lender": "LuSE Bondholders",
+      "principalAmount": 500000000,
+      "outstandingBalance": 500000000,
+      "interestRate": 18.5,
+      "issueDate": "2023-09-15T00:00:00",
+      "maturityDate": "2026-09-15T00:00:00",
+      "currency": "ZMW",
+      "isSovereignGuaranteed": false,
+      "creditRating": "BB-",
+      "status": "Current"
+    },
+    {
+      "id": 3,
+      "companyId": 2,
+      "companyName": "Industrial Development Corporation",
+      "instrumentType": "Revolving Credit Facility",
+      "lender": "Stanbic Bank Zambia",
+      "principalAmount": 200000000,
+      "outstandingBalance": 85000000,
+      "interestRate": 22.0,
+      "issueDate": "2024-01-15T00:00:00",
+      "maturityDate": "2025-12-31T00:00:00",
+      "currency": "ZMW",
+      "isSovereignGuaranteed": false,
+      "creditRating": "N/A",
+      "status": "Current"
+    }
+  ],
+  "dividends": [
+    {
+      "id": 1,
+      "companyId": 1,
+      "companyName": "ZESCO Limited",
+      "fiscalYear": 2024,
+      "netIncome": 890000000,
+      "dividendDeclared": 222500000,
+      "dividendPaid": 222500000,
+      "retainedEarnings": 667500000,
+      "dividendYield": 3.6,
+      "declarationDate": "2025-02-28T00:00:00",
+      "paymentDate": "2025-03-31T00:00:00",
+      "status": "Paid"
+    },
+    {
+      "id": 2,
+      "companyId": 5,
+      "companyName": "ZCCM Investments Holdings PLC",
+      "fiscalYear": 2024,
+      "netIncome": 410000000,
+      "dividendDeclared": 82000000,
+      "dividendPaid": 82000000,
+      "retainedEarnings": 328000000,
+      "dividendYield": 2.6,
+      "declarationDate": "2025-03-10T00:00:00",
+      "paymentDate": "2025-04-15T00:00:00",
+      "status": "Declared"
+    }
+  ]
+}

@@ -1,0 +1,125 @@
+{
+  "annualReports": [
+    {
+      "id": 1,
+      "companyId": 2,
+      "companyName": "Industrial Development Corporation",
+      "fiscalYear": 2024,
+      "publicationDate": "2025-04-30T00:00:00",
+      "status": "Published",
+      "hasFinancialStatements": true,
+      "hasGovernanceDisclosure": true,
+      "hasCompensationDisclosure": true,
+      "hasRelatedPartyDisclosure": true,
+      "hasESGDisclosure": true,
+      "auditOpinion": "Unqualified",
+      "downloadUrl": "https://idc.co.zm/annual-report-2024.pdf",
+      "pageCount": 148
+    },
+    {
+      "id": 2,
+      "companyId": 1,
+      "companyName": "ZESCO Limited",
+      "fiscalYear": 2024,
+      "publicationDate": "2025-05-31T00:00:00",
+      "status": "In Preparation",
+      "hasFinancialStatements": false,
+      "hasGovernanceDisclosure": false,
+      "hasCompensationDisclosure": false,
+      "hasRelatedPartyDisclosure": false,
+      "hasESGDisclosure": false,
+      "auditOpinion": "Pending",
+      "downloadUrl": "",
+      "pageCount": 0
+    },
+    {
+      "id": 3,
+      "companyId": 5,
+      "companyName": "ZCCM Investments Holdings PLC",
+      "fiscalYear": 2024,
+      "publicationDate": "2025-04-15T00:00:00",
+      "status": "Published",
+      "hasFinancialStatements": true,
+      "hasGovernanceDisclosure": true,
+      "hasCompensationDisclosure": true,
+      "hasRelatedPartyDisclosure": true,
+      "hasESGDisclosure": true,
+      "auditOpinion": "Unqualified",
+      "downloadUrl": "https://zccm-ih.com.zm/annual-report-2024.pdf",
+      "pageCount": 182
+    }
+  ],
+  "disclosures": [
+    {
+      "id": 1,
+      "companyId": 2,
+      "companyName": "Industrial Development Corporation",
+      "disclosureType": "Material Transaction",
+      "title": "IDC Appoints Transaction Advisors for ZAFFICO Privatisation",
+      "description": "IDC has appointed Pan African Advisory Group as transaction advisor for the privatisation of ZAFFICO.",
+      "eventDate": "2025-03-18T00:00:00",
+      "disclosureDate": "2025-03-20T00:00:00",
+      "channel": "IDC Website, MoF Press Release",
+      "status": "Published"
+    },
+    {
+      "id": 2,
+      "companyId": 5,
+      "companyName": "ZCCM Investments Holdings PLC",
+      "disclosureType": "Financial Result",
+      "title": "ZCCM-IH FY2024 Preliminary Results",
+      "description": "ZCCM-IH announces FY2024 preliminary financial results with revenue of ZMW 3.1 billion.",
+      "eventDate": "2025-03-05T00:00:00",
+      "disclosureDate": "2025-03-05T00:00:00",
+      "channel": "LuSE Announcement, ZCCM-IH Website",
+      "status": "Published"
+    }
+  ],
+  "parliamentReports": [
+    {
+      "id": 1,
+      "reportType": "SOE Portfolio Performance Report",
+      "fiscalYear": 2024,
+      "submittingMinistry": "Ministry of Finance",
+      "committee": "Parliamentary Committee on Economic Affairs",
+      "dueDate": "2025-03-31T00:00:00",
+      "submissionDate": "2025-03-28T00:00:00",
+      "status": "Submitted",
+      "questionsRaised": 12,
+      "questionsAnswered": 12,
+      "outcome": "Accepted with recommendations"
+    }
+  ],
+  "citizenMetrics": [
+    {
+      "id": 1,
+      "metricCategory": "Economic Impact",
+      "metricName": "Total SOE Employment",
+      "currentValue": 48500,
+      "previousValue": 46200,
+      "unit": "Employees",
+      "description": "Total number of Zambians employed across IDC portfolio companies",
+      "asOfDate": "2025-03-31T00:00:00"
+    },
+    {
+      "id": 2,
+      "metricCategory": "Financial",
+      "metricName": "Dividends Paid to Government",
+      "currentValue": 304500000,
+      "previousValue": 275000000,
+      "unit": "ZMW",
+      "description": "Total dividends paid by IDC portfolio companies to the Government of Zambia",
+      "asOfDate": "2025-03-31T00:00:00"
+    },
+    {
+      "id": 3,
+      "metricCategory": "Service Delivery",
+      "metricName": "Electricity Access Rate",
+      "currentValue": 48.2,
+      "previousValue": 45.8,
+      "unit": "Percentage",
+      "description": "Percentage of Zambian households with access to electricity (ZESCO)",
+      "asOfDate": "2025-03-31T00:00:00"
+    }
+  ]
+}

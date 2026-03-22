@@ -1,0 +1,133 @@
+{
+  "rationales": [
+    {
+      "id": 1,
+      "companyId": 1,
+      "companyName": "ZESCO Limited",
+      "ownershipPurpose": "Strategic Infrastructure",
+      "justification": "ZESCO operates the national electricity grid, a natural monopoly critical to national energy security and economic development. Private ownership without strong regulation could result in underinvestment in rural electrification.",
+      "lastReviewDate": "2024-06-30T00:00:00",
+      "nextReviewDate": "2026-06-30T00:00:00",
+      "privatizationReadiness": "Not Ready",
+      "publicInterestRationale": "Universal electricity access mandate. Rural electrification cross-subsidy.",
+      "reviewOutcome": "Retain full state ownership. Explore PPP for generation assets.",
+      "isStrategic": true
+    },
+    {
+      "id": 2,
+      "companyId": 5,
+      "companyName": "ZCCM Investments Holdings PLC",
+      "ownershipPurpose": "Resource Revenue Management",
+      "justification": "ZCCM-IH holds government equity stakes in copper mining companies, ensuring Zambia captures resource rents from its mineral wealth.",
+      "lastReviewDate": "2024-06-30T00:00:00",
+      "nextReviewDate": "2026-06-30T00:00:00",
+      "privatizationReadiness": "Partial",
+      "publicInterestRationale": "Mineral resource sovereignty. Dividend income for national development.",
+      "reviewOutcome": "Retain majority stake. Consider listing additional shares on LuSE.",
+      "isStrategic": true
+    },
+    {
+      "id": 3,
+      "companyId": 6,
+      "companyName": "ZAFFICO",
+      "ownershipPurpose": "Commercial",
+      "justification": "ZAFFICO operates commercial forestry plantations. The commercial rationale for state ownership has weakened given private sector capacity.",
+      "lastReviewDate": "2024-06-30T00:00:00",
+      "nextReviewDate": "2025-12-31T00:00:00",
+      "privatizationReadiness": "Ready",
+      "publicInterestRationale": "Limited. Environmental stewardship obligations can be addressed through regulation.",
+      "reviewOutcome": "Proceed with privatisation. Transaction advisor appointed.",
+      "isStrategic": false
+    }
+  ],
+  "policyAlignments": [
+    {
+      "id": 1,
+      "companyId": 1,
+      "companyName": "ZESCO Limited",
+      "policyFramework": "Zambia Vision 2030",
+      "specificGoal": "Universal electricity access by 2030",
+      "alignmentArea": "Energy Access",
+      "contributionScore": 72.0,
+      "status": "On Track",
+      "measurableOutcome": "Electricity access rate increased from 45.8% to 48.2% in FY2024",
+      "assessmentDate": "2025-03-31T00:00:00",
+      "sdGsAddressed": ["SDG 7", "SDG 9", "SDG 11"]
+    },
+    {
+      "id": 2,
+      "companyId": 2,
+      "companyName": "Industrial Development Corporation",
+      "policyFramework": "8th National Development Plan",
+      "specificGoal": "Industrialisation and economic diversification",
+      "alignmentArea": "Industrial Development",
+      "contributionScore": 68.0,
+      "status": "On Track",
+      "measurableOutcome": "IDC portfolio companies contributed 8.4% of GDP in FY2024",
+      "assessmentDate": "2025-03-31T00:00:00",
+      "sdGsAddressed": ["SDG 8", "SDG 9", "SDG 10"]
+    }
+  ],
+  "communityServiceObligations": [
+    {
+      "id": 1,
+      "companyId": 1,
+      "companyName": "ZESCO Limited",
+      "serviceType": "Rural Electrification",
+      "description": "Provision of subsidised electricity connections to rural households under the Rural Electrification Programme.",
+      "targetBeneficiaries": "Rural households in Zambia",
+      "beneficiariesServed": 185000,
+      "annualCost": 420000000,
+      "governmentCompensation": 280000000,
+      "fiscalYear": 2024,
+      "compensationMechanism": "Direct budget transfer from Ministry of Energy",
+      "status": "Active"
+    },
+    {
+      "id": 2,
+      "companyId": 3,
+      "companyName": "ZAMTEL",
+      "serviceType": "Universal Service Obligation",
+      "description": "Provision of telecommunications services to underserved rural areas at regulated tariffs.",
+      "targetBeneficiaries": "Rural communities in remote provinces",
+      "beneficiariesServed": 320000,
+      "annualCost": 85000000,
+      "governmentCompensation": 42000000,
+      "fiscalYear": 2024,
+      "compensationMechanism": "Universal Service Fund",
+      "status": "Active"
+    }
+  ],
+  "performanceContracts": [
+    {
+      "id": 1,
+      "companyId": 2,
+      "companyName": "Industrial Development Corporation",
+      "contractType": "Annual Performance Agreement",
+      "contractingParty": "Ministry of Finance",
+      "fiscalYear": 2024,
+      "startDate": "2024-01-01T00:00:00",
+      "endDate": "2024-12-31T00:00:00",
+      "totalKRAs": 8,
+      "kRAsAchieved": 6,
+      "overallScore": 78.5,
+      "status": "Completed",
+      "performanceRating": "Meets Expectations"
+    },
+    {
+      "id": 2,
+      "companyId": 1,
+      "companyName": "ZESCO Limited",
+      "contractType": "Annual Performance Agreement",
+      "contractingParty": "Ministry of Energy",
+      "fiscalYear": 2024,
+      "startDate": "2024-01-01T00:00:00",
+      "endDate": "2024-12-31T00:00:00",
+      "totalKRAs": 10,
+      "kRAsAchieved": 7,
+      "overallScore": 72.0,
+      "status": "Completed",
+      "performanceRating": "Meets Expectations"
+    }
+  ]
+}

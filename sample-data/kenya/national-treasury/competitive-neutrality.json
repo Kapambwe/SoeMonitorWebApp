@@ -1,0 +1,94 @@
+{
+  "subsidies": [
+    {
+      "id": 1,
+      "companyId": 1,
+      "companyName": "ZESCO Limited",
+      "subsidyType": "Tariff Subsidy",
+      "description": "Government-mandated below-cost electricity tariffs for residential and agricultural consumers, with MoF compensating ZESCO for the revenue shortfall.",
+      "value": 420000000,
+      "fiscalYear": 2024,
+      "grantingAuthority": "Ministry of Finance",
+      "legalBasis": "Energy Regulation Act, Section 42",
+      "isWTONotifiable": false,
+      "expiryDate": null,
+      "status": "Active"
+    },
+    {
+      "id": 2,
+      "companyId": 3,
+      "companyName": "ZAMTEL",
+      "subsidyType": "Universal Service Obligation Compensation",
+      "description": "Government compensation for ZAMTEL's obligation to provide telecommunications services in rural areas at regulated tariffs.",
+      "value": 42000000,
+      "fiscalYear": 2024,
+      "grantingAuthority": "Universal Service Fund",
+      "legalBasis": "Information and Communications Technologies Act",
+      "isWTONotifiable": false,
+      "expiryDate": "2026-12-31T00:00:00",
+      "status": "Active"
+    },
+    {
+      "id": 3,
+      "companyId": 1,
+      "companyName": "ZESCO Limited",
+      "subsidyType": "Sovereign Guarantee",
+      "description": "Government sovereign guarantee on ZESCO's AfDB loan, reducing borrowing cost by approximately 2.5% per annum.",
+      "value": 21000000,
+      "fiscalYear": 2024,
+      "grantingAuthority": "Ministry of Finance",
+      "legalBasis": "Loans and Guarantees (Authorisation) Act",
+      "isWTONotifiable": true,
+      "expiryDate": "2029-06-01T00:00:00",
+      "status": "Active"
+    }
+  ],
+  "marketConduct": [
+    {
+      "id": 1,
+      "companyId": 1,
+      "companyName": "ZESCO Limited",
+      "marketType": "Electricity Generation & Distribution",
+      "marketShare": 100.0,
+      "hasPredatoryPricingConcern": false,
+      "hasCrossSubsidizationConcern": true,
+      "pricingPolicy": "Regulated tariff set by Energy Regulation Board",
+      "competitorAveragePrice": 0,
+      "soePrice": 0.85,
+      "competitiveNeutralityStatus": "Monopoly — Regulated",
+      "assessmentDate": "2025-01-31T00:00:00"
+    },
+    {
+      "id": 2,
+      "companyId": 3,
+      "companyName": "ZAMTEL",
+      "marketType": "Mobile Telecommunications",
+      "marketShare": 8.5,
+      "hasPredatoryPricingConcern": false,
+      "hasCrossSubsidizationConcern": false,
+      "pricingPolicy": "Market-based with USO obligations",
+      "competitorAveragePrice": 0.45,
+      "soePrice": 0.42,
+      "competitiveNeutralityStatus": "Competitive Market — Minor Concern",
+      "assessmentDate": "2025-01-31T00:00:00"
+    }
+  ],
+  "cases": [
+    {
+      "id": 1,
+      "companyId": 1,
+      "companyName": "ZESCO Limited",
+      "caseNumber": "CCPC-2024-018",
+      "caseType": "Market Dominance",
+      "allegationType": "Cross-subsidisation",
+      "complainant": "Independent Power Producers Association of Zambia",
+      "filingDate": "2024-09-15T00:00:00",
+      "competitionAuthority": "Competition and Consumer Protection Commission",
+      "status": "Under Investigation",
+      "decisionDate": null,
+      "outcome": "",
+      "penaltyAmount": 0,
+      "remediationRequired": "Pending investigation outcome"
+    }
+  ]
+}

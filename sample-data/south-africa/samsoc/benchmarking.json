@@ -1,0 +1,160 @@
+{
+  "peerBenchmarks": [
+    {
+      "id": 1,
+      "companyId": 2,
+      "companyName": "Industrial Development Corporation",
+      "sector": "State Investment Company",
+      "peerCompany": "Temasek Holdings",
+      "peerCountry": "Singapore",
+      "metricCategory": "Financial",
+      "metricName": "Return on Equity",
+      "soeValue": 8.4,
+      "peerValue": 14.2,
+      "performance": "Below Peer",
+      "assessmentDate": "2025-01-31T00:00:00"
+    },
+    {
+      "id": 2,
+      "companyId": 2,
+      "companyName": "Industrial Development Corporation",
+      "sector": "State Investment Company",
+      "peerCompany": "Khazanah Nasional",
+      "peerCountry": "Malaysia",
+      "metricCategory": "Governance",
+      "metricName": "Board Independence Rate",
+      "soeValue": 66.7,
+      "peerValue": 75.0,
+      "performance": "Below Peer",
+      "assessmentDate": "2025-01-31T00:00:00"
+    },
+    {
+      "id": 3,
+      "companyId": 1,
+      "companyName": "ZESCO Limited",
+      "sector": "Electricity Utility",
+      "peerCompany": "Kenya Power",
+      "peerCountry": "Kenya",
+      "metricCategory": "Operational",
+      "metricName": "System Average Interruption Duration Index (SAIDI) — Hours",
+      "soeValue": 48.2,
+      "peerValue": 28.5,
+      "performance": "Below Peer",
+      "assessmentDate": "2025-01-31T00:00:00"
+    },
+    {
+      "id": 4,
+      "companyId": 5,
+      "companyName": "ZCCM Investments Holdings PLC",
+      "sector": "Mining Investment",
+      "peerCompany": "Minerals and Metals Group",
+      "peerCountry": "Australia",
+      "metricCategory": "ESG",
+      "metricName": "CO2 Emissions per Tonne of Copper (tCO2e/t)",
+      "soeValue": 4.8,
+      "peerValue": 3.2,
+      "performance": "Below Peer",
+      "assessmentDate": "2025-01-31T00:00:00"
+    }
+  ],
+  "bestPractices": [
+    {
+      "id": 1,
+      "category": "Governance",
+      "title": "Integrated Reporting Framework",
+      "description": "Adoption of the International Integrated Reporting Framework (<IR>) for SOE annual reports, combining financial and non-financial performance.",
+      "sourceOrganization": "International Integrated Reporting Council",
+      "sourceCountry": "International",
+      "applicableSectors": "All SOEs",
+      "implementationGuide": "Adopt <IR> framework for FY2025 annual reports. Training for finance and communications teams required.",
+      "expectedBenefits": "Improved transparency, better stakeholder engagement, higher ESG ratings.",
+      "documentUrl": "https://www.integratedreporting.org",
+      "addedDate": "2025-01-15T00:00:00",
+      "viewCount": 42,
+      "adoptionCount": 1,
+      "relevance": 88.0
+    },
+    {
+      "id": 2,
+      "category": "Financial",
+      "title": "Dividend Policy Framework",
+      "description": "Formalised dividend policy requiring SOEs to pay a minimum 25% of net profit as dividend to the state, with exceptions for capital-intensive investment periods.",
+      "sourceOrganization": "OECD",
+      "sourceCountry": "International",
+      "applicableSectors": "Commercial SOEs",
+      "implementationGuide": "Develop and gazette formal dividend policy. Embed in performance contracts.",
+      "expectedBenefits": "Predictable government revenue. Improved capital allocation discipline.",
+      "documentUrl": "https://www.oecd.org/corporate/soe-guidelines",
+      "addedDate": "2024-11-20T00:00:00",
+      "viewCount": 68,
+      "adoptionCount": 2,
+      "relevance": 92.0
+    }
+  ],
+  "rankings": [
+    {
+      "id": 1,
+      "companyId": 5,
+      "companyName": "ZCCM Investments Holdings PLC",
+      "rankingType": "Credit Rating",
+      "rankingBody": "Moody's",
+      "currentRanking": "B2",
+      "previousRanking": "B3",
+      "rankingChange": "Upgrade",
+      "rankingDate": "2025-02-10T00:00:00",
+      "outlook": "Stable",
+      "rationale": "Improved copper production volumes and stronger balance sheet.",
+      "nextReviewDate": "2026-02-10T00:00:00"
+    },
+    {
+      "id": 2,
+      "companyId": 2,
+      "companyName": "Industrial Development Corporation",
+      "rankingType": "ESG Rating",
+      "rankingBody": "MSCI",
+      "currentRanking": "BB",
+      "previousRanking": "B",
+      "rankingChange": "Upgrade",
+      "rankingDate": "2025-01-20T00:00:00",
+      "outlook": "Positive",
+      "rationale": "Improved governance disclosures and board diversity.",
+      "nextReviewDate": "2026-01-20T00:00:00"
+    }
+  ],
+  "gapAnalyses": [
+    {
+      "id": 1,
+      "companyId": 2,
+      "companyName": "Industrial Development Corporation",
+      "analysisArea": "Digital Transformation",
+      "gap": "IDC lacks a real-time portfolio monitoring system. Data is collected manually on a monthly basis.",
+      "currentState": "Manual monthly data collection via spreadsheets",
+      "targetState": "Real-time digital dashboard with automated data feeds from portfolio companies",
+      "gapSize": 65.0,
+      "rootCause": "Legacy IT systems. Insufficient IT budget allocation historically.",
+      "recommendedActions": "Implement portfolio management software. Mandate API data feeds from portfolio companies.",
+      "estimatedInvestment": 12000000,
+      "timeline": "18 months",
+      "priority": "High",
+      "status": "In Progress",
+      "progress": 25.0
+    },
+    {
+      "id": 2,
+      "companyId": 1,
+      "companyName": "ZESCO Limited",
+      "analysisArea": "Operational Efficiency",
+      "gap": "ZESCO's SAIDI of 48.2 hours is significantly above the regional average of 28.5 hours.",
+      "currentState": "SAIDI: 48.2 hours/year",
+      "targetState": "SAIDI: 25 hours/year by 2027",
+      "gapSize": 47.5,
+      "rootCause": "Aging transmission and distribution infrastructure. Insufficient maintenance budget.",
+      "recommendedActions": "Accelerate T&D rehabilitation programme. Implement predictive maintenance.",
+      "estimatedInvestment": 850000000,
+      "timeline": "3 years",
+      "priority": "High",
+      "status": "In Progress",
+      "progress": 15.0
+    }
+  ]
+}
