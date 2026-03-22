@@ -1,0 +1,62 @@
+[
+  {
+    "id": 30,
+    "meetingId": 30,
+    "resolutionNumber": "NT-RES-2025-001",
+    "title": "Approval of FY2025/26 Budget Policy Statement",
+    "description": "The Board resolved to approve the FY2025/26 Budget Policy Statement for tabling in the National Assembly, targeting a fiscal deficit of 4.3% of GDP.",
+    "status": "Approved",
+    "votesFor": 5,
+    "votesAgainst": 0,
+    "abstentions": 0,
+    "resolutionDate": "2025-02-10T09:00:00",
+    "implementationStatus": "Completed",
+    "implementationDeadline": "2025-02-15T00:00:00",
+    "responsiblePerson": "Cabinet Secretary"
+  },
+  {
+    "id": 31,
+    "meetingId": 30,
+    "resolutionNumber": "NT-RES-2025-002",
+    "title": "Approval of Public Debt Management Strategy 2025-2028",
+    "description": "The Board resolved to approve the Medium-Term Debt Management Strategy 2025-2028, targeting a reduction in external debt from 52% to 45% of total public debt by 2028.",
+    "status": "Approved",
+    "votesFor": 5,
+    "votesAgainst": 0,
+    "abstentions": 0,
+    "resolutionDate": "2025-02-10T09:00:00",
+    "implementationStatus": "In Progress",
+    "implementationDeadline": "2028-12-31T00:00:00",
+    "responsiblePerson": "Director General, Budget"
+  },
+  {
+    "id": 32,
+    "meetingId": 31,
+    "resolutionNumber": "NT-RES-2025-003",
+    "title": "Approval of Kenya Airways Restructuring Support Framework",
+    "description": "The Board resolved to approve the financial restructuring support framework for Kenya Airways, including a KES 12 billion government guarantee facility subject to performance milestones.",
+    "status": "Approved",
+    "votesFor": 4,
+    "votesAgainst": 1,
+    "abstentions": 0,
+    "resolutionDate": "2025-01-22T09:00:00",
+    "implementationStatus": "In Progress",
+    "implementationDeadline": "2025-12-31T00:00:00",
+    "responsiblePerson": "Principal Secretary"
+  },
+  {
+    "id": 33,
+    "meetingId": 31,
+    "resolutionNumber": "NT-RES-2025-004",
+    "title": "Approval of SOE Dividend Policy — Minimum 25% Payout",
+    "description": "The Board resolved to approve a revised SOE dividend policy requiring all profitable state corporations to remit a minimum of 25% of after-tax profit as dividend to the Consolidated Fund.",
+    "status": "Approved",
+    "votesFor": 5,
+    "votesAgainst": 0,
+    "abstentions": 0,
+    "resolutionDate": "2025-01-22T09:00:00",
+    "implementationStatus": "In Progress",
+    "implementationDeadline": "2025-06-30T00:00:00",
+    "responsiblePerson": "Director General, Budget"
+  }
+]
