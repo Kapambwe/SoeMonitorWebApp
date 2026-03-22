@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "companyId": 20,
+    "year": 2024,
+    "revenue": 12400000000,
+    "profit": 980000000,
+    "assets": 68500000000,
+    "marketShare": 100.0,
+    "dividendPaid": 0,
+    "complianceRating": "A",
+    "roi": 1.43
+  },
+  {
+    "id": 2,
+    "companyId": 20,
+    "year": 2023,
+    "revenue": 11200000000,
+    "profit": 820000000,
+    "assets": 65000000000,
+    "marketShare": 100.0,
+    "dividendPaid": 0,
+    "complianceRating": "A",
+    "roi": 1.26
+  },
+  {
+    "id": 3,
+    "companyId": 20,
+    "year": 2022,
+    "revenue": 9800000000,
+    "profit": 640000000,
+    "assets": 61000000000,
+    "marketShare": 100.0,
+    "dividendPaid": 0,
+    "complianceRating": "B+",
+    "roi": 1.05
+  },
+  {
+    "id": 4,
+    "companyId": 21,
+    "year": 2024,
+    "revenue": 204000000000,
+    "profit": -5200000000,
+    "assets": 1420000000000,
+    "marketShare": 95.0,
+    "dividendPaid": 0,
+    "complianceRating": "C",
+    "roi": -0.37
+  },
+  {
+    "id": 5,
+    "companyId": 22,
+    "year": 2024,
+    "revenue": 88000000000,
+    "profit": 3200000000,
+    "assets": 310000000000,
+    "marketShare": 85.0,
+    "dividendPaid": 800000000,
+    "complianceRating": "B+",
+    "roi": 1.03
+  }
+]

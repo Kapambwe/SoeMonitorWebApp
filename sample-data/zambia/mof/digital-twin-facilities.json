@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "MoF Lusaka Headquarters",
+    "type": "Factory",
+    "companyName": "Ministry of Finance",
+    "location": "Lusaka, Zambia",
+    "status": "Operational",
+    "latitude": -15.4167,
+    "longitude": 28.2833,
+    "lastUpdated": "2025-03-20T08:00:00",
+    "sensorData": { "staffPresent": 420, "systemsOnline": 14, "networkUptimePct": 99.2 }
+  },
+  {
+    "id": 2,
+    "name": "MoF Ndola Regional Office",
+    "type": "Factory",
+    "companyName": "Ministry of Finance",
+    "location": "Ndola, Copperbelt Province, Zambia",
+    "status": "Operational",
+    "latitude": -12.9667,
+    "longitude": 28.6333,
+    "lastUpdated": "2025-03-20T08:00:00",
+    "sensorData": { "staffPresent": 85, "systemsOnline": 6, "networkUptimePct": 98.5 }
+  },
+  {
+    "id": 3,
+    "name": "MoF Livingstone Regional Office",
+    "type": "Factory",
+    "companyName": "Ministry of Finance",
+    "location": "Livingstone, Southern Province, Zambia",
+    "status": "Operational",
+    "latitude": -17.8500,
+    "longitude": 25.8667,
+    "lastUpdated": "2025-03-20T08:00:00",
+    "sensorData": { "staffPresent": 62, "systemsOnline": 5, "networkUptimePct": 97.8 }
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "name": "ZESCO Kafue Gorge Power Station",
+    "type": "Factory",
+    "companyName": "ZESCO Limited",
+    "location": "Kafue Gorge, Zambia",
+    "status": "Operational",
+    "latitude": -15.8500,
+    "longitude": 28.4500,
+    "lastUpdated": "2025-03-20T08:00:00",
+    "sensorData": { "outputMW": 900, "capacityMW": 990, "utilizationPct": 90.9 }
+  },
+  {
+    "id": 2,
+    "name": "ZCCM Kansanshi Copper Mine",
+    "type": "Mine",
+    "companyName": "ZCCM Investments Holdings PLC",
+    "location": "Solwezi, North-Western Province, Zambia",
+    "status": "Operational",
+    "latitude": -12.1833,
+    "longitude": 26.4000,
+    "lastUpdated": "2025-03-20T08:00:00",
+    "sensorData": { "dailyOutputTonnes": 4200, "oregradePercent": 0.82, "equipmentUtilizationPct": 87.5 }
+  },
+  {
+    "id": 3,
+    "name": "ZAMTEL Lusaka Data Centre",
+    "type": "Factory",
+    "companyName": "Zambia Telecommunications Company",
+    "location": "Lusaka, Zambia",
+    "status": "Operational",
+    "latitude": -15.4167,
+    "longitude": 28.2833,
+    "lastUpdated": "2025-03-20T08:00:00",
+    "sensorData": { "uptimePct": 99.7, "serverLoadPct": 62.0, "coolingEfficiencyPct": 88.0 }
+  },
+  {
+    "id": 4,
+    "name": "ZAFFICO Copperbelt Plantation",
+    "type": "Farm",
+    "companyName": "Zambia Forestry and Forest Industries Corporation",
+    "location": "Ndola, Copperbelt Province, Zambia",
+    "status": "Operational",
+    "latitude": -12.9667,
+    "longitude": 28.6333,
+    "lastUpdated": "2025-03-20T08:00:00",
+    "sensorData": { "areaHectares": 42000, "harvestRateCubicMetresPerDay": 320, "soilMoisturePct": 54.0 }
+  }
+]
