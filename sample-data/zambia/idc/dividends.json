@@ -70,7 +70,7 @@
     "year": 2023,
     "dividendType": "Final",
     "totalAmount": 120000000,
-    "perShareAmount": null,
+    "perShareAmount": 0.0,
     "declarationDate": "2024-06-28T00:00:00",
     "paymentDate": "2024-07-31T00:00:00",
     "status": "Paid",
