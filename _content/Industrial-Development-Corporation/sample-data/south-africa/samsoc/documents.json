@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1, "companyId": 1, "companyName": "Eskom Holdings SOC Limited",
+    "title": "Eskom FY2024 Integrated Report", "description": "Eskom's annual integrated report covering financial performance, operational results, ESG and governance for FY2024.",
+    "category": "Report", "documentType": "PDF", "fileName": "Eskom_Integrated_Report_FY2024.pdf",
+    "filePath": "/documents/eskom/", "fileSize": 12500000, "version": "1.0",
+    "status": "Active", "accessLevel": "Public", "uploadedBy": "Eskom CFO",
+    "uploadDate": "2024-08-15", "expiryDate": null,
+    "tags": ["annual report", "FY2024", "energy", "load-shedding", "JETP"],
+    "lastModified": "2024-08-15", "modifiedBy": "Eskom CFO"
+  },
+  {
+    "id": 2, "companyId": 1, "companyName": "Eskom Holdings SOC Limited",
+    "title": "Eskom Just Energy Transition Plan 2024-2034", "description": "Eskom's 10-year plan for transitioning from coal to renewable energy in alignment with JETP commitments.",
+    "category": "Policy", "documentType": "PDF", "fileName": "Eskom_JET_Plan_2024.pdf",
+    "filePath": "/documents/eskom/", "fileSize": 8200000, "version": "1.0",
+    "status": "Active", "accessLevel": "Public", "uploadedBy": "Eskom CEO",
+    "uploadDate": "2024-12-01", "expiryDate": null,
+    "tags": ["JETP", "energy transition", "coal", "renewable", "climate"],
+    "lastModified": "2024-12-01", "modifiedBy": "Eskom CEO"
+  },
+  {
+    "id": 3, "companyId": 2, "companyName": "Transnet SOC Limited",
+    "title": "Transnet FY2024 Annual Report", "description": "Transnet's annual report covering freight volumes, financial performance and infrastructure investment.",
+    "category": "Report", "documentType": "PDF", "fileName": "Transnet_Annual_Report_FY2024.pdf",
+    "filePath": "/documents/transnet/", "fileSize": 9800000, "version": "1.0",
+    "status": "Active", "accessLevel": "Public", "uploadedBy": "Transnet CFO",
+    "uploadDate": "2024-09-30", "expiryDate": null,
+    "tags": ["annual report", "FY2024", "rail", "ports", "logistics"],
+    "lastModified": "2024-09-30", "modifiedBy": "Transnet CFO"
+  },
+  {
+    "id": 4, "companyId": 2, "companyName": "Transnet SOC Limited",
+    "title": "Transnet Durban Container Terminal PSP Framework", "description": "Private Sector Participation framework for Durban Container Terminal concession.",
+    "category": "Policy", "documentType": "PDF", "fileName": "Transnet_DCT_PSP_Framework.pdf",
+    "filePath": "/documents/transnet/", "fileSize": 3400000, "version": "2.0",
+    "status": "Active", "accessLevel": "Confidential", "uploadedBy": "Transnet CEO",
+    "uploadDate": "2024-12-15", "expiryDate": null,
+    "tags": ["PSP", "privatisation", "ports", "Durban", "concession"],
+    "lastModified": "2024-12-15", "modifiedBy": "Transnet CEO"
+  },
+  {
+    "id": 5, "companyId": null, "companyName": "",
+    "title": "South Africa SOE Governance Framework — King IV Application", "description": "SAMSOC governance framework for application of King IV principles across all managed SOEs.",
+    "category": "Policy", "documentType": "PDF", "fileName": "SAMSOC_King_IV_Framework.pdf",
+    "filePath": "/documents/samsoc/", "fileSize": 2100000, "version": "3.0",
+    "status": "Active", "accessLevel": "Internal", "uploadedBy": "SAMSOC CEO",
+    "uploadDate": "2024-03-01", "expiryDate": "2027-03-01",
+    "tags": ["King IV", "governance", "SOE", "framework", "board"],
+    "lastModified": "2024-03-01", "modifiedBy": "SAMSOC CEO"
+  },
+  {
+    "id": 6, "companyId": 3, "companyName": "South African Airways SOC Limited",
+    "title": "SAA FY2024 Annual Report", "description": "SAA annual report covering route network, passenger numbers, financial performance and Takatso transaction progress.",
+    "category": "Report", "documentType": "PDF", "fileName": "SAA_Annual_Report_FY2024.pdf",
+    "filePath": "/documents/saa/", "fileSize": 5600000, "version": "1.0",
+    "status": "Active", "accessLevel": "Public", "uploadedBy": "SAA CFO",
+    "uploadDate": "2024-10-31", "expiryDate": null,
+    "tags": ["annual report", "FY2024", "aviation", "Takatso", "business rescue"],
+    "lastModified": "2024-10-31", "modifiedBy": "SAA CFO"
+  },
+  {
+    "id": 7, "companyId": 4, "companyName": "Passenger Rail Agency of South Africa",
+    "title": "PRASA Service Recovery Plan 2024-2027", "description": "PRASA's plan to restore commuter rail services including rolling stock renewal, infrastructure rehabilitation and security improvement.",
+    "category": "Policy", "documentType": "PDF", "fileName": "PRASA_Service_Recovery_Plan.pdf",
+    "filePath": "/documents/prasa/", "fileSize": 4200000, "version": "1.0",
+    "status": "Active", "accessLevel": "Public", "uploadedBy": "PRASA CEO",
+    "uploadDate": "2024-07-15", "expiryDate": null,
+    "tags": ["service recovery", "rail", "commuter", "rolling stock", "infrastructure"],
+    "lastModified": "2024-07-15", "modifiedBy": "PRASA CEO"
+  },
+  {
+    "id": 8, "companyId": 5, "companyName": "Denel SOC Limited",
+    "title": "Denel Business Turnaround Plan 2024-2028", "description": "Denel's plan for financial recovery and operational restructuring following government recapitalisation.",
+    "category": "Policy", "documentType": "PDF", "fileName": "Denel_Turnaround_Plan_2024.pdf",
+    "filePath": "/documents/denel/", "fileSize": 3800000, "version": "2.0",
+    "status": "Active", "accessLevel": "Confidential", "uploadedBy": "Denel CEO",
+    "uploadDate": "2024-08-01", "expiryDate": null,
+    "tags": ["turnaround", "defence", "recapitalisation", "restructuring"],
+    "lastModified": "2024-08-01", "modifiedBy": "Denel CEO"
+  },
+  {
+    "id": 9, "companyId": 7, "companyName": "Airports Company South Africa SOC Limited",
+    "title": "ACSA FY2024 Integrated Report", "description": "ACSA's integrated report covering passenger volumes, financial performance, capital investment and sustainability.",
+    "category": "Report", "documentType": "PDF", "fileName": "ACSA_Integrated_Report_FY2024.pdf",
+    "filePath": "/documents/acsa/", "fileSize": 7200000, "version": "1.0",
+    "status": "Active", "accessLevel": "Public", "uploadedBy": "ACSA CFO",
+    "uploadDate": "2024-08-31", "expiryDate": null,
+    "tags": ["annual report", "FY2024", "airports", "aviation", "sustainability"],
+    "lastModified": "2024-08-31", "modifiedBy": "ACSA CFO"
+  }
+]

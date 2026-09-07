@@ -1,0 +1,86 @@
+﻿[
+  {
+    "id": 201,
+    "companyId": 2,
+    "companyName": "Industrial Development Corporation",
+    "complianceArea": "Board Composition",
+    "requirement": "Minimum 5 independent non-executive directors per Companies Act and IDC Articles",
+    "status": "Compliant",
+    "score": 95,
+    "lastReviewDate": "2025-01-15T00:00:00",
+    "nextReviewDate": "2025-07-15T00:00:00",
+    "notes": "Board has 6 independent NEDs. Board skills matrix reviewed annually. Two director vacancies filled in Q4 2024."
+  },
+  {
+    "id": 202,
+    "companyId": 2,
+    "companyName": "Industrial Development Corporation",
+    "complianceArea": "Financial Reporting",
+    "requirement": "Annual financial statements submitted to Ministry of Finance within 90 days of year end",
+    "status": "Compliant",
+    "score": 92,
+    "lastReviewDate": "2025-03-10T00:00:00",
+    "nextReviewDate": "2026-03-10T00:00:00",
+    "notes": "FY2024 financial statements submitted on 10 March 2025, within the 90-day deadline. Unqualified audit opinion received."
+  },
+  {
+    "id": 203,
+    "companyId": 5,
+    "companyName": "ZCCM Investments Holdings PLC",
+    "complianceArea": "Securities Exchange Disclosure",
+    "requirement": "Quarterly and annual results disclosure per LuSE and LSE listing requirements",
+    "status": "Compliant",
+    "score": 88,
+    "lastReviewDate": "2025-02-28T00:00:00",
+    "nextReviewDate": "2025-05-31T00:00:00",
+    "notes": "All quarterly results published on time. Annual report submitted within LuSE deadline. LSE disclosure obligations met."
+  },
+  {
+    "id": 204,
+    "companyId": 5,
+    "companyName": "ZCCM Investments Holdings PLC",
+    "complianceArea": "Mine Rehabilitation Fund",
+    "requirement": "Rehabilitation fund maintained at minimum 100% of estimated closure costs per ZEMA regulations",
+    "status": "NonCompliant",
+    "score": 62,
+    "lastReviewDate": "2025-01-20T00:00:00",
+    "nextReviewDate": "2025-06-30T00:00:00",
+    "notes": "Actuarial review indicates fund shortfall of approximately ZMW 570 million. Remediation plan submitted to ZEMA. Top-up contributions scheduled for Q2-Q4 2025."
+  },
+  {
+    "id": 205,
+    "companyId": 1,
+    "companyName": "ZESCO Limited",
+    "complianceArea": "ERB Licence Conditions",
+    "requirement": "Full compliance with all 45 ERB electricity licence conditions",
+    "status": "PartiallyCompliant",
+    "score": 78,
+    "lastReviewDate": "2025-02-05T00:00:00",
+    "nextReviewDate": "2025-08-05T00:00:00",
+    "notes": "42 of 45 licence conditions fully compliant. Three conditions relating to quality of service standards (SAIDI/SAIFI) partially compliant due to aging infrastructure. Improvement plan submitted to ERB."
+  },
+  {
+    "id": 206,
+    "companyId": 4,
+    "companyName": "Zambia Railways Limited",
+    "complianceArea": "RTSA Safety Certificate",
+    "requirement": "Valid RTSA operating certificate with all Category A safety deficiencies resolved",
+    "status": "NonCompliant",
+    "score": 55,
+    "lastReviewDate": "2025-01-31T00:00:00",
+    "nextReviewDate": "2025-04-30T00:00:00",
+    "notes": "5 of 12 Category A safety deficiencies from 2023 RTSA audit remain unresolved. RTSA has granted conditional extension pending resolution. ZRL engaging RTSA monthly on progress."
+  },
+  {
+    "id": 207,
+    "companyId": 3,
+    "companyName": "Zambia National Commercial Bank (ZANACO)",
+    "complianceArea": "Bank of Zambia Capital Adequacy",
+    "requirement": "Capital Adequacy Ratio (CAR) minimum 10% per BoZ Banking and Financial Services Act",
+    "status": "Compliant",
+    "score": 90,
+    "lastReviewDate": "2025-01-31T00:00:00",
+    "nextReviewDate": "2025-04-30T00:00:00",
+    "notes": "CAR at 14.3% as at Q3 2024, well above the 10% minimum. Stress test results indicate CAR remains above 11% under severe scenario. BoZ satisfied with capital position."
+  }
+]

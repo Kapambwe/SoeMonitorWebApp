@@ -1,0 +1,31 @@
+{
+  "annualReports": [
+    { "id": 1, "companyId": 1, "companyName": "KenGen", "fiscalYear": 2023, "status": "Published", "hasFinancialStatements": true, "hasGovernanceDisclosure": true, "hasCompensationDisclosure": true, "hasRelatedPartyDisclosure": true, "hasESGDisclosure": true, "auditOpinion": "Unqualified", "pageCount": 168 },
+    { "id": 2, "companyId": 2, "companyName": "Kenya Airways", "fiscalYear": 2023, "status": "Published", "hasFinancialStatements": true, "hasGovernanceDisclosure": true, "hasCompensationDisclosure": true, "hasRelatedPartyDisclosure": true, "hasESGDisclosure": true, "auditOpinion": "Qualified", "pageCount": 195 },
+    { "id": 3, "companyId": 3, "companyName": "KPLC", "fiscalYear": 2023, "status": "Published", "hasFinancialStatements": true, "hasGovernanceDisclosure": true, "hasCompensationDisclosure": true, "hasRelatedPartyDisclosure": true, "hasESGDisclosure": true, "auditOpinion": "Unqualified", "pageCount": 182 },
+    { "id": 4, "companyId": 4, "companyName": "KPA", "fiscalYear": 2023, "status": "Published", "hasFinancialStatements": true, "hasGovernanceDisclosure": true, "hasCompensationDisclosure": false, "hasRelatedPartyDisclosure": true, "hasESGDisclosure": false, "auditOpinion": "Unqualified", "pageCount": 145 },
+    { "id": 5, "companyId": 5, "companyName": "KRC", "fiscalYear": 2023, "status": "Late", "hasFinancialStatements": true, "hasGovernanceDisclosure": false, "hasCompensationDisclosure": false, "hasRelatedPartyDisclosure": false, "hasESGDisclosure": false, "auditOpinion": "Adverse", "pageCount": 98 },
+    { "id": 6, "companyId": 6, "companyName": "KPC", "fiscalYear": 2023, "status": "Published", "hasFinancialStatements": true, "hasGovernanceDisclosure": true, "hasCompensationDisclosure": true, "hasRelatedPartyDisclosure": true, "hasESGDisclosure": true, "auditOpinion": "Unqualified", "pageCount": 155 },
+    { "id": 7, "companyId": 7, "companyName": "KBC", "fiscalYear": 2023, "status": "Late", "hasFinancialStatements": true, "hasGovernanceDisclosure": false, "hasCompensationDisclosure": false, "hasRelatedPartyDisclosure": false, "hasESGDisclosure": false, "auditOpinion": "Qualified", "pageCount": 88 }
+  ],
+  "disclosures": [
+    { "id": 1, "companyId": 1, "companyName": "KenGen", "disclosureType": "Financial Results", "title": "KenGen H1 FY2024 Financial Results", "description": "Half-year financial performance showing revenue growth of 12% driven by increased geothermal output", "channel": "Nairobi Securities Exchange", "status": "Published" },
+    { "id": 2, "companyId": 2, "companyName": "Kenya Airways", "disclosureType": "Material Event", "title": "Government Recapitalisation Package", "description": "Disclosure of KES 20 billion government recapitalisation and associated restructuring conditions", "channel": "Press Release & NSE", "status": "Published" },
+    { "id": 3, "companyId": 3, "companyName": "KPLC", "disclosureType": "Tariff Change", "title": "Electricity Tariff Review 2024", "description": "Energy Regulatory Commission approved 16% electricity tariff adjustment effective January 2024", "channel": "Kenya Gazette & Website", "status": "Published" },
+    { "id": 4, "companyId": 4, "companyName": "KPA", "disclosureType": "Major Contract", "title": "Mombasa Port Expansion Contract Award", "description": "Award of KES 45 billion container terminal expansion contract to China Communications Construction Company", "channel": "Website", "status": "Published" },
+    { "id": 5, "companyId": 5, "companyName": "KRC", "disclosureType": "Financial Distress", "title": "SGR Debt Servicing Challenges", "description": "Disclosure of difficulties in meeting SGR loan repayment obligations to Exim Bank of China", "channel": "National Assembly Report", "status": "Published" }
+  ],
+  "parliamentReports": [
+    { "id": 1, "reportType": "Annual SOE Portfolio Review", "fiscalYear": 2023, "submittingMinistry": "National Treasury", "committee": "Public Accounts Committee", "status": "Accepted", "questionsRaised": 42, "questionsAnswered": 38, "outcome": "Report adopted with recommendations on KRC debt management" },
+    { "id": 2, "reportType": "Budget Submission — SOE Recapitalisation", "fiscalYear": 2024, "submittingMinistry": "National Treasury", "committee": "Budget and Appropriations Committee", "status": "Accepted", "questionsRaised": 18, "questionsAnswered": 18, "outcome": "KES 20 billion Kenya Airways bailout approved" },
+    { "id": 3, "reportType": "SGR Debt Inquiry Report", "fiscalYear": 2024, "submittingMinistry": "Ministry of Transport", "committee": "Transport, Public Works and Housing Committee", "status": "Pending", "questionsRaised": 35, "questionsAnswered": 12, "outcome": "" },
+    { "id": 4, "reportType": "State Corporations Act Compliance Report", "fiscalYear": 2023, "submittingMinistry": "National Treasury", "committee": "Finance and National Planning Committee", "status": "Accepted", "questionsRaised": 22, "questionsAnswered": 22, "outcome": "Compliance improvements noted; KBC and KRC flagged for governance gaps" }
+  ],
+  "citizenMetrics": [
+    { "id": 1, "metricCategory": "Jobs", "metricName": "Total SOE Employment", "currentValue": 29500, "previousValue": 28200, "unit": "employees", "description": "Direct employment across all 7 National Treasury SOEs" },
+    { "id": 2, "metricCategory": "Services", "metricName": "Electricity Access Rate", "currentValue": 75, "previousValue": 68, "unit": "% population", "description": "Percentage of Kenyan population with access to electricity" },
+    { "id": 3, "metricCategory": "Investment", "metricName": "Capital Expenditure", "currentValue": 185000000000, "previousValue": 162000000000, "unit": "KES", "description": "Annual capital investment by National Treasury SOEs" },
+    { "id": 4, "metricCategory": "Transport", "metricName": "SGR Passenger Journeys", "currentValue": 4200000, "previousValue": 3800000, "unit": "journeys/year", "description": "Annual passenger journeys on the Standard Gauge Railway" },
+    { "id": 5, "metricCategory": "Environment", "metricName": "Renewable Energy Share", "currentValue": 92, "previousValue": 88, "unit": "% of generation", "description": "Percentage of Kenya's electricity from renewable sources" }
+  ]
+}

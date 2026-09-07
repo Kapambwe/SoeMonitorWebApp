@@ -1,0 +1,126 @@
+[
+  {
+    "id": 301,
+    "name": "Enoch Godongwana",
+    "type": "Government",
+    "organization": "National Treasury South Africa",
+    "position": "Minister of Finance",
+    "contactEmail": "minister@treasury.gov.za",
+    "contactPhone": "+27-12-315-5111",
+    "influenceLevel": "High",
+    "interestLevel": "High",
+    "engagementStatus": "Active",
+    "notes": "Key shareholder representative for all South African SOEs. Oversees Eskom debt relief, Transnet recovery, and SOE governance reforms.",
+    "engagements": [
+      {
+        "id": 301,
+        "stakeholderId": 301,
+        "stakeholderName": "Enoch Godongwana",
+        "companyId": 10,
+        "companyName": "Eskom Holdings SOC Limited",
+        "engagementType": "Meeting",
+        "subject": "Eskom Debt Relief Year 3 Tranche — Milestone Review",
+        "engagementDate": "2025-01-20T10:00:00",
+        "attendees": "Eskom CEO, CFO, National Treasury DG, NT SOE Unit Director",
+        "summary": "Review of Eskom's progress against Year 3 debt relief milestones including EAF improvement and NTDC incorporation.",
+        "outcomes": "Year 3 tranche conditionally approved subject to EAF reaching 65% by 31 March 2025.",
+        "followUpActions": "Eskom to submit monthly EAF progress reports to National Treasury.",
+        "nextEngagementDate": "2025-04-15T00:00:00",
+        "status": "Completed"
+      }
+    ]
+  },
+  {
+    "id": 302,
+    "name": "Kgosientsho Ramokgopa",
+    "type": "Government",
+    "organization": "Department of Electricity and Energy",
+    "position": "Minister of Electricity and Energy",
+    "contactEmail": "minister@energy.gov.za",
+    "contactPhone": "+27-12-406-7500",
+    "influenceLevel": "High",
+    "interestLevel": "High",
+    "engagementStatus": "Active",
+    "notes": "Primary ministerial oversight for Eskom. Key decision-maker on energy policy, load shedding, and IPP procurement.",
+    "engagements": [
+      {
+        "id": 302,
+        "stakeholderId": 302,
+        "stakeholderName": "Kgosientsho Ramokgopa",
+        "companyId": 10,
+        "companyName": "Eskom Holdings SOC Limited",
+        "engagementType": "Meeting",
+        "subject": "Load Shedding Elimination Plan — Progress Review",
+        "engagementDate": "2025-02-10T10:00:00",
+        "attendees": "Eskom CEO, COO, Minister, Department DG, NERSA CEO",
+        "summary": "Review of Eskom's progress towards eliminating load shedding. EAF at 62% — Stage 0 maintained for 45 days.",
+        "outcomes": "Minister acknowledged progress; directed Eskom to maintain Stage 0 through winter 2025.",
+        "followUpActions": "Eskom to submit weekly EAF and generation status reports to Minister.",
+        "nextEngagementDate": "2025-03-10T00:00:00",
+        "status": "Completed"
+      }
+    ]
+  },
+  {
+    "id": 303,
+    "name": "Maropene Ramokgopa",
+    "type": "Regulator",
+    "organization": "National Energy Regulator of South Africa (NERSA)",
+    "position": "Chairperson",
+    "contactEmail": "chairperson@nersa.org.za",
+    "contactPhone": "+27-12-401-4600",
+    "influenceLevel": "High",
+    "interestLevel": "High",
+    "engagementStatus": "Active",
+    "notes": "NERSA regulates electricity tariffs, licences, and quality of service. Critical regulator for Eskom. MYPD6 tariff determination process ongoing.",
+    "engagements": [
+      {
+        "id": 303,
+        "stakeholderId": 303,
+        "stakeholderName": "Maropene Ramokgopa",
+        "companyId": 10,
+        "companyName": "Eskom Holdings SOC Limited",
+        "engagementType": "Consultation",
+        "subject": "MYPD6 Tariff Application — Public Hearings",
+        "engagementDate": "2024-11-15T09:00:00",
+        "attendees": "Eskom CEO, CFO, Tariff Director, NERSA Chairperson, NERSA Technical Team",
+        "summary": "NERSA public hearings on Eskom's MYPD6 tariff application requesting 36% average tariff increase over 3 years.",
+        "outcomes": "NERSA acknowledged Eskom's financial pressures; consumer impact assessment initiated.",
+        "followUpActions": "Eskom to submit supplementary financial modelling; NERSA to issue determination by March 2025.",
+        "nextEngagementDate": "2025-03-15T00:00:00",
+        "status": "Completed"
+      }
+    ]
+  },
+  {
+    "id": 304,
+    "name": "Pravin Gordhan",
+    "type": "Government",
+    "organization": "Department of Public Enterprises and Economic Planning",
+    "position": "Former Minister (Advisor)",
+    "contactEmail": "dpepe@gov.za",
+    "contactPhone": "+27-12-431-1000",
+    "influenceLevel": "Medium",
+    "interestLevel": "High",
+    "engagementStatus": "Active",
+    "notes": "DPEPE oversees SOE governance and structural reforms. Key stakeholder for Transnet recovery, SAA strategic equity partnership, and Denel recapitalisation.",
+    "engagements": [
+      {
+        "id": 304,
+        "stakeholderId": 304,
+        "stakeholderName": "DPEPE",
+        "companyId": 11,
+        "companyName": "Transnet SOC Limited",
+        "engagementType": "Meeting",
+        "subject": "Transnet Private Sector Participation Framework",
+        "engagementDate": "2025-01-25T10:00:00",
+        "attendees": "Transnet CEO, CFO, DPEPE DG, NT SOE Unit",
+        "summary": "Discussion on private sector participation framework for Durban Container Terminal and Freight Rail corridors.",
+        "outcomes": "Framework approved for submission to Cabinet. Durban Container Terminal PSP process to commence Q2 2025.",
+        "followUpActions": "Transnet to submit detailed PSP business case by March 2025.",
+        "nextEngagementDate": "2025-04-25T00:00:00",
+        "status": "Completed"
+      }
+    ]
+  }
+]

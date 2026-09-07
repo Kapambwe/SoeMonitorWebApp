@@ -1,0 +1,92 @@
+{
+  "soes": [
+    {
+      "id": 1,
+      "name": "ZESCO Limited",
+      "sector": "Energy",
+      "registrationNumber": "120001234",
+      "ownershipPercentage": 100.0,
+      "employees": 6800,
+      "annualRevenue": 6200000000,
+      "totalAssets": 22500000000,
+      "complianceScore": 78.5,
+      "status": "Operational"
+    },
+    {
+      "id": 2,
+      "name": "Industrial Development Corporation",
+      "sector": "Investment",
+      "registrationNumber": "120002345",
+      "ownershipPercentage": 100.0,
+      "employees": 420,
+      "annualRevenue": 4850000000,
+      "totalAssets": 18200000000,
+      "complianceScore": 82.0,
+      "status": "Operational"
+    },
+    {
+      "id": 3,
+      "name": "ZAMTEL",
+      "sector": "Telecommunications",
+      "registrationNumber": "120003456",
+      "ownershipPercentage": 100.0,
+      "employees": 2100,
+      "annualRevenue": 1850000000,
+      "totalAssets": 4200000000,
+      "complianceScore": 65.0,
+      "status": "Operational"
+    },
+    {
+      "id": 4,
+      "name": "ZCCM Investments Holdings PLC",
+      "sector": "Mining",
+      "registrationNumber": "120004567",
+      "ownershipPercentage": 77.5,
+      "employees": 3200,
+      "annualRevenue": 3100000000,
+      "totalAssets": 9800000000,
+      "complianceScore": 85.0,
+      "status": "Operational"
+    }
+  ],
+  "reports": [
+    {
+      "id": 1,
+      "title": "IDC Annual Report 2024",
+      "companyName": "Industrial Development Corporation",
+      "reportType": "Annual Report",
+      "year": 2024,
+      "publishedDate": "2025-04-30T00:00:00",
+      "fileSize": 4850000
+    },
+    {
+      "id": 2,
+      "title": "ZCCM-IH Annual Report 2024",
+      "companyName": "ZCCM Investments Holdings PLC",
+      "reportType": "Annual Report",
+      "year": 2024,
+      "publishedDate": "2025-04-15T00:00:00",
+      "fileSize": 6200000
+    },
+    {
+      "id": 3,
+      "title": "SOE Portfolio Performance Report Q1 2025",
+      "companyName": "Ministry of Finance",
+      "reportType": "Portfolio Report",
+      "year": 2025,
+      "publishedDate": "2025-05-15T00:00:00",
+      "fileSize": 2100000
+    }
+  ],
+  "publicDocuments": [
+    {
+      "id": 1,
+      "title": "IDC Corporate Governance Charter",
+      "companyName": "Industrial Development Corporation",
+      "reportType": "Governance",
+      "year": 2024,
+      "publishedDate": "2025-01-15T00:00:00",
+      "fileSize": 850000
+    }
+  ]
+}

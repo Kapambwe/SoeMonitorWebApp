@@ -1,0 +1,79 @@
+[
+  {
+    "id": 1,
+    "companyId": 1,
+    "companyName": "KenGen",
+    "contractTitle": "KenGen CEO Performance Contract FY2024",
+    "contractingParty": "National Treasury",
+    "ceoName": "Peter Njenga",
+    "fiscalYear": 2024,
+    "status": "Active",
+    "overallScore": 88,
+    "performanceRating": "Exceeds",
+    "keyResultAreas": [
+      { "kra": "Electricity Generation", "target": "Generate 9,500 GWh", "actual": "9,850 GWh", "weight": 25, "score": 95 },
+      { "kra": "Revenue Growth", "target": "KES 48 billion", "actual": "KES 50.2 billion", "weight": 20, "score": 105 },
+      { "kra": "Geothermal Expansion", "target": "Olkaria VI Phase 1 drilling complete", "actual": "Phase 1 drilling complete; 85 MW confirmed", "weight": 20, "score": 100 },
+      { "kra": "System Availability", "target": "Plant availability 90%", "actual": "89.5%", "weight": 15, "score": 88 },
+      { "kra": "Governance", "target": "Mwongozo compliance score 90%", "actual": "92%", "weight": 10, "score": 102 },
+      { "kra": "Safety", "target": "Zero fatalities", "actual": "Zero fatalities", "weight": 10, "score": 100 }
+    ]
+  },
+  {
+    "id": 2,
+    "companyId": 2,
+    "companyName": "Kenya Airways",
+    "contractTitle": "KQ Group MD & CEO Performance Contract FY2024",
+    "contractingParty": "National Treasury",
+    "ceoName": "Allan Kilavuka",
+    "fiscalYear": 2024,
+    "status": "Active",
+    "overallScore": 52,
+    "performanceRating": "Below",
+    "keyResultAreas": [
+      { "kra": "Revenue", "target": "KES 130 billion", "actual": "KES 120 billion", "weight": 25, "score": 62 },
+      { "kra": "Profitability", "target": "EBITDA margin 5%", "actual": "3.2%", "weight": 25, "score": 42 },
+      { "kra": "Restructuring Milestones", "target": "8 of 12 milestones achieved", "actual": "5 of 12 achieved", "weight": 20, "score": 42 },
+      { "kra": "On-Time Performance", "target": "80%", "actual": "72.5%", "weight": 15, "score": 58 },
+      { "kra": "Customer Satisfaction", "target": "NPS score 45", "actual": "NPS score 38", "weight": 15, "score": 58 }
+    ]
+  },
+  {
+    "id": 3,
+    "companyId": 4,
+    "companyName": "KPA",
+    "contractTitle": "KPA Director General Performance Contract FY2024",
+    "contractingParty": "National Treasury",
+    "ceoName": "William Ruto",
+    "fiscalYear": 2024,
+    "status": "Active",
+    "overallScore": 90,
+    "performanceRating": "Exceeds",
+    "keyResultAreas": [
+      { "kra": "Container Throughput", "target": "1.65 million TEUs", "actual": "1.72 million TEUs", "weight": 30, "score": 104 },
+      { "kra": "Revenue", "target": "KES 28 billion", "actual": "KES 30 billion", "weight": 25, "score": 107 },
+      { "kra": "Dwell Time Reduction", "target": "4.5 days average", "actual": "4.2 days average", "weight": 20, "score": 107 },
+      { "kra": "LAPSSET Milestones", "target": "Lamu Port Berth 3 operational", "actual": "Berth 3 operational Q3 2024", "weight": 15, "score": 100 },
+      { "kra": "Governance", "target": "Mwongozo compliance 88%", "actual": "90%", "weight": 10, "score": 102 }
+    ]
+  },
+  {
+    "id": 4,
+    "companyId": 5,
+    "companyName": "KRC",
+    "contractTitle": "KRC Managing Director Performance Contract FY2024",
+    "contractingParty": "National Treasury",
+    "ceoName": "Philip Mainga",
+    "fiscalYear": 2024,
+    "status": "Active",
+    "overallScore": 35,
+    "performanceRating": "Critical",
+    "keyResultAreas": [
+      { "kra": "SGR Freight Revenue", "target": "KES 12 billion", "actual": "KES 7.8 billion", "weight": 30, "score": 35 },
+      { "kra": "Debt Service", "target": "All payments current", "actual": "October payment missed", "weight": 25, "score": 0 },
+      { "kra": "Passenger Revenue", "target": "KES 8 billion", "actual": "KES 6.2 billion", "weight": 20, "score": 52 },
+      { "kra": "Restructuring Plan", "target": "Submit debt restructuring proposal", "actual": "Preliminary discussions only", "weight": 15, "score": 30 },
+      { "kra": "Safety", "target": "Zero SGR incidents", "actual": "2 minor incidents", "weight": 10, "score": 75 }
+    ]
+  }
+]

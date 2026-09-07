@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1, "companyId": 1, "companyName": "Eskom Holdings SOC Limited",
+    "auditType": "External", "auditFirm": "SizweNtsalubaGobodo Grant Thornton", "leadAuditor": "Nkosi Dlamini",
+    "startDate": "2024-08-01", "endDate": "2024-11-30", "status": "Completed",
+    "scope": "Annual financial statements audit for FY2024 (year ended 31 March 2024)",
+    "riskRating": "High", "executiveSummary": "Qualified audit opinion issued. Material misstatements in revenue recognition and going concern disclosures. Irregular expenditure of R5.8bn identified.",
+    "reportReference": "SNG/ESK/2024/AUD", "nextAuditDate": "2025-08-01",
+    "findings": [
+      {
+        "id": 1, "auditId": 1, "findingNumber": "F001",
+        "title": "Revenue Recognition — Electricity Sales",
+        "description": "Unbilled electricity revenue of R12.4bn not consistently recognised in accordance with IFRS 15. Estimation methodology requires strengthening.",
+        "severity": "High", "category": "Financial", "status": "In Progress",
+        "recommendation": "Implement robust IFRS 15 compliant revenue recognition policy with monthly reconciliation.",
+        "managementResponse": "Agreed. IFRS 15 implementation project underway with target completion Q2 FY2025.",
+        "responsiblePerson": "Eskom CFO", "dueDate": "2025-06-30",
+        "resolutionDate": null, "actionTaken": "IFRS 15 policy drafted. Smart meter rollout to improve billing accuracy."
+      },
+      {
+        "id": 2, "auditId": 1, "findingNumber": "F002",
+        "title": "Irregular Expenditure — Supply Chain Management",
+        "description": "Irregular expenditure of R5.8bn identified, primarily in emergency procurement and deviations from competitive bidding processes.",
+        "severity": "Critical", "category": "Compliance", "status": "In Progress",
+        "recommendation": "Implement consequence management, strengthen SCM controls, reduce emergency procurement.",
+        "managementResponse": "23 disciplinary cases initiated. SCM reform programme approved by board.",
+        "responsiblePerson": "Eskom Chief Procurement Officer", "dueDate": "2025-03-31",
+        "resolutionDate": null, "actionTaken": "Consequence management committee established. 8 cases finalised."
+      },
+      {
+        "id": 3, "auditId": 1, "findingNumber": "F003",
+        "title": "Going Concern Uncertainty",
+        "description": "Eskom's ability to continue as a going concern is dependent on continued government support and successful implementation of the debt relief package.",
+        "severity": "Critical", "category": "Financial", "status": "Open",
+        "recommendation": "Disclose going concern uncertainty prominently. Develop credible path to financial sustainability.",
+        "managementResponse": "Going concern disclosed in financial statements. Turnaround plan approved by board.",
+        "responsiblePerson": "Eskom CEO", "dueDate": "2025-03-31",
+        "resolutionDate": null, "actionTaken": "Turnaround plan implementation in progress. R254bn debt relief package being implemented."
+      }
+    ]
+  },
+  {
+    "id": 2, "companyId": 2, "companyName": "Transnet SOC Limited",
+    "auditType": "External", "auditFirm": "Deloitte South Africa", "leadAuditor": "Thabo Nkosi",
+    "startDate": "2024-07-01", "endDate": "2024-10-31", "status": "Completed",
+    "scope": "Annual financial statements audit for FY2024 (year ended 31 March 2024)",
+    "riskRating": "High", "executiveSummary": "Qualified audit opinion. Irregular expenditure of R4.2bn. Legacy State Capture procurement irregularities continue to impact financial statements.",
+    "reportReference": "DEL/TRN/2024/AUD", "nextAuditDate": "2025-07-01",
+    "findings": [
+      {
+        "id": 4, "auditId": 2, "findingNumber": "F001",
+        "title": "Legacy Irregular Expenditure — Locomotive Procurement",
+        "description": "R54bn irregular locomotive procurement contracts identified by Zondo Commission remain unresolved. Civil recovery actions in progress but outcome uncertain.",
+        "severity": "Critical", "category": "Compliance", "status": "In Progress",
+        "recommendation": "Pursue civil recovery, implement SIU recommendations, strengthen procurement governance.",
+        "managementResponse": "SIU civil recovery actions in progress. R2.1bn recovered to date. New procurement governance framework implemented.",
+        "responsiblePerson": "Transnet CEO", "dueDate": "2025-12-31",
+        "resolutionDate": null, "actionTaken": "Civil recovery litigation ongoing. 15 disciplinary cases finalised."
+      },
+      {
+        "id": 5, "auditId": 2, "findingNumber": "F002",
+        "title": "Debt Covenant Compliance",
+        "description": "Transnet is in breach of financial covenants on R28bn of debt facilities. Lenders have granted temporary waivers pending restructuring.",
+        "severity": "High", "category": "Financial", "status": "In Progress",
+        "recommendation": "Negotiate permanent covenant amendments, improve financial performance, reduce debt.",
+        "managementResponse": "Covenant waiver obtained from 85% of lenders. Debt restructuring plan approved.",
+        "responsiblePerson": "Transnet CFO", "dueDate": "2025-06-30",
+        "resolutionDate": null, "actionTaken": "Debt restructuring negotiations in progress."
+      }
+    ]
+  },
+  {
+    "id": 3, "companyId": 4, "companyName": "Passenger Rail Agency of South Africa",
+    "auditType": "External", "auditFirm": "Auditor-General of South Africa", "leadAuditor": "Tsakani Maluleke",
+    "startDate": "2024-06-01", "endDate": "2024-10-31", "status": "Completed",
+    "scope": "Annual financial statements and performance audit for FY2024",
+    "riskRating": "Critical", "executiveSummary": "Adverse audit opinion issued for fifth consecutive year. Material misstatements in financial statements. Irregular expenditure exceeds R20bn cumulatively. Service delivery failures documented.",
+    "reportReference": "AGSA/PRASA/2024/AUD", "nextAuditDate": "2025-06-01",
+    "findings": [
+      {
+        "id": 6, "auditId": 3, "findingNumber": "F001",
+        "title": "Material Misstatements in Financial Statements",
+        "description": "Financial statements contain material misstatements in property, plant and equipment (R8.2bn), revenue (R1.4bn) and provisions (R2.1bn).",
+        "severity": "Critical", "category": "Financial", "status": "Open",
+        "recommendation": "Appoint qualified CFO, strengthen finance team, implement financial management improvement plan.",
+        "managementResponse": "New CFO appointed. Financial management improvement plan approved.",
+        "responsiblePerson": "PRASA CFO", "dueDate": "2025-03-31",
+        "resolutionDate": null, "actionTaken": "CFO appointed. Finance team capacity building underway."
+      },
+      {
+        "id": 7, "auditId": 3, "findingNumber": "F002",
+        "title": "Rolling Stock Fleet Renewal Programme Irregularities",
+        "description": "R51bn Rolling Stock Fleet Renewal Programme has R12.4bn in irregular expenditure. Contract management weaknesses identified.",
+        "severity": "Critical", "category": "Compliance", "status": "Open",
+        "recommendation": "Implement SIU recommendations, strengthen contract management, pursue consequence management.",
+        "managementResponse": "SIU investigation ongoing. Contract management framework being strengthened.",
+        "responsiblePerson": "PRASA CEO", "dueDate": "2025-06-30",
+        "resolutionDate": null, "actionTaken": "SIU investigation in progress. 8 disciplinary cases initiated."
+      }
+    ]
+  },
+  {
+    "id": 4, "companyId": 7, "companyName": "Airports Company South Africa SOC Limited",
+    "auditType": "External", "auditFirm": "PwC South Africa", "leadAuditor": "Zanele Mokoena",
+    "startDate": "2024-07-01", "endDate": "2024-09-30", "status": "Completed",
+    "scope": "Annual financial statements audit for FY2024 (year ended 31 March 2024)",
+    "riskRating": "Low", "executiveSummary": "Unqualified audit opinion. Strong financial performance with revenue exceeding target. No material findings.",
+    "reportReference": "PWC/ACSA/2024/AUD", "nextAuditDate": "2025-07-01",
+    "findings": [
+      {
+        "id": 8, "auditId": 4, "findingNumber": "F001",
+        "title": "IT General Controls — Access Management",
+        "description": "Privileged access management controls for airport management systems require strengthening. Segregation of duties gaps identified in 3 systems.",
+        "severity": "Low", "category": "IT", "status": "Resolved",
+        "recommendation": "Implement privileged access management solution, review user access rights quarterly.",
+        "managementResponse": "Agreed. PAM solution implemented. Quarterly access review process established.",
+        "responsiblePerson": "ACSA CIO", "dueDate": "2024-12-31",
+        "resolutionDate": "2024-11-30", "actionTaken": "PAM solution deployed. Access rights reviewed and remediated."
+      }
+    ]
+  }
+]

@@ -1,0 +1,57 @@
+[
+  {
+    "id": "zesco-001",
+    "username": "victor.mundende@zesco.co.zm",
+    "firstName": "Victor",
+    "lastName": "Mundende",
+    "email": "victor.mundende@zesco.co.zm",
+    "roles": ["CEO", "Administrator"],
+    "password": "Test123!",
+    "department": "Executive",
+    "title": "Chief Executive Officer"
+  },
+  {
+    "id": "zesco-002",
+    "username": "agnes.phiri@zesco.co.zm",
+    "firstName": "Agnes",
+    "lastName": "Phiri",
+    "email": "agnes.phiri@zesco.co.zm",
+    "roles": ["CFO", "Finance Manager"],
+    "password": "Test123!",
+    "department": "Finance",
+    "title": "Chief Financial Officer"
+  },
+  {
+    "id": "zesco-003",
+    "username": "john.banda@zesco.co.zm",
+    "firstName": "John",
+    "lastName": "Banda",
+    "email": "john.banda@zesco.co.zm",
+    "roles": ["Compliance Officer"],
+    "password": "Test123!",
+    "department": "Compliance",
+    "title": "Head of Compliance"
+  },
+  {
+    "id": "zesco-004",
+    "username": "mary.musonda@zesco.co.zm",
+    "firstName": "Mary",
+    "lastName": "Musonda",
+    "email": "mary.musonda@zesco.co.zm",
+    "roles": ["Board Secretary"],
+    "password": "Test123!",
+    "department": "Board Affairs",
+    "title": "Board Secretary"
+  },
+  {
+    "id": "zesco-005",
+    "username": "peter.zulu@zesco.co.zm",
+    "firstName": "Peter",
+    "lastName": "Zulu",
+    "email": "peter.zulu@zesco.co.zm",
+    "roles": ["Auditor"],
+    "password": "Test123!",
+    "department": "Internal Audit",
+    "title": "Chief Internal Auditor"
+  }
+]

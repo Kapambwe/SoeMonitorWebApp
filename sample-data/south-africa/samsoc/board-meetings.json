@@ -1,0 +1,119 @@
+[
+  {
+    "id": 301,
+    "companyId": 10,
+    "companyName": "State Asset Management SOC Limited",
+    "title": "SAMSOC Board Meeting — February 2025",
+    "meetingType": "Regular",
+    "meetingDate": "2025-02-18T09:00:00",
+    "location": "240 Vermeulen Street, Pretoria",
+    "chairPerson": "Advocate Thandi Modise",
+    "secretary": "Lungelo Dlamini",
+    "status": "Completed",
+    "quorumRequired": 3,
+    "actualAttendance": 5,
+    "attendees": [
+      "Advocate Thandi Modise (Chairperson)",
+      "Sipho Nkosi (CEO)",
+      "Dr. Renosi Mokate (Non-Executive Director)",
+      "Lungisa Fuzile (Non-Executive Director)",
+      "Nolitha Fakude (Non-Executive Director)"
+    ],
+    "absentees": [],
+    "agenda": "1. SOE Portfolio Performance Report Q4 2024\n2. Eskom Debt Relief Monitoring Framework\n3. Denel Restructuring — Transaction Advisor Appointment\n4. FY2025 Annual Budget Approval\n5. Governance Compliance Review",
+    "minutes": "Q4 2024 SOE portfolio performance report approved. Eskom debt relief monitoring framework endorsed. PricewaterhouseCoopers appointed as transaction advisors for Denel restructuring. FY2025 budget of R485 million approved.",
+    "resolutions": [
+      {
+        "id": 20,
+        "meetingId": 301,
+        "resolutionNumber": "SAMSOC-RES-2025-001",
+        "title": "Approval of SOE Portfolio Performance Report Q4 2024",
+        "description": "The Board resolved to approve the Q4 2024 SOE portfolio performance report.",
+        "status": "Approved",
+        "votesFor": 5,
+        "votesAgainst": 0,
+        "abstentions": 0,
+        "resolutionDate": "2025-02-18T09:00:00",
+        "implementationStatus": "Completed",
+        "implementationDeadline": "2025-03-31T00:00:00",
+        "responsiblePerson": "CEO"
+      },
+      {
+        "id": 21,
+        "meetingId": 301,
+        "resolutionNumber": "SAMSOC-RES-2025-002",
+        "title": "Appointment of Transaction Advisors — Denel Restructuring",
+        "description": "The Board resolved to appoint PricewaterhouseCoopers as transaction advisors for the Denel SOC Limited strategic equity partnership process.",
+        "status": "Approved",
+        "votesFor": 4,
+        "votesAgainst": 1,
+        "abstentions": 0,
+        "resolutionDate": "2025-02-18T09:00:00",
+        "implementationStatus": "In Progress",
+        "implementationDeadline": "2025-09-30T00:00:00",
+        "responsiblePerson": "CEO"
+      }
+    ]
+  },
+  {
+    "id": 302,
+    "companyId": 10,
+    "companyName": "State Asset Management SOC Limited",
+    "title": "SAMSOC Special Board Meeting — January 2025",
+    "meetingType": "Special",
+    "meetingDate": "2025-01-15T09:00:00",
+    "location": "Virtual (Microsoft Teams)",
+    "chairPerson": "Advocate Thandi Modise",
+    "secretary": "Lungelo Dlamini",
+    "status": "Completed",
+    "quorumRequired": 3,
+    "actualAttendance": 4,
+    "attendees": [
+      "Advocate Thandi Modise (Chairperson)",
+      "Sipho Nkosi (CEO)",
+      "Dr. Renosi Mokate (Non-Executive Director)",
+      "Lungisa Fuzile (Non-Executive Director)"
+    ],
+    "absentees": [
+      "Nolitha Fakude (Non-Executive Director)"
+    ],
+    "agenda": "1. FY2025 Annual Budget Approval\n2. Transnet Operational Recovery Plan Review",
+    "minutes": "FY2025 annual budget of R485 million approved. Transnet operational recovery plan noted with concern — freight volumes below target.",
+    "resolutions": [
+      {
+        "id": 22,
+        "meetingId": 302,
+        "resolutionNumber": "SAMSOC-RES-2025-003",
+        "title": "Approval of FY2025 Annual Budget",
+        "description": "The Board resolved to approve the FY2025 annual budget of R485 million.",
+        "status": "Approved",
+        "votesFor": 4,
+        "votesAgainst": 0,
+        "abstentions": 0,
+        "resolutionDate": "2025-01-15T09:00:00",
+        "implementationStatus": "In Progress",
+        "implementationDeadline": "2026-03-31T00:00:00",
+        "responsiblePerson": "CFO"
+      }
+    ]
+  },
+  {
+    "id": 303,
+    "companyId": 10,
+    "companyName": "State Asset Management SOC Limited",
+    "title": "SAMSOC Board Meeting — Scheduled May 2025",
+    "meetingType": "Regular",
+    "meetingDate": "2025-05-20T09:00:00",
+    "location": "240 Vermeulen Street, Pretoria",
+    "chairPerson": "Advocate Thandi Modise",
+    "secretary": "Lungelo Dlamini",
+    "status": "Scheduled",
+    "quorumRequired": 3,
+    "actualAttendance": 0,
+    "attendees": [],
+    "absentees": [],
+    "agenda": "1. Q1 FY2025 SOE Portfolio Performance\n2. Eskom Debt Relief Q1 Milestone Review\n3. SAA Strategic Partnership Update\n4. Annual Report Approval",
+    "minutes": "",
+    "resolutions": []
+  }
+]

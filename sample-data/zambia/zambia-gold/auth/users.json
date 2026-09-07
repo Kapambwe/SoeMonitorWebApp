@@ -1,0 +1,57 @@
+[
+  {
+    "id": "zambia-gold-001",
+    "username": "clement.nguni@zambiagold.com.zm",
+    "firstName": "Clement",
+    "lastName": "Ng'uni",
+    "email": "clement.nguni@zambiagold.com.zm",
+    "roles": ["CEO", "Administrator"],
+    "password": "Test123!",
+    "department": "Executive",
+    "title": "Chief Executive Officer"
+  },
+  {
+    "id": "zambia-gold-002",
+    "username": "brenda.mwale@zambiagold.com.zm",
+    "firstName": "Brenda",
+    "lastName": "Mwale",
+    "email": "brenda.mwale@zambiagold.com.zm",
+    "roles": ["CFO", "Finance Manager"],
+    "password": "Test123!",
+    "department": "Finance",
+    "title": "Chief Financial Officer"
+  },
+  {
+    "id": "zambia-gold-003",
+    "username": "grace.mulenga@zambiagold.com.zm",
+    "firstName": "Grace",
+    "lastName": "Mulenga",
+    "email": "grace.mulenga@zambiagold.com.zm",
+    "roles": ["Auditor"],
+    "password": "Test123!",
+    "department": "Internal Audit",
+    "title": "Head of Internal Audit"
+  },
+  {
+    "id": "zambia-gold-004",
+    "username": "patricia.lungu@zambiagold.com.zm",
+    "firstName": "Patricia",
+    "lastName": "Lungu",
+    "email": "patricia.lungu@zambiagold.com.zm",
+    "roles": ["Board Secretary"],
+    "password": "Test123!",
+    "department": "Board Affairs",
+    "title": "Board Secretary"
+  },
+  {
+    "id": "zambia-gold-005",
+    "username": "harriet.chisenga@zambiagold.com.zm",
+    "firstName": "Harriet",
+    "lastName": "Chisenga",
+    "email": "harriet.chisenga@zambiagold.com.zm",
+    "roles": ["Compliance Officer"],
+    "password": "Test123!",
+    "department": "Operations",
+    "title": "Head of Compliance"
+  }
+]

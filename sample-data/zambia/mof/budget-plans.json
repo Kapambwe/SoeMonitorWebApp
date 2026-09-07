@@ -1,0 +1,203 @@
+﻿[
+  {
+    "id": 201,
+    "companyId": 2,
+    "companyName": "Industrial Development Corporation",
+    "fiscalYear": 2025,
+    "budgetType": "Annual",
+    "totalBudget": 7500000000,
+    "allocatedAmount": 7500000000,
+    "spentAmount": 3800000000,
+    "status": "Active",
+    "approvalDate": "2024-12-18T00:00:00",
+    "approvedBy": "Ministry of Finance",
+    "notes": "2025 Annual Budget approved with emphasis on strategic investments in agriculture, manufacturing, and green energy sectors.",
+    "lineItems": [
+      {
+        "id": 201,
+        "budgetId": 201,
+        "category": "Capital",
+        "description": "Strategic equity investments in portfolio companies",
+        "budgetedAmount": 2800000000,
+        "actualAmount": 1400000000,
+        "costCenter": "Investments",
+        "accountCode": "IDC-4001"
+      },
+      {
+        "id": 202,
+        "budgetId": 201,
+        "category": "Personnel",
+        "description": "Staff salaries, benefits, and professional development",
+        "budgetedAmount": 850000000,
+        "actualAmount": 420000000,
+        "costCenter": "Human Resources",
+        "accountCode": "IDC-1001"
+      },
+      {
+        "id": 203,
+        "budgetId": 201,
+        "category": "Operations",
+        "description": "Portfolio management, due diligence, and monitoring costs",
+        "budgetedAmount": 1200000000,
+        "actualAmount": 680000000,
+        "costCenter": "Operations",
+        "accountCode": "IDC-2001"
+      },
+      {
+        "id": 204,
+        "budgetId": 201,
+        "category": "Contingency",
+        "description": "Portfolio company liquidity support reserve",
+        "budgetedAmount": 2000000000,
+        "actualAmount": 980000000,
+        "costCenter": "Finance",
+        "accountCode": "IDC-6001"
+      }
+    ],
+    "variances": [
+      {
+        "id": 201,
+        "budgetId": 201,
+        "period": "Q1 2025",
+        "budgetedAmount": 1875000000,
+        "actualAmount": 1650000000,
+        "explanation": "Investment disbursements behind schedule pending due diligence completion on two new investments",
+        "correctiveAction": "Investment team to conclude due diligence by end of April 2025"
+      }
+    ]
+  },
+  {
+    "id": 202,
+    "companyId": 5,
+    "companyName": "ZCCM Investments Holdings PLC",
+    "fiscalYear": 2025,
+    "budgetType": "Annual",
+    "totalBudget": 4200000000,
+    "allocatedAmount": 4200000000,
+    "spentAmount": 1800000000,
+    "status": "Active",
+    "approvalDate": "2024-12-20T00:00:00",
+    "approvedBy": "Ministry of Finance",
+    "notes": "2025 budget focused on mine rehabilitation fund top-up, portfolio monitoring, and ESG compliance.",
+    "lineItems": [
+      {
+        "id": 205,
+        "budgetId": 202,
+        "category": "Capital",
+        "description": "Mine rehabilitation fund contributions",
+        "budgetedAmount": 1500000000,
+        "actualAmount": 650000000,
+        "costCenter": "Environmental",
+        "accountCode": "ZCCM-4001"
+      },
+      {
+        "id": 206,
+        "budgetId": 202,
+        "category": "Personnel",
+        "description": "Staff salaries and benefits",
+        "budgetedAmount": 680000000,
+        "actualAmount": 340000000,
+        "costCenter": "Human Resources",
+        "accountCode": "ZCCM-1001"
+      },
+      {
+        "id": 207,
+        "budgetId": 202,
+        "category": "Operations",
+        "description": "Portfolio monitoring and shareholder engagement",
+        "budgetedAmount": 1020000000,
+        "actualAmount": 480000000,
+        "costCenter": "Operations",
+        "accountCode": "ZCCM-2001"
+      },
+      {
+        "id": 208,
+        "budgetId": 202,
+        "category": "Administrative",
+        "description": "Legal, audit, and governance expenses",
+        "budgetedAmount": 1000000000,
+        "actualAmount": 330000000,
+        "costCenter": "Corporate Affairs",
+        "accountCode": "ZCCM-3001"
+      }
+    ],
+    "variances": [
+      {
+        "id": 202,
+        "budgetId": 202,
+        "period": "Q1 2025",
+        "budgetedAmount": 1050000000,
+        "actualAmount": 900000000,
+        "explanation": "Mine rehabilitation fund contributions delayed pending actuarial review completion",
+        "correctiveAction": "Actuarial review to be finalised by end of April 2025; contributions to be accelerated in Q2"
+      }
+    ]
+  },
+  {
+    "id": 203,
+    "companyId": 1,
+    "companyName": "ZESCO Limited",
+    "fiscalYear": 2025,
+    "budgetType": "Annual",
+    "totalBudget": 12500000000,
+    "allocatedAmount": 12500000000,
+    "spentAmount": 8200000000,
+    "status": "Active",
+    "approvalDate": "2024-12-15T00:00:00",
+    "approvedBy": "Ministry of Energy",
+    "notes": "Approved with conditions on capex disbursement schedule. Quarterly budget reviews mandated by the Ministry.",
+    "lineItems": [
+      {
+        "id": 209,
+        "budgetId": 203,
+        "category": "Capital",
+        "description": "Grid expansion — Lusaka South and Kafue corridors",
+        "budgetedAmount": 4000000000,
+        "actualAmount": 2800000000,
+        "costCenter": "Engineering",
+        "accountCode": "ZESCO-4001"
+      },
+      {
+        "id": 210,
+        "budgetId": 203,
+        "category": "Personnel",
+        "description": "Salaries, wages, and employee benefits",
+        "budgetedAmount": 3500000000,
+        "actualAmount": 2900000000,
+        "costCenter": "Human Resources",
+        "accountCode": "ZESCO-1001"
+      },
+      {
+        "id": 211,
+        "budgetId": 203,
+        "category": "Operations",
+        "description": "Power purchase agreements, fuel, and generation costs",
+        "budgetedAmount": 3000000000,
+        "actualAmount": 1800000000,
+        "costCenter": "Operations",
+        "accountCode": "ZESCO-2001"
+      },
+      {
+        "id": 212,
+        "budgetId": 203,
+        "category": "Maintenance",
+        "description": "Plant and equipment preventive and corrective maintenance",
+        "budgetedAmount": 2000000000,
+        "actualAmount": 700000000,
+        "costCenter": "Technical Services",
+        "accountCode": "ZESCO-5001"
+      }
+    ],
+    "variances": [
+      {
+        "id": 203,
+        "budgetId": 203,
+        "period": "Q1 2025",
+        "budgetedAmount": 3125000000,
+        "actualAmount": 2900000000,
+        "explanation": "Capital projects delayed due to procurement processes and contractor mobilisation delays",
+        "correctiveAction": "Accelerate procurement and fast-track approvals for Q2 2025"
+      }
+    ]
+  }
+]

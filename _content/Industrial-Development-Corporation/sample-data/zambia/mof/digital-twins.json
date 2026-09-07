@@ -1,0 +1,191 @@
+{
+  "factories": [
+    {
+      "id": 1, "factoryName": "NCZ Fertilizer Plant",
+      "productionLines": [
+        { "lineName": "Line A - NPK Production", "status": "Running", "currentOutputRate": 45.8, "targetOutputRate": 50.0, "efficiencyPercent": 91.6 },
+        { "lineName": "Line B - Urea Production", "status": "Running", "currentOutputRate": 62.3, "targetOutputRate": 65.0, "efficiencyPercent": 95.8 },
+        { "lineName": "Line C - Packaging", "status": "Maintenance", "currentOutputRate": 0, "targetOutputRate": 40.0, "efficiencyPercent": 0 }
+      ],
+      "overallEquipmentEfficiency": 88.5, "downtimeHours": 4.5, "uptimeHours": 163.5,
+      "rawMaterialsInventory": [
+        { "materialName": "Ammonia", "currentStock": 1200, "minimumRequired": 800, "unit": "Tonnes" },
+        { "materialName": "Phosphoric Acid", "currentStock": 450, "minimumRequired": 500, "unit": "Tonnes" },
+        { "materialName": "Potash", "currentStock": 890, "minimumRequired": 600, "unit": "Tonnes" }
+      ],
+      "finishedGoodsInventoryUnits": 12500, "qualityAssuranceScore": 94.7
+    },
+    {
+      "id": 2, "factoryName": "Superior Milling Factory",
+      "productionLines": [
+        { "lineName": "Maize Milling Line 1", "status": "Running", "currentOutputRate": 85.2, "targetOutputRate": 90.0, "efficiencyPercent": 94.7 },
+        { "lineName": "Maize Milling Line 2", "status": "Running", "currentOutputRate": 88.5, "targetOutputRate": 90.0, "efficiencyPercent": 98.3 },
+        { "lineName": "Packaging Unit", "status": "Running", "currentOutputRate": 72.0, "targetOutputRate": 75.0, "efficiencyPercent": 96.0 }
+      ],
+      "overallEquipmentEfficiency": 96.3, "downtimeHours": 2.0, "uptimeHours": 166.0,
+      "rawMaterialsInventory": [
+        { "materialName": "Maize Grain", "currentStock": 4500, "minimumRequired": 3000, "unit": "Tonnes" },
+        { "materialName": "Packaging Material", "currentStock": 15000, "minimumRequired": 10000, "unit": "Units" }
+      ],
+      "finishedGoodsInventoryUnits": 28000, "qualityAssuranceScore": 97.2
+    }
+  ],
+  "farms": [
+    {
+      "id": 1, "farmName": "Kawambwa Tea Estate",
+      "cropHealthNDVI": 0.78, "soilMoisturePercent": 45.2,
+      "yieldForecasts": [
+        { "cropType": "Tea", "forecastedYieldTonnage": 2500, "actualYieldTonnage": 2380, "variancePercent": -4.8, "harvestMonth": 6 },
+        { "cropType": "Tea", "forecastedYieldTonnage": 2600, "actualYieldTonnage": 0, "variancePercent": 0, "harvestMonth": 12 }
+      ],
+      "landUtilizationPercent": 92.5, "waterUseEfficiency": 87.3, "totalWorkers": 450, "laborProductivity": 5.3
+    },
+    {
+      "id": 2, "farmName": "ZAFFICO Forestry",
+      "cropHealthNDVI": 0.85, "soilMoisturePercent": 52.8,
+      "yieldForecasts": [
+        { "cropType": "Pine", "forecastedYieldTonnage": 45000, "actualYieldTonnage": 44200, "variancePercent": -1.8, "harvestMonth": 8 },
+        { "cropType": "Eucalyptus", "forecastedYieldTonnage": 32000, "actualYieldTonnage": 33500, "variancePercent": 4.7, "harvestMonth": 10 }
+      ],
+      "landUtilizationPercent": 88.7, "waterUseEfficiency": 91.5, "totalWorkers": 680, "laborProductivity": 66.2
+    }
+  ],
+  "hospitals": [
+    {
+      "id": 1, "hospitalName": "Lusaka Trust Hospital",
+      "totalBeds": 250, "occupiedBeds": 198, "bedOccupancyPercent": 79.2,
+      "staffAllocation": [
+        { "department": "Emergency", "doctorsAssigned": 12, "nursesAssigned": 35, "workloadScore": 88.5 },
+        { "department": "Surgery", "doctorsAssigned": 18, "nursesAssigned": 42, "workloadScore": 75.3 },
+        { "department": "Pediatrics", "doctorsAssigned": 10, "nursesAssigned": 28, "workloadScore": 82.1 },
+        { "department": "ICU", "doctorsAssigned": 8, "nursesAssigned": 24, "workloadScore": 91.7 }
+      ],
+      "equipmentUsage": [
+        { "equipmentName": "Ventilators", "totalUnits": 25, "unitsInUse": 18, "utilizationPercent": 72.0, "status": "Available" },
+        { "equipmentName": "MRI Machine", "totalUnits": 2, "unitsInUse": 1, "utilizationPercent": 50.0, "status": "Available" },
+        { "equipmentName": "CT Scanner", "totalUnits": 3, "unitsInUse": 2, "utilizationPercent": 66.7, "status": "Available" },
+        { "equipmentName": "X-Ray Machines", "totalUnits": 8, "unitsInUse": 6, "utilizationPercent": 75.0, "status": "Available" }
+      ],
+      "dailyPatientFlow": 485,
+      "medicineStockLevels": [
+        { "supplyName": "Antibiotics", "currentStock": 5000, "minimumRequired": 3000, "unit": "Doses" },
+        { "supplyName": "Painkillers", "currentStock": 8500, "minimumRequired": 5000, "unit": "Doses" },
+        { "supplyName": "IV Fluids", "currentStock": 1200, "minimumRequired": 1500, "unit": "Bags" },
+        { "supplyName": "Surgical Masks", "currentStock": 15000, "minimumRequired": 10000, "unit": "Units" }
+      ]
+    }
+  ],
+  "hotels": [
+    {
+      "id": 1, "hotelName": "Mukuba Hotel",
+      "totalRooms": 120, "occupiedRooms": 87, "occupancyRatePercent": 72.5,
+      "totalBookings": 145, "energyPerGuestKWh": 18.5, "revPAR": 285.50,
+      "totalStaff": 85, "staffEfficiencyScore": 88.3, "averageGuestRating": 4.3,
+      "recentFeedback": [
+        { "id": 1, "rating": 5.0, "comment": "Excellent service and clean rooms" },
+        { "id": 2, "rating": 4.0, "comment": "Good location, but breakfast could be better" },
+        { "id": 3, "rating": 4.5, "comment": "Very comfortable stay, friendly staff" }
+      ]
+    },
+    {
+      "id": 2, "hotelName": "Mulungushi Complex",
+      "totalRooms": 200, "occupiedRooms": 156, "occupancyRatePercent": 78.0,
+      "totalBookings": 210, "energyPerGuestKWh": 16.2, "revPAR": 320.75,
+      "totalStaff": 140, "staffEfficiencyScore": 91.5, "averageGuestRating": 4.5,
+      "recentFeedback": [
+        { "id": 4, "rating": 5.0, "comment": "Outstanding conference facilities" },
+        { "id": 5, "rating": 4.0, "comment": "Great for business events" }
+      ]
+    }
+  ],
+  "mines": [
+    {
+      "id": 1, "mineName": "KAGEM Emerald Mine",
+      "productionVolumeTonnage": 45000, "gemstonesProduced": 12500,
+      "equipment": [
+        { "equipmentName": "Drill Rig #1", "type": "Drill", "status": "Operational", "utilizationPercent": 87.5, "hoursInOperation": 156 },
+        { "equipmentName": "Drill Rig #2", "type": "Drill", "status": "Operational", "utilizationPercent": 92.3, "hoursInOperation": 168 },
+        { "equipmentName": "Haul Truck #1", "type": "Truck", "status": "Operational", "utilizationPercent": 78.9, "hoursInOperation": 145 },
+        { "equipmentName": "Conveyor Belt A", "type": "Conveyor", "status": "Operational", "utilizationPercent": 95.2, "hoursInOperation": 170 },
+        { "equipmentName": "Haul Truck #2", "type": "Truck", "status": "Under Maintenance", "utilizationPercent": 0, "hoursInOperation": 0 }
+      ],
+      "safetyAlerts": [
+        { "id": 1, "alertType": "Equipment Hazard", "severity": "Medium", "description": "Brake system warning on Truck #3", "isResolved": false },
+        { "id": 2, "alertType": "Environmental", "severity": "Low", "description": "Dust levels slightly elevated in Zone B", "isResolved": false }
+      ],
+      "energyConsumptionKWh": 125000, "emissionsLevel": 245.8, "landRehabilitationPercent": 68.5
+    },
+    {
+      "id": 2, "mineName": "Mopani Copper Mine",
+      "productionVolumeTonnage": 185000, "gemstonesProduced": 0,
+      "equipment": [
+        { "equipmentName": "Crusher Unit", "type": "Crusher", "status": "Operational", "utilizationPercent": 88.7, "hoursInOperation": 162 },
+        { "equipmentName": "Excavator #1", "type": "Excavator", "status": "Operational", "utilizationPercent": 91.2, "hoursInOperation": 168 },
+        { "equipmentName": "Processing Plant", "type": "Plant", "status": "Operational", "utilizationPercent": 96.5, "hoursInOperation": 172 }
+      ],
+      "safetyAlerts": [
+        { "id": 3, "alertType": "Air Quality", "severity": "High", "description": "Ventilation system requires immediate attention in Shaft 3", "isResolved": false }
+      ],
+      "energyConsumptionKWh": 450000, "emissionsLevel": 892.3, "landRehabilitationPercent": 52.8
+    }
+  ],
+  "transport": [
+    {
+      "id": 1, "facilityName": "Zambia Railways Central", "transportType": "Railway",
+      "fleet": [
+        { "vehicleId": "LOCO-001", "type": "Train", "currentLocation": "Lusaka Station", "status": "Active", "fuelEfficiency": 3.2, "currentSpeed": 65.5 },
+        { "vehicleId": "LOCO-002", "type": "Train", "currentLocation": "Kitwe Depot", "status": "Maintenance", "fuelEfficiency": 0, "currentSpeed": 0 },
+        { "vehicleId": "LOCO-003", "type": "Train", "currentLocation": "Ndola Junction", "status": "Active", "fuelEfficiency": 3.5, "currentSpeed": 72.0 }
+      ],
+      "passengerVolume": 12500, "cargoVolumeTonnage": 45000, "routeEfficiencyScore": 78.5,
+      "predictiveMaintenance": [
+        { "id": 1, "assetName": "Track Section KM 145-165", "alertType": "Track Repair", "severity": "Medium", "description": "Rail wear detected, replacement required" },
+        { "id": 2, "assetName": "LOCO-002 Engine", "alertType": "Engine Overhaul", "severity": "High", "description": "Engine diagnostics indicate major service needed" }
+      ],
+      "networkUptimePercent": 0
+    },
+    {
+      "id": 2, "facilityName": "ZAMTEL Network", "transportType": "Telecom",
+      "fleet": [], "passengerVolume": 0, "cargoVolumeTonnage": 0, "routeEfficiencyScore": 0,
+      "predictiveMaintenance": [
+        { "id": 3, "assetName": "Tower Lusaka-North-12", "alertType": "Power System", "severity": "Low", "description": "Backup battery replacement scheduled" }
+      ],
+      "networkUptimePercent": 99.7
+    }
+  ],
+  "simulations": [
+    {
+      "id": 1, "scenarioName": "Production Increase 20%", "scenarioType": "What-If",
+      "description": "Simulate 20% production increase across all mines",
+      "inputParameters": { "ProductionIncrease": 20, "EnergyDemandIncrease": 15, "LaborRequirementIncrease": 10 },
+      "outputResults": { "ProjectedRevenue": 450000000, "ProjectedCosts": 285000000, "ProjectedProfit": 165000000, "ROI": 58.0 },
+      "impactLevel": "High", "status": "Completed"
+    },
+    {
+      "id": 2, "scenarioName": "Power Outage Impact", "scenarioType": "Risk",
+      "description": "Assess impact of 48-hour power outage on manufacturing facilities",
+      "inputParameters": { "OutageDurationHours": 48, "AffectedFacilities": 5 },
+      "outputResults": { "ProductionLoss": 28500000, "RevenueLoss": 42000000, "RecoveryTimeDays": 7 },
+      "impactLevel": "High", "status": "Completed"
+    },
+    {
+      "id": 3, "scenarioName": "Drought Impact on Tea Production", "scenarioType": "Risk",
+      "description": "Model severe drought scenario on tea estates",
+      "inputParameters": { "RainfallReductionPercent": 40, "DurationMonths": 6 },
+      "outputResults": { "YieldReduction": 35, "RevenueLoss": 15000000, "IrrigationCostIncrease": 4500000 },
+      "impactLevel": "Medium", "status": "Completed"
+    },
+    {
+      "id": 4, "scenarioName": "Copper Price Drop 15%", "scenarioType": "Risk",
+      "description": "Impact of global copper price decline",
+      "inputParameters": { "PriceDropPercent": 15, "DurationMonths": 12 },
+      "outputResults": {},
+      "impactLevel": "High", "status": "Draft"
+    }
+  ],
+  "predictiveAnalytics": [
+    { "id": 1, "assetName": "Conveyor Belt A - KAGEM", "assetType": "Mining Equipment", "failureProbability": 68.5, "maintenanceCostEstimate": 125000, "recommendedAction": "Schedule preventive maintenance within 30 days" },
+    { "id": 2, "assetName": "Milling Line 1 - Superior Milling", "assetType": "Factory Equipment", "failureProbability": 42.3, "maintenanceCostEstimate": 85000, "recommendedAction": "Monitor closely, plan maintenance in 60 days" },
+    { "id": 3, "assetName": "MRI Machine - Lusaka Trust", "assetType": "Medical Equipment", "failureProbability": 75.8, "maintenanceCostEstimate": 450000, "recommendedAction": "Immediate service required - contact manufacturer" }
+  ]
+}

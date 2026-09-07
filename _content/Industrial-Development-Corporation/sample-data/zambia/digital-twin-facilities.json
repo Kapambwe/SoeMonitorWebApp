@@ -1,0 +1,12 @@
+[
+  { "id": 1, "name": "KAGEM Emerald Mine", "type": "Mine", "companyName": "KAGEM Mining", "location": "Ndola", "status": "Operational", "latitude": -12.9584, "longitude": 28.6368 },
+  { "id": 2, "name": "Mopani Copper Mine", "type": "Mine", "companyName": "Mopani Copper Mines", "location": "Kitwe", "status": "Operational", "latitude": -12.8024, "longitude": 28.2132 },
+  { "id": 3, "name": "Kawambwa Tea Estate", "type": "Farm", "companyName": "Kawambwa Tea", "location": "Kawambwa", "status": "Operational", "latitude": -9.7938, "longitude": 29.0791 },
+  { "id": 4, "name": "ZAFFICO Forestry", "type": "Farm", "companyName": "ZAFFICO", "location": "Copperbelt", "status": "Operational", "latitude": -12.5, "longitude": 28.0 },
+  { "id": 5, "name": "NCZ Fertilizer Plant", "type": "Factory", "companyName": "Nitrogen Chemicals of Zambia", "location": "Kafue", "status": "Operational", "latitude": -15.7719, "longitude": 28.1813 },
+  { "id": 6, "name": "Superior Milling Factory", "type": "Factory", "companyName": "Superior Milling", "location": "Lusaka", "status": "Operational", "latitude": -15.4167, "longitude": 28.2833 },
+  { "id": 7, "name": "Mukuba Hotel", "type": "Hotel", "companyName": "Mukuba Hotel", "location": "Kitwe", "status": "Operational", "latitude": -12.8024, "longitude": 28.2132 },
+  { "id": 8, "name": "Lusaka Trust Hospital", "type": "Hospital", "companyName": "Lusaka Trust Hospital", "location": "Lusaka", "status": "Operational", "latitude": -15.4167, "longitude": 28.2833 },
+  { "id": 9, "name": "Zambia Railways Central", "type": "Transport", "companyName": "Zambia Railways", "location": "Lusaka", "status": "Under Maintenance", "latitude": -15.4167, "longitude": 28.2833 },
+  { "id": 10, "name": "ZAMTEL Tower Network", "type": "Transport", "companyName": "ZAMTEL", "location": "Nationwide", "status": "Operational", "latitude": -15.4167, "longitude": 28.2833 }
+]

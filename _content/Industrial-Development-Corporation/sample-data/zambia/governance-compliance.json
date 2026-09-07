@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1, "companyId": 1, "companyName": "KAGEM Mining Ltd",
+    "complianceType": "Regulatory", "description": "Mines and Minerals Development Act — Mining Licence Conditions",
+    "status": "Compliant", "dueDate": "2025-12-31", "completionDate": "2024-10-01",
+    "responsiblePerson": "Palitha Palliyaguru", "regulatoryBody": "Ministry of Mines and Minerals Development",
+    "penaltyAmount": 0, "documentReference": "MMMD/KAGEM/2024/001",
+    "notes": "All licence conditions met. Environmental management plan updated.", "lastUpdated": "2024-10-01"
+  },
+  {
+    "id": 2, "companyId": 2, "companyName": "ZESCO Limited",
+    "complianceType": "Financial", "description": "Public Finance Management Act — Financial Reporting and Audit",
+    "status": "Pending", "dueDate": "2025-06-30", "completionDate": null,
+    "responsiblePerson": "Victor Mapani", "regulatoryBody": "Ministry of Finance",
+    "penaltyAmount": 0, "documentReference": "PFMA/ZESCO/2024/008",
+    "notes": "FY2024 audit delayed. Qualified opinion on FY2023 accounts.", "lastUpdated": "2024-11-15"
+  },
+  {
+    "id": 3, "companyId": 3, "companyName": "Zambia National Commercial Bank Plc (ZANACO)",
+    "complianceType": "Regulatory", "description": "Banking and Financial Services Act — Capital Adequacy",
+    "status": "Compliant", "dueDate": "2025-09-30", "completionDate": "2024-09-30",
+    "responsiblePerson": "Mukwandi Chibesakunda", "regulatoryBody": "Bank of Zambia",
+    "penaltyAmount": 0, "documentReference": "BOZ/ZANACO/2024/Q3",
+    "notes": "Capital adequacy ratio at 18.5%, above 12.5% minimum.", "lastUpdated": "2024-09-30"
+  },
+  {
+    "id": 4, "companyId": 4, "companyName": "Zambia Telecommunications Company Ltd (ZAMTEL)",
+    "complianceType": "Regulatory", "description": "Electronic Communications Act — ZICTA Licence Compliance",
+    "status": "Pending", "dueDate": "2025-02-28", "completionDate": null,
+    "responsiblePerson": "Sydney Mupeta", "regulatoryBody": "ZICTA",
+    "penaltyAmount": 250000, "documentReference": "ZICTA/ZAMTEL/2024/QOS",
+    "notes": "QoS targets missed for call drop rate and data speed. Improvement plan submitted.", "lastUpdated": "2024-08-20"
+  },
+  {
+    "id": 5, "companyId": 5, "companyName": "Zambia Railways Limited",
+    "complianceType": "Regulatory", "description": "Railways Act — Safety Management System",
+    "status": "Pending", "dueDate": "2025-06-30", "completionDate": null,
+    "responsiblePerson": "Eng. Chipango Mwale", "regulatoryBody": "Ministry of Transport",
+    "penaltyAmount": 150000, "documentReference": "MOT/ZRL/2024/SMS",
+    "notes": "3 derailments in 2024. SMS implementation in progress.", "lastUpdated": "2024-07-10"
+  },
+  {
+    "id": 6, "companyId": 6, "companyName": "Zambeef Products Plc",
+    "complianceType": "Legal", "description": "Zambia Companies Act — Listed Company Disclosure Requirements",
+    "status": "Compliant", "dueDate": "2025-10-31", "completionDate": "2024-10-31",
+    "responsiblePerson": "Francis Grogan", "regulatoryBody": "PACRA / LuSE",
+    "penaltyAmount": 0, "documentReference": "LUSE/ZAMBEEF/2024/DISC",
+    "notes": "All LuSE and AIM disclosure requirements met.", "lastUpdated": "2024-10-31"
+  },
+  {
+    "id": 7, "companyId": 7, "companyName": "Mopani Copper Mines Plc",
+    "complianceType": "Regulatory", "description": "Mines and Minerals Development Act — Mining Licence Conditions",
+    "status": "Compliant", "dueDate": "2025-09-15", "completionDate": "2024-09-15",
+    "responsiblePerson": "Raphael Mwenye", "regulatoryBody": "Ministry of Mines and Minerals Development",
+    "penaltyAmount": 0, "documentReference": "MMMD/MCM/2024/LIC",
+    "notes": "Mining licences current. Environmental management plan updated post-acquisition.", "lastUpdated": "2024-09-15"
+  },
+  {
+    "id": 8, "companyId": 8, "companyName": "Indeni Petroleum Refinery Company Ltd",
+    "complianceType": "Regulatory", "description": "Energy Regulation Act — Petroleum Refinery Licence Conditions",
+    "status": "Compliant", "dueDate": "2025-08-01", "completionDate": "2024-08-01",
+    "responsiblePerson": "Mwamba Chanda", "regulatoryBody": "Energy Regulation Board",
+    "penaltyAmount": 0, "documentReference": "ERB/INDENI/2024/LIC",
+    "notes": "Refinery operating within licence conditions. Emissions within ZEMA permitted levels.", "lastUpdated": "2024-08-01"
+  }
+]

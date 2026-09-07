@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1, "companyId": 1, "companyName": "KAGEM Mining Ltd",
+    "projectName": "KAGEM Emerald Mine Expansion Phase 3",
+    "description": "Expansion of KAGEM emerald mining operations to increase annual production from 30 million carats to 45 million carats. Includes new pit development and processing plant upgrade.",
+    "sector": "Mining", "status": "In Progress",
+    "totalBudget": 1850000000, "amountInvested": 680000000,
+    "expectedReturn": 5500000000, "startDate": "2023-07-01", "endDate": "2026-12-31",
+    "currency": "ZMW"
+  },
+  {
+    "id": 2, "companyId": 2, "companyName": "ZESCO Limited",
+    "projectName": "Kafue Gorge Lower Hydropower Project",
+    "description": "750MW hydropower station under construction on the Kafue River. Financed by Chinese development banks with Government of Zambia sovereign guarantee.",
+    "sector": "Energy", "status": "In Progress",
+    "totalBudget": 52500000000, "amountInvested": 42000000000,
+    "expectedReturn": 85000000000, "startDate": "2015-01-01", "endDate": "2025-06-30",
+    "currency": "ZMW"
+  },
+  {
+    "id": 3, "companyId": 4, "companyName": "Zambia Telecommunications Company Ltd (ZAMTEL)",
+    "projectName": "ZAMTEL 4G LTE Network Rollout",
+    "description": "Deployment of 4G LTE network across all 10 provincial capitals and major towns to improve data services and compete with MTN and Airtel.",
+    "sector": "Telecommunications", "status": "In Progress",
+    "totalBudget": 1200000000, "amountInvested": 480000000,
+    "expectedReturn": 3500000000, "startDate": "2024-01-01", "endDate": "2026-06-30",
+    "currency": "ZMW"
+  },
+  {
+    "id": 4, "companyId": 5, "companyName": "Zambia Railways Limited",
+    "projectName": "Zambia Railways Track Rehabilitation Programme",
+    "description": "Rehabilitation of 800 km of priority track sections on the main line of rail from Livingstone to Ndola. Funded by African Development Bank.",
+    "sector": "Transport", "status": "In Progress",
+    "totalBudget": 4800000000, "amountInvested": 1200000000,
+    "expectedReturn": 0, "startDate": "2023-01-01", "endDate": "2027-12-31",
+    "currency": "ZMW"
+  },
+  {
+    "id": 5, "companyId": 6, "companyName": "Zambeef Products Plc",
+    "projectName": "Zambeef Mpongwe Farm Irrigation Expansion",
+    "description": "Expansion of irrigation infrastructure at Mpongwe Farm to increase irrigated area from 5,000 to 12,000 hectares, reducing drought vulnerability.",
+    "sector": "Agriculture", "status": "In Progress",
+    "totalBudget": 850000000, "amountInvested": 320000000,
+    "expectedReturn": 2200000000, "startDate": "2023-06-01", "endDate": "2026-05-31",
+    "currency": "ZMW"
+  },
+  {
+    "id": 6, "companyId": 8, "companyName": "Indeni Petroleum Refinery Company Ltd",
+    "projectName": "Indeni Refinery Modernisation Project",
+    "description": "Modernisation of Indeni refinery to increase throughput capacity from 1.1 million to 1.5 million tonnes per annum and improve product quality to Euro 4 standards.",
+    "sector": "Energy", "status": "Planning",
+    "totalBudget": 3200000000, "amountInvested": 150000000,
+    "expectedReturn": 8500000000, "startDate": "2025-07-01", "endDate": "2029-12-31",
+    "currency": "ZMW"
+  }
+]

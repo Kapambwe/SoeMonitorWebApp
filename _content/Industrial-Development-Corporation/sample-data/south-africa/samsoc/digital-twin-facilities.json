@@ -1,0 +1,12 @@
+[
+  { "id": 1, "name": "Medupi Power Station", "type": "Factory", "companyName": "Eskom Holdings SOC Limited", "location": "Lephalale, Limpopo", "status": "Operational", "latitude": -23.6667, "longitude": 27.6667 },
+  { "id": 2, "name": "Kusile Power Station", "type": "Factory", "companyName": "Eskom Holdings SOC Limited", "location": "Emalahleni, Mpumalanga", "status": "Operational", "latitude": -26.0833, "longitude": 29.1667 },
+  { "id": 3, "name": "Koeberg Nuclear Power Station", "type": "Factory", "companyName": "Eskom Holdings SOC Limited", "location": "Cape Town, Western Cape", "status": "Operational", "latitude": -33.6667, "longitude": 18.4333 },
+  { "id": 4, "name": "Port of Durban", "type": "Transport", "companyName": "Transnet SOC Limited", "location": "Durban, KwaZulu-Natal", "status": "Operational", "latitude": -29.8587, "longitude": 31.0218 },
+  { "id": 5, "name": "Port of Cape Town", "type": "Transport", "companyName": "Transnet SOC Limited", "location": "Cape Town, Western Cape", "status": "Operational", "latitude": -33.9167, "longitude": 18.4333 },
+  { "id": 6, "name": "Transnet Freight Rail — Ore Line", "type": "Transport", "companyName": "Transnet SOC Limited", "location": "Northern Cape Corridor", "status": "Operational", "latitude": -28.7282, "longitude": 24.7499 },
+  { "id": 7, "name": "O.R. Tambo International Airport", "type": "Transport", "companyName": "Airports Company South Africa SOC Limited", "location": "Johannesburg, Gauteng", "status": "Operational", "latitude": -26.1367, "longitude": 28.2411 },
+  { "id": 8, "name": "Cape Town International Airport", "type": "Transport", "companyName": "Airports Company South Africa SOC Limited", "location": "Cape Town, Western Cape", "status": "Operational", "latitude": -33.9648, "longitude": 18.6017 },
+  { "id": 9, "name": "PRASA Metrorail — Gauteng Central Line", "type": "Transport", "companyName": "Passenger Rail Agency of South Africa", "location": "Johannesburg, Gauteng", "status": "Under Maintenance", "latitude": -26.2041, "longitude": 28.0473 },
+  { "id": 10, "name": "Denel Overberg Test Range", "type": "Factory", "companyName": "Denel SOC Limited", "location": "Bredasdorp, Western Cape", "status": "Operational", "latitude": -34.5833, "longitude": 20.0333 }
+]

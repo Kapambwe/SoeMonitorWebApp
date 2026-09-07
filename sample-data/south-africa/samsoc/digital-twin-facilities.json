@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "name": "Eskom Medupi Power Station",
+    "type": "Factory",
+    "companyName": "Eskom Holdings SOC Ltd",
+    "location": "Lephalale, Limpopo, South Africa",
+    "status": "Operational",
+    "latitude": -23.6833,
+    "longitude": 27.9833,
+    "lastUpdated": "2025-03-20T08:00:00",
+    "sensorData": { "outputMW": 4764, "capacityMW": 4764, "utilizationPct": 78.4 }
+  },
+  {
+    "id": 2,
+    "name": "Transnet Port of Durban",
+    "type": "Transport",
+    "companyName": "Transnet SOC Ltd",
+    "location": "Durban, KwaZulu-Natal, South Africa",
+    "status": "Operational",
+    "latitude": -29.8587,
+    "longitude": 31.0218,
+    "lastUpdated": "2025-03-20T08:00:00",
+    "sensorData": { "containersPerDay": 8400, "berthUtilizationPct": 82.0, "craneUptimePct": 91.5 }
+  },
+  {
+    "id": 3,
+    "name": "Denel Overberg Test Range",
+    "type": "Factory",
+    "companyName": "Denel SOC Ltd",
+    "location": "Bredasdorp, Western Cape, South Africa",
+    "status": "Operational",
+    "latitude": -34.5833,
+    "longitude": 20.3167,
+    "lastUpdated": "2025-03-20T08:00:00",
+    "sensorData": { "testEventsPerMonth": 12, "facilityUtilizationPct": 55.0, "safetyIncidents": 0 }
+  },
+  {
+    "id": 4,
+    "name": "SAA OR Tambo Hub Operations",
+    "type": "Transport",
+    "companyName": "South African Airways SOC Ltd",
+    "location": "Johannesburg, Gauteng, South Africa",
+    "status": "Operational",
+    "latitude": -26.1367,
+    "longitude": 28.2411,
+    "lastUpdated": "2025-03-20T08:00:00",
+    "sensorData": { "dailyFlights": 48, "onTimePerformancePct": 74.2, "loadFactorPct": 68.5 }
+  }
+]

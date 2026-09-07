@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1, "companyId": 1, "companyName": "KAGEM Mining Ltd",
+    "title": "KAGEM Board Meeting Q4 2024", "meetingDate": "2024-11-20",
+    "location": "IDC House, Lusaka", "meetingType": "Regular", "status": "Completed",
+    "attendees": ["Palitha Palliyaguru", "Sean Gilbertson", "David Lovett", "Chanda Mwila", "Lombe Chibesakunda"],
+    "absentees": [], "agenda": "1. FY2024 Production Review\n2. Phase 3 Expansion Update\n3. Dividend Declaration\n4. ESG Report",
+    "minutes": "Board reviewed FY2024 production of 32.5M carats. Phase 3 expansion on track. Dividend of ZMW 255M declared.",
+    "chairPerson": "David Lovett", "secretary": "Chanda Mwila",
+    "quorumRequired": 4, "actualAttendance": 5,
+    "resolutions": [
+      {
+        "id": 1, "meetingId": 1, "resolutionNumber": "KAGEM/2024/Q4/001",
+        "title": "FY2024 Dividend Declaration",
+        "description": "Declare a final dividend of ZMW 255,000,000 for FY2024, representing 30% of net profit.",
+        "status": "Approved", "votesFor": 5, "votesAgainst": 0, "abstentions": 0,
+        "resolutionDate": "2024-11-20", "implementationStatus": "Completed",
+        "implementationDeadline": "2025-01-31", "responsiblePerson": "KAGEM CFO"
+      }
+    ]
+  },
+  {
+    "id": 2, "companyId": 2, "companyName": "ZESCO Limited",
+    "title": "ZESCO Board Meeting — Turnaround Plan", "meetingDate": "2024-12-05",
+    "location": "ZESCO House, Lusaka", "meetingType": "Special", "status": "Completed",
+    "attendees": ["Victor Mapani", "Eng. Chishimba Nkole", "Dr. Mwila Chanda", "Bwalya Ng'andu", "Charity Lumpa"],
+    "absentees": ["Mwansa Kapatamoyo"], "agenda": "1. Turnaround Plan Approval\n2. Tariff Increase Roadmap\n3. Debt Restructuring Update",
+    "minutes": "Board approved ZESCO turnaround plan. Tariff increase of 25% approved effective January 2025.",
+    "chairPerson": "Eng. Chishimba Nkole", "secretary": "Dr. Mwila Chanda",
+    "quorumRequired": 4, "actualAttendance": 5,
+    "resolutions": [
+      {
+        "id": 2, "meetingId": 2, "resolutionNumber": "ZESCO/2024/SP/001",
+        "title": "Approval of ZESCO Turnaround Plan 2025-2027",
+        "description": "Approve the ZESCO Turnaround Plan 2025-2027 including tariff increases, cost reduction targets, and debt restructuring.",
+        "status": "Approved", "votesFor": 5, "votesAgainst": 0, "abstentions": 0,
+        "resolutionDate": "2024-12-05", "implementationStatus": "In Progress",
+        "implementationDeadline": "2025-12-31", "responsiblePerson": "ZESCO CEO"
+      }
+    ]
+  },
+  {
+    "id": 3, "companyId": 3, "companyName": "Zambia National Commercial Bank Plc (ZANACO)",
+    "title": "ZANACO Board Meeting Q3 2024", "meetingDate": "2024-10-10",
+    "location": "ZANACO Head Office, Lusaka", "meetingType": "Regular", "status": "Completed",
+    "attendees": ["Mukwandi Chibesakunda", "Charity Lumpa", "Bwalya Ng'andu", "Mwansa Kapatamoyo", "Lombe Chibesakunda"],
+    "absentees": [], "agenda": "1. Q3 Financial Results\n2. NPL Management Update\n3. Digital Banking Strategy\n4. Risk Report",
+    "minutes": "Q3 results reviewed. Net profit ZMW 825M YTD. NPL ratio at 6.2%. Digital banking users grew 18%.",
+    "chairPerson": "Charity Lumpa", "secretary": "Bwalya Ng'andu",
+    "quorumRequired": 4, "actualAttendance": 5,
+    "resolutions": [
+      {
+        "id": 3, "meetingId": 3, "resolutionNumber": "ZANACO/2024/Q3/001",
+        "title": "Approval of Digital Banking Investment",
+        "description": "Approve ZMW 180M investment in digital banking platform upgrade for FY2025.",
+        "status": "Approved", "votesFor": 5, "votesAgainst": 0, "abstentions": 0,
+        "resolutionDate": "2024-10-10", "implementationStatus": "Not Started",
+        "implementationDeadline": "2025-06-30", "responsiblePerson": "ZANACO CEO"
+      }
+    ]
+  },
+  {
+    "id": 4, "companyId": 1, "companyName": "KAGEM Mining Ltd",
+    "title": "KAGEM AGM 2025", "meetingDate": "2025-04-15",
+    "location": "IDC House, Lusaka", "meetingType": "AGM", "status": "Scheduled",
+    "attendees": [], "absentees": [],
+    "agenda": "1. Adoption of FY2024 Annual Report\n2. Appointment of Auditors\n3. Director Re-elections\n4. Dividend Payment Confirmation",
+    "minutes": "", "chairPerson": "David Lovett", "secretary": "Chanda Mwila",
+    "quorumRequired": 4, "actualAttendance": 0,
+    "resolutions": []
+  }
+]

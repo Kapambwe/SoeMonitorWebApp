@@ -1,0 +1,46 @@
+[
+  {
+    "id": "nt-001",
+    "username": "njuguna.ndungu@treasury.go.ke",
+    "firstName": "Njuguna",
+    "lastName": "Ndungu",
+    "email": "njuguna.ndungu@treasury.go.ke",
+    "roles": ["Cabinet Secretary", "Administrator"],
+    "password": "Test123!",
+    "department": "Executive",
+    "title": "Cabinet Secretary, National Treasury"
+  },
+  {
+    "id": "nt-002",
+    "username": "chris.kiptoo@treasury.go.ke",
+    "firstName": "Chris",
+    "lastName": "Kiptoo",
+    "email": "chris.kiptoo@treasury.go.ke",
+    "roles": ["Principal Secretary"],
+    "password": "Test123!",
+    "department": "Administration",
+    "title": "Principal Secretary"
+  },
+  {
+    "id": "nt-003",
+    "username": "wanjiku.kamau@treasury.go.ke",
+    "firstName": "Wanjiku",
+    "lastName": "Kamau",
+    "email": "wanjiku.kamau@treasury.go.ke",
+    "roles": ["Budget Controller"],
+    "password": "Test123!",
+    "department": "Budget",
+    "title": "Director of Budget"
+  },
+  {
+    "id": "nt-004",
+    "username": "admin@treasury.go.ke",
+    "firstName": "System",
+    "lastName": "Administrator",
+    "email": "admin@treasury.go.ke",
+    "roles": ["Administrator", "Super User"],
+    "password": "Admin@123",
+    "department": "IT",
+    "title": "System Administrator"
+  }
+]

@@ -1,0 +1,152 @@
+{
+  "environmental": [
+    {
+      "id": 1, "companyId": 1, "companyName": "KAGEM Mining Ltd",
+      "metric": "Carbon Emissions", "unit": "tCO2e", "baseline": 45000, "target": 38000, "actual": 41200,
+      "fiscalYear": 2024, "status": "In Progress",
+      "initiatives": ["Solar power installation at mine site", "Electric vehicle fleet for surface operations"],
+      "certifications": ["ISO 14001:2015"],
+      "notes": "Emissions reduced by 8.4% year-on-year through solar energy adoption."
+    },
+    {
+      "id": 2, "companyId": 1, "companyName": "KAGEM Mining Ltd",
+      "metric": "Water Consumption", "unit": "m3/year", "baseline": 850000, "target": 720000, "actual": 780000,
+      "fiscalYear": 2024, "status": "In Progress",
+      "initiatives": ["Water recycling plant upgrade", "Pit dewatering water reuse programme"],
+      "certifications": [],
+      "notes": "Water recycling rate improved to 65% from 52% in prior year."
+    },
+    {
+      "id": 3, "companyId": 2, "companyName": "ZESCO Limited",
+      "metric": "Renewable Energy Generation", "unit": "GWh", "baseline": 12500, "target": 14000, "actual": 11800,
+      "fiscalYear": 2024, "status": "Below Target",
+      "initiatives": ["Kariba North Bank rehabilitation", "Solar mini-grid programme for rural areas"],
+      "certifications": [],
+      "notes": "Low Kariba water levels reduced hydro generation by 5.6% below target."
+    },
+    {
+      "id": 4, "companyId": 2, "companyName": "ZESCO Limited",
+      "metric": "Technical Losses", "unit": "%", "baseline": 24, "target": 18, "actual": 22,
+      "fiscalYear": 2024, "status": "In Progress",
+      "initiatives": ["Smart meter rollout in Lusaka", "Distribution network rehabilitation"],
+      "certifications": [],
+      "notes": "Technical losses reduced from 24% to 22% through smart metering in Lusaka."
+    },
+    {
+      "id": 5, "companyId": 7, "companyName": "Mopani Copper Mines Plc",
+      "metric": "SO2 Emissions", "unit": "tonnes/year", "baseline": 85000, "target": 60000, "actual": 72000,
+      "fiscalYear": 2024, "status": "In Progress",
+      "initiatives": ["Acid plant upgrade at Mufulira smelter", "Sulphur capture technology installation"],
+      "certifications": ["ISO 14001:2015"],
+      "notes": "SO2 emissions reduced by 15% following acid plant upgrade."
+    },
+    {
+      "id": 6, "companyId": 8, "companyName": "Indeni Petroleum Refinery Company Ltd",
+      "metric": "Effluent Discharge", "unit": "m3/day", "baseline": 1200, "target": 800, "actual": 950,
+      "fiscalYear": 2024, "status": "In Progress",
+      "initiatives": ["Effluent treatment plant upgrade", "Zero liquid discharge programme"],
+      "certifications": [],
+      "notes": "Effluent discharge reduced by 21% following treatment plant upgrade."
+    }
+  ],
+  "social": [
+    {
+      "id": 1, "companyId": 1, "companyName": "KAGEM Mining Ltd",
+      "metric": "Community Investment", "unit": "ZMW", "baseline": 45000000, "target": 60000000, "actual": 68000000,
+      "fiscalYear": 2024, "status": "Exceeds Target",
+      "programmes": ["Lufwanyama District School Construction", "Community Health Clinic", "Women Artisanal Mining Support"],
+      "beneficiaries": 12500,
+      "notes": "Community investment exceeded target by 13%. 3 schools and 1 health clinic constructed."
+    },
+    {
+      "id": 2, "companyId": 2, "companyName": "ZESCO Limited",
+      "metric": "Rural Electrification", "unit": "households", "baseline": 850000, "target": 950000, "actual": 920000,
+      "fiscalYear": 2024, "status": "In Progress",
+      "programmes": ["Rural Electrification Authority partnership", "Solar mini-grid programme", "Last Mile Connectivity Project"],
+      "beneficiaries": 920000,
+      "notes": "70,000 new households connected in 2024 through REA partnership."
+    },
+    {
+      "id": 3, "companyId": 3, "companyName": "Zambia National Commercial Bank Plc (ZANACO)",
+      "metric": "Financial Inclusion", "unit": "accounts", "baseline": 1200000, "target": 1500000, "actual": 1480000,
+      "fiscalYear": 2024, "status": "Meets Target",
+      "programmes": ["ZANACO Xapit mobile banking", "SME lending programme", "Women in Business loans"],
+      "beneficiaries": 1480000,
+      "notes": "280,000 new accounts opened in 2024, 45% through mobile banking channel."
+    },
+    {
+      "id": 4, "companyId": 5, "companyName": "Zambia Railways Limited",
+      "metric": "Local Employment", "unit": "employees", "baseline": 4200, "target": 4500, "actual": 4500,
+      "fiscalYear": 2024, "status": "Meets Target",
+      "programmes": ["Apprenticeship programme", "Railway skills training centre", "Youth employment initiative"],
+      "beneficiaries": 4500,
+      "notes": "300 apprentices trained in 2024. 85% Zambian content in workforce."
+    },
+    {
+      "id": 5, "companyId": 6, "companyName": "Zambeef Products Plc",
+      "metric": "Smallholder Farmer Outreach", "unit": "farmers", "baseline": 8500, "target": 12000, "actual": 11200,
+      "fiscalYear": 2024, "status": "In Progress",
+      "programmes": ["Contract farming scheme", "Farmer input support", "Agronomy extension services"],
+      "beneficiaries": 11200,
+      "notes": "11,200 smallholder farmers supported through contract farming and input supply."
+    },
+    {
+      "id": 6, "companyId": 7, "companyName": "Mopani Copper Mines Plc",
+      "metric": "Safety - Lost Time Injury Frequency Rate", "unit": "per million hours", "baseline": 2.8, "target": 1.5, "actual": 1.9,
+      "fiscalYear": 2024, "status": "In Progress",
+      "programmes": ["Zero Harm safety programme", "Underground safety training", "Safety leadership programme"],
+      "beneficiaries": 8500,
+      "notes": "LTIFR improved from 2.8 to 1.9. Target of 1.5 not yet achieved."
+    }
+  ],
+  "governance": [
+    {
+      "id": 1, "companyId": 1, "companyName": "KAGEM Mining Ltd",
+      "metric": "Board Independence", "unit": "%", "baseline": 40, "target": 50, "actual": 50,
+      "fiscalYear": 2024, "status": "Meets Target",
+      "framework": "Zambia SOE Policy 2024",
+      "antiCorruptionMeasures": ["Whistleblower hotline", "Annual ethics training", "Conflict of interest register"],
+      "notes": "50% board independence achieved. Whistleblower hotline received 3 reports in 2024, all investigated."
+    },
+    {
+      "id": 2, "companyId": 2, "companyName": "ZESCO Limited",
+      "metric": "Procurement Transparency", "unit": "% contracts published", "baseline": 45, "target": 80, "actual": 62,
+      "fiscalYear": 2024, "status": "In Progress",
+      "framework": "Public Procurement Act",
+      "antiCorruptionMeasures": ["e-procurement system rollout", "Procurement audit committee", "ZPPA portal publication"],
+      "notes": "62% of contracts published on ZPPA portal. Target of 80% not yet achieved."
+    },
+    {
+      "id": 3, "companyId": 3, "companyName": "Zambia National Commercial Bank Plc (ZANACO)",
+      "metric": "AML Compliance Score", "unit": "score/100", "baseline": 78, "target": 85, "actual": 88,
+      "fiscalYear": 2024, "status": "Exceeds Target",
+      "framework": "Financial Intelligence Centre Act",
+      "antiCorruptionMeasures": ["KYC digital verification", "Transaction monitoring system", "Annual AML training"],
+      "notes": "AML compliance score of 88 exceeds target. No material findings in BoZ inspection."
+    },
+    {
+      "id": 4, "companyId": 4, "companyName": "Zambia Telecommunications Company Ltd (ZAMTEL)",
+      "metric": "Ethics Cases Resolved", "unit": "%", "baseline": 65, "target": 90, "actual": 82,
+      "fiscalYear": 2024, "status": "In Progress",
+      "framework": "Zambia SOE Policy 2024",
+      "antiCorruptionMeasures": ["Ethics hotline", "Code of conduct training", "Asset declaration for senior staff"],
+      "notes": "82% of ethics cases resolved within 60 days. 5 disciplinary actions taken."
+    },
+    {
+      "id": 5, "companyId": 6, "companyName": "Zambeef Products Plc",
+      "metric": "Gender Diversity - Board", "unit": "% female", "baseline": 25, "target": 33, "actual": 33,
+      "fiscalYear": 2024, "status": "Meets Target",
+      "framework": "Zambia Companies Act",
+      "antiCorruptionMeasures": ["Board diversity policy", "Conflict of interest declarations", "Related party transaction register"],
+      "notes": "33% female board representation achieved. 2 of 6 board members are women."
+    },
+    {
+      "id": 6, "companyId": 8, "companyName": "Indeni Petroleum Refinery Company Ltd",
+      "metric": "Regulatory Compliance Score", "unit": "score/100", "baseline": 72, "target": 85, "actual": 85,
+      "fiscalYear": 2024, "status": "Meets Target",
+      "framework": "Energy Regulation Act",
+      "antiCorruptionMeasures": ["Procurement committee oversight", "Internal audit function", "Annual compliance review"],
+      "notes": "Regulatory compliance score of 85 achieved. All ERB licence conditions met."
+    }
+  ]
+}

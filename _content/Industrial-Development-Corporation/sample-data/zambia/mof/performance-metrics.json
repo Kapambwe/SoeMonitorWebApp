@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1, "companyId": 1, "companyName": "ZESCO Limited",
+    "fiscalYear": 2024, "quarter": "Annual",
+    "revenueTarget": 9500000000, "revenueActual": 8500000000,
+    "profitTarget": 500000000, "profitActual": -700000000,
+    "employeeTarget": 7000, "employeeActual": 6800,
+    "customerSatisfaction": 52, "overallScore": 48, "status": "Below Target"
+  },
+  {
+    "id": 2, "companyId": 2, "companyName": "Zambia Revenue Authority",
+    "fiscalYear": 2024, "quarter": "Annual",
+    "revenueTarget": 118000000000, "revenueActual": 125000000000,
+    "profitTarget": 0, "profitActual": 0,
+    "employeeTarget": 4000, "employeeActual": 4200,
+    "customerSatisfaction": 72, "overallScore": 88, "status": "Exceeds Target"
+  },
+  {
+    "id": 3, "companyId": 3, "companyName": "Bank of Zambia",
+    "fiscalYear": 2024, "quarter": "Annual",
+    "revenueTarget": 4000000000, "revenueActual": 4200000000,
+    "profitTarget": 1200000000, "profitActual": 1400000000,
+    "employeeTarget": 1200, "employeeActual": 1250,
+    "customerSatisfaction": 78, "overallScore": 85, "status": "Meets Target"
+  },
+  {
+    "id": 4, "companyId": 4, "companyName": "National Pension Scheme Authority",
+    "fiscalYear": 2024, "quarter": "Annual",
+    "revenueTarget": 6500000000, "revenueActual": 6800000000,
+    "profitTarget": 2400000000, "profitActual": 2600000000,
+    "employeeTarget": 1800, "employeeActual": 1850,
+    "customerSatisfaction": 74, "overallScore": 82, "status": "Meets Target"
+  },
+  {
+    "id": 5, "companyId": 5, "companyName": "Road Development Agency",
+    "fiscalYear": 2024, "quarter": "Annual",
+    "revenueTarget": 13000000000, "revenueActual": 12500000000,
+    "profitTarget": 800000000, "profitActual": 700000000,
+    "employeeTarget": 3500, "employeeActual": 3200,
+    "customerSatisfaction": 65, "overallScore": 70, "status": "Below Target"
+  },
+  {
+    "id": 6, "companyId": 6, "companyName": "Zambia National Building Society",
+    "fiscalYear": 2024, "quarter": "Annual",
+    "revenueTarget": 1800000000, "revenueActual": 1850000000,
+    "profitTarget": 450000000, "profitActual": 500000000,
+    "employeeTarget": 650, "employeeActual": 680,
+    "customerSatisfaction": 80, "overallScore": 84, "status": "Meets Target"
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1, "companyId": 1, "companyName": "KAGEM Mining Ltd",
+    "framework": "Zambia SOE Policy 2024", "requirement": "Board Independence and Composition",
+    "status": "Compliant", "complianceScore": 90,
+    "lastAssessmentDate": "2024-10-01", "nextAssessmentDate": "2025-10-01",
+    "findings": "Board has 6 members with 3 independent directors. Gender diversity at 33% female representation.",
+    "recommendations": "Appoint an additional independent director with gemstone industry expertise."
+  },
+  {
+    "id": 2, "companyId": 2, "companyName": "ZESCO Limited",
+    "framework": "Public Finance Management Act", "requirement": "Financial Reporting and Audit",
+    "status": "Partially Compliant", "complianceScore": 62,
+    "lastAssessmentDate": "2024-11-15", "nextAssessmentDate": "2025-05-15",
+    "findings": "FY2023 audit completed with qualified opinion due to revenue recognition issues. FY2024 audit delayed by 3 months.",
+    "recommendations": "Strengthen finance team capacity; implement IFRS 15 revenue recognition policy; engage Big 4 auditor."
+  },
+  {
+    "id": 3, "companyId": 3, "companyName": "Zambia National Commercial Bank Plc (ZANACO)",
+    "framework": "Banking and Financial Services Act", "requirement": "Capital Adequacy and Prudential Requirements",
+    "status": "Compliant", "complianceScore": 92,
+    "lastAssessmentDate": "2024-09-30", "nextAssessmentDate": "2025-09-30",
+    "findings": "Capital adequacy ratio at 18.5%, well above the 12.5% minimum. All prudential returns submitted on time.",
+    "recommendations": "Develop ICAAP framework to align with Basel III requirements by 2026."
+  },
+  {
+    "id": 4, "companyId": 4, "companyName": "Zambia Telecommunications Company Ltd (ZAMTEL)",
+    "framework": "Electronic Communications and Transactions Act", "requirement": "ZICTA Licence Compliance",
+    "status": "Partially Compliant", "complianceScore": 70,
+    "lastAssessmentDate": "2024-08-20", "nextAssessmentDate": "2025-02-20",
+    "findings": "ZAMTEL missed Quality of Service targets for call drop rate and data speed. Universal Service Fund contributions in arrears.",
+    "recommendations": "Develop QoS improvement plan; clear USF arrears within 6 months; upgrade network infrastructure."
+  },
+  {
+    "id": 5, "companyId": 5, "companyName": "Zambia Railways Limited",
+    "framework": "Railways Act", "requirement": "Safety Management System",
+    "status": "Partially Compliant", "complianceScore": 58,
+    "lastAssessmentDate": "2024-07-10", "nextAssessmentDate": "2025-01-10",
+    "findings": "3 derailments recorded in 2024. Safety Management System not fully implemented. Track inspection frequency below required standard.",
+    "recommendations": "Implement SMS per SADC railway safety standards; increase track inspection to monthly; train safety officers."
+  },
+  {
+    "id": 6, "companyId": 6, "companyName": "Zambeef Products Plc",
+    "framework": "Zambia Companies Act", "requirement": "Listed Company Disclosure Requirements",
+    "status": "Compliant", "complianceScore": 88,
+    "lastAssessmentDate": "2024-10-31", "nextAssessmentDate": "2025-10-31",
+    "findings": "All LuSE and AIM disclosure requirements met. Annual report published within 4 months of year end.",
+    "recommendations": "Enhance sustainability reporting to align with GRI Standards."
+  },
+  {
+    "id": 7, "companyId": 7, "companyName": "Mopani Copper Mines Plc",
+    "framework": "Mines and Minerals Development Act", "requirement": "Mining Licence Conditions",
+    "status": "Compliant", "complianceScore": 82,
+    "lastAssessmentDate": "2024-09-15", "nextAssessmentDate": "2025-09-15",
+    "findings": "Mining licences current and in good standing. Environmental management plan updated post-acquisition.",
+    "recommendations": "Strengthen community development fund reporting; increase local procurement to 35%."
+  },
+  {
+    "id": 8, "companyId": 8, "companyName": "Indeni Petroleum Refinery Company Ltd",
+    "framework": "Energy Regulation Act", "requirement": "Petroleum Refinery Licence Conditions",
+    "status": "Compliant", "complianceScore": 85,
+    "lastAssessmentDate": "2024-08-01", "nextAssessmentDate": "2025-08-01",
+    "findings": "Refinery operating within licence conditions. Environmental emissions within ZEMA permitted levels.",
+    "recommendations": "Upgrade effluent treatment plant to meet 2026 environmental standards."
+  }
+]

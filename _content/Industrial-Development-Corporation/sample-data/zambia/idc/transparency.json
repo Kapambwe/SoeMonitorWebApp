@@ -1,0 +1,26 @@
+{
+  "annualReports": [
+    { "id": 1, "companyId": 2, "companyName": "ZESCO", "fiscalYear": 2023, "status": "Published", "hasFinancialStatements": true, "hasGovernanceDisclosure": true, "hasCompensationDisclosure": true, "hasRelatedPartyDisclosure": true, "hasESGDisclosure": true, "auditOpinion": "Unqualified", "pageCount": 145 },
+    { "id": 2, "companyId": 1, "companyName": "KAGEM Mining", "fiscalYear": 2023, "status": "Published", "hasFinancialStatements": true, "hasGovernanceDisclosure": true, "hasCompensationDisclosure": true, "hasRelatedPartyDisclosure": true, "hasESGDisclosure": true, "auditOpinion": "Unqualified", "pageCount": 128 },
+    { "id": 3, "companyId": 3, "companyName": "ZANACO", "fiscalYear": 2023, "status": "Published", "hasFinancialStatements": true, "hasGovernanceDisclosure": true, "hasCompensationDisclosure": true, "hasRelatedPartyDisclosure": true, "hasESGDisclosure": false, "auditOpinion": "Unqualified", "pageCount": 165 },
+    { "id": 4, "companyId": 5, "companyName": "Zambia Railways", "fiscalYear": 2023, "status": "Late", "hasFinancialStatements": true, "hasGovernanceDisclosure": false, "hasCompensationDisclosure": false, "hasRelatedPartyDisclosure": true, "hasESGDisclosure": false, "auditOpinion": "", "pageCount": 0 },
+    { "id": 5, "companyId": 7, "companyName": "Mopani Copper Mines", "fiscalYear": 2023, "status": "Published", "hasFinancialStatements": true, "hasGovernanceDisclosure": true, "hasCompensationDisclosure": true, "hasRelatedPartyDisclosure": true, "hasESGDisclosure": true, "auditOpinion": "Qualified", "pageCount": 180 }
+  ],
+  "disclosures": [
+    { "id": 1, "companyId": 2, "companyName": "ZESCO", "disclosureType": "Financial Results", "title": "Q3 2024 Financial Results", "description": "Third quarter financial performance", "channel": "Press Release", "status": "Published" },
+    { "id": 2, "companyId": 3, "companyName": "ZANACO", "disclosureType": "Board Changes", "title": "New Board Chairman Appointed", "description": "Appointment of new non-executive chairman", "channel": "Stock Exchange", "status": "Published" },
+    { "id": 3, "companyId": 1, "companyName": "KAGEM Mining", "disclosureType": "Major Contract", "title": "Emerald Supply Agreement", "description": "5-year supply agreement with international buyer", "channel": "Website", "status": "Published" },
+    { "id": 4, "companyId": 7, "companyName": "Mopani Copper Mines", "disclosureType": "Material Event", "title": "Production Update", "description": "Quarterly production figures", "channel": "Press Release", "status": "Pending" }
+  ],
+  "parliamentReports": [
+    { "id": 1, "reportType": "Annual Portfolio Review", "fiscalYear": 2023, "submittingMinistry": "Ministry of Finance", "committee": "Public Accounts Committee", "status": "Accepted", "questionsRaised": 15, "questionsAnswered": 15, "outcome": "Report adopted" },
+    { "id": 2, "reportType": "Budget Submission", "fiscalYear": 2024, "submittingMinistry": "Ministry of Finance", "committee": "Budget Committee", "status": "Accepted", "questionsRaised": 8, "questionsAnswered": 8, "outcome": "Budget approved" },
+    { "id": 3, "reportType": "Committee Response", "fiscalYear": 2024, "submittingMinistry": "Ministry of Energy", "committee": "Energy Committee", "status": "Pending", "questionsRaised": 12, "questionsAnswered": 0 }
+  ],
+  "citizenMetrics": [
+    { "id": 1, "metricCategory": "Jobs", "metricName": "Total SOE Employment", "currentValue": 45000, "previousValue": 43500, "unit": "employees", "description": "Direct employment across all SOEs" },
+    { "id": 2, "metricCategory": "Services", "metricName": "Electricity Access", "currentValue": 42, "previousValue": 38, "unit": "% population", "description": "Population with access to electricity" },
+    { "id": 3, "metricCategory": "Investment", "metricName": "Capital Expenditure", "currentValue": 2500000000, "previousValue": 2100000000, "unit": "ZMW", "description": "Annual capital investment by SOEs" },
+    { "id": 4, "metricCategory": "Environment", "metricName": "Carbon Emissions", "currentValue": 850000, "previousValue": 920000, "unit": "tons CO2", "description": "Annual carbon emissions from SOEs" }
+  ]
+}

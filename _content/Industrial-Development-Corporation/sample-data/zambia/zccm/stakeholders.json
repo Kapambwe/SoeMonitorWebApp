@@ -1,0 +1,57 @@
+[
+  {
+    "id": 1, "companyId": 1, "companyName": "ZCCM Investment Holdings Plc",
+    "name": "Ministry of Finance Zambia", "type": "Government",
+    "organization": "Government of the Republic of Zambia",
+    "engagementStatus": "Active", "influenceLevel": "High", "interestLevel": "High",
+    "contactEmail": "ps@mof.gov.zm",
+    "engagements": [
+      { "id": 1, "stakeholderId": 1, "engagementType": "Quarterly Review", "engagementDate": "2024-10-15", "status": "Completed", "notes": "Reviewed FY2024 Q3 performance and dividend projections." },
+      { "id": 2, "stakeholderId": 1, "engagementType": "Budget Submission", "engagementDate": "2024-09-01", "status": "Completed", "notes": "Submitted FY2025 budget and capital expenditure plan." }
+    ]
+  },
+  {
+    "id": 2, "companyId": 1, "companyName": "ZCCM Investment Holdings Plc",
+    "name": "Lusaka Securities Exchange", "type": "Regulator",
+    "organization": "LuSE",
+    "engagementStatus": "Active", "influenceLevel": "High", "interestLevel": "Medium",
+    "contactEmail": "listings@luse.co.zm",
+    "engagements": [
+      { "id": 3, "stakeholderId": 2, "engagementType": "Disclosure Filing", "engagementDate": "2024-11-01", "status": "Completed", "notes": "Filed Q3 2024 financial results per LuSE listing requirements." },
+      { "id": 4, "stakeholderId": 2, "engagementType": "Annual Report Submission", "engagementDate": "2024-04-30", "status": "Completed", "notes": "Submitted FY2023 annual report and audited accounts." }
+    ]
+  },
+  {
+    "id": 3, "companyId": 2, "companyName": "Mopani Copper Mines Plc",
+    "name": "IRH/Delta Mining Consolidated", "type": "Investor",
+    "organization": "International Resources Holdings",
+    "engagementStatus": "Active", "influenceLevel": "High", "interestLevel": "High",
+    "contactEmail": "zambia@irh-mining.com",
+    "engagements": [
+      { "id": 5, "stakeholderId": 3, "engagementType": "Board Meeting", "engagementDate": "2024-09-20", "status": "Completed", "notes": "Post-acquisition integration planning and operational review." },
+      { "id": 6, "stakeholderId": 3, "engagementType": "Shareholder Meeting", "engagementDate": "2024-07-15", "status": "Completed", "notes": "Formal completion of 51% stake acquisition." }
+    ]
+  },
+  {
+    "id": 4, "companyId": 3, "companyName": "Konkola Copper Mines Plc",
+    "name": "Mineworkers Union of Zambia", "type": "Labour",
+    "organization": "MUZ",
+    "engagementStatus": "Active", "influenceLevel": "High", "interestLevel": "High",
+    "contactEmail": "secretary@muz.co.zm",
+    "engagements": [
+      { "id": 7, "stakeholderId": 4, "engagementType": "Collective Bargaining", "engagementDate": "2024-08-01", "status": "Completed", "notes": "Concluded 2024-2025 wage agreement with 12% salary increase." },
+      { "id": 8, "stakeholderId": 4, "engagementType": "Safety Consultation", "engagementDate": "2024-10-10", "status": "Completed", "notes": "Reviewed underground safety protocols following incident report." }
+    ]
+  },
+  {
+    "id": 5, "companyId": 1, "companyName": "ZCCM Investment Holdings Plc",
+    "name": "Copperbelt Communities", "type": "Community",
+    "organization": "Copperbelt Community Development Trust",
+    "engagementStatus": "Active", "influenceLevel": "Medium", "interestLevel": "High",
+    "contactEmail": "info@cbcdt.org.zm",
+    "engagements": [
+      { "id": 9, "stakeholderId": 5, "engagementType": "CSR Consultation", "engagementDate": "2024-07-20", "status": "Completed", "notes": "Consulted on ZMW 450M community development fund allocation." },
+      { "id": 10, "stakeholderId": 5, "engagementType": "Environmental Forum", "engagementDate": "2024-05-15", "status": "Completed", "notes": "Discussed tailings management and water quality concerns." }
+    ]
+  }
+]

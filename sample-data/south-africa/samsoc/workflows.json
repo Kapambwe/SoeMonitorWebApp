@@ -1,0 +1,84 @@
+[
+  {
+    "id": 301,
+    "companyId": 10,
+    "companyName": "Eskom Holdings SOC Limited",
+    "workflowName": "NTDC Incorporation and NERSA Licensing",
+    "workflowType": "Structural Reform",
+    "status": "InProgress",
+    "priority": "Critical",
+    "createdDate": "2024-04-01T00:00:00",
+    "dueDate": "2025-12-31T00:00:00",
+    "completedDate": null,
+    "assignedTo": "Unbundling Programme Director",
+    "steps": [
+      { "stepNumber": 1, "stepName": "NTDC Company Incorporation", "status": "Completed", "completedDate": "2024-09-30T00:00:00" },
+      { "stepNumber": 2, "stepName": "Grid Code Amendments", "status": "InProgress", "completedDate": null },
+      { "stepNumber": 3, "stepName": "NERSA Licensing Application", "status": "InProgress", "completedDate": null },
+      { "stepNumber": 4, "stepName": "Asset Transfer to NTDC", "status": "Pending", "completedDate": null },
+      { "stepNumber": 5, "stepName": "NTDC Operational Independence", "status": "Pending", "completedDate": null }
+    ],
+    "notes": "NTDC incorporated as Eskom subsidiary. Grid Code amendments with NERSA for consultation. NERSA licensing expected Q3 2025."
+  },
+  {
+    "id": 302,
+    "companyId": 11,
+    "companyName": "Transnet SOC Limited",
+    "workflowName": "Durban Container Terminal Private Sector Participation",
+    "workflowType": "Strategic Transaction",
+    "status": "InProgress",
+    "priority": "High",
+    "createdDate": "2025-01-01T00:00:00",
+    "dueDate": "2026-06-30T00:00:00",
+    "completedDate": null,
+    "assignedTo": "Chief Strategy Officer",
+    "steps": [
+      { "stepNumber": 1, "stepName": "Business Case Development", "status": "Completed", "completedDate": "2025-02-28T00:00:00" },
+      { "stepNumber": 2, "stepName": "Cabinet Approval", "status": "InProgress", "completedDate": null },
+      { "stepNumber": 3, "stepName": "Transaction Advisor Appointment", "status": "Pending", "completedDate": null },
+      { "stepNumber": 4, "stepName": "Request for Proposals", "status": "Pending", "completedDate": null },
+      { "stepNumber": 5, "stepName": "Preferred Bidder Selection", "status": "Pending", "completedDate": null }
+    ],
+    "notes": "Business case submitted to DPEPE. Cabinet consideration expected Q2 2025."
+  },
+  {
+    "id": 303,
+    "companyId": 12,
+    "companyName": "South African Airways (SAA)",
+    "workflowName": "Strategic Equity Partnership — Alternative Options",
+    "workflowType": "Strategic Transaction",
+    "status": "InProgress",
+    "priority": "High",
+    "createdDate": "2025-01-05T00:00:00",
+    "dueDate": "2025-06-30T00:00:00",
+    "completedDate": null,
+    "assignedTo": "CEO",
+    "steps": [
+      { "stepNumber": 1, "stepName": "Alternative Options Assessment", "status": "Completed", "completedDate": "2025-02-15T00:00:00" },
+      { "stepNumber": 2, "stepName": "Shareholder Presentation", "status": "Completed", "completedDate": "2025-02-28T00:00:00" },
+      { "stepNumber": 3, "stepName": "Preferred Option Selection", "status": "InProgress", "completedDate": null },
+      { "stepNumber": 4, "stepName": "Transaction Advisor Appointment", "status": "Pending", "completedDate": null }
+    ],
+    "notes": "Three alternative strategic options presented to DPEPE. Preferred option selection expected Q2 2025."
+  },
+  {
+    "id": 304,
+    "companyId": 14,
+    "companyName": "South African National Roads Agency SOC Limited (SANRAL)",
+    "workflowName": "N2 Wild Coast Highway — Environmental Authorisation",
+    "workflowType": "Regulatory Approval",
+    "status": "InProgress",
+    "priority": "Medium",
+    "createdDate": "2024-01-01T00:00:00",
+    "dueDate": "2025-09-30T00:00:00",
+    "completedDate": null,
+    "assignedTo": "Regional Director — Eastern Cape",
+    "steps": [
+      { "stepNumber": 1, "stepName": "EIA Scoping Report", "status": "Completed", "completedDate": "2024-03-31T00:00:00" },
+      { "stepNumber": 2, "stepName": "Public Participation Process", "status": "Completed", "completedDate": "2024-08-31T00:00:00" },
+      { "stepNumber": 3, "stepName": "DFFE Review", "status": "InProgress", "completedDate": null },
+      { "stepNumber": 4, "stepName": "Environmental Authorisation Issued", "status": "Pending", "completedDate": null }
+    ],
+    "notes": "DFFE review in progress. Environmental authorisation expected Q3 2025. Community land claim resolved."
+  }
+]

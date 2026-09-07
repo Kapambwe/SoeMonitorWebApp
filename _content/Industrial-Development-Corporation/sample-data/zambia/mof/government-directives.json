@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1, "issuingAuthority": "Ministry of Finance Zambia",
+    "directiveNumber": "MOF/2024/001",
+    "title": "Fiscal Consolidation and SOE Debt Reduction Directive",
+    "description": "All SOEs with sovereign-guaranteed debt must submit quarterly debt reduction plans and achieve a minimum 5% reduction in outstanding guaranteed debt per annum. ZESCO is specifically required to develop a credible debt restructuring plan.",
+    "issuedDate": "2024-01-10", "complianceDeadline": "2024-12-31",
+    "status": "Active", "implementationStatus": "In Progress",
+    "affectedCompanies": ["ZESCO Limited", "Road Development Agency", "Zambia National Building Society"]
+  },
+  {
+    "id": 2, "issuingAuthority": "Ministry of Finance Zambia",
+    "directiveNumber": "MOF/2024/005",
+    "title": "SOE Dividend Policy and Government Revenue Contribution",
+    "description": "Profitable SOEs must declare dividends equivalent to at least 30% of net profit. Dividend payments must be made to the Consolidated Fund within 60 days of declaration.",
+    "issuedDate": "2024-02-15", "complianceDeadline": "2024-09-30",
+    "status": "Active", "implementationStatus": "Implemented",
+    "affectedCompanies": ["Zambia Revenue Authority", "Bank of Zambia", "National Pension Scheme Authority", "Zambia National Building Society"]
+  },
+  {
+    "id": 3, "issuingAuthority": "Cabinet Office Zambia",
+    "directiveNumber": "CAB/2024/012",
+    "title": "Public Service Wage Bill Rationalisation",
+    "description": "All government agencies and SOEs must submit workforce rationalisation plans to reduce the wage bill as a percentage of revenue. Hiring freeze on non-critical positions.",
+    "issuedDate": "2024-03-01", "complianceDeadline": "2024-06-30",
+    "status": "Active", "implementationStatus": "Implemented",
+    "affectedCompanies": ["ZESCO Limited", "Zambia Revenue Authority", "Road Development Agency", "National Pension Scheme Authority"]
+  },
+  {
+    "id": 4, "issuingAuthority": "Ministry of Finance Zambia",
+    "directiveNumber": "MOF/2024/018",
+    "title": "ZESCO Tariff Cost-Reflectivity Roadmap",
+    "description": "ZESCO must implement a phased tariff increase to achieve cost-reflective tariffs by 2026. Annual tariff reviews must be submitted to ERB by 1 August each year.",
+    "issuedDate": "2024-05-01", "complianceDeadline": "2026-12-31",
+    "status": "Active", "implementationStatus": "In Progress",
+    "affectedCompanies": ["ZESCO Limited"]
+  },
+  {
+    "id": 5, "issuingAuthority": "Bank of Zambia",
+    "directiveNumber": "BOZ/BSD/2024/003",
+    "title": "Financial Institution Capital Adequacy Requirements",
+    "description": "All licensed financial institutions including ZNBS must maintain minimum capital adequacy ratios of 12.5% and submit monthly prudential returns to Bank of Zambia.",
+    "issuedDate": "2024-04-01", "complianceDeadline": "2024-12-31",
+    "status": "Active", "implementationStatus": "Implemented",
+    "affectedCompanies": ["Zambia National Building Society"]
+  }
+]

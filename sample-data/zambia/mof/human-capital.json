@@ -1,0 +1,128 @@
+{
+  "executives": [
+    {
+      "id": 1,
+      "companyId": 10,
+      "companyName": "Ministry of Finance",
+      "executiveName": "Dr. Situmbeko Musokotwane",
+      "position": "Minister of Finance",
+      "fiscalYear": 2024,
+      "baseSalary": 980000,
+      "bonus": 0,
+      "longTermIncentive": 0,
+      "otherBenefits": 145000,
+      "medianEmployeeSalary": 72000,
+      "hasClawbackProvision": false,
+      "performanceRating": "Meets Expectations"
+    },
+    {
+      "id": 2,
+      "companyId": 10,
+      "companyName": "Ministry of Finance",
+      "executiveName": "Felix Nkulukusa",
+      "position": "Secretary to the Treasury",
+      "fiscalYear": 2024,
+      "baseSalary": 860000,
+      "bonus": 0,
+      "longTermIncentive": 0,
+      "otherBenefits": 112000,
+      "medianEmployeeSalary": 72000,
+      "hasClawbackProvision": false,
+      "performanceRating": "Exceeds Expectations"
+    },
+    {
+      "id": 3,
+      "companyId": 10,
+      "companyName": "Ministry of Finance",
+      "executiveName": "Mukuli Chikuba",
+      "position": "Director of Budget",
+      "fiscalYear": 2024,
+      "baseSalary": 620000,
+      "bonus": 0,
+      "longTermIncentive": 0,
+      "otherBenefits": 78000,
+      "medianEmployeeSalary": 72000,
+      "hasClawbackProvision": false,
+      "performanceRating": "Meets Expectations"
+    }
+  ],
+  "successionPlans": [
+    {
+      "id": 1,
+      "companyId": 10,
+      "companyName": "Ministry of Finance",
+      "keyPosition": "Secretary to the Treasury",
+      "currentIncumbent": "Felix Nkulukusa",
+      "expectedVacancy": "2027-01-31T00:00:00",
+      "primarySuccessor": "Mukuli Chikuba",
+      "readinessLevel": "Ready in 1-2 years",
+      "secondarySuccessor": "Pamela Kabamba",
+      "hasEmergencyPlan": true,
+      "lastReviewDate": "2025-01-20T00:00:00",
+      "status": "Active"
+    },
+    {
+      "id": 2,
+      "companyId": 10,
+      "companyName": "Ministry of Finance",
+      "keyPosition": "Director of Budget",
+      "currentIncumbent": "Mukuli Chikuba",
+      "expectedVacancy": null,
+      "primarySuccessor": "Chipo Mwanza",
+      "readinessLevel": "Ready Now",
+      "secondarySuccessor": "",
+      "hasEmergencyPlan": true,
+      "lastReviewDate": "2025-01-20T00:00:00",
+      "status": "Active"
+    },
+    {
+      "id": 3,
+      "companyId": 10,
+      "companyName": "Ministry of Finance",
+      "keyPosition": "Director of Economic Affairs",
+      "currentIncumbent": "Bwalya Ng'andu",
+      "expectedVacancy": "2025-09-30T00:00:00",
+      "primarySuccessor": "",
+      "readinessLevel": "Not Identified",
+      "secondarySuccessor": "",
+      "hasEmergencyPlan": false,
+      "lastReviewDate": "2024-10-15T00:00:00",
+      "status": "Critical Gap"
+    }
+  ],
+  "workforceMetrics": [
+    {
+      "id": 1,
+      "companyId": 10,
+      "companyName": "Ministry of Finance",
+      "fiscalYear": 2024,
+      "totalEmployees": 1850,
+      "maleEmployees": 1110,
+      "femaleEmployees": 740,
+      "under30": 370,
+      "age30To50": 1110,
+      "over50": 370,
+      "turnoverRate": 3.8,
+      "trainingHoursPerEmployee": 24.0,
+      "trainingInvestmentPerEmployee": 5200,
+      "skillGapPositions": 38,
+      "employeeSatisfactionScore": 68.5
+    }
+  ],
+  "laborRelations": [
+    {
+      "id": 1,
+      "companyId": 10,
+      "companyName": "Ministry of Finance",
+      "unionName": "Civil Servants and Allied Workers Union of Zambia (CSAWUZ)",
+      "unionizedEmployees": 1295,
+      "unionizationRate": 70.0,
+      "cbaExpiryDate": "2026-06-30T00:00:00",
+      "cbaStatus": "Active",
+      "strikesDays": 0,
+      "grievancesFiled": 22,
+      "grievancesResolved": 20,
+      "relationshipStatus": "Stable"
+    }
+  ]
+}

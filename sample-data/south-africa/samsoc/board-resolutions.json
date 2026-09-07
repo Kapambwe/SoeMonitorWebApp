@@ -1,0 +1,62 @@
+[
+  {
+    "id": 20,
+    "meetingId": 20,
+    "resolutionNumber": "SAMSOC-RES-2025-001",
+    "title": "Approval of SOE Portfolio Performance Report Q4 2024",
+    "description": "The Board resolved to approve the Q4 2024 SOE portfolio performance report and note the overall portfolio compliance score of 72%.",
+    "status": "Approved",
+    "votesFor": 5,
+    "votesAgainst": 0,
+    "abstentions": 0,
+    "resolutionDate": "2025-02-18T09:00:00",
+    "implementationStatus": "Completed",
+    "implementationDeadline": "2025-03-31T00:00:00",
+    "responsiblePerson": "CEO"
+  },
+  {
+    "id": 21,
+    "meetingId": 20,
+    "resolutionNumber": "SAMSOC-RES-2025-002",
+    "title": "Approval of Eskom Debt Relief Monitoring Framework",
+    "description": "The Board resolved to approve the enhanced monitoring framework for Eskom's R254 billion government debt relief programme, including quarterly reporting to National Treasury.",
+    "status": "Approved",
+    "votesFor": 5,
+    "votesAgainst": 0,
+    "abstentions": 0,
+    "resolutionDate": "2025-02-18T09:00:00",
+    "implementationStatus": "In Progress",
+    "implementationDeadline": "2025-12-31T00:00:00",
+    "responsiblePerson": "CFO"
+  },
+  {
+    "id": 22,
+    "meetingId": 20,
+    "resolutionNumber": "SAMSOC-RES-2025-003",
+    "title": "Appointment of Transaction Advisors — Denel Restructuring",
+    "description": "The Board resolved to appoint PricewaterhouseCoopers as transaction advisors for the Denel SOC Limited strategic equity partnership process.",
+    "status": "Approved",
+    "votesFor": 4,
+    "votesAgainst": 1,
+    "abstentions": 0,
+    "resolutionDate": "2025-02-18T09:00:00",
+    "implementationStatus": "In Progress",
+    "implementationDeadline": "2025-09-30T00:00:00",
+    "responsiblePerson": "CEO"
+  },
+  {
+    "id": 23,
+    "meetingId": 21,
+    "resolutionNumber": "SAMSOC-RES-2025-004",
+    "title": "Approval of FY2025 Annual Budget",
+    "description": "The Board resolved to approve the FY2025 annual budget of R485 million, including R120 million for SOE monitoring and oversight activities.",
+    "status": "Approved",
+    "votesFor": 5,
+    "votesAgainst": 0,
+    "abstentions": 0,
+    "resolutionDate": "2025-01-15T09:00:00",
+    "implementationStatus": "In Progress",
+    "implementationDeadline": "2026-03-31T00:00:00",
+    "responsiblePerson": "CFO"
+  }
+]

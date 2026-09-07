@@ -1,0 +1,183 @@
+[
+  { "id": 2127, "companyId": 20, "companyName": "Kenya Power and Lighting Company", "fiscalYear": "FY2024/25", "budgetType": "Capital", "totalBudget": 38500000000, "allocatedAmount": 38500000000, "spentAmount": 8200000000, "status": "Active", "approvalDate": "2024-07-01T00:00:00Z", "approvedBy": "KPLC Board", "notes": "Capital budget for FY2024/25 covering transmission expansion, distribution network upgrade, and meter replacement programme.", "lineItems": [
+    { "category": "Transmission Infrastructure", "description": "400kV Suswa-Kisumu transmission line Phase II", "budgetedAmount": 12000000000, "committedAmount": 4500000000, "spentAmount": 1200000000 },
+    { "category": "Distribution Network", "description": "Nairobi Metro distribution automation and smart grid", "budgetedAmount": 8500000000, "committedAmount": 3200000000, "spentAmount": 900000000 },
+    { "category": "Last Mile Connectivity", "description": "LMCP Phase IV — 200,000 rural connections", "budgetedAmount": 9500000000, "committedAmount": 5800000000, "spentAmount": 4200000000 },
+    { "category": "Metering", "description": "Smart pre-paid meter replacement — 500,000 units", "budgetedAmount": 3500000000, "committedAmount": 1800000000, "spentAmount": 900000000 },
+    { "category": "IT Systems", "description": "ERP upgrade and customer portal development", "budgetedAmount": 2800000000, "committedAmount": 1200000000, "spentAmount": 600000000 },
+    { "category": "Vehicles & Equipment", "description": "Transformer replacement and line vehicles", "budgetedAmount": 2200000000, "committedAmount": 850000000, "spentAmount": 400000000 }
+  ], "variances": [
+    { "category": "Transmission Infrastructure", "budgetedAmount": 12000000000, "actualAmount": 1200000000, "variance": -10800000000, "variancePercentage": -90.0, "explanation": "Land acquisition delays for Suswa-Kisumu line ROW. On track overall." },
+    { "category": "Last Mile Connectivity", "description": "LMCP Phase IV ahead of schedule due to contractor mobilisation", "budgetedAmount": 9500000000, "actualAmount": 4200000000, "variance": -5300000000, "variancePercentage": -55.8, "explanation": "Positive variance — ahead of YTD plan." }
+  ]},
+  { "id": 2128, "companyId": 20, "companyName": "Kenya Power and Lighting Company", "fiscalYear": "FY2024/25", "budgetType": "Operational", "totalBudget": 55200000000, "allocatedAmount": 55200000000, "spentAmount": 12800000000, "status": "Active", "approvalDate": "2024-07-01T00:00:00Z", "approvedBy": "KPLC Board", "notes": "Operational budget covering power purchase costs, staff costs, maintenance, and administrative expenses.", "lineItems": [
+    { "category": "Power Purchase", "description": "Electricity purchase from KenGen, IPPs, and imports", "budgetedAmount": 28500000000, "committedAmount": 28500000000, "spentAmount": 6800000000 },
+    { "category": "Staff Costs", "description": "Salaries, allowances, and staff benefits — 8,500 employees", "budgetedAmount": 12800000000, "committedAmount": 12800000000, "spentAmount": 3200000000 },
+    { "category": "Operations & Maintenance", "description": "Network maintenance, transformer repairs, line patrols", "budgetedAmount": 7200000000, "committedAmount": 4200000000, "spentAmount": 1600000000 },
+    { "category": "Administrative", "description": "Office costs, transport, utilities, communications", "budgetedAmount": 2800000000, "committedAmount": 2000000000, "spentAmount": 700000000 },
+    { "category": "Marketing & Customer Service", "description": "Customer acquisition, billing, and contact centre", "budgetedAmount": 1500000000, "committedAmount": 950000000, "spentAmount": 300000000 },
+    { "category": "Finance Costs", "description": "Interest on loans, bank charges, forex losses", "budgetedAmount": 2400000000, "committedAmount": 2400000000, "spentAmount": 200000000 }
+  ], "variances": [
+    { "category": "Power Purchase", "budgetedAmount": 6800000000, "actualAmount": 6800000000, "variance": 0, "variancePercentage": 0.0, "explanation": "Power purchase costs on budget. Geothermal generation availability high." }
+  ]},
+  { "id": 2129, "companyId": 20, "companyName": "Kenya Power and Lighting Company", "fiscalYear": "FY2023/24", "budgetType": "Capital", "totalBudget": 35800000000, "allocatedAmount": 35800000000, "spentAmount": 34200000000, "status": "Completed", "approvalDate": "2023-07-01T00:00:00Z", "approvedBy": "KPLC Board", "notes": "FY2023/24 capital budget — 95.5% utilisation achieved. LMCP Phase III completed.", "lineItems": [
+    { "category": "Last Mile Connectivity", "description": "LMCP Phase III — 230,000 connections", "budgetedAmount": 10200000000, "committedAmount": 10200000000, "spentAmount": 10100000000 },
+    { "category": "Transmission", "description": "400kV Olkaria-Nairobi North line", "budgetedAmount": 9800000000, "committedAmount": 9800000000, "spentAmount": 9650000000 },
+    { "category": "Distribution", "description": "Nairobi ring-feed distribution upgrade", "budgetedAmount": 7500000000, "committedAmount": 7500000000, "spentAmount": 7200000000 },
+    { "category": "Metering", "description": "AMI rollout — 300,000 smart meters", "budgetedAmount": 4800000000, "committedAmount": 4800000000, "spentAmount": 4500000000 },
+    { "category": "IT Systems", "description": "CIS/ERP systems upgrade", "budgetedAmount": 3500000000, "committedAmount": 3500000000, "spentAmount": 2750000000 }
+  ], "variances": [
+    { "category": "IT Systems", "budgetedAmount": 3500000000, "actualAmount": 2750000000, "variance": -750000000, "variancePercentage": -21.4, "explanation": "IT project delayed to FY2025 due to vendor technical issues. Carried forward." }
+  ]},
+  { "id": 2130, "companyId": 20, "companyName": "Kenya Power and Lighting Company", "fiscalYear": "FY2023/24", "budgetType": "Operational", "totalBudget": 52500000000, "allocatedAmount": 52500000000, "spentAmount": 51800000000, "status": "Completed", "approvalDate": "2023-07-01T00:00:00Z", "approvedBy": "KPLC Board", "notes": "FY2023/24 operational budget completed with 98.7% utilisation. Revenue target of KES 62.1bn achieved.", "lineItems": [
+    { "category": "Power Purchase", "description": "KenGen, IPPs and net imports", "budgetedAmount": 27000000000, "committedAmount": 27000000000, "spentAmount": 27200000000 },
+    { "category": "Staff Costs", "description": "All staff emoluments", "budgetedAmount": 12200000000, "committedAmount": 12200000000, "spentAmount": 12100000000 },
+    { "category": "Operations & Maintenance", "description": "Network O&M", "budgetedAmount": 7000000000, "committedAmount": 7000000000, "spentAmount": 6900000000 },
+    { "category": "Administrative", "description": "Overhead costs", "budgetedAmount": 2800000000, "committedAmount": 2800000000, "spentAmount": 2600000000 },
+    { "category": "Finance Costs", "description": "Debt service", "budgetedAmount": 3500000000, "committedAmount": 3500000000, "spentAmount": 3000000000 }
+  ], "variances": [
+    { "category": "Power Purchase", "budgetedAmount": 27000000000, "actualAmount": 27200000000, "variance": 200000000, "variancePercentage": 0.7, "explanation": "Slight overrun due to emergency thermal generation during drought period in Q3." }
+  ]},
+  { "id": 2131, "companyId": 21, "companyName": "Kenya Airways", "fiscalYear": "2024", "budgetType": "Operational", "totalBudget": 47000000000, "allocatedAmount": 47000000000, "spentAmount": 24800000000, "status": "Active", "approvalDate": "2024-01-01T00:00:00Z", "approvedBy": "Kenya Airways Board", "notes": "FY2024 operational budget targeting revenue of KES 47bn and EBITDA of KES 2.8bn. Fuel hedging covers 50% of consumption.", "lineItems": [
+    { "category": "Fuel Costs", "description": "Jet A-1 fuel — 420 million litres budgeted", "budgetedAmount": 12500000000, "committedAmount": 12500000000, "spentAmount": 6200000000 },
+    { "category": "Staff Costs", "description": "Pilot, cabin crew, ground staff emoluments — 4,200 employees", "budgetedAmount": 9800000000, "committedAmount": 9800000000, "spentAmount": 5100000000 },
+    { "category": "Aircraft Leases", "description": "Operating leases for 29 aircraft", "budgetedAmount": 8200000000, "committedAmount": 8200000000, "spentAmount": 4100000000 },
+    { "category": "Maintenance (MRO)", "description": "Line and heavy maintenance, engine overhauls", "budgetedAmount": 6800000000, "committedAmount": 5200000000, "spentAmount": 2800000000 },
+    { "category": "Airport & Navigation", "description": "Landing fees, navigation charges, ground handling", "budgetedAmount": 4200000000, "committedAmount": 4200000000, "spentAmount": 2100000000 },
+    { "category": "Sales & Distribution", "description": "GDS fees, agent commissions, marketing", "budgetedAmount": 3500000000, "committedAmount": 2800000000, "spentAmount": 1800000000 },
+    { "category": "Finance Costs", "description": "Interest on restructured debt", "budgetedAmount": 2000000000, "committedAmount": 2000000000, "spentAmount": 1000000000 }
+  ], "variances": [
+    { "category": "Fuel Costs", "budgetedAmount": 6200000000, "actualAmount": 6200000000, "variance": 0, "variancePercentage": 0.0, "explanation": "Fuel costs on budget. Hedging programme effective." }
+  ]},
+  { "id": 2132, "companyId": 21, "companyName": "Kenya Airways", "fiscalYear": "2024", "budgetType": "Capital", "totalBudget": 5800000000, "allocatedAmount": 5800000000, "spentAmount": 1200000000, "status": "Active", "approvalDate": "2024-01-01T00:00:00Z", "approvedBy": "Kenya Airways Board", "notes": "FY2024 capital expenditure includes cabin refurbishment, ground equipment, and IT systems upgrade.", "lineItems": [
+    { "category": "Fleet Leases (new)", "description": "Security deposits for 4 new B787-9 aircraft", "budgetedAmount": 2400000000, "committedAmount": 2400000000, "spentAmount": 600000000 },
+    { "category": "Cabin Refurbishment", "description": "B787 and B737 cabin interior refurbishment", "budgetedAmount": 1800000000, "committedAmount": 800000000, "spentAmount": 350000000 },
+    { "category": "Ground Equipment", "description": "Ground support equipment — pushbacks, loaders, dollies", "budgetedAmount": 900000000, "committedAmount": 400000000, "spentAmount": 150000000 },
+    { "category": "IT Systems", "description": "Amadeus Altéa upgrade and crew management system", "budgetedAmount": 700000000, "committedAmount": 500000000, "spentAmount": 100000000 }
+  ], "variances": []},
+  { "id": 2133, "companyId": 21, "companyName": "Kenya Airways", "fiscalYear": "2023", "budgetType": "Operational", "totalBudget": 43500000000, "allocatedAmount": 43500000000, "spentAmount": 43800000000, "status": "Completed", "approvalDate": "2023-01-01T00:00:00Z", "approvedBy": "Kenya Airways Board", "notes": "FY2023 actual revenue was KES 43.5bn — matched budget. Net loss of KES 3.8bn was KES 600m better than budget.", "lineItems": [
+    { "category": "Fuel Costs", "description": "Jet A-1 fuel actual", "budgetedAmount": 13200000000, "committedAmount": 13200000000, "spentAmount": 13800000000 },
+    { "category": "Staff Costs", "description": "All staff emoluments", "budgetedAmount": 9500000000, "committedAmount": 9500000000, "spentAmount": 9200000000 },
+    { "category": "Aircraft Leases", "description": "Operating leases", "budgetedAmount": 8000000000, "committedAmount": 8000000000, "spentAmount": 7900000000 },
+    { "category": "MRO", "description": "Maintenance costs", "budgetedAmount": 7200000000, "committedAmount": 7200000000, "spentAmount": 7100000000 },
+    { "category": "Other", "description": "Remaining operational costs", "budgetedAmount": 5600000000, "committedAmount": 5600000000, "spentAmount": 5800000000 }
+  ], "variances": [
+    { "category": "Fuel Costs", "budgetedAmount": 13200000000, "actualAmount": 13800000000, "variance": 600000000, "variancePercentage": 4.5, "explanation": "Fuel overrun due to higher-than-expected Jet A-1 prices in Q1 2023." }
+  ]},
+  { "id": 2134, "companyId": 22, "companyName": "Kenya Ports Authority", "fiscalYear": "FY2024/25", "budgetType": "Capital", "totalBudget": 42000000000, "allocatedAmount": 42000000000, "spentAmount": 3500000000, "status": "Active", "approvalDate": "2024-07-01T00:00:00Z", "approvedBy": "KPA Board", "notes": "FY2024/25 capital budget dominated by Berths 25-26 construction and port community system upgrade.", "lineItems": [
+    { "category": "Berths 25-26 Construction", "description": "New berth construction — Phase 1 of 3", "budgetedAmount": 28000000000, "committedAmount": 8500000000, "spentAmount": 1200000000 },
+    { "category": "Dredging", "description": "Kilindini Channel deepening to 15m depth", "budgetedAmount": 5500000000, "committedAmount": 2200000000, "spentAmount": 800000000 },
+    { "category": "Equipment", "description": "3 new ship-to-shore cranes and 12 RTG cranes", "budgetedAmount": 4800000000, "committedAmount": 4800000000, "spentAmount": 1000000000 },
+    { "category": "IT & Port Systems", "description": "Port Community System Phase 2, CCTV, security systems", "budgetedAmount": 1800000000, "committedAmount": 1800000000, "spentAmount": 350000000 },
+    { "category": "Road & Rail Access", "description": "Port gate expansion and internal road network", "budgetedAmount": 1900000000, "committedAmount": 800000000, "spentAmount": 150000000 }
+  ], "variances": []},
+  { "id": 2135, "companyId": 22, "companyName": "Kenya Ports Authority", "fiscalYear": "FY2024/25", "budgetType": "Operational", "totalBudget": 32000000000, "allocatedAmount": 32000000000, "spentAmount": 7800000000, "status": "Active", "approvalDate": "2024-07-01T00:00:00Z", "approvedBy": "KPA Board", "notes": "FY2024/25 operational budget targeting KES 42bn revenue and KES 9bn net profit.", "lineItems": [
+    { "category": "Staff Costs", "description": "Salaries and benefits — 6,800 employees", "budgetedAmount": 11500000000, "committedAmount": 11500000000, "spentAmount": 2875000000 },
+    { "category": "Equipment O&M", "description": "Crane maintenance, vehicle fleet, port equipment", "budgetedAmount": 6200000000, "committedAmount": 4500000000, "spentAmount": 1500000000 },
+    { "category": "Marine Operations", "description": "Pilotage, towage, and marine services", "budgetedAmount": 4500000000, "committedAmount": 4500000000, "spentAmount": 1125000000 },
+    { "category": "Utilities & Facilities", "description": "Electricity, water, building maintenance", "budgetedAmount": 2800000000, "committedAmount": 2200000000, "spentAmount": 700000000 },
+    { "category": "Port Security", "description": "ISPS Code security operations", "budgetedAmount": 2200000000, "committedAmount": 2200000000, "spentAmount": 550000000 },
+    { "category": "Administrative", "description": "Overhead and corporate costs", "budgetedAmount": 2000000000, "committedAmount": 1800000000, "spentAmount": 500000000 },
+    { "category": "Finance Costs", "description": "Loan interest on Berths 21-24 facility", "budgetedAmount": 2800000000, "committedAmount": 2800000000, "spentAmount": 550000000 }
+  ], "variances": []},
+  { "id": 2136, "companyId": 22, "companyName": "Kenya Ports Authority", "fiscalYear": "FY2023/24", "budgetType": "Capital", "totalBudget": 18500000000, "allocatedAmount": 18500000000, "spentAmount": 17800000000, "status": "Completed", "approvalDate": "2023-07-01T00:00:00Z", "approvedBy": "KPA Board", "notes": "FY2023/24 capital budget completed at 96.2% utilisation. Berths 21-24 fully commissioned.", "lineItems": [
+    { "category": "Berths 21-24 (completion)", "description": "Final construction and commissioning", "budgetedAmount": 10200000000, "committedAmount": 10200000000, "spentAmount": 9800000000 },
+    { "category": "Equipment", "description": "STS cranes, RTGs, and yard equipment for Berths 21-24", "budgetedAmount": 4800000000, "committedAmount": 4800000000, "spentAmount": 4700000000 },
+    { "category": "IT", "description": "Terminal Operating System and PCS Phase 1", "budgetedAmount": 2500000000, "committedAmount": 2500000000, "spentAmount": 2300000000 },
+    { "category": "Other Infrastructure", "description": "Utilities, lighting, roads, CCTV", "budgetedAmount": 1000000000, "committedAmount": 1000000000, "spentAmount": 1000000000 }
+  ], "variances": [
+    { "category": "Berths 21-24", "budgetedAmount": 10200000000, "actualAmount": 9800000000, "variance": -400000000, "variancePercentage": -3.9, "explanation": "Cost savings achieved through value engineering during construction." }
+  ]},
+  { "id": 2137, "companyId": 22, "companyName": "Kenya Ports Authority", "fiscalYear": "FY2023/24", "budgetType": "Operational", "totalBudget": 30000000000, "allocatedAmount": 30000000000, "spentAmount": 29500000000, "status": "Completed", "approvalDate": "2023-07-01T00:00:00Z", "approvedBy": "KPA Board", "notes": "FY2023/24 operational budget completed at 98.3% utilisation. Revenue outturn KES 40.5bn versus KES 39bn budgeted.", "lineItems": [
+    { "category": "Staff Costs", "description": "All staff emoluments", "budgetedAmount": 10800000000, "committedAmount": 10800000000, "spentAmount": 11200000000 },
+    { "category": "Equipment O&M", "description": "Crane and yard equipment maintenance", "budgetedAmount": 5800000000, "committedAmount": 5800000000, "spentAmount": 5600000000 },
+    { "category": "Marine Operations", "description": "Pilotage, towage, marine services", "budgetedAmount": 4200000000, "committedAmount": 4200000000, "spentAmount": 4300000000 },
+    { "category": "Other", "description": "Remaining operational costs", "budgetedAmount": 9200000000, "committedAmount": 9200000000, "spentAmount": 8400000000 }
+  ], "variances": [
+    { "category": "Staff Costs", "budgetedAmount": 10800000000, "actualAmount": 11200000000, "variance": 400000000, "variancePercentage": 3.7, "explanation": "CBA wage increases and 250 new hires for Berths 21-24 operations resulted in overrun." }
+  ]},
+  { "id": 2138, "companyId": 20, "companyName": "Kenya Power and Lighting Company", "fiscalYear": "FY2022/23", "budgetType": "Capital", "totalBudget": 32000000000, "allocatedAmount": 32000000000, "spentAmount": 30500000000, "status": "Completed", "approvalDate": "2022-07-01T00:00:00Z", "approvedBy": "KPLC Board", "notes": "FY2022/23 capital budget completed at 95.3% utilisation.", "lineItems": [
+    { "category": "LMCP Phase III (partial)", "description": "First 150,000 connections under Phase III", "budgetedAmount": 7500000000, "committedAmount": 7500000000, "spentAmount": 7200000000 },
+    { "category": "Transmission", "description": "132kV loop lines and substations", "budgetedAmount": 8500000000, "committedAmount": 8500000000, "spentAmount": 8200000000 },
+    { "category": "Distribution", "description": "33kV/11kV network expansion", "budgetedAmount": 9000000000, "committedAmount": 9000000000, "spentAmount": 8800000000 },
+    { "category": "Metering & IT", "description": "AMI and billing systems", "budgetedAmount": 7000000000, "committedAmount": 7000000000, "spentAmount": 6300000000 }
+  ], "variances": []},
+  { "id": 2139, "companyId": 21, "companyName": "Kenya Airways", "fiscalYear": "2022", "budgetType": "Operational", "totalBudget": 40000000000, "allocatedAmount": 40000000000, "spentAmount": 41200000000, "status": "Completed", "approvalDate": "2022-01-01T00:00:00Z", "approvedBy": "Kenya Airways Board", "notes": "FY2022 budget exceeded by KES 1.2bn mainly due to higher fuel costs. Government equity injection KES 15bn received.", "lineItems": [
+    { "category": "Fuel Costs", "description": "Jet A-1 fuel", "budgetedAmount": 11000000000, "committedAmount": 11000000000, "spentAmount": 13500000000 },
+    { "category": "Staff Costs", "description": "All emoluments", "budgetedAmount": 9800000000, "committedAmount": 9800000000, "spentAmount": 9400000000 },
+    { "category": "Aircraft Leases", "description": "Operating leases", "budgetedAmount": 8200000000, "committedAmount": 8200000000, "spentAmount": 7800000000 },
+    { "category": "Other", "description": "Remaining costs", "budgetedAmount": 11000000000, "committedAmount": 11000000000, "spentAmount": 10500000000 }
+  ], "variances": [
+    { "category": "Fuel Costs", "budgetedAmount": 11000000000, "actualAmount": 13500000000, "variance": 2500000000, "variancePercentage": 22.7, "explanation": "Jet A-1 price surged following Russia-Ukraine conflict. Hedging programme covered only 30% of exposure." }
+  ]},
+  { "id": 2140, "companyId": 22, "companyName": "Kenya Ports Authority", "fiscalYear": "FY2022/23", "budgetType": "Capital", "totalBudget": 14000000000, "allocatedAmount": 14000000000, "spentAmount": 13200000000, "status": "Completed", "approvalDate": "2022-07-01T00:00:00Z", "approvedBy": "KPA Board", "notes": "FY2022/23 capital budget at 94.3% utilisation. Berths 21-24 construction well advanced.", "lineItems": [
+    { "category": "Berths 21-24 (Phase 2)", "description": "Superstructure and crane installation", "budgetedAmount": 9000000000, "committedAmount": 9000000000, "spentAmount": 8500000000 },
+    { "category": "Equipment", "description": "Yard equipment procurement", "budgetedAmount": 3000000000, "committedAmount": 3000000000, "spentAmount": 2900000000 },
+    { "category": "Other", "description": "IT, vehicles, and workshop equipment", "budgetedAmount": 2000000000, "committedAmount": 2000000000, "spentAmount": 1800000000 }
+  ], "variances": []},
+  { "id": 2141, "companyId": 20, "companyName": "Kenya Power and Lighting Company", "fiscalYear": "FY2021/22", "budgetType": "Operational", "totalBudget": 48000000000, "allocatedAmount": 48000000000, "spentAmount": 47200000000, "status": "Completed", "approvalDate": "2021-07-01T00:00:00Z", "approvedBy": "KPLC Board", "notes": "FY2021/22 operational budget at 98.3% utilisation. Revenue outturn KES 54.2bn vs KES 52bn budget.", "lineItems": [
+    { "category": "Power Purchase", "description": "All power purchase costs", "budgetedAmount": 24500000000, "committedAmount": 24500000000, "spentAmount": 24800000000 },
+    { "category": "Staff Costs", "description": "All staff emoluments", "budgetedAmount": 11800000000, "committedAmount": 11800000000, "spentAmount": 11500000000 },
+    { "category": "O&M and Other", "description": "Remaining operational costs", "budgetedAmount": 11700000000, "committedAmount": 11700000000, "spentAmount": 10900000000 }
+  ], "variances": []},
+  { "id": 2142, "companyId": 21, "companyName": "Kenya Airways", "fiscalYear": "2021", "budgetType": "Operational", "totalBudget": 28000000000, "allocatedAmount": 28000000000, "spentAmount": 29500000000, "status": "Completed", "approvalDate": "2021-01-01T00:00:00Z", "approvedBy": "Kenya Airways Board", "notes": "COVID-19 severely impacted performance. Actual revenue KES 25.3bn vs KES 28bn budget. Government interventions required.", "lineItems": [
+    { "category": "Fuel Costs", "description": "Jet A-1 fuel (reduced operations)", "budgetedAmount": 6500000000, "committedAmount": 6500000000, "spentAmount": 4800000000 },
+    { "category": "Staff Costs", "description": "Staff costs including furlough payments", "budgetedAmount": 8500000000, "committedAmount": 8500000000, "spentAmount": 8200000000 },
+    { "category": "Aircraft Leases", "description": "Lease obligations despite grounded aircraft", "budgetedAmount": 7000000000, "committedAmount": 7000000000, "spentAmount": 9500000000 },
+    { "category": "Other", "description": "Remaining costs", "budgetedAmount": 6000000000, "committedAmount": 6000000000, "spentAmount": 7000000000 }
+  ], "variances": [
+    { "category": "Aircraft Leases", "budgetedAmount": 7000000000, "actualAmount": 9500000000, "variance": 2500000000, "variancePercentage": 35.7, "explanation": "Aircraft lease costs could not be fully suspended during COVID-19 grounding. Negotiations with lessors partially successful." }
+  ]},
+  { "id": 2143, "companyId": 22, "companyName": "Kenya Ports Authority", "fiscalYear": "FY2021/22", "budgetType": "Capital", "totalBudget": 12000000000, "allocatedAmount": 12000000000, "spentAmount": 11500000000, "status": "Completed", "approvalDate": "2021-07-01T00:00:00Z", "approvedBy": "KPA Board", "notes": "FY2021/22 capital budget at 95.8% utilisation. Berths 21-24 construction commenced.", "lineItems": [
+    { "category": "Berths 21-24 (Phase 1)", "description": "Foundation and civil works for 4 new berths", "budgetedAmount": 7500000000, "committedAmount": 7500000000, "spentAmount": 7200000000 },
+    { "category": "Equipment", "description": "Early procurement of STS cranes", "budgetedAmount": 3000000000, "committedAmount": 3000000000, "spentAmount": 2900000000 },
+    { "category": "IT", "description": "TOS and PCS initial procurement", "budgetedAmount": 1500000000, "committedAmount": 1500000000, "spentAmount": 1400000000 }
+  ], "variances": []},
+  { "id": 2144, "companyId": 20, "companyName": "Kenya Power and Lighting Company", "fiscalYear": "FY2020/21", "budgetType": "Capital", "totalBudget": 28500000000, "allocatedAmount": 28500000000, "spentAmount": 25800000000, "status": "Completed", "approvalDate": "2020-07-01T00:00:00Z", "approvedBy": "KPLC Board", "notes": "FY2020/21 capital budget affected by COVID-19 delays. Under-utilisation of KES 2.7bn mainly in LMCP due to access restrictions.", "lineItems": [
+    { "category": "LMCP Phase II", "description": "Rural electrification connections", "budgetedAmount": 9000000000, "committedAmount": 9000000000, "spentAmount": 7500000000 },
+    { "category": "Transmission", "description": "Substations and HV lines", "budgetedAmount": 10500000000, "committedAmount": 10500000000, "spentAmount": 10200000000 },
+    { "category": "Distribution & Metering", "description": "Network and meter works", "budgetedAmount": 9000000000, "committedAmount": 9000000000, "spentAmount": 8100000000 }
+  ], "variances": [
+    { "category": "LMCP Phase II", "budgetedAmount": 9000000000, "actualAmount": 7500000000, "variance": -1500000000, "variancePercentage": -16.7, "explanation": "COVID-19 access restrictions delayed rural connection works by 6 months." }
+  ]},
+  { "id": 2145, "companyId": 21, "companyName": "Kenya Airways", "fiscalYear": "2020", "budgetType": "Operational", "totalBudget": 42000000000, "allocatedAmount": 42000000000, "spentAmount": 22500000000, "status": "Completed", "approvalDate": "2020-01-01T00:00:00Z", "approvedBy": "Kenya Airways Board", "notes": "COVID-19 caused revenue collapse. Actual revenue KES 18.5bn vs KES 42bn budget. Emergency measures implemented.", "lineItems": [
+    { "category": "Fuel Costs", "description": "Significantly reduced due to grounding", "budgetedAmount": 11000000000, "committedAmount": 11000000000, "spentAmount": 3200000000 },
+    { "category": "Staff Costs", "description": "Furlough scheme reduced costs", "budgetedAmount": 9500000000, "committedAmount": 9500000000, "spentAmount": 7800000000 },
+    { "category": "Aircraft Leases", "description": "Reduced lease payments negotiated", "budgetedAmount": 8000000000, "committedAmount": 8000000000, "spentAmount": 5500000000 },
+    { "category": "Other", "description": "Remaining costs", "budgetedAmount": 13500000000, "committedAmount": 13500000000, "spentAmount": 6000000000 }
+  ], "variances": []},
+  { "id": 2146, "companyId": 22, "companyName": "Kenya Ports Authority", "fiscalYear": "FY2020/21", "budgetType": "Operational", "totalBudget": 24000000000, "allocatedAmount": 24000000000, "spentAmount": 23800000000, "status": "Completed", "approvalDate": "2020-07-01T00:00:00Z", "approvedBy": "KPA Board", "notes": "FY2020/21 operational budget nearly fully utilised. Port maintained operations throughout COVID-19 pandemic.", "lineItems": [
+    { "category": "Staff Costs", "description": "Staff costs including COVID-19 allowances", "budgetedAmount": 9500000000, "committedAmount": 9500000000, "spentAmount": 9800000000 },
+    { "category": "Equipment O&M", "description": "Crane and yard equipment", "budgetedAmount": 5500000000, "committedAmount": 5500000000, "spentAmount": 5300000000 },
+    { "category": "Marine Operations", "description": "Pilotage, towage, marine services", "budgetedAmount": 4200000000, "committedAmount": 4200000000, "spentAmount": 4200000000 },
+    { "category": "Other", "description": "Remaining operational costs", "budgetedAmount": 4800000000, "committedAmount": 4800000000, "spentAmount": 4500000000 }
+  ], "variances": []},
+  { "id": 2147, "companyId": 20, "companyName": "Kenya Power and Lighting Company", "fiscalYear": "FY2019/20", "budgetType": "Capital", "totalBudget": 26000000000, "allocatedAmount": 26000000000, "spentAmount": 24500000000, "status": "Completed", "approvalDate": "2019-07-01T00:00:00Z", "approvedBy": "KPLC Board", "notes": "FY2019/20 capital budget at 94.2% utilisation.", "lineItems": [
+    { "category": "LMCP Phase I (completion)", "description": "Final phase of LMCP Phase I", "budgetedAmount": 8000000000, "committedAmount": 8000000000, "spentAmount": 7800000000 },
+    { "category": "Transmission", "description": "400kV Olkaria-Nairobi line Phase I", "budgetedAmount": 10000000000, "committedAmount": 10000000000, "spentAmount": 9500000000 },
+    { "category": "Distribution", "description": "Network expansion", "budgetedAmount": 8000000000, "committedAmount": 8000000000, "spentAmount": 7200000000 }
+  ], "variances": []},
+  { "id": 2148, "companyId": 22, "companyName": "Kenya Ports Authority", "fiscalYear": "FY2019/20", "budgetType": "Capital", "totalBudget": 8500000000, "allocatedAmount": 8500000000, "spentAmount": 8200000000, "status": "Completed", "approvalDate": "2019-07-01T00:00:00Z", "approvedBy": "KPA Board", "notes": "FY2019/20 capital budget at 96.5% utilisation. Berths 19-20 expansion completed.", "lineItems": [
+    { "category": "Berths 19-20", "description": "Completion of berth expansion", "budgetedAmount": 4500000000, "committedAmount": 4500000000, "spentAmount": 4400000000 },
+    { "category": "Equipment", "description": "Crane and yard equipment", "budgetedAmount": 2500000000, "committedAmount": 2500000000, "spentAmount": 2400000000 },
+    { "category": "IT & Other", "description": "PCS and road infrastructure", "budgetedAmount": 1500000000, "committedAmount": 1500000000, "spentAmount": 1400000000 }
+  ], "variances": []},
+  { "id": 2149, "companyId": 20, "companyName": "Kenya Power and Lighting Company", "fiscalYear": "FY2024/25", "budgetType": "Training & Development", "totalBudget": 580000000, "allocatedAmount": 580000000, "spentAmount": 120000000, "status": "Active", "approvalDate": "2024-07-01T00:00:00Z", "approvedBy": "KPLC Board", "notes": "Dedicated training budget covering technical skills, management development, safety training, and regulatory compliance.", "lineItems": [
+    { "category": "Technical Training", "description": "Electrical engineering, HV works, safety", "budgetedAmount": 240000000, "committedAmount": 180000000, "spentAmount": 50000000 },
+    { "category": "Management Development", "description": "Leadership, finance, governance programmes", "budgetedAmount": 150000000, "committedAmount": 100000000, "spentAmount": 35000000 },
+    { "category": "IT & Digital Skills", "description": "SAP, data analytics, cybersecurity", "budgetedAmount": 120000000, "committedAmount": 80000000, "spentAmount": 25000000 },
+    { "category": "Safety & Compliance", "description": "OSHA, environmental, EPRA compliance training", "budgetedAmount": 70000000, "committedAmount": 50000000, "spentAmount": 10000000 }
+  ], "variances": []},
+  { "id": 2150, "companyId": 21, "companyName": "Kenya Airways", "fiscalYear": "2024", "budgetType": "Training & Development", "totalBudget": 420000000, "allocatedAmount": 420000000, "spentAmount": 95000000, "status": "Active", "approvalDate": "2024-01-01T00:00:00Z", "approvedBy": "Kenya Airways Board", "notes": "Training budget covering pilot recurrency, cabin crew training, technical and management development.", "lineItems": [
+    { "category": "Flight Crew Training", "description": "Type ratings, recurrency, simulator hours", "budgetedAmount": 200000000, "committedAmount": 160000000, "spentAmount": 45000000 },
+    { "category": "Cabin Crew Training", "description": "Safety, service, first aid training", "budgetedAmount": 80000000, "committedAmount": 60000000, "spentAmount": 20000000 },
+    { "category": "Technical Training", "description": "AME licence, avionics, engineering", "budgetedAmount": 85000000, "committedAmount": 65000000, "spentAmount": 18000000 },
+    { "category": "Management & Corporate", "description": "Leadership, commercial, finance training", "budgetedAmount": 55000000, "committedAmount": 40000000, "spentAmount": 12000000 }
+  ], "variances": []},
+  { "id": 2151, "companyId": 22, "companyName": "Kenya Ports Authority", "fiscalYear": "FY2024/25", "budgetType": "Training & Development", "totalBudget": 510000000, "allocatedAmount": 510000000, "spentAmount": 85000000, "status": "Active", "approvalDate": "2024-07-01T00:00:00Z", "approvedBy": "KPA Board", "notes": "Training budget focused on port operations, crane operations, maritime safety, and leadership development.", "lineItems": [
+    { "category": "Port Operations", "description": "Crane operators, stevedoring, logistics", "budgetedAmount": 180000000, "committedAmount": 120000000, "spentAmount": 30000000 },
+    { "category": "Maritime Safety", "description": "STCW, port security, ISPS compliance", "budgetedAmount": 120000000, "committedAmount": 90000000, "spentAmount": 25000000 },
+    { "category": "Technical & Engineering", "description": "Marine engineering, civil, electrical", "budgetedAmount": 100000000, "committedAmount": 80000000, "spentAmount": 18000000 },
+    { "category": "Management & IT", "description": "Leadership, TOS systems, data analytics", "budgetedAmount": 110000000, "committedAmount": 80000000, "spentAmount": 12000000 }
+  ], "variances": []}
+]

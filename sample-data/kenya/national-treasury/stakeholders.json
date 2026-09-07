@@ -1,0 +1,126 @@
+[
+  {
+    "id": 401,
+    "name": "John Mbadi",
+    "type": "Government",
+    "organization": "National Treasury Kenya",
+    "position": "Cabinet Secretary for National Treasury",
+    "contactEmail": "cs@treasury.go.ke",
+    "contactPhone": "+254-20-2252299",
+    "influenceLevel": "High",
+    "interestLevel": "High",
+    "engagementStatus": "Active",
+    "notes": "Key shareholder representative for all Kenyan SOEs. Oversees dividend policy, financial oversight, and government shareholder directions under the State Corporations Act.",
+    "engagements": [
+      {
+        "id": 401,
+        "stakeholderId": 401,
+        "stakeholderName": "John Mbadi",
+        "companyId": 22,
+        "companyName": "Kenya Ports Authority (KPA)",
+        "engagementType": "Meeting",
+        "subject": "KPA FY2024 Performance Review and Dividend",
+        "engagementDate": "2025-02-15T10:00:00",
+        "attendees": "KPA CEO, CFO, CS National Treasury, PS National Treasury",
+        "summary": "Review of KPA FY2024 record performance and dividend remittance to government.",
+        "outcomes": "Dividend of KES 2.9 billion approved. Berth expansion programme endorsed.",
+        "followUpActions": "KPA to submit FY2025 performance contract by March 2025.",
+        "nextEngagementDate": "2025-05-15T00:00:00",
+        "status": "Completed"
+      }
+    ]
+  },
+  {
+    "id": 402,
+    "name": "Kamau Thugge",
+    "type": "Regulator",
+    "organization": "Central Bank of Kenya",
+    "position": "Governor",
+    "contactEmail": "governor@centralbank.go.ke",
+    "contactPhone": "+254-20-2860000",
+    "influenceLevel": "High",
+    "interestLevel": "High",
+    "engagementStatus": "Active",
+    "notes": "CBK regulates Kenya's banking sector and monetary policy. Key regulator for Kenya Development Bank. Forex policy impacts Kenya Airways and Kenya Power.",
+    "engagements": [
+      {
+        "id": 402,
+        "stakeholderId": 402,
+        "stakeholderName": "Kamau Thugge",
+        "companyId": 24,
+        "companyName": "Kenya Development Bank Limited",
+        "engagementType": "Meeting",
+        "subject": "KDB Annual Supervisory Review 2024",
+        "engagementDate": "2024-11-20T09:00:00",
+        "attendees": "KDB CEO, CFO, CBK Governor, CBK Bank Supervision Director",
+        "summary": "Annual supervisory review of KDB's financial performance, capital adequacy, and development mandate delivery.",
+        "outcomes": "CBK noted KDB's strong capital position. Development mandate delivery acknowledged. NPL reduction plan required.",
+        "followUpActions": "KDB to submit NPL reduction plan by January 2025.",
+        "nextEngagementDate": "2025-05-20T00:00:00",
+        "status": "Completed"
+      }
+    ]
+  },
+  {
+    "id": 403,
+    "name": "Eng. Joseph Njoroge",
+    "type": "Regulator",
+    "organization": "Energy and Petroleum Regulatory Authority (EPRA)",
+    "position": "Director General",
+    "contactEmail": "dg@epra.go.ke",
+    "contactPhone": "+254-20-3201000",
+    "influenceLevel": "High",
+    "interestLevel": "High",
+    "engagementStatus": "Active",
+    "notes": "EPRA regulates electricity tariffs, licences, and quality of service. Critical regulator for Kenya Power. Tariff review and system loss targets require regular engagement.",
+    "engagements": [
+      {
+        "id": 403,
+        "stakeholderId": 403,
+        "stakeholderName": "Eng. Joseph Njoroge",
+        "companyId": 20,
+        "companyName": "Kenya Power and Lighting Company",
+        "engagementType": "Consultation",
+        "subject": "Kenya Power Tariff Review Application 2025",
+        "engagementDate": "2024-10-15T09:00:00",
+        "attendees": "Kenya Power CEO, CFO, EPRA DG, EPRA Technical Director",
+        "summary": "Kenya Power presented tariff review application requesting 15% average tariff adjustment for 2025.",
+        "outcomes": "EPRA acknowledged Kenya Power's financial pressures; consumer impact assessment initiated.",
+        "followUpActions": "Kenya Power to submit supplementary financial modelling; EPRA to hold public consultations.",
+        "nextEngagementDate": "2025-01-15T00:00:00",
+        "status": "Completed"
+      }
+    ]
+  },
+  {
+    "id": 404,
+    "name": "Allan Kilavuka",
+    "type": "Management",
+    "organization": "Kenya Airways Limited",
+    "position": "Group Managing Director and CEO",
+    "contactEmail": "ceo@kenya-airways.com",
+    "contactPhone": "+254-20-6422000",
+    "influenceLevel": "High",
+    "interestLevel": "High",
+    "engagementStatus": "Active",
+    "notes": "KQ CEO leading the airline's financial restructuring and strategic transformation. Key contact for debt restructuring negotiations and strategic partnership discussions.",
+    "engagements": [
+      {
+        "id": 404,
+        "stakeholderId": 404,
+        "stakeholderName": "Allan Kilavuka",
+        "companyId": 21,
+        "companyName": "Kenya Airways Limited",
+        "engagementType": "Meeting",
+        "subject": "KQ Financial Restructuring — Government Shareholder Update",
+        "engagementDate": "2025-01-20T10:00:00",
+        "attendees": "KQ CEO, CFO, CS National Treasury, PS National Treasury",
+        "summary": "KQ CEO presented financial restructuring progress and lender negotiations update to government shareholder.",
+        "outcomes": "Government committed to continued support for restructuring process. Strategic partnership options to be explored.",
+        "followUpActions": "KQ to present strategic partnership options by March 2025.",
+        "nextEngagementDate": "2025-03-20T00:00:00",
+        "status": "Completed"
+      }
+    ]
+  }
+]

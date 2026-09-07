@@ -1,0 +1,24 @@
+{
+  "assessments": [
+    { "id": 1, "companyId": 2, "companyName": "ZESCO", "assessmentType": "Vulnerability Scan", "assessor": "CyberSec Zambia", "criticalVulnerabilities": 3, "highVulnerabilities": 12, "mediumVulnerabilities": 28, "lowVulnerabilities": 45, "securityScore": 68, "complianceStatus": "Partial", "iso27001Status": "In Progress" },
+    { "id": 2, "companyId": 3, "companyName": "ZANACO", "assessmentType": "Penetration Test", "assessor": "Big4 Audit Firm", "criticalVulnerabilities": 0, "highVulnerabilities": 5, "mediumVulnerabilities": 15, "lowVulnerabilities": 32, "securityScore": 85, "complianceStatus": "Compliant", "iso27001Status": "Certified" },
+    { "id": 3, "companyId": 1, "companyName": "KAGEM Mining", "assessmentType": "Compliance Audit", "assessor": "Internal IT", "criticalVulnerabilities": 1, "highVulnerabilities": 8, "mediumVulnerabilities": 22, "lowVulnerabilities": 38, "securityScore": 72, "complianceStatus": "Partial", "iso27001Status": "In Progress" },
+    { "id": 4, "companyId": 5, "companyName": "Zambia Railways", "assessmentType": "Vulnerability Scan", "assessor": "External Consultant", "criticalVulnerabilities": 8, "highVulnerabilities": 25, "mediumVulnerabilities": 42, "lowVulnerabilities": 65, "securityScore": 45, "complianceStatus": "Non-Compliant", "iso27001Status": "Not Started" }
+  ],
+  "incidents": [
+    { "id": 1, "companyId": 3, "companyName": "ZANACO", "incidentType": "Phishing", "description": "Targeted phishing campaign against executives", "severity": "Medium", "impactScope": "Department", "systemsAffected": 0, "recordsCompromised": 0, "financialImpact": 0, "status": "Resolved", "rootCause": "Social engineering", "lessonsLearned": "Enhanced email filtering and user training" },
+    { "id": 2, "companyId": 2, "companyName": "ZESCO", "incidentType": "Malware", "description": "Ransomware detected on workstations", "severity": "High", "impactScope": "Department", "systemsAffected": 15, "recordsCompromised": 0, "financialImpact": 250000, "status": "Resolved", "rootCause": "Outdated antivirus", "lessonsLearned": "Automated patching implemented" },
+    { "id": 3, "companyId": 5, "companyName": "Zambia Railways", "incidentType": "Data Breach", "description": "Unauthorized access to employee records", "severity": "Critical", "impactScope": "Company-wide", "systemsAffected": 3, "recordsCompromised": 1500, "financialImpact": 0, "status": "Active", "rootCause": "Under investigation" }
+  ],
+  "itInvestments": [
+    { "id": 1, "companyId": 2, "companyName": "ZESCO", "projectName": "SCADA System Upgrade", "category": "Infrastructure", "budgetAllocated": 15000000, "amountSpent": 8500000, "progress": 55, "status": "In Progress", "projectManager": "Nathan Chishimba", "expectedROI": 25, "isStrategic": true },
+    { "id": 2, "companyId": 3, "companyName": "ZANACO", "projectName": "Core Banking Modernization", "category": "Application", "budgetAllocated": 45000000, "amountSpent": 35000000, "progress": 75, "status": "In Progress", "projectManager": "Tech Lead", "expectedROI": 35, "isStrategic": true },
+    { "id": 3, "companyId": 1, "companyName": "KAGEM Mining", "projectName": "Cloud Migration", "category": "Cloud", "budgetAllocated": 8000000, "amountSpent": 7500000, "progress": 92, "status": "In Progress", "projectManager": "IT Manager", "expectedROI": 20, "isStrategic": false },
+    { "id": 4, "companyId": 5, "companyName": "Zambia Railways", "projectName": "Network Security Upgrade", "category": "Security", "budgetAllocated": 5000000, "amountSpent": 500000, "progress": 10, "status": "Delayed", "projectManager": "IT Director", "expectedROI": 15, "isStrategic": true }
+  ],
+  "vendorRisks": [
+    { "id": 1, "companyId": 3, "companyName": "ZANACO", "vendorName": "Cloud Provider A", "serviceType": "Cloud", "isCriticalVendor": true, "dataAccessLevel": "Full", "riskScore": 25, "securityCertifications": "ISO 27001, SOC 2", "hasDataProcessingAgreement": true, "complianceStatus": "Compliant" },
+    { "id": 2, "companyId": 2, "companyName": "ZESCO", "vendorName": "IT Support Co.", "serviceType": "IT Support", "isCriticalVendor": true, "dataAccessLevel": "Limited", "riskScore": 55, "securityCertifications": "None", "hasDataProcessingAgreement": true, "complianceStatus": "Under Review" },
+    { "id": 3, "companyId": 1, "companyName": "KAGEM Mining", "vendorName": "SaaS Vendor", "serviceType": "SaaS", "isCriticalVendor": false, "dataAccessLevel": "Limited", "riskScore": 40, "securityCertifications": "ISO 27001", "hasDataProcessingAgreement": true, "complianceStatus": "Compliant" }
+  ]
+}

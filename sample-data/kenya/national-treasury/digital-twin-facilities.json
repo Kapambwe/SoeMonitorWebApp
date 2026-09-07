@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "name": "KenGen Olkaria Geothermal Plant",
+    "type": "Factory",
+    "companyName": "Kenya Electricity Generating Company",
+    "location": "Naivasha, Nakuru County, Kenya",
+    "status": "Operational",
+    "latitude": -0.9000,
+    "longitude": 36.2833,
+    "lastUpdated": "2025-03-20T08:00:00",
+    "sensorData": { "outputMW": 863, "capacityMW": 863, "utilizationPct": 94.2 }
+  },
+  {
+    "id": 2,
+    "name": "Kenya Ports Authority Mombasa Port",
+    "type": "Transport",
+    "companyName": "Kenya Ports Authority",
+    "location": "Mombasa, Coast County, Kenya",
+    "status": "Operational",
+    "latitude": -4.0435,
+    "longitude": 39.6682,
+    "lastUpdated": "2025-03-20T08:00:00",
+    "sensorData": { "containersPerDay": 5200, "berthUtilizationPct": 78.5, "craneUptimePct": 88.0 }
+  },
+  {
+    "id": 3,
+    "name": "Kenya Railways SGR Nairobi Terminus",
+    "type": "Transport",
+    "companyName": "Kenya Railways Corporation",
+    "location": "Nairobi, Nairobi County, Kenya",
+    "status": "Operational",
+    "latitude": -1.3192,
+    "longitude": 36.9275,
+    "lastUpdated": "2025-03-20T08:00:00",
+    "sensorData": { "dailyPassengers": 4800, "onTimePerformancePct": 82.0, "trainUtilizationPct": 71.5 }
+  },
+  {
+    "id": 4,
+    "name": "National Treasury Headquarters",
+    "type": "Factory",
+    "companyName": "National Treasury",
+    "location": "Nairobi, Nairobi County, Kenya",
+    "status": "Operational",
+    "latitude": -1.2921,
+    "longitude": 36.8219,
+    "lastUpdated": "2025-03-20T08:00:00",
+    "sensorData": { "staffPresent": 680, "systemsOnline": 22, "networkUptimePct": 99.5 }
+  }
+]

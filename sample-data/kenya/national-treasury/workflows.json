@@ -1,0 +1,85 @@
+[
+  {
+    "id": 401,
+    "companyId": 21,
+    "companyName": "Kenya Airways Limited",
+    "workflowName": "KQ Debt Restructuring — Lender Agreement",
+    "workflowType": "Financial Restructuring",
+    "status": "InProgress",
+    "priority": "Critical",
+    "createdDate": "2024-03-01T00:00:00",
+    "dueDate": "2025-06-30T00:00:00",
+    "completedDate": null,
+    "assignedTo": "CFO",
+    "steps": [
+      { "stepNumber": 1, "stepName": "Restructuring Plan Development", "status": "Completed", "completedDate": "2024-06-30T00:00:00" },
+      { "stepNumber": 2, "stepName": "Lender Engagement", "status": "Completed", "completedDate": "2024-12-31T00:00:00" },
+      { "stepNumber": 3, "stepName": "8 of 12 Lenders Agreement", "status": "Completed", "completedDate": "2025-02-20T00:00:00" },
+      { "stepNumber": 4, "stepName": "Remaining 4 Lenders Agreement", "status": "InProgress", "completedDate": null },
+      { "stepNumber": 5, "stepName": "Restructuring Agreement Execution", "status": "Pending", "completedDate": null }
+    ],
+    "notes": "8 of 12 lenders agreed in principle. Remaining 4 lenders expected to conclude by 30 April 2025."
+  },
+  {
+    "id": 402,
+    "companyId": 20,
+    "companyName": "Kenya Power and Lighting Company",
+    "workflowName": "Smart Metering Rollout — Phase 1",
+    "workflowType": "Capital Project",
+    "status": "InProgress",
+    "priority": "High",
+    "createdDate": "2024-01-01T00:00:00",
+    "dueDate": "2025-12-31T00:00:00",
+    "completedDate": null,
+    "assignedTo": "Director of Projects",
+    "steps": [
+      { "stepNumber": 1, "stepName": "Procurement and Contract Award", "status": "Completed", "completedDate": "2024-03-31T00:00:00" },
+      { "stepNumber": 2, "stepName": "Nairobi CBD Rollout (50,000 meters)", "status": "Completed", "completedDate": "2024-09-30T00:00:00" },
+      { "stepNumber": 3, "stepName": "Nairobi Suburbs Rollout (70,000 meters)", "status": "Completed", "completedDate": "2024-12-31T00:00:00" },
+      { "stepNumber": 4, "stepName": "Secondary Cities Rollout (380,000 meters)", "status": "InProgress", "completedDate": null }
+    ],
+    "notes": "120,000 meters installed to date. Secondary cities rollout commenced January 2025. Target of 500,000 meters by end 2025."
+  },
+  {
+    "id": 403,
+    "companyId": 23,
+    "companyName": "Kenya Revenue Authority (KRA)",
+    "workflowName": "iTax Phase 3 — System Development",
+    "workflowType": "Technology Project",
+    "status": "InProgress",
+    "priority": "High",
+    "createdDate": "2024-07-01T00:00:00",
+    "dueDate": "2026-06-30T00:00:00",
+    "completedDate": null,
+    "assignedTo": "Commissioner for IT",
+    "steps": [
+      { "stepNumber": 1, "stepName": "Requirements Definition", "status": "Completed", "completedDate": "2024-09-30T00:00:00" },
+      { "stepNumber": 2, "stepName": "Vendor Selection and Contract Award", "status": "Completed", "completedDate": "2025-01-31T00:00:00" },
+      { "stepNumber": 3, "stepName": "System Design", "status": "Completed", "completedDate": "2025-02-28T00:00:00" },
+      { "stepNumber": 4, "stepName": "Development Phase", "status": "InProgress", "completedDate": null },
+      { "stepNumber": 5, "stepName": "User Acceptance Testing", "status": "Pending", "completedDate": null },
+      { "stepNumber": 6, "stepName": "Go-Live", "status": "Pending", "completedDate": null }
+    ],
+    "notes": "Development phase commenced January 2025. Go-live expected Q3 2026."
+  },
+  {
+    "id": 404,
+    "companyId": 25,
+    "companyName": "National Social Security Fund (NSSF)",
+    "workflowName": "NSSF Act 2023 — Court-Supervised Implementation",
+    "workflowType": "Regulatory Compliance",
+    "status": "InProgress",
+    "priority": "High",
+    "createdDate": "2024-02-01T00:00:00",
+    "dueDate": "2025-06-30T00:00:00",
+    "completedDate": null,
+    "assignedTo": "CEO",
+    "steps": [
+      { "stepNumber": 1, "stepName": "Court-Supervised Framework Development", "status": "Completed", "completedDate": "2024-04-30T00:00:00" },
+      { "stepNumber": 2, "stepName": "Employer Communication Programme", "status": "Completed", "completedDate": "2024-08-31T00:00:00" },
+      { "stepNumber": 3, "stepName": "Court of Appeal Ruling", "status": "InProgress", "completedDate": null },
+      { "stepNumber": 4, "stepName": "Full Implementation (post-ruling)", "status": "Pending", "completedDate": null }
+    ],
+    "notes": "Court of Appeal ruling expected by 30 April 2025. NSSF operating under court-supervised framework pending ruling."
+  }
+]

@@ -1,0 +1,23 @@
+{
+  "executives": [
+    { "id": 1, "companyId": 2, "companyName": "ZESCO", "executiveName": "Victor Mundende", "position": "Managing Director", "fiscalYear": 2024, "baseSalary": 1800000, "bonus": 360000, "longTermIncentive": 180000, "otherBenefits": 120000, "medianEmployeeSalary": 85000, "hasClawbackProvision": true, "performanceRating": "Meets" },
+    { "id": 2, "companyId": 1, "companyName": "KAGEM Mining", "executiveName": "Elena Phiri", "position": "CEO", "fiscalYear": 2024, "baseSalary": 2200000, "bonus": 550000, "longTermIncentive": 330000, "otherBenefits": 180000, "medianEmployeeSalary": 95000, "hasClawbackProvision": true, "performanceRating": "Exceeds" },
+    { "id": 3, "companyId": 3, "companyName": "ZANACO", "executiveName": "Mukwandi Chibesakunda", "position": "CEO", "fiscalYear": 2024, "baseSalary": 2500000, "bonus": 625000, "longTermIncentive": 375000, "otherBenefits": 200000, "medianEmployeeSalary": 72000, "hasClawbackProvision": true, "performanceRating": "Exceeds" },
+    { "id": 4, "companyId": 7, "companyName": "Mopani Copper Mines", "executiveName": "Charles Sakanya", "position": "CEO", "fiscalYear": 2024, "baseSalary": 2100000, "bonus": 315000, "longTermIncentive": 210000, "otherBenefits": 150000, "medianEmployeeSalary": 110000, "hasClawbackProvision": true, "performanceRating": "Meets" }
+  ],
+  "successionPlans": [
+    { "id": 1, "companyId": 2, "companyName": "ZESCO", "keyPosition": "Managing Director", "currentIncumbent": "Victor Mundende", "primarySuccessor": "Mary Tembo", "readinessLevel": "Ready in 1 Year", "secondarySuccessor": "John Banda", "hasEmergencyPlan": true, "status": "Active" },
+    { "id": 2, "companyId": 1, "companyName": "KAGEM Mining", "keyPosition": "CEO", "currentIncumbent": "Elena Phiri", "primarySuccessor": "Peter Mwale", "readinessLevel": "Ready in 2+ Years", "secondarySuccessor": "", "hasEmergencyPlan": false, "status": "Under Review" },
+    { "id": 3, "companyId": 5, "companyName": "Zambia Railways", "keyPosition": "CEO", "currentIncumbent": "Frank Tayali", "primarySuccessor": "TBD", "readinessLevel": "Ready in 2+ Years", "secondarySuccessor": "", "hasEmergencyPlan": false, "status": "Critical Gap" }
+  ],
+  "workforceMetrics": [
+    { "id": 1, "companyId": 2, "companyName": "ZESCO", "fiscalYear": 2024, "totalEmployees": 8500, "maleEmployees": 6800, "femaleEmployees": 1700, "under30": 1275, "age30To50": 5525, "over50": 1700, "turnoverRate": 5.2, "trainingHoursPerEmployee": 24, "trainingInvestmentPerEmployee": 1500, "skillGapPositions": 45, "employeeSatisfactionScore": 72 },
+    { "id": 2, "companyId": 1, "companyName": "KAGEM Mining", "fiscalYear": 2024, "totalEmployees": 3200, "maleEmployees": 2880, "femaleEmployees": 320, "under30": 640, "age30To50": 1920, "over50": 640, "turnoverRate": 8.5, "trainingHoursPerEmployee": 32, "trainingInvestmentPerEmployee": 2200, "skillGapPositions": 28, "employeeSatisfactionScore": 68 },
+    { "id": 3, "companyId": 3, "companyName": "ZANACO", "fiscalYear": 2024, "totalEmployees": 2100, "maleEmployees": 1155, "femaleEmployees": 945, "under30": 525, "age30To50": 1260, "over50": 315, "turnoverRate": 12.3, "trainingHoursPerEmployee": 40, "trainingInvestmentPerEmployee": 3500, "skillGapPositions": 15, "employeeSatisfactionScore": 78 }
+  ],
+  "laborRelations": [
+    { "id": 1, "companyId": 2, "companyName": "ZESCO", "unionName": "ZESCO Workers Union", "unionizedEmployees": 7650, "unionizationRate": 90, "cbaStatus": "Active", "strikesDays": 0, "grievancesFiled": 45, "grievancesResolved": 38, "relationshipStatus": "Harmonious" },
+    { "id": 2, "companyId": 1, "companyName": "KAGEM Mining", "unionName": "Mineworkers Union of Zambia", "unionizedEmployees": 2880, "unionizationRate": 90, "cbaStatus": "Negotiating", "strikesDays": 3, "grievancesFiled": 28, "grievancesResolved": 20, "relationshipStatus": "Tense" },
+    { "id": 3, "companyId": 5, "companyName": "Zambia Railways", "unionName": "Railway Workers Union", "unionizedEmployees": 1800, "unionizationRate": 85, "cbaStatus": "Expired", "strikesDays": 5, "grievancesFiled": 62, "grievancesResolved": 35, "relationshipStatus": "Adversarial" }
+  ]
+}

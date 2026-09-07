@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1, "issuingAuthority": "Department of Public Enterprises",
+    "directiveNumber": "DPE/SAMSOC/2024/001",
+    "title": "SOE Financial Recovery and Sustainability Plans",
+    "description": "All SOEs under DPE oversight must submit credible financial recovery plans to the Department by 31 March 2024. Plans must include a path to financial sustainability within 5 years, debt reduction targets, and operational efficiency milestones.",
+    "issuedDate": "2024-01-15", "complianceDeadline": "2024-03-31",
+    "status": "Active", "implementationStatus": "Implemented",
+    "affectedCompanies": ["Eskom Holdings SOC Limited", "Transnet SOC Limited", "Denel SOC Limited", "South African Broadcasting Corporation SOC Limited"]
+  },
+  {
+    "id": 2, "issuingAuthority": "National Treasury",
+    "directiveNumber": "NT/SOE/2024/005",
+    "title": "Sovereign Guarantee Exposure Management",
+    "description": "SOEs with sovereign-guaranteed debt must submit quarterly reports on debt service coverage, covenant compliance, and liquidity position. Any covenant breach must be reported to National Treasury within 5 business days.",
+    "issuedDate": "2024-02-01", "complianceDeadline": "2024-03-31",
+    "status": "Active", "implementationStatus": "Implemented",
+    "affectedCompanies": ["Eskom Holdings SOC Limited", "Transnet SOC Limited", "South African Airways SOC Limited", "Passenger Rail Agency of South Africa"]
+  },
+  {
+    "id": 3, "issuingAuthority": "Presidency of South Africa",
+    "directiveNumber": "PRES/2024/012",
+    "title": "Operation Vulindlela — SOE Reform Milestones",
+    "description": "SOEs must implement structural reforms as part of Operation Vulindlela. Eskom must complete unbundling into generation, transmission and distribution entities. Transnet must introduce private sector participation in port terminals and rail corridors.",
+    "issuedDate": "2024-03-01", "complianceDeadline": "2025-12-31",
+    "status": "Active", "implementationStatus": "In Progress",
+    "affectedCompanies": ["Eskom Holdings SOC Limited", "Transnet SOC Limited"]
+  },
+  {
+    "id": 4, "issuingAuthority": "Department of Public Enterprises",
+    "directiveNumber": "DPE/2024/018",
+    "title": "Board Composition and Governance Standards",
+    "description": "All SOE boards must comply with King IV governance requirements. Boards must have a minimum of 60% independent non-executive directors. Board effectiveness evaluations must be conducted annually and results reported to the shareholder.",
+    "issuedDate": "2024-04-01", "complianceDeadline": "2024-09-30",
+    "status": "Active", "implementationStatus": "Implemented",
+    "affectedCompanies": ["Eskom Holdings SOC Limited", "Transnet SOC Limited", "South African Airways SOC Limited", "Denel SOC Limited", "South African Broadcasting Corporation SOC Limited", "Airports Company South Africa SOC Limited"]
+  },
+  {
+    "id": 5, "issuingAuthority": "National Treasury",
+    "directiveNumber": "NT/2024/022",
+    "title": "Consequence Management for Irregular Expenditure",
+    "description": "SOEs must implement consequence management for all irregular, fruitless and wasteful expenditure identified by the Auditor-General. Disciplinary proceedings must be finalised within 90 days of identification. Progress reports to be submitted quarterly.",
+    "issuedDate": "2024-05-15", "complianceDeadline": "2024-12-31",
+    "status": "Active", "implementationStatus": "In Progress",
+    "affectedCompanies": ["Eskom Holdings SOC Limited", "Transnet SOC Limited", "Passenger Rail Agency of South Africa", "Denel SOC Limited", "South African Broadcasting Corporation SOC Limited"]
+  },
+  {
+    "id": 6, "issuingAuthority": "Department of Public Enterprises",
+    "directiveNumber": "DPE/2024/031",
+    "title": "Denel Recapitalisation Conditions",
+    "description": "Denel must meet specific operational and governance conditions attached to the R3.4 billion government recapitalisation. Conditions include regularising salary payments, implementing a credible business plan, and achieving specified revenue milestones.",
+    "issuedDate": "2024-06-01", "complianceDeadline": "2025-03-31",
+    "status": "Active", "implementationStatus": "In Progress",
+    "affectedCompanies": ["Denel SOC Limited"]
+  }
+]

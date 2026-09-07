@@ -1,0 +1,82 @@
+[
+  {
+    "id": 201,
+    "companyId": 2,
+    "companyName": "Industrial Development Corporation",
+    "workflowName": "FY2024 Annual Report Approval",
+    "workflowType": "Approval",
+    "status": "Completed",
+    "priority": "High",
+    "createdDate": "2025-01-15T00:00:00",
+    "dueDate": "2025-03-31T00:00:00",
+    "completedDate": "2025-03-10T00:00:00",
+    "assignedTo": "Company Secretary",
+    "steps": [
+      { "stepNumber": 1, "stepName": "Audit Committee Review", "status": "Completed", "completedDate": "2025-02-20T00:00:00" },
+      { "stepNumber": 2, "stepName": "Board Approval", "status": "Completed", "completedDate": "2025-02-20T00:00:00" },
+      { "stepNumber": 3, "stepName": "Ministry Submission", "status": "Completed", "completedDate": "2025-03-10T00:00:00" }
+    ],
+    "notes": "FY2024 annual report submitted to Ministry of Finance on 10 March 2025, within the 90-day deadline."
+  },
+  {
+    "id": 202,
+    "companyId": 5,
+    "companyName": "ZCCM Investments Holdings PLC",
+    "workflowName": "Mine Rehabilitation Fund Top-Up Plan",
+    "workflowType": "Compliance",
+    "status": "InProgress",
+    "priority": "High",
+    "createdDate": "2025-02-15T00:00:00",
+    "dueDate": "2025-06-30T00:00:00",
+    "completedDate": null,
+    "assignedTo": "Environmental Manager",
+    "steps": [
+      { "stepNumber": 1, "stepName": "Actuarial Review Completion", "status": "Completed", "completedDate": "2025-02-28T00:00:00" },
+      { "stepNumber": 2, "stepName": "Board Approval of Top-Up Plan", "status": "InProgress", "completedDate": null },
+      { "stepNumber": 3, "stepName": "ZEMA Submission", "status": "Pending", "completedDate": null },
+      { "stepNumber": 4, "stepName": "Fund Top-Up Contributions", "status": "Pending", "completedDate": null }
+    ],
+    "notes": "Actuarial review completed. Board to consider top-up plan at May 2025 meeting."
+  },
+  {
+    "id": 203,
+    "companyId": 4,
+    "companyName": "Zambia Railways Limited",
+    "workflowName": "RTSA Category A Safety Deficiency Rectification",
+    "workflowType": "Compliance",
+    "status": "InProgress",
+    "priority": "Critical",
+    "createdDate": "2023-11-01T00:00:00",
+    "dueDate": "2025-04-30T00:00:00",
+    "completedDate": null,
+    "assignedTo": "Chief Safety Officer",
+    "steps": [
+      { "stepNumber": 1, "stepName": "Deficiency Assessment", "status": "Completed", "completedDate": "2023-12-01T00:00:00" },
+      { "stepNumber": 2, "stepName": "Rectification Plan Approval", "status": "Completed", "completedDate": "2024-01-15T00:00:00" },
+      { "stepNumber": 3, "stepName": "7 of 12 Deficiencies Resolved", "status": "Completed", "completedDate": "2024-12-31T00:00:00" },
+      { "stepNumber": 4, "stepName": "Remaining 5 Deficiencies Resolution", "status": "InProgress", "completedDate": null },
+      { "stepNumber": 5, "stepName": "RTSA Verification Inspection", "status": "Pending", "completedDate": null }
+    ],
+    "notes": "7 of 12 Category A deficiencies resolved. 5 remaining require track infrastructure works currently in progress."
+  },
+  {
+    "id": 204,
+    "companyId": 2,
+    "companyName": "Industrial Development Corporation",
+    "workflowName": "ZAFCO Acquisition — CCPC Merger Approval",
+    "workflowType": "Regulatory Approval",
+    "status": "InProgress",
+    "priority": "High",
+    "createdDate": "2025-01-30T00:00:00",
+    "dueDate": "2025-04-30T00:00:00",
+    "completedDate": null,
+    "assignedTo": "Legal Counsel",
+    "steps": [
+      { "stepNumber": 1, "stepName": "CCPC Filing", "status": "Completed", "completedDate": "2025-01-30T00:00:00" },
+      { "stepNumber": 2, "stepName": "Phase 1 Review (30 days)", "status": "Completed", "completedDate": "2025-02-28T00:00:00" },
+      { "stepNumber": 3, "stepName": "CCPC Decision", "status": "InProgress", "completedDate": null },
+      { "stepNumber": 4, "stepName": "Transaction Closing", "status": "Pending", "completedDate": null }
+    ],
+    "notes": "CCPC Phase 1 review completed with no objections. Final decision expected by 15 March 2025."
+  }
+]

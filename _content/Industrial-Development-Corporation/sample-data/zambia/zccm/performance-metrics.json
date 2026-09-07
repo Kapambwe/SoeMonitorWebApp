@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1, "companyId": 1, "companyName": "ZCCM Investment Holdings Plc",
+    "fiscalYear": 2024, "quarter": "Annual",
+    "revenueTarget": 35000000000, "revenueActual": 39850000000,
+    "profitTarget": 18000000000, "profitActual": 21650000000,
+    "employeeTarget": 300, "employeeActual": 320,
+    "customerSatisfaction": 88, "overallScore": 94, "status": "Exceeds Target"
+  },
+  {
+    "id": 2, "companyId": 2, "companyName": "Mopani Copper Mines Plc",
+    "fiscalYear": 2024, "quarter": "Annual",
+    "revenueTarget": 13000000000, "revenueActual": 12500000000,
+    "profitTarget": 3000000000, "profitActual": 2700000000,
+    "employeeTarget": 9000, "employeeActual": 8500,
+    "customerSatisfaction": 75, "overallScore": 78, "status": "Below Target"
+  },
+  {
+    "id": 3, "companyId": 3, "companyName": "Konkola Copper Mines Plc",
+    "fiscalYear": 2024, "quarter": "Annual",
+    "revenueTarget": 10000000000, "revenueActual": 9800000000,
+    "profitTarget": 2000000000, "profitActual": 1600000000,
+    "employeeTarget": 12000, "employeeActual": 11200,
+    "customerSatisfaction": 70, "overallScore": 72, "status": "Below Target"
+  },
+  {
+    "id": 4, "companyId": 4, "companyName": "Copperbelt Energy Corporation Plc",
+    "fiscalYear": 2024, "quarter": "Annual",
+    "revenueTarget": 4000000000, "revenueActual": 4200000000,
+    "profitTarget": 1000000000, "profitActual": 1100000000,
+    "employeeTarget": 1800, "employeeActual": 1850,
+    "customerSatisfaction": 82, "overallScore": 86, "status": "Meets Target"
+  },
+  {
+    "id": 5, "companyId": 7, "companyName": "Maamba Collieries Ltd",
+    "fiscalYear": 2024, "quarter": "Annual",
+    "revenueTarget": 1800000000, "revenueActual": 1850000000,
+    "profitTarget": 400000000, "profitActual": 430000000,
+    "employeeTarget": 1600, "employeeActual": 1650,
+    "customerSatisfaction": 79, "overallScore": 83, "status": "Meets Target"
+  },
+  {
+    "id": 6, "companyId": 8, "companyName": "Ndola Lime Company Ltd",
+    "fiscalYear": 2024, "quarter": "Annual",
+    "revenueTarget": 500000000, "revenueActual": 520000000,
+    "profitTarget": 120000000, "profitActual": 140000000,
+    "employeeTarget": 450, "employeeActual": 480,
+    "customerSatisfaction": 85, "overallScore": 88, "status": "Meets Target"
+  }
+]

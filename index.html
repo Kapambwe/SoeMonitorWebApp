@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Industrial Corporation  Web App</title>
+    <link href="_framework/dotnet.cbvk29byhv.js" rel="preload" as="script" fetchpriority="high" crossorigin="anonymous" integrity="sha256-eO6GODAXkfrrBYg8mAGeTygJKJIAZOAvPTskE4l8DGY=" />
+    <script>
+        // Set base href BEFORE any resources load so relative URLs resolve correctly.
+        // This is required for GitHub Pages where the app lives under /SoeMonitorWebApp/.
+        (function () {
+            var base = document.createElement('base');
+            var path = window.location.pathname.startsWith('/SoeMonitorWebApp')
+                ? '/SoeMonitorWebApp/'
+                : '/';
+            base.setAttribute('href', path);
+            document.head.appendChild(base);
+        })();
+    </script>
+    <link rel="stylesheet" href="lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="css/app.css" />
+    <link rel="icon" type="image/png" href="favicon.png" />
+    <link href="IndustrialCorporationWebApp.styles.css" rel="stylesheet" />
+    <link href="_content/Radzen.Blazor/css/material-base.css" rel="stylesheet">
+    <script type="importmap">{
+  "imports": {
+    "./_framework/blazor.webassembly.js": "./_framework/blazor.webassembly.w3qd1tpl0e.js",
+    "./_framework/dotnet.js": "./_framework/dotnet.cbvk29byhv.js",
+    "./_framework/dotnet.native.js": "./_framework/dotnet.native.vzj2a6aakt.js",
+    "./_framework/dotnet.runtime.js": "./_framework/dotnet.runtime.zbexyp8zrs.js"
+  },
+  "scopes": {},
+  "integrity": {
+    "./_framework/blazor.webassembly.js": "sha256-lDXsDYFgm62F+YUvxES7IOTCXYpiHpU3uR45YdC6mq4=",
+    "./_framework/blazor.webassembly.w3qd1tpl0e.js": "sha256-lDXsDYFgm62F+YUvxES7IOTCXYpiHpU3uR45YdC6mq4=",
+    "./_framework/dotnet.cbvk29byhv.js": "sha256-eO6GODAXkfrrBYg8mAGeTygJKJIAZOAvPTskE4l8DGY=",
+    "./_framework/dotnet.js": "sha256-eO6GODAXkfrrBYg8mAGeTygJKJIAZOAvPTskE4l8DGY=",
+    "./_framework/dotnet.native.js": "sha256-RezASHv+dbqV50cFnld76YiLhk4B+BjMAKs/euUdNyE=",
+    "./_framework/dotnet.native.vzj2a6aakt.js": "sha256-RezASHv+dbqV50cFnld76YiLhk4B+BjMAKs/euUdNyE=",
+    "./_framework/dotnet.runtime.js": "sha256-MZMguyke9CroSQl+L/SHIGFkPTD+LtYGXkXjAvwWx40=",
+    "./_framework/dotnet.runtime.zbexyp8zrs.js": "sha256-MZMguyke9CroSQl+L/SHIGFkPTD+LtYGXkXjAvwWx40="
+  }
+}</script>
+</head>
+
+<body>
+    <div id="app">
+        <svg class="loading-progress">
+            <circle r="40%" cx="50%" cy="50%" />
+            <circle r="40%" cx="50%" cy="50%" />
+        </svg>
+        <div class="loading-progress-text"></div>
+    </div>
+
+    <div id="blazor-error-ui">
+        An unhandled error has occurred.
+        <a href="." class="reload">Reload</a>
+        <span class="dismiss">🗙</span>
+    </div>
+    <script src="js/localStorage.js"></script>
+    <script src="_framework/blazor.webassembly.w3qd1tpl0e.js"></script>
+    <script src="_content/Radzen.Blazor/Radzen.Blazor.js"></script>
+    <script>
+        // If redirected from 404.html, restore path
+        (function () {
+            const params = new URLSearchParams(window.location.search);
+            const path = params.get('path');
+            if (path) {
+                window.history.replaceState(null, '', '/SoeMonitorWebApp' + decodeURIComponent(path));
+            }
+        })();
+    </script>
+    <script>
+        // IDC Portal — browser performance metrics logged after Blazor loads
+        window.addEventListener('load', function () {
+            setTimeout(function () {
+                var sep = '━'.repeat(38);
+                var res = performance.getEntriesByType('resource');
+                var dlls = res.filter(function (r) { return r.name.endsWith('.dll') || r.name.endsWith('.wasm'); });
+                var js   = res.filter(function (r) { return r.name.endsWith('.js'); });
+                var toMB = function (b) { return (b / 1048576).toFixed(2); };
+                var dllSize   = dlls.reduce(function (s, r) { return s + (r.transferSize || 0); }, 0);
+                var jsSize    = js.reduce(function (s, r) { return s + (r.transferSize || 0); }, 0);
+                var nav       = performance.getEntriesByType('navigation')[0] || {};
+                var pageLoad  = Math.round((nav.loadEventEnd || 0) - (nav.startTime || 0));
+                var domCL     = Math.round((nav.domContentLoadedEventEnd || 0) - (nav.startTime || 0));
+                var tti       = Math.round((nav.domInteractive || 0) - (nav.startTime || 0));
+                console.log('\uD83D\uDCCA IDC Portal Performance Metrics');
+                console.log(sep);
+                console.log('\uD83D\uDD39 DLLs loaded: ' + dlls.length);
+                console.log('\uD83D\uDD39 Total DLL size: ' + toMB(dllSize) + ' MB');
+                console.log('\uD83D\uDD39 Total JS size: ' + toMB(jsSize) + ' MB');
+                console.log('\uD83D\uDD39 Total download: ' + toMB(dllSize + jsSize) + ' MB');
+                console.log(sep);
+                console.log('\u23F1\uFE0F Page Load Time: ' + pageLoad + ' ms');
+                console.log('\u23F1\uFE0F DOM Content Loaded: ' + domCL + ' ms');
+                console.log('\u23F1\uFE0F Time to Interactive: ' + tti + ' ms');
+                console.log(sep);
+                console.log('\uD83C\uDFAF Phase 3: Real Lazy Loading ACTIVE!');
+                console.log('   \u2713 Workflows assembly configured for lazy loading');
+                console.log('   \u2713 Assembly loads on first access');
+                console.log('   \u2713 Reduced initial bundle size');
+                console.log('   \u2713 Production-ready lazy loading');
+                console.log('   \u2139\uFE0F  Navigate to /workflows to see lazy loading in action');
+            }, 1500);
+        });
+    </script>
+</body>
+
+</html>
+

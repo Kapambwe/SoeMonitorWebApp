@@ -1,0 +1,401 @@
+[
+  {
+    "id": 1400, "companyId": 10, "companyName": "Eskom Holdings SOC",
+    "title": "Eskom Board Meeting - Q1 FY2024 Review",
+    "meetingDate": "2024-05-28T09:00:00Z",
+    "location": "Megawatt Park, Sunninghill, Johannesburg",
+    "meetingType": "Ordinary", "status": "Completed",
+    "attendees": ["Dr Mteto Nyati (Chair)", "Mr Dan Marokane (CEO)", "Ms Calib Cassim (CFO)", "Mr Bheki Nxumalo (COO)", "Ms Busisiwe Mavuso (NED)", "Prof Malegapuru Makgoba (NED)", "Ms Sindi Mabaso-Koyana (NED)"],
+    "absentees": ["Mr Ayanda Noah (NED) - Apologies"],
+    "agenda": "1. Approval of Q1 FY2024 financial results 2. Generation performance update 3. Debt restructuring progress 4. NTCSA establishment update 5. Any other business",
+    "minutes": "Board convened with quorum. CFO presented Q1 financial results showing R58.2bn revenue and R1.2bn loss, ahead of plan. COO confirmed improvement in EAF to 62.3%. CEO provided update on government debt relief of R254bn implementation. Transmission entity establishment noted as progressing to plan.",
+    "resolutions": [
+      { "number": "BOD-2024-001", "description": "Approval of Q1 FY2024 Financial Results", "outcome": "Approved", "votes": { "for": 7, "against": 0, "abstain": 0 } },
+      { "number": "BOD-2024-002", "description": "Approval of NTCSA establishment interim board composition", "outcome": "Approved", "votes": { "for": 6, "against": 0, "abstain": 1 } },
+      { "number": "BOD-2024-003", "description": "Approval of new coal supply agreement with Exxaro for Matimba Power Station", "outcome": "Approved", "votes": { "for": 7, "against": 0, "abstain": 0 } }
+    ],
+    "chairPerson": "Dr Mteto Nyati", "secretary": "Ms Priya Naidoo", "quorumRequired": 5, "actualAttendance": 7
+  },
+  {
+    "id": 1401, "companyId": 10, "companyName": "Eskom Holdings SOC",
+    "title": "Eskom Special Board Meeting - Load Shedding Crisis Response",
+    "meetingDate": "2023-02-10T07:00:00Z",
+    "location": "Virtual (MS Teams)", "meetingType": "Special", "status": "Completed",
+    "attendees": ["Dr Mpho Makwana (Chair)", "Mr Dan Marokane (CEO)", "Ms Calib Cassim (CFO)", "Mr Bheki Nxumalo (COO)", "Ms Busisiwe Mavuso (NED)", "Prof Malegapuru Makgoba (NED)", "Ms Sindi Mabaso-Koyana (NED)", "Mr Ayanda Noah (NED)"],
+    "absentees": [],
+    "agenda": "1. Stage 6 load shedding crisis - immediate response plan 2. Plant availability emergency measures 3. Communication strategy 4. Government engagement",
+    "minutes": "Emergency meeting called due to stage 6 load shedding implementation. COO reported EAF at critical 52.8% with multiple unplanned outages. Board approved emergency procurement of diesel for OCGTs and fast-tracked maintenance plan. Minister of Electricity and National Treasury to be briefed.",
+    "resolutions": [
+      { "number": "BOD-2023-001", "description": "Authorise emergency diesel procurement for OCGT units up to R4.5bn", "outcome": "Approved", "votes": { "for": 8, "against": 0, "abstain": 0 } },
+      { "number": "BOD-2023-002", "description": "Approve deployment of War Room operations centre for plant recovery", "outcome": "Approved", "votes": { "for": 8, "against": 0, "abstain": 0 } },
+      { "number": "BOD-2023-003", "description": "Authorise CEO to engage directly with President Ramaphosa's team on load shedding relief", "outcome": "Approved", "votes": { "for": 8, "against": 0, "abstain": 0 } },
+      { "number": "BOD-2023-004", "description": "Approve additional R800m maintenance budget for critical unit repairs", "outcome": "Approved", "votes": { "for": 8, "against": 0, "abstain": 0 } }
+    ],
+    "chairPerson": "Dr Mpho Makwana", "secretary": "Ms Priya Naidoo", "quorumRequired": 5, "actualAttendance": 8
+  },
+  {
+    "id": 1402, "companyId": 10, "companyName": "Eskom Holdings SOC",
+    "title": "Eskom Annual General Board Meeting FY2023",
+    "meetingDate": "2023-11-15T09:00:00Z",
+    "location": "Megawatt Park, Sunninghill, Johannesburg", "meetingType": "Annual General Meeting", "status": "Completed",
+    "attendees": ["Dr Mpho Makwana (Chair)", "Mr Dan Marokane (CEO)", "Ms Calib Cassim (CFO)", "Mr Bheki Nxumalo (COO)", "Ms Busisiwe Mavuso (NED)", "Prof Malegapuru Makgoba (NED)", "Ms Sindi Mabaso-Koyana (NED)", "Mr Ayanda Noah (NED)"],
+    "absentees": [],
+    "agenda": "1. Approval of Annual Financial Statements FY2023 2. Auditor-General findings response 3. Board composition review 4. CEO performance assessment 5. FY2024 Strategic priorities",
+    "minutes": "AGM conducted. CFO presented final AFS showing net loss of R23.9bn. AGSA qualified opinion formally noted. Board approved response plan to audit findings. CEO performance assessed at meeting target on most KPIs. Strategic priorities for FY2024 endorsed.",
+    "resolutions": [
+      { "number": "AGM-2023-001", "description": "Approval of Audited Annual Financial Statements FY2022/23", "outcome": "Approved", "votes": { "for": 8, "against": 0, "abstain": 0 } },
+      { "number": "AGM-2023-002", "description": "Approval of management response plan to AGSA qualified opinion", "outcome": "Approved", "votes": { "for": 7, "against": 1, "abstain": 0 } },
+      { "number": "AGM-2023-003", "description": "Endorsement of FY2024 Business Plan and Strategic Priorities", "outcome": "Approved", "votes": { "for": 8, "against": 0, "abstain": 0 } }
+    ],
+    "chairPerson": "Dr Mpho Makwana", "secretary": "Ms Priya Naidoo", "quorumRequired": 5, "actualAttendance": 8
+  },
+  {
+    "id": 1403, "companyId": 10, "companyName": "Eskom Holdings SOC",
+    "title": "Eskom Board Meeting - MYPD6 Tariff Application Approval",
+    "meetingDate": "2024-09-18T09:00:00Z",
+    "location": "Megawatt Park, Sunninghill, Johannesburg", "meetingType": "Ordinary", "status": "Completed",
+    "attendees": ["Dr Mteto Nyati (Chair)", "Mr Dan Marokane (CEO)", "Ms Calib Cassim (CFO)", "Ms Busisiwe Mavuso (NED)", "Prof Malegapuru Makgoba (NED)", "Ms Sindi Mabaso-Koyana (NED)"],
+    "absentees": ["Mr Ayanda Noah (NED) - Leave", "Mr Bheki Nxumalo (COO) - SANDF consultation"],
+    "agenda": "1. MYPD6 tariff application approval 2. Renewable IPP procurement update 3. HR - executive remuneration review 4. Governance matters",
+    "minutes": "Board reviewed and approved the MYPD6 tariff application to NERSA seeking an average annual increase of 36% over 5 years. Regulatory Affairs presented justification. Board noted transparency commitment and instructed public participation process to be robust. Executive remuneration approved within government guidelines.",
+    "resolutions": [
+      { "number": "BOD-2024-015", "description": "Approval of MYPD6 tariff application to NERSA for FY2025/26 to FY2029/30", "outcome": "Approved", "votes": { "for": 6, "against": 0, "abstain": 0 } },
+      { "number": "BOD-2024-016", "description": "Approval of FY2024/25 executive performance bonuses per approved framework", "outcome": "Approved", "votes": { "for": 5, "against": 0, "abstain": 1 } }
+    ],
+    "chairPerson": "Dr Mteto Nyati", "secretary": "Ms Priya Naidoo", "quorumRequired": 5, "actualAttendance": 6
+  },
+  {
+    "id": 1404, "companyId": 10, "companyName": "Eskom Holdings SOC",
+    "title": "Eskom Board Audit and Risk Committee Meeting",
+    "meetingDate": "2024-07-24T09:00:00Z",
+    "location": "Megawatt Park, Sunninghill, Johannesburg", "meetingType": "Committee", "status": "Completed",
+    "attendees": ["Ms Sindi Mabaso-Koyana (Chair - BARCO)", "Prof Malegapuru Makgoba", "Ms Busisiwe Mavuso", "Ms Calib Cassim (CFO)", "Head of Internal Audit", "Representative AGSA"],
+    "absentees": [],
+    "agenda": "1. Internal audit Q1 findings 2. External audit progress update 3. Risk register review 4. Irregular expenditure report 5. IT governance",
+    "minutes": "Committee reviewed Q1 internal audit findings. AGSA representative confirmed on track for September completion. Risk register updated with transmission entity risks. Irregular expenditure of R1.2bn in Q1 noted with root cause analysis presented.",
+    "resolutions": [
+      { "number": "BARCO-2024-008", "description": "Acceptance of Q1 Internal Audit Report with action plans", "outcome": "Approved", "votes": { "for": 5, "against": 0, "abstain": 0 } },
+      { "number": "BARCO-2024-009", "description": "Approval of updated Risk Register including transmission unbundling risks", "outcome": "Approved", "votes": { "for": 5, "against": 0, "abstain": 0 } },
+      { "number": "BARCO-2024-010", "description": "Referral of irregular expenditure matters to consequence management committee", "outcome": "Approved", "votes": { "for": 5, "against": 0, "abstain": 0 } }
+    ],
+    "chairPerson": "Ms Sindi Mabaso-Koyana", "secretary": "Ms Priya Naidoo", "quorumRequired": 3, "actualAttendance": 5
+  },
+  {
+    "id": 1405, "companyId": 10, "companyName": "Eskom Holdings SOC",
+    "title": "Eskom Board Meeting - Debt Restructuring Approval",
+    "meetingDate": "2023-02-28T09:00:00Z",
+    "location": "Megawatt Park, Sunninghill, Johannesburg", "meetingType": "Special", "status": "Completed",
+    "attendees": ["Dr Mpho Makwana (Chair)", "Mr Dan Marokane (CEO)", "Ms Calib Cassim (CFO)", "Ms Busisiwe Mavuso (NED)", "Prof Malegapuru Makgoba (NED)", "Ms Sindi Mabaso-Koyana (NED)", "Mr Ayanda Noah (NED)"],
+    "absentees": ["Mr Bheki Nxumalo (COO) - Medical"],
+    "agenda": "1. Government debt relief framework approval 2. R254bn debt take-on by Treasury - legal implications 3. Creditor notification requirements 4. Impact on financial statements",
+    "minutes": "Board approved acceptance of R254bn government debt relief programme as announced in Budget Speech. Legal team confirmed PFMA compliance. CFO presented revised financial projections showing return to profitability by FY2024 subject to debt transfer and tariff adjustments.",
+    "resolutions": [
+      { "number": "BOD-2023-012", "description": "Acceptance of government debt relief terms - R70bn in FY2023, R84bn in FY2024, R100bn in FY2025", "outcome": "Approved", "votes": { "for": 7, "against": 0, "abstain": 0 } },
+      { "number": "BOD-2023-013", "description": "Authorisation to sign debt relief agreements with National Treasury and DBSA", "outcome": "Approved", "votes": { "for": 7, "against": 0, "abstain": 0 } }
+    ],
+    "chairPerson": "Dr Mpho Makwana", "secretary": "Ms Priya Naidoo", "quorumRequired": 5, "actualAttendance": 7
+  },
+  {
+    "id": 1406, "companyId": 10, "companyName": "Eskom Holdings SOC",
+    "title": "Eskom Board Meeting - Q3 FY2024 Review",
+    "meetingDate": "2024-08-27T09:00:00Z",
+    "location": "Megawatt Park, Sunninghill, Johannesburg", "meetingType": "Ordinary", "status": "Completed",
+    "attendees": ["Dr Mteto Nyati (Chair)", "Mr Dan Marokane (CEO)", "Ms Calib Cassim (CFO)", "Mr Bheki Nxumalo (COO)", "Ms Busisiwe Mavuso (NED)", "Prof Malegapuru Makgoba (NED)", "Ms Sindi Mabaso-Koyana (NED)", "Mr Ayanda Noah (NED)"],
+    "absentees": [],
+    "agenda": "1. Q3 financial and operational review 2. Annual Budget FY2025 preliminary 3. Renewables procurement update 4. CEO performance mid-year review",
+    "minutes": "Full board in attendance. Q3 results show improved EAF of 65.8%. Operating cash flow improving. CEO performance mid-year review satisfactory. FY2025 budget framework approved for further development.",
+    "resolutions": [
+      { "number": "BOD-2024-022", "description": "Acceptance of Q3 FY2024 Management Accounts", "outcome": "Approved", "votes": { "for": 8, "against": 0, "abstain": 0 } },
+      { "number": "BOD-2024-023", "description": "Approval of FY2025 budget development framework and capex parameters", "outcome": "Approved", "votes": { "for": 8, "against": 0, "abstain": 0 } }
+    ],
+    "chairPerson": "Dr Mteto Nyati", "secretary": "Ms Priya Naidoo", "quorumRequired": 5, "actualAttendance": 8
+  },
+
+  {
+    "id": 1407, "companyId": 11, "companyName": "Transnet SOC Limited",
+    "title": "Transnet Board Meeting - Annual Financial Statements Approval",
+    "meetingDate": "2024-10-25T09:00:00Z",
+    "location": "Carlton Centre, 150 Commissioner Street, Johannesburg", "meetingType": "Ordinary", "status": "Completed",
+    "attendees": ["Dr Popo Molefe (Chair)", "Mr Portia Derby (Group CEO)", "Mr Nonkululeko Dlamini (CFO)", "Ms Mapula Bodibe (NED)", "Mr Nozipho January-Bardill (NED)", "Mr Archie Germishuys (NED)", "Mr Salim Young (NED)"],
+    "absentees": [],
+    "agenda": "1. Approval of FY2023/24 Annual Financial Statements 2. KPMG audit outcomes 3. Annual Report publication 4. DPE submission timeline",
+    "minutes": "Board unanimously approved the FY2023/24 Annual Financial Statements. KPMG partner confirmed unqualified audit opinion with emphasis of matter paragraph regarding going concern considerations. CEO presented highlights of the Recovery Plan progress.",
+    "resolutions": [
+      { "number": "TNBD-2024-031", "description": "Approval of Audited Annual Financial Statements for FY2023/24", "outcome": "Approved", "votes": { "for": 7, "against": 0, "abstain": 0 } },
+      { "number": "TNBD-2024-032", "description": "Approval of Annual Report for submission to DPE and Parliament", "outcome": "Approved", "votes": { "for": 7, "against": 0, "abstain": 0 } },
+      { "number": "TNBD-2024-033", "description": "Approval of final dividend of R1.8bn for FY2024", "outcome": "Approved", "votes": { "for": 6, "against": 1, "abstain": 0 } }
+    ],
+    "chairPerson": "Dr Popo Molefe", "secretary": "Ms Thandi Zondi", "quorumRequired": 5, "actualAttendance": 7
+  },
+  {
+    "id": 1408, "companyId": 11, "companyName": "Transnet SOC Limited",
+    "title": "Transnet Special Board Meeting - Port Congestion Emergency",
+    "meetingDate": "2022-07-04T08:00:00Z",
+    "location": "Virtual (MS Teams)", "meetingType": "Special", "status": "Completed",
+    "attendees": ["Dr Popo Molefe (Chair)", "Mr Portia Derby (Group CEO)", "Mr Nonkululeko Dlamini (CFO)", "Ms Mapula Bodibe (NED)", "Mr Archie Germishuys (NED)"],
+    "absentees": ["Mr Nozipho January-Bardill (NED) - International travel", "Mr Salim Young (NED) - Medical"],
+    "agenda": "1. Port of Durban congestion crisis - status briefing 2. Emergency operational measures 3. Customer communication 4. Regulatory engagement with DTLC",
+    "minutes": "Emergency meeting convened to address Durban Port crisis. CEO reported 48 vessels waiting at anchorage. Equipment availability at 61%. Board approved emergency measures including 24-hour shift operations, additional crane maintenance and customer priority matrix. Minister of Transport briefed.",
+    "resolutions": [
+      { "number": "TNBD-2022-018", "description": "Approval of emergency Durban Port recovery plan including R450m emergency maintenance allocation", "outcome": "Approved", "votes": { "for": 5, "against": 0, "abstain": 0 } },
+      { "number": "TNBD-2022-019", "description": "Authorisation to engage Department of Transport and Logistics for regulatory relief measures", "outcome": "Approved", "votes": { "for": 5, "against": 0, "abstain": 0 } }
+    ],
+    "chairPerson": "Dr Popo Molefe", "secretary": "Ms Thandi Zondi", "quorumRequired": 4, "actualAttendance": 5
+  },
+  {
+    "id": 1409, "companyId": 11, "companyName": "Transnet SOC Limited",
+    "title": "Transnet Board Meeting - NDP Capital Programme Review",
+    "meetingDate": "2024-02-20T09:00:00Z",
+    "location": "Carlton Centre, 150 Commissioner Street, Johannesburg", "meetingType": "Ordinary", "status": "Completed",
+    "attendees": ["Dr Popo Molefe (Chair)", "Mr Portia Derby (Group CEO)", "Mr Nonkululeko Dlamini (CFO)", "Ms Mapula Bodibe (NED)", "Mr Nozipho January-Bardill (NED)", "Mr Archie Germishuys (NED)", "Mr Salim Young (NED)"],
+    "absentees": [],
+    "agenda": "1. NDP capital programme 5-year review 2. Third party rail access policy 3. New locomotive programme delivery 4. Manganese line expansion",
+    "minutes": "Board reviewed the R250bn NDP capital programme. New locomotive programme from CRRC: 1064 units with 50% delivered. Third party access policy framework approved in principle pending further legal review. Manganese line expansion to 16Mtpa approved.",
+    "resolutions": [
+      { "number": "TNBD-2024-008", "description": "Approval of updated NDP Capital Programme 2024-2030 totalling R186bn", "outcome": "Approved", "votes": { "for": 7, "against": 0, "abstain": 0 } },
+      { "number": "TNBD-2024-009", "description": "Approval in principle of Third Party Access policy framework for further legal consultation", "outcome": "Approved", "votes": { "for": 6, "against": 0, "abstain": 1 } },
+      { "number": "TNBD-2024-010", "description": "Approval of Manganese Siding Expansion project at Hotazel - R4.2bn capex", "outcome": "Approved", "votes": { "for": 7, "against": 0, "abstain": 0 } }
+    ],
+    "chairPerson": "Dr Popo Molefe", "secretary": "Ms Thandi Zondi", "quorumRequired": 5, "actualAttendance": 7
+  },
+  {
+    "id": 1410, "companyId": 11, "companyName": "Transnet SOC Limited",
+    "title": "Transnet Annual General Meeting FY2023",
+    "meetingDate": "2023-11-28T09:00:00Z",
+    "location": "Carlton Centre, 150 Commissioner Street, Johannesburg", "meetingType": "Annual General Meeting", "status": "Completed",
+    "attendees": ["Dr Popo Molefe (Chair)", "Mr Portia Derby (Group CEO)", "Mr Nonkululeko Dlamini (CFO)", "Ms Mapula Bodibe (NED)", "Mr Nozipho January-Bardill (NED)", "Mr Archie Germishuys (NED)", "Mr Salim Young (NED)", "Representative of Shareholder (DPE)"],
+    "absentees": [],
+    "agenda": "1. AFS approval 2. Dividend declaration 3. Board performance assessment 4. FY2024 budget approval 5. CEO performance review",
+    "minutes": "AGM attended by shareholder representative from DPE. AFS approved with unqualified opinion. Dividend of R1.1bn declared. Board performance assessment conducted - overall satisfactory. FY2024 budget approved.",
+    "resolutions": [
+      { "number": "AGM-2023-001", "description": "Approval of Audited Annual Financial Statements FY2022/23", "outcome": "Approved", "votes": { "for": 8, "against": 0, "abstain": 0 } },
+      { "number": "AGM-2023-002", "description": "Declaration of final dividend of R1.1bn for FY2023", "outcome": "Approved", "votes": { "for": 7, "against": 1, "abstain": 0 } },
+      { "number": "AGM-2023-003", "description": "Approval of FY2024 Annual Budget and Capital Expenditure Plan", "outcome": "Approved", "votes": { "for": 8, "against": 0, "abstain": 0 } }
+    ],
+    "chairPerson": "Dr Popo Molefe", "secretary": "Ms Thandi Zondi", "quorumRequired": 5, "actualAttendance": 8
+  },
+  {
+    "id": 1411, "companyId": 11, "companyName": "Transnet SOC Limited",
+    "title": "Transnet Board Meeting - Labour Dispute Resolution",
+    "meetingDate": "2022-09-06T14:00:00Z",
+    "location": "Carlton Centre, 150 Commissioner Street, Johannesburg", "meetingType": "Special", "status": "Completed",
+    "attendees": ["Dr Popo Molefe (Chair)", "Mr Portia Derby (Group CEO)", "Mr Nonkululeko Dlamini (CFO)", "Ms Mapula Bodibe (NED)", "Mr Archie Germishuys (NED)"],
+    "absentees": ["Mr Nozipho January-Bardill (NED) - Apologies", "Mr Salim Young (NED) - Apologies"],
+    "agenda": "1. SATAWU strike status 2. Conciliation outcome 3. Settlement mandate 4. Customer impact management",
+    "minutes": "Board briefed on day 2 of the SATAWU strike affecting freight rail. Revenue loss of R2.4bn over 2 days. Board authorised settlement mandate within government wage growth parameters of 7.5% plus R500 housing allowance. CCMA conciliation scheduled for 7 September.",
+    "resolutions": [
+      { "number": "TNBD-2022-025", "description": "Approval of wage settlement mandate at 7.5% increase plus R500 housing allowance", "outcome": "Approved", "votes": { "for": 5, "against": 0, "abstain": 0 } },
+      { "number": "TNBD-2022-026", "description": "Authorisation of R200m customer compensation and rebate fund for strike-impacted clients", "outcome": "Approved", "votes": { "for": 4, "against": 1, "abstain": 0 } }
+    ],
+    "chairPerson": "Dr Popo Molefe", "secretary": "Ms Thandi Zondi", "quorumRequired": 4, "actualAttendance": 5
+  },
+  {
+    "id": 1412, "companyId": 11, "companyName": "Transnet SOC Limited",
+    "title": "Transnet Board Meeting - Recovery Plan 6-Month Review",
+    "meetingDate": "2024-11-12T09:00:00Z",
+    "location": "Carlton Centre, 150 Commissioner Street, Johannesburg", "meetingType": "Ordinary", "status": "Completed",
+    "attendees": ["Dr Popo Molefe (Chair)", "Mr Portia Derby (Group CEO)", "Mr Nonkululeko Dlamini (CFO)", "Ms Mapula Bodibe (NED)", "Mr Nozipho January-Bardill (NED)", "Mr Archie Germishuys (NED)", "Mr Salim Young (NED)"],
+    "absentees": [],
+    "agenda": "1. Recovery Plan 6-month progress review 2. Port throughput statistics 3. Rail volumes update 4. Financial performance against plan",
+    "minutes": "CEO presented 6-month Recovery Plan review showing Durban Port at 65% target throughput, rail volumes up 12% YoY. Financial recovery on track. Board commended management on progress and requested quarterly milestone updates.",
+    "resolutions": [
+      { "number": "TNBD-2024-038", "description": "Acceptance of Recovery Plan 6-month progress report", "outcome": "Approved", "votes": { "for": 7, "against": 0, "abstain": 0 } },
+      { "number": "TNBD-2024-039", "description": "Approval of additional R1.2bn allocation for Durban Port equipment procurement", "outcome": "Approved", "votes": { "for": 6, "against": 0, "abstain": 1 } }
+    ],
+    "chairPerson": "Dr Popo Molefe", "secretary": "Ms Thandi Zondi", "quorumRequired": 5, "actualAttendance": 7
+  },
+
+  {
+    "id": 1413, "companyId": 12, "companyName": "South African Airways",
+    "title": "SAA Board Meeting - Relaunch Readiness Approval",
+    "meetingDate": "2021-09-01T09:00:00Z",
+    "location": "Airways Park, O.R. Tambo International Airport", "meetingType": "Special", "status": "Completed",
+    "attendees": ["Mr John Lamola (Chair)", "Mr Thomas Kgokolo (CEO)", "Mr Deon Fredericks (CFO)", "Ms Dudu Myeni (NED - Resigned)", "Ms Nana Pote (NED)", "Ms Poppy Khoza (NED)"],
+    "absentees": [],
+    "agenda": "1. Relaunch readiness certification 2. AOC renewal status 3. Initial route approval 4. Fleet availability 5. Staff readiness",
+    "minutes": "Board approved relaunch effective 23 September 2021. SACAA confirmed AOC renewal. Initial routes: JNB-CPT (4 daily), JNB-DUR (2 daily), CPT-DUR (1 daily). Three A320 aircraft available for relaunch. Staff complement of 700 operationally ready.",
+    "resolutions": [
+      { "number": "SAA-BD-2021-001", "description": "Approval of SAA relaunch on 23 September 2021 with domestic routes", "outcome": "Approved", "votes": { "for": 5, "against": 0, "abstain": 0 } },
+      { "number": "SAA-BD-2021-002", "description": "Approval of initial route schedule and pricing framework", "outcome": "Approved", "votes": { "for": 5, "against": 0, "abstain": 0 } },
+      { "number": "SAA-BD-2021-003", "description": "Approval of staff restructuring and new employment contracts", "outcome": "Approved", "votes": { "for": 4, "against": 0, "abstain": 1 } }
+    ],
+    "chairPerson": "Mr John Lamola", "secretary": "Ms Zanele Dlamini", "quorumRequired": 4, "actualAttendance": 5
+  },
+  {
+    "id": 1414, "companyId": 12, "companyName": "South African Airways",
+    "title": "SAA Board Meeting - Strategic Equity Partner Process",
+    "meetingDate": "2024-03-18T09:00:00Z",
+    "location": "Airways Park, O.R. Tambo International Airport", "meetingType": "Ordinary", "status": "Completed",
+    "attendees": ["Mr John Lamola (Chair)", "Mr Nico van der Merwe (Group CEO)", "Mr Deon Fredericks (CFO)", "Ms Nana Pote (NED)", "Ms Poppy Khoza (NED)", "Mr Rene Otto (NED)"],
+    "absentees": [],
+    "agenda": "1. SEP process update 2. Fleet rejuvenation business case 3. International route reinstatement 4. Annual financial results FY2023",
+    "minutes": "Board received update on SEP process with 4 qualified expressions of interest. Shortlisting process approved. Fleet rejuvenation business case for 10 A320neos approved for DPE submission. JNB-LHR and JNB-MUM routes approved for reinstatement in Q3 2024.",
+    "resolutions": [
+      { "number": "SAA-BD-2024-008", "description": "Approval of SEP shortlisting criteria and evaluation process", "outcome": "Approved", "votes": { "for": 6, "against": 0, "abstain": 0 } },
+      { "number": "SAA-BD-2024-009", "description": "Approval of fleet rejuvenation business case for 10 Airbus A320neo aircraft for DPE submission", "outcome": "Approved", "votes": { "for": 6, "against": 0, "abstain": 0 } },
+      { "number": "SAA-BD-2024-010", "description": "Approval to reinstate JNB-LHR and JNB-Mumbai routes from September 2024", "outcome": "Approved", "votes": { "for": 5, "against": 1, "abstain": 0 } }
+    ],
+    "chairPerson": "Mr John Lamola", "secretary": "Ms Zanele Dlamini", "quorumRequired": 4, "actualAttendance": 6
+  },
+  {
+    "id": 1415, "companyId": 12, "companyName": "South African Airways",
+    "title": "SAA Annual General Meeting FY2023/24",
+    "meetingDate": "2025-02-20T09:00:00Z",
+    "location": "Airways Park, O.R. Tambo International Airport", "meetingType": "Annual General Meeting", "status": "Completed",
+    "attendees": ["Mr John Lamola (Chair)", "Mr Nico van der Merwe (Group CEO)", "Mr Deon Fredericks (CFO)", "Ms Nana Pote (NED)", "Ms Poppy Khoza (NED)", "Mr Rene Otto (NED)", "Representative of Shareholder (DPE)"],
+    "absentees": [],
+    "agenda": "1. AFS FY2023/24 approval 2. CEO performance review 3. Board composition changes 4. FY2025/26 Budget",
+    "minutes": "AGM received shareholder representative. AFS showing net loss of R800m but improved from prior year. CEO performance rated satisfactory with commendation on relaunch management. Two new NEDs to be nominated. Budget approved with profitability target for FY2026.",
+    "resolutions": [
+      { "number": "SAA-AGM-2025-001", "description": "Approval of Audited Annual Financial Statements FY2023/24", "outcome": "Approved", "votes": { "for": 7, "against": 0, "abstain": 0 } },
+      { "number": "SAA-AGM-2025-002", "description": "Approval of FY2025/26 budget with profitability target of R500m net profit", "outcome": "Approved", "votes": { "for": 6, "against": 0, "abstain": 1 } }
+    ],
+    "chairPerson": "Mr John Lamola", "secretary": "Ms Zanele Dlamini", "quorumRequired": 4, "actualAttendance": 7
+  },
+
+  {
+    "id": 1416, "companyId": 13, "companyName": "Denel SOC Limited",
+    "title": "Denel Special Board Meeting - Salary Arrears Crisis",
+    "meetingDate": "2021-10-29T07:00:00Z",
+    "location": "Denel Head Office, Centurion", "meetingType": "Special", "status": "Completed",
+    "attendees": ["Mr Monhla Hlahla (Chair)", "Mr William Hlakoane (CEO)", "Mr Fikile Mhlontlo (CFO)", "Ms Thulisile Gcabashe (NED)", "Mr Nompumelelo Nzimande (NED)"],
+    "absentees": ["Mr Gert Opperman (NED) - Medical"],
+    "agenda": "1. October 2021 payroll crisis 2. Emergency funding request to Treasury 3. Staff communication strategy 4. Business continuity plan",
+    "minutes": "Emergency meeting convened due to inability to meet October payroll. CFO confirmed zero cash balance. Emergency funding request of R3bn submitted to DPE and NT. Board approved crisis communication plan. CEO to engage UASA, NUM and Solidarity immediately. Possible plant shutdown risk discussed.",
+    "resolutions": [
+      { "number": "DENEL-BD-2021-018", "description": "Approval of emergency funding request of R3bn to National Treasury and DPE", "outcome": "Approved", "votes": { "for": 5, "against": 0, "abstain": 0 } },
+      { "number": "DENEL-BD-2021-019", "description": "Approval of staff communication plan including payment plan for arrears", "outcome": "Approved", "votes": { "for": 5, "against": 0, "abstain": 0 } },
+      { "number": "DENEL-BD-2021-020", "description": "Authorisation for CEO to negotiate partial payment arrangement with employee unions", "outcome": "Approved", "votes": { "for": 4, "against": 0, "abstain": 1 } }
+    ],
+    "chairPerson": "Mr Monhla Hlahla", "secretary": "Ms Annelie Joubert", "quorumRequired": 4, "actualAttendance": 5
+  },
+  {
+    "id": 1417, "companyId": 13, "companyName": "Denel SOC Limited",
+    "title": "Denel Board Meeting - Turnaround Plan Approval",
+    "meetingDate": "2022-08-15T09:00:00Z",
+    "location": "Denel Head Office, Centurion", "meetingType": "Ordinary", "status": "Completed",
+    "attendees": ["Mr Monhla Hlahla (Chair)", "Mr William Hlakoane (CEO)", "Mr Fikile Mhlontlo (CFO)", "Ms Thulisile Gcabashe (NED)", "Mr Nompumelelo Nzimande (NED)", "Mr Gert Opperman (NED)"],
+    "absentees": [],
+    "agenda": "1. Turnaround Plan 2022-2026 adoption 2. International partnership strategy 3. Pension fund deficit - restructuring plan 4. Skills retention incentives",
+    "minutes": "Board formally adopted the 5-year Turnaround Plan. International partnership strategy approved with priority on Rheinmetall, EDGE Group and LMT. Pension deficit restructuring plan to actuarial standards approved. CEO authorised to introduce retention bonuses for critical engineers.",
+    "resolutions": [
+      { "number": "DENEL-BD-2022-012", "description": "Formal adoption of Denel Turnaround Plan 2022-2026", "outcome": "Approved", "votes": { "for": 6, "against": 0, "abstain": 0 } },
+      { "number": "DENEL-BD-2022-013", "description": "Approval of international partnership strategy and mandate for LMT negotiations", "outcome": "Approved", "votes": { "for": 6, "against": 0, "abstain": 0 } },
+      { "number": "DENEL-BD-2022-014", "description": "Approval of R180m skills retention incentive package for critical technical staff", "outcome": "Approved", "votes": { "for": 5, "against": 0, "abstain": 1 } }
+    ],
+    "chairPerson": "Mr Monhla Hlahla", "secretary": "Ms Annelie Joubert", "quorumRequired": 4, "actualAttendance": 6
+  },
+  {
+    "id": 1418, "companyId": 13, "companyName": "Denel SOC Limited",
+    "title": "Denel Board Meeting - Rooivalk Export Contract Approval",
+    "meetingDate": "2023-10-18T09:00:00Z",
+    "location": "Denel Head Office, Centurion", "meetingType": "Ordinary", "status": "Completed",
+    "attendees": ["Mr Danie du Toit (Chair)", "Mr William Hlakoane (CEO)", "Mr Fikile Mhlontlo (CFO)", "Ms Thulisile Gcabashe (NED)", "Mr Nompumelelo Nzimande (NED)", "Mr Gert Opperman (NED)"],
+    "absentees": [],
+    "agenda": "1. Rooivalk export contract approval 2. LMT partnership formalisation 3. SANDF ammunition supply contract renewal 4. Q3 financial performance",
+    "minutes": "Board approved landmark Rooivalk export contract valued at R8.4bn over 5 years. LMT partnership agreement approved for signature subject to PFMA Section 54 ministerial approval. SANDF ammunition contract renewed for 3 years at R1.2bn per year. Q3 performance improving.",
+    "resolutions": [
+      { "number": "DENEL-BD-2023-022", "description": "Approval of Rooivalk combat helicopter export contract and submission to DPE Minister for Section 54 approval", "outcome": "Approved", "votes": { "for": 6, "against": 0, "abstain": 0 } },
+      { "number": "DENEL-BD-2023-023", "description": "Approval of LMT Strategic Partnership Agreement subject to PFMA compliance", "outcome": "Approved", "votes": { "for": 6, "against": 0, "abstain": 0 } },
+      { "number": "DENEL-BD-2023-024", "description": "Renewal of SANDF ammunition supply contract for 3 years at R1.2bn per annum", "outcome": "Approved", "votes": { "for": 6, "against": 0, "abstain": 0 } }
+    ],
+    "chairPerson": "Mr Danie du Toit", "secretary": "Ms Annelie Joubert", "quorumRequired": 4, "actualAttendance": 6
+  },
+  {
+    "id": 1419, "companyId": 13, "companyName": "Denel SOC Limited",
+    "title": "Denel Annual General Meeting FY2023/24",
+    "meetingDate": "2025-01-30T09:00:00Z",
+    "location": "Denel Head Office, Centurion", "meetingType": "Annual General Meeting", "status": "Completed",
+    "attendees": ["Mr Danie du Toit (Chair)", "Mr William Hlakoane (CEO)", "Mr Fikile Mhlontlo (CFO)", "Ms Thulisile Gcabashe (NED)", "Mr Nompumelelo Nzimande (NED)", "Mr Gert Opperman (NED)", "Representative of Shareholder (DPE)"],
+    "absentees": [],
+    "agenda": "1. AFS FY2023/24 review 2. Turnaround Plan Phase 1 completion assessment 3. CEO performance review 4. FY2025 budget",
+    "minutes": "AGM noted continued progress. AFS pending final audit sign-off. Turnaround Phase 1 assessed as substantially complete. CEO performance recognised as strong in contract delivery. FY2025 budget targets first operating cash flow positive full year.",
+    "resolutions": [
+      { "number": "DENEL-AGM-2025-001", "description": "Acceptance of FY2023/24 Management Accounts pending final audit", "outcome": "Approved", "votes": { "for": 7, "against": 0, "abstain": 0 } },
+      { "number": "DENEL-AGM-2025-002", "description": "Approval of FY2025 Budget targeting operating cash flow breakeven", "outcome": "Approved", "votes": { "for": 6, "against": 0, "abstain": 1 } },
+      { "number": "DENEL-AGM-2025-003", "description": "Endorsement of Phase 2 Turnaround Plan deliverables for 2025-2026", "outcome": "Approved", "votes": { "for": 7, "against": 0, "abstain": 0 } }
+    ],
+    "chairPerson": "Mr Danie du Toit", "secretary": "Ms Annelie Joubert", "quorumRequired": 4, "actualAttendance": 7
+  },
+  {
+    "id": 1420, "companyId": 10, "companyName": "Eskom Holdings SOC",
+    "title": "Eskom Board Meeting - Q3 FY2024 Review",
+    "meetingDate": "2024-11-20T09:00:00Z",
+    "location": "Megawatt Park, Sunninghill, Johannesburg", "meetingType": "Ordinary", "status": "Completed",
+    "attendees": ["Dr Mteto Nyati (Chair)", "Mr Dan Marokane (CEO)", "Ms Calib Cassim (CFO)", "Mr Bheki Nxumalo (COO)", "Ms Busisiwe Mavuso (NED)", "Ms Sindi Mabaso-Koyana (NED)", "Mr Ayanda Noah (NED)"],
+    "absentees": ["Prof Malegapuru Makgoba (NED) - Medical"],
+    "agenda": "1. Q3 FY2024 financial results 2. MYPD6 tariff application update 3. NTCSA operational readiness 4. Coal supply winter plan 5. Governance matters",
+    "minutes": "Board reviewed Q3 results showing continued profitability. MYPD6 application submitted to NERSA in September. NTCSA operational readiness confirmed for April 2025 go-live. Coal stockpile at 22 days cover. Board approved FY2025 borrowing plan.",
+    "resolutions": [
+      { "number": "BOD-2024-010", "description": "Approval of Q3 FY2024 Financial Results and Management Accounts", "outcome": "Approved", "votes": { "for": 7, "against": 0, "abstain": 0 } },
+      { "number": "BOD-2024-011", "description": "Approval of FY2025 debt borrowing plan and submission to National Treasury", "outcome": "Approved", "votes": { "for": 6, "against": 0, "abstain": 1 } },
+      { "number": "BOD-2024-012", "description": "Approval of NTCSA operational readiness declaration and April 2025 go-live date", "outcome": "Approved", "votes": { "for": 7, "against": 0, "abstain": 0 } }
+    ],
+    "chairPerson": "Dr Mteto Nyati", "secretary": "Ms Priya Naidoo", "quorumRequired": 5, "actualAttendance": 7
+  },
+  {
+    "id": 1421, "companyId": 11, "companyName": "Transnet SOC Limited",
+    "title": "Transnet Board Meeting - Third Party Rail Access Framework Approval",
+    "meetingDate": "2024-03-15T09:00:00Z",
+    "location": "Carlton Centre, Commissioner Street, Johannesburg", "meetingType": "Ordinary", "status": "Completed",
+    "attendees": ["Mr Andile Sangqu (Chair)", "Mr Michelle Phillips (CEO)", "Mr Nonkululeko Dlamini (CFO)", "Ms Yvonne Muthien (NED)", "Mr Pule Mabe (NED)", "Mr Mark Gregg-Macdonald (NED)"],
+    "absentees": [],
+    "agenda": "1. Third party rail access framework approval 2. Grindrod operator permit 3. Recovery Plan Q3 progress 4. NDP locomotive delivery update",
+    "minutes": "Board approved the formal third party rail access framework enabling private operators on pilot corridors. Grindrod Freight first applicant under the framework. Recovery Plan Q3 progress on track with 20 of 36 initiatives green. NDP locomotive deliveries accelerating with 780 of 1,064 delivered.",
+    "resolutions": [
+      { "number": "TNT-BD-2024-006", "description": "Approval of Third Party Rail Access Framework and Network Statement", "outcome": "Approved", "votes": { "for": 6, "against": 0, "abstain": 0 } },
+      { "number": "TNT-BD-2024-007", "description": "Approval of Grindrod Freight pilot access permit application submission to regulator", "outcome": "Approved", "votes": { "for": 5, "against": 1, "abstain": 0 } },
+      { "number": "TNT-BD-2024-008", "description": "Endorsement of Recovery Plan Q3 progress report for DPE submission", "outcome": "Approved", "votes": { "for": 6, "against": 0, "abstain": 0 } }
+    ],
+    "chairPerson": "Mr Andile Sangqu", "secretary": "Ms Thembi Moyo", "quorumRequired": 4, "actualAttendance": 6
+  },
+  {
+    "id": 1422, "companyId": 12, "companyName": "South African Airways",
+    "title": "SAA Special Board Meeting - SEP Selection Process Approval",
+    "meetingDate": "2024-02-08T09:00:00Z",
+    "location": "OR Tambo International Airport, Kempton Park", "meetingType": "Special", "status": "Completed",
+    "attendees": ["Mr John Lamola (Chair)", "Ms Taufikqua Gordon (CEO)", "Mr Musa Zwane (CFO)", "Ms Nozipho January-Bardill (NED)", "Mr Siza Mzimela (NED)", "Ms Nandi Madida (NED)"],
+    "absentees": [],
+    "agenda": "1. SEP process RFP approval 2. Transaction advisor appointment 3. Minimum government shareholding policy 4. Parliamentary notification",
+    "minutes": "Board approved the Request for Proposals for the Strategic Equity Partner selection process. DLA Piper appointed as transaction legal advisor. Government minimum 51% shareholding confirmed as policy. DPE Minister to notify Parliament within 10 days. Three qualifying bidders to be shortlisted by June 2024.",
+    "resolutions": [
+      { "number": "SAA-BD-2024-001", "description": "Approval of SEP Request for Proposals document and issue authorisation", "outcome": "Approved", "votes": { "for": 6, "against": 0, "abstain": 0 } },
+      { "number": "SAA-BD-2024-002", "description": "Appointment of DLA Piper as transaction legal advisor for SEP process", "outcome": "Approved", "votes": { "for": 6, "against": 0, "abstain": 0 } },
+      { "number": "SAA-BD-2024-003", "description": "Endorsement of minimum 51% government shareholding policy for SEP transaction", "outcome": "Approved", "votes": { "for": 5, "against": 0, "abstain": 1 } }
+    ],
+    "chairPerson": "Mr John Lamola", "secretary": "Ms Ayanda Dlamin", "quorumRequired": 4, "actualAttendance": 6
+  },
+  {
+    "id": 1423, "companyId": 13, "companyName": "Denel SOC Limited",
+    "title": "Denel Emergency Board Meeting - Pension Fund Deficit Response",
+    "meetingDate": "2024-02-12T08:00:00Z",
+    "location": "Denel Head Office, Centurion", "meetingType": "Emergency", "status": "Completed",
+    "attendees": ["Mr Danie du Toit (Chair)", "Mr William Hlakoane (CEO)", "Mr Fikile Mhlontlo (CFO)", "Ms Thulisile Gcabashe (NED)", "Mr Gert Opperman (NED)"],
+    "absentees": ["Mr Nompumelelo Nzimande (NED) - Conflict of Interest"],
+    "agenda": "1. Pension fund deficit R2.5bn emergency response 2. FSCA compliance direction 3. Trustee engagement plan 4. Government guarantee application",
+    "minutes": "Emergency meeting called following FSCA compliance direction on pension fund deficit. CFO presented actuarial report confirming R2.5bn deficit. Board approved emergency trustee engagement and directed CFO to negotiate 6-year recovery plan. Government guarantee application to be submitted to DPE within 10 days. Benefit suspension risk acknowledged but deferred pending recovery plan.",
+    "resolutions": [
+      { "number": "DENEL-BD-2024-001", "description": "Approval of R400m additional annual pension fund contribution from FY2025 budget", "outcome": "Approved", "votes": { "for": 5, "against": 0, "abstain": 0 } },
+      { "number": "DENEL-BD-2024-002", "description": "Authorise CEO to negotiate 6-year deficit recovery plan with Pension Fund Board of Trustees", "outcome": "Approved", "votes": { "for": 5, "against": 0, "abstain": 0 } },
+      { "number": "DENEL-BD-2024-003", "description": "Approve submission of government pension guarantee application to DPE Minister", "outcome": "Approved", "votes": { "for": 4, "against": 1, "abstain": 0 } },
+      { "number": "DENEL-BD-2024-004", "description": "Commission independent actuarial review to verify FSCA findings", "outcome": "Approved", "votes": { "for": 5, "against": 0, "abstain": 0 } }
+    ],
+    "chairPerson": "Mr Danie du Toit", "secretary": "Ms Annelie Joubert", "quorumRequired": 4, "actualAttendance": 5
+  },
+  {
+    "id": 1424, "companyId": 10, "companyName": "Eskom Holdings SOC",
+    "title": "Eskom Board Meeting - Just Energy Transition Plan Endorsement",
+    "meetingDate": "2023-06-14T09:00:00Z",
+    "location": "Megawatt Park, Sunninghill, Johannesburg", "meetingType": "Ordinary", "status": "Completed",
+    "attendees": ["Dr Mpho Makwana (Chair)", "Mr Dan Marokane (CEO)", "Ms Calib Cassim (CFO)", "Mr Bheki Nxumalo (COO)", "Ms Busisiwe Mavuso (NED)", "Prof Malegapuru Makgoba (NED)", "Ms Sindi Mabaso-Koyana (NED)", "Mr Ayanda Noah (NED)"],
+    "absentees": [],
+    "agenda": "1. JET-IP implementation plan approval 2. Camden Power Station decommission timeline 3. REIPPPP Round 6 grid connection commitments 4. International JET-P partner reporting",
+    "minutes": "Board endorsed the Just Energy Transition Investment Plan implementation roadmap. Camden Power Station decommission plan approved with social plan for affected employees. Board committed to 2GW renewable grid connections by 2025. JET-P international partners (EU, US, UK, France, Germany) progress noted. R200bn international financing mobilised.",
+    "resolutions": [
+      { "number": "BOD-2023-015", "description": "Endorsement of JET-IP Implementation Roadmap 2023-2035", "outcome": "Approved", "votes": { "for": 8, "against": 0, "abstain": 0 } },
+      { "number": "BOD-2023-016", "description": "Approval of Camden Power Station decommission plan and social plan for 850 affected workers", "outcome": "Approved", "votes": { "for": 7, "against": 1, "abstain": 0 } },
+      { "number": "BOD-2023-017", "description": "Approval of REIPPPP Round 6 grid connection commitment of 2GW by December 2025", "outcome": "Approved", "votes": { "for": 8, "against": 0, "abstain": 0 } }
+    ],
+    "chairPerson": "Dr Mpho Makwana", "secretary": "Ms Priya Naidoo", "quorumRequired": 5, "actualAttendance": 8
+  }
+]

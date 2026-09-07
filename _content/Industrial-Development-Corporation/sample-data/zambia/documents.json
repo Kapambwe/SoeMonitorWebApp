@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1, "companyId": 1, "companyName": "KAGEM Mining Ltd",
+    "title": "KAGEM FY2024 Annual Report", "description": "Audited annual report for financial year 2024.",
+    "category": "Report", "documentType": "PDF", "fileName": "KAGEM_Annual_Report_2024.pdf",
+    "filePath": "/documents/kagem/", "fileSize": 4500000, "version": "1.0",
+    "status": "Active", "accessLevel": "Public", "uploadedBy": "KAGEM CFO",
+    "uploadDate": "2025-03-15", "expiryDate": null,
+    "tags": ["annual report", "FY2024", "mining", "emerald"],
+    "lastModified": "2025-03-15", "modifiedBy": "KAGEM CFO"
+  },
+  {
+    "id": 2, "companyId": 2, "companyName": "ZESCO Limited",
+    "title": "ZESCO Turnaround Plan 2025-2027", "description": "Board-approved turnaround plan for ZESCO.",
+    "category": "Policy", "documentType": "PDF", "fileName": "ZESCO_Turnaround_Plan_2025.pdf",
+    "filePath": "/documents/zesco/", "fileSize": 2800000, "version": "2.0",
+    "status": "Active", "accessLevel": "Confidential", "uploadedBy": "ZESCO CEO",
+    "uploadDate": "2025-01-10", "expiryDate": null,
+    "tags": ["turnaround", "strategy", "energy"],
+    "lastModified": "2025-01-10", "modifiedBy": "ZESCO CEO"
+  },
+  {
+    "id": 3, "companyId": null, "companyName": "",
+    "title": "IDC SOE Governance Framework 2024", "description": "IDC corporate governance framework for all portfolio companies.",
+    "category": "Policy", "documentType": "PDF", "fileName": "IDC_Governance_Framework_2024.pdf",
+    "filePath": "/documents/idc/", "fileSize": 1500000, "version": "3.0",
+    "status": "Active", "accessLevel": "Internal", "uploadedBy": "IDC CEO",
+    "uploadDate": "2024-02-01", "expiryDate": "2026-12-31",
+    "tags": ["governance", "policy", "SOE", "framework"],
+    "lastModified": "2024-02-01", "modifiedBy": "IDC CEO"
+  },
+  {
+    "id": 4, "companyId": 3, "companyName": "Zambia National Commercial Bank Plc (ZANACO)",
+    "title": "ZANACO FY2024 Annual Report", "description": "Audited annual report for financial year 2024.",
+    "category": "Report", "documentType": "PDF", "fileName": "ZANACO_Annual_Report_2024.pdf",
+    "filePath": "/documents/zanaco/", "fileSize": 5200000, "version": "1.0",
+    "status": "Active", "accessLevel": "Public", "uploadedBy": "ZANACO CFO",
+    "uploadDate": "2025-03-01", "expiryDate": null,
+    "tags": ["annual report", "FY2024", "banking", "finance"],
+    "lastModified": "2025-03-01", "modifiedBy": "ZANACO CFO"
+  },
+  {
+    "id": 5, "companyId": 7, "companyName": "Mopani Copper Mines Plc",
+    "title": "Mopani Environmental Management Plan 2024", "description": "Updated environmental management plan post-acquisition.",
+    "category": "Compliance", "documentType": "PDF", "fileName": "Mopani_EMP_2024.pdf",
+    "filePath": "/documents/mopani/", "fileSize": 3100000, "version": "1.0",
+    "status": "Active", "accessLevel": "Internal", "uploadedBy": "Mopani HSE Manager",
+    "uploadDate": "2024-06-15", "expiryDate": "2026-06-15",
+    "tags": ["environment", "compliance", "mining", "EMP"],
+    "lastModified": "2024-06-15", "modifiedBy": "Mopani HSE Manager"
+  },
+  {
+    "id": 6, "companyId": null, "companyName": "",
+    "title": "Zambia SOE Policy 2024", "description": "Government of Zambia State-Owned Enterprise Policy 2024.",
+    "category": "Policy", "documentType": "PDF", "fileName": "Zambia_SOE_Policy_2024.pdf",
+    "filePath": "/documents/government/", "fileSize": 980000, "version": "1.0",
+    "status": "Active", "accessLevel": "Public", "uploadedBy": "Ministry of Finance",
+    "uploadDate": "2024-01-15", "expiryDate": null,
+    "tags": ["SOE policy", "government", "privatisation", "governance"],
+    "lastModified": "2024-01-15", "modifiedBy": "Ministry of Finance"
+  }
+]

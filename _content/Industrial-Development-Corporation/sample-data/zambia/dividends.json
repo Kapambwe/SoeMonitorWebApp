@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1, "companyId": 1, "year": 2024, "dividendType": "Final",
+    "totalAmount": 255000000, "perShareAmount": 0,
+    "declarationDate": "2024-11-20", "paymentDate": "2025-01-31",
+    "status": "Paid", "approvedBy": "KAGEM Board", "approvalDate": "2024-11-20"
+  },
+  {
+    "id": 2, "companyId": 3, "year": 2024, "dividendType": "Interim",
+    "totalAmount": 165000000, "perShareAmount": 0.058,
+    "declarationDate": "2024-08-15", "paymentDate": "2024-09-30",
+    "status": "Paid", "approvedBy": "ZANACO Board", "approvalDate": "2024-08-15"
+  },
+  {
+    "id": 3, "companyId": 3, "year": 2024, "dividendType": "Final",
+    "totalAmount": 165000000, "perShareAmount": 0.058,
+    "declarationDate": "2025-02-20", "paymentDate": "2025-03-31",
+    "status": "Approved", "approvedBy": "ZANACO Board", "approvalDate": "2025-02-20"
+  },
+  {
+    "id": 4, "companyId": 6, "year": 2024, "dividendType": "Final",
+    "totalAmount": 210000000, "perShareAmount": 0.026,
+    "declarationDate": "2025-01-15", "paymentDate": "2025-02-28",
+    "status": "Paid", "approvedBy": "Zambeef Board", "approvalDate": "2025-01-15"
+  },
+  {
+    "id": 5, "companyId": 7, "year": 2024, "dividendType": "Final",
+    "totalAmount": 810000000, "perShareAmount": 0,
+    "declarationDate": "2025-02-10", "paymentDate": "2025-03-31",
+    "status": "Approved", "approvedBy": "Mopani Board", "approvalDate": "2025-02-10"
+  },
+  {
+    "id": 6, "companyId": 8, "year": 2024, "dividendType": "Final",
+    "totalAmount": 90000000, "perShareAmount": 0,
+    "declarationDate": "2025-01-20", "paymentDate": "2025-02-28",
+    "status": "Paid", "approvedBy": "Indeni Board", "approvalDate": "2025-01-20"
+  }
+]

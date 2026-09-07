@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1, "companyId": 1, "companyName": "ZCCM Investment Holdings Plc",
+    "framework": "Zambia SOE Policy 2024", "requirement": "Board Composition and Independence",
+    "status": "Compliant", "complianceScore": 92,
+    "lastAssessmentDate": "2024-10-15", "nextAssessmentDate": "2025-10-15",
+    "findings": "Board has 7 members with 4 independent directors meeting the 50% independence threshold.",
+    "recommendations": "Consider appointing a female director to improve gender diversity on the board."
+  },
+  {
+    "id": 2, "companyId": 1, "companyName": "ZCCM Investment Holdings Plc",
+    "framework": "Public Finance Management Act", "requirement": "Annual Financial Reporting to Parliament",
+    "status": "Compliant", "complianceScore": 95,
+    "lastAssessmentDate": "2024-09-30", "nextAssessmentDate": "2025-09-30",
+    "findings": "Annual report submitted to Ministry of Finance within statutory deadline.",
+    "recommendations": "Enhance disclosure of related-party transactions in portfolio companies."
+  },
+  {
+    "id": 3, "companyId": 2, "companyName": "Mopani Copper Mines Plc",
+    "framework": "Mines and Minerals Development Act", "requirement": "Environmental Management Plan Compliance",
+    "status": "Partially Compliant", "complianceScore": 68,
+    "lastAssessmentDate": "2024-08-20", "nextAssessmentDate": "2025-02-20",
+    "findings": "Tailings storage facility requires remediation. Acid mine drainage monitoring is below required frequency.",
+    "recommendations": "Allocate ZMW 850M for tailings remediation; increase monitoring frequency to weekly."
+  },
+  {
+    "id": 4, "companyId": 3, "companyName": "Konkola Copper Mines Plc",
+    "framework": "Zambia Companies Act", "requirement": "Annual General Meeting and Shareholder Reporting",
+    "status": "Compliant", "complianceScore": 88,
+    "lastAssessmentDate": "2024-07-10", "nextAssessmentDate": "2025-07-10",
+    "findings": "AGM held within statutory timeframe. Shareholder reports distributed on schedule.",
+    "recommendations": "Improve quality of management discussion and analysis section in annual report."
+  },
+  {
+    "id": 5, "companyId": 4, "companyName": "Copperbelt Energy Corporation Plc",
+    "framework": "Energy Regulation Act", "requirement": "ERRA Licence Conditions",
+    "status": "Compliant", "complianceScore": 91,
+    "lastAssessmentDate": "2024-11-05", "nextAssessmentDate": "2025-11-05",
+    "findings": "All ERRA licence conditions met. Tariff filings submitted on time.",
+    "recommendations": "Strengthen customer complaint resolution process to meet 48-hour response target."
+  },
+  {
+    "id": 6, "companyId": 7, "companyName": "Maamba Collieries Ltd",
+    "framework": "Zambia SOE Policy 2024", "requirement": "Performance Contract Submission",
+    "status": "Compliant", "complianceScore": 85,
+    "lastAssessmentDate": "2024-06-30", "nextAssessmentDate": "2025-06-30",
+    "findings": "Performance contract signed with ZCCM-IH and Ministry of Finance for FY2024.",
+    "recommendations": "Include ESG metrics in performance contract for FY2025."
+  }
+]

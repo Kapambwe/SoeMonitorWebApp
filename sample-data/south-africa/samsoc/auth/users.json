@@ -1,0 +1,46 @@
+[
+  {
+    "id": "samsoc-001",
+    "username": "thabo.nkosi@samsoc.gov.za",
+    "firstName": "Thabo",
+    "lastName": "Nkosi",
+    "email": "thabo.nkosi@samsoc.gov.za",
+    "roles": ["CEO", "Administrator"],
+    "password": "Test123!",
+    "department": "Executive",
+    "title": "Chief Executive Officer"
+  },
+  {
+    "id": "samsoc-002",
+    "username": "nomvula.dlamini@samsoc.gov.za",
+    "firstName": "Nomvula",
+    "lastName": "Dlamini",
+    "email": "nomvula.dlamini@samsoc.gov.za",
+    "roles": ["CFO"],
+    "password": "Test123!",
+    "department": "Finance",
+    "title": "Chief Financial Officer"
+  },
+  {
+    "id": "samsoc-003",
+    "username": "sipho.molefe@samsoc.gov.za",
+    "firstName": "Sipho",
+    "lastName": "Molefe",
+    "email": "sipho.molefe@samsoc.gov.za",
+    "roles": ["Asset Manager"],
+    "password": "Test123!",
+    "department": "Asset Management",
+    "title": "Head of Asset Management"
+  },
+  {
+    "id": "samsoc-004",
+    "username": "admin@samsoc.gov.za",
+    "firstName": "System",
+    "lastName": "Administrator",
+    "email": "admin@samsoc.gov.za",
+    "roles": ["Administrator", "Super User"],
+    "password": "Admin@123",
+    "department": "IT",
+    "title": "System Administrator"
+  }
+]

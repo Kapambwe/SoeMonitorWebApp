@@ -1,0 +1,116 @@
+{
+  "objectives": [
+    {
+      "id": 1,
+      "companyId": 2,
+      "companyName": "Industrial Development Corporation",
+      "title": "Portfolio Value Growth",
+      "description": "Grow IDC portfolio net asset value by 15% over the 2024-2026 strategic plan period.",
+      "category": "Financial",
+      "priority": "High",
+      "startDate": "2024-01-01T00:00:00",
+      "targetDate": "2026-12-31T00:00:00",
+      "progressPercentage": 38.0,
+      "status": "In Progress",
+      "responsiblePerson": "Mateyo Kavindele (CEO)",
+      "milestones": [
+        { "id": 1, "objectiveId": 1, "title": "FY2024 Portfolio Valuation", "description": "Complete independent portfolio valuation", "dueDate": "2025-03-31T00:00:00", "completionDate": "2025-03-15T00:00:00", "status": "Completed", "deliverables": "Valuation report" },
+        { "id": 2, "objectiveId": 1, "title": "FY2025 Mid-Year Review", "description": "Mid-year portfolio performance review", "dueDate": "2025-07-31T00:00:00", "completionDate": null, "status": "Pending", "deliverables": "Performance report" }
+      ],
+      "kpis": [],
+      "budgetAllocated": 0,
+      "budgetSpent": 0,
+      "notes": "On track. FY2024 portfolio value grew 12.4%."
+    },
+    {
+      "id": 2,
+      "companyId": 2,
+      "companyName": "Industrial Development Corporation",
+      "title": "Privatisation Programme Execution",
+      "description": "Complete privatisation or strategic partnership transactions for 5 portfolio companies by end of 2026.",
+      "category": "Growth",
+      "priority": "High",
+      "startDate": "2024-01-01T00:00:00",
+      "targetDate": "2026-12-31T00:00:00",
+      "progressPercentage": 20.0,
+      "status": "In Progress",
+      "responsiblePerson": "Mateyo Kavindele (CEO)",
+      "milestones": [
+        { "id": 3, "objectiveId": 2, "title": "Transaction Advisors Appointed", "description": "Appoint transaction advisors for first 2 companies", "dueDate": "2025-03-31T00:00:00", "completionDate": "2025-03-20T00:00:00", "status": "Completed", "deliverables": "Signed advisory mandates" }
+      ],
+      "kpis": [],
+      "budgetAllocated": 8500000,
+      "budgetSpent": 1200000,
+      "notes": "Transaction advisors appointed for ZAFFICO and Zambia Gold."
+    },
+    {
+      "id": 3,
+      "companyId": 2,
+      "companyName": "Industrial Development Corporation",
+      "title": "ESG Integration",
+      "description": "Achieve ESG rating of B or above for all major portfolio companies by 2026.",
+      "category": "Sustainability",
+      "priority": "Medium",
+      "startDate": "2024-01-01T00:00:00",
+      "targetDate": "2026-12-31T00:00:00",
+      "progressPercentage": 45.0,
+      "status": "In Progress",
+      "responsiblePerson": "Namukolo Coutinho (Board Member)",
+      "milestones": [],
+      "kpis": [],
+      "budgetAllocated": 2000000,
+      "budgetSpent": 680000,
+      "notes": "3 of 8 portfolio companies have achieved B rating."
+    }
+  ],
+  "kpis": [
+    {
+      "id": 1,
+      "objectiveId": 1,
+      "companyId": 2,
+      "companyName": "Industrial Development Corporation",
+      "name": "Portfolio Net Asset Value Growth",
+      "description": "Year-on-year growth in IDC portfolio net asset value",
+      "unit": "Percentage",
+      "targetValue": 15.0,
+      "currentValue": 12.4,
+      "baselineValue": 0.0,
+      "year": 2024,
+      "period": "Annual",
+      "status": "At Risk",
+      "lastUpdated": "2025-03-15T00:00:00"
+    },
+    {
+      "id": 2,
+      "objectiveId": 2,
+      "companyId": 2,
+      "companyName": "Industrial Development Corporation",
+      "name": "Privatisation Transactions Completed",
+      "description": "Number of privatisation or strategic partnership transactions completed",
+      "unit": "Number",
+      "targetValue": 5.0,
+      "currentValue": 0.0,
+      "baselineValue": 0.0,
+      "year": 2025,
+      "period": "Annual",
+      "status": "Off Track",
+      "lastUpdated": "2025-03-20T00:00:00"
+    },
+    {
+      "id": 3,
+      "objectiveId": 3,
+      "companyId": 2,
+      "companyName": "Industrial Development Corporation",
+      "name": "Portfolio Companies with ESG Rating B+",
+      "description": "Number of portfolio companies achieving ESG rating of B or above",
+      "unit": "Number",
+      "targetValue": 8.0,
+      "currentValue": 3.0,
+      "baselineValue": 1.0,
+      "year": 2025,
+      "period": "Annual",
+      "status": "On Track",
+      "lastUpdated": "2025-02-28T00:00:00"
+    }
+  ]
+}

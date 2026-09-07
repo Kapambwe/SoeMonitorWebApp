@@ -1,0 +1,174 @@
+[
+  {
+    "id": 301,
+    "companyId": 6,
+    "workflowName": "Portfolio Company Financial Report Review",
+    "workflowType": "Financial Approval",
+    "status": "Active",
+    "initiatedBy": "IDC CFO",
+    "initiatedDate": "2025-03-01T00:00:00",
+    "targetCompanyId": 1,
+    "targetCompanyName": "ZESCO Limited",
+    "description": "Quarterly financial report review and approval workflow for ZESCO FY2024 annual results submission to IDC.",
+    "currentStep": "Board Approval",
+    "steps": [
+      {
+        "stepNumber": 1,
+        "stepName": "Report Submission",
+        "assignedTo": "ZESCO CFO",
+        "status": "Completed",
+        "completedDate": "2025-03-15T00:00:00",
+        "comments": "FY2024 annual financial statements submitted."
+      },
+      {
+        "stepNumber": 2,
+        "stepName": "IDC Finance Review",
+        "assignedTo": "IDC CFO",
+        "status": "Completed",
+        "completedDate": "2025-03-25T00:00:00",
+        "comments": "Financial statements reviewed. Emphasis of matter on tariff deficit noted."
+      },
+      {
+        "stepNumber": 3,
+        "stepName": "Board Approval",
+        "assignedTo": "IDC Board",
+        "status": "InProgress",
+        "completedDate": null,
+        "comments": "Scheduled for April 2025 board meeting."
+      }
+    ]
+  },
+  {
+    "id": 302,
+    "companyId": 6,
+    "workflowName": "Zambia Railways Capital Injection — Tranche 2 Approval",
+    "workflowType": "Capital Disbursement",
+    "status": "Active",
+    "initiatedBy": "IDC Investment Director",
+    "initiatedDate": "2025-03-15T00:00:00",
+    "targetCompanyId": 3,
+    "targetCompanyName": "Zambia Railways Limited",
+    "description": "Approval workflow for the second tranche of ZMW 200 million GRZ capital injection to Zambia Railways, subject to Q1 2025 milestone verification.",
+    "currentStep": "Milestone Verification",
+    "steps": [
+      {
+        "stepNumber": 1,
+        "stepName": "Milestone Report Submission",
+        "assignedTo": "Zambia Railways CEO",
+        "status": "Pending",
+        "completedDate": null,
+        "comments": "Q1 2025 milestone report due by 15 April 2025."
+      },
+      {
+        "stepNumber": 2,
+        "stepName": "Milestone Verification",
+        "assignedTo": "IDC Portfolio Monitoring Team",
+        "status": "Pending",
+        "completedDate": null,
+        "comments": "Site visit to Livingstone-Mazabuka rehabilitation works planned."
+      },
+      {
+        "stepNumber": 3,
+        "stepName": "Ministry of Finance Concurrence",
+        "assignedTo": "IDC CEO",
+        "status": "Pending",
+        "completedDate": null,
+        "comments": "MoF concurrence required per IDC-DIR-2025-001."
+      },
+      {
+        "stepNumber": 4,
+        "stepName": "Disbursement Authorisation",
+        "assignedTo": "IDC CFO",
+        "status": "Pending",
+        "completedDate": null,
+        "comments": "Payment instruction to be issued upon all approvals."
+      }
+    ]
+  },
+  {
+    "id": 303,
+    "companyId": 6,
+    "workflowName": "ZAFCO Acquisition — Due Diligence and Board Approval",
+    "workflowType": "Investment Approval",
+    "status": "Active",
+    "initiatedBy": "IDC CEO",
+    "initiatedDate": "2025-01-15T00:00:00",
+    "targetCompanyId": 6,
+    "targetCompanyName": "Industrial Development Corporation",
+    "description": "Investment approval workflow for IDC's acquisition of a controlling stake in Zambia Fertiliser and Chemicals Company (ZAFCO).",
+    "currentStep": "Due Diligence",
+    "steps": [
+      {
+        "stepNumber": 1,
+        "stepName": "Investment Proposal",
+        "assignedTo": "IDC Investment Director",
+        "status": "Completed",
+        "completedDate": "2025-01-10T00:00:00",
+        "comments": "Investment proposal approved by IDC Executive Committee."
+      },
+      {
+        "stepNumber": 2,
+        "stepName": "Due Diligence",
+        "assignedTo": "PricewaterhouseCoopers Zambia",
+        "status": "InProgress",
+        "completedDate": null,
+        "comments": "Financial, legal, and environmental due diligence in progress. Expected completion April 2025."
+      },
+      {
+        "stepNumber": 3,
+        "stepName": "Board Approval",
+        "assignedTo": "IDC Board",
+        "status": "Pending",
+        "completedDate": null,
+        "comments": "Scheduled for May 2025 board meeting pending due diligence completion."
+      },
+      {
+        "stepNumber": 4,
+        "stepName": "CCPC Regulatory Approval",
+        "assignedTo": "IDC Legal Team",
+        "status": "Pending",
+        "completedDate": null,
+        "comments": "Competition and Consumer Protection Commission merger notification to be filed post-board approval."
+      }
+    ]
+  },
+  {
+    "id": 304,
+    "companyId": 6,
+    "workflowName": "IDC FY2024 Dividend Payment to Ministry of Finance",
+    "workflowType": "Dividend Payment",
+    "status": "Active",
+    "initiatedBy": "IDC CFO",
+    "initiatedDate": "2025-03-01T00:00:00",
+    "targetCompanyId": 6,
+    "targetCompanyName": "Industrial Development Corporation",
+    "description": "Workflow for processing the IDC FY2024 interim dividend payment of ZMW 220 million to the Ministry of Finance.",
+    "currentStep": "Payment Processing",
+    "steps": [
+      {
+        "stepNumber": 1,
+        "stepName": "Board Declaration",
+        "assignedTo": "IDC Board",
+        "status": "Completed",
+        "completedDate": "2024-09-01T00:00:00",
+        "comments": "Interim dividend of ZMW 220 million declared by IDC Board."
+      },
+      {
+        "stepNumber": 2,
+        "stepName": "Ministry of Finance Notification",
+        "assignedTo": "IDC CEO",
+        "status": "Completed",
+        "completedDate": "2024-09-05T00:00:00",
+        "comments": "Ministry of Finance notified of dividend declaration."
+      },
+      {
+        "stepNumber": 3,
+        "stepName": "Payment Processing",
+        "assignedTo": "IDC CFO",
+        "status": "InProgress",
+        "completedDate": null,
+        "comments": "Payment scheduled for April 2025 following FY2024 audit completion."
+      }
+    ]
+  }
+]

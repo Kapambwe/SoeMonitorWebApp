@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1, "issuingAuthority": "Ministry of Finance Zambia",
+    "directiveNumber": "MOF/IDC/2024/001",
+    "title": "IDC Portfolio Performance and Dividend Remittance",
+    "description": "IDC must ensure all profitable portfolio companies declare and remit dividends of at least 30% of net profit to the Consolidated Fund. IDC must submit consolidated portfolio performance report to Ministry of Finance by 31 March annually.",
+    "issuedDate": "2024-01-20", "complianceDeadline": "2024-09-30",
+    "status": "Active", "implementationStatus": "Implemented",
+    "affectedCompanies": ["KAGEM Mining Ltd", "Zambia National Commercial Bank Plc (ZANACO)", "Zambeef Products Plc", "Indeni Petroleum Refinery Company Ltd"]
+  },
+  {
+    "id": 2, "issuingAuthority": "Ministry of Finance Zambia",
+    "directiveNumber": "MOF/SOE/2024/008",
+    "title": "Performance Contract Framework for SOEs",
+    "description": "All IDC portfolio companies must sign annual performance contracts with IDC and the relevant line ministry by 31 March each year.",
+    "issuedDate": "2024-02-01", "complianceDeadline": "2024-03-31",
+    "status": "Active", "implementationStatus": "Implemented",
+    "affectedCompanies": ["KAGEM Mining Ltd", "ZESCO Limited", "Zambia Telecommunications Company Ltd (ZAMTEL)", "Zambia Railways Limited", "Indeni Petroleum Refinery Company Ltd"]
+  },
+  {
+    "id": 3, "issuingAuthority": "Cabinet Office Zambia",
+    "directiveNumber": "CAB/2024/008",
+    "title": "Zambia SOE Rationalisation and Privatisation Review",
+    "description": "IDC must conduct a strategic review of all portfolio companies and identify candidates for privatisation, merger, or liquidation. Report to be submitted to Cabinet by 30 June 2024.",
+    "issuedDate": "2024-01-15", "complianceDeadline": "2024-06-30",
+    "status": "Active", "implementationStatus": "Completed",
+    "affectedCompanies": ["Zambia Railways Limited", "Zambia Telecommunications Company Ltd (ZAMTEL)", "Indeni Petroleum Refinery Company Ltd"]
+  },
+  {
+    "id": 4, "issuingAuthority": "Ministry of Mines and Minerals Development",
+    "directiveNumber": "MMMD/2024/015",
+    "title": "Local Content Requirements for Mining Procurement",
+    "description": "Mining companies must achieve minimum 30% local content in procurement by December 2025.",
+    "issuedDate": "2024-03-01", "complianceDeadline": "2025-12-31",
+    "status": "Active", "implementationStatus": "In Progress",
+    "affectedCompanies": ["KAGEM Mining Ltd", "Mopani Copper Mines Plc"]
+  },
+  {
+    "id": 5, "issuingAuthority": "Ministry of Finance Zambia",
+    "directiveNumber": "MOF/2024/018",
+    "title": "ZESCO Turnaround Plan Implementation",
+    "description": "IDC and Ministry of Finance jointly direct ZESCO to implement a credible turnaround plan including tariff increases, cost reduction, and debt restructuring within 12 months.",
+    "issuedDate": "2024-05-01", "complianceDeadline": "2025-05-01",
+    "status": "Active", "implementationStatus": "In Progress",
+    "affectedCompanies": ["ZESCO Limited"]
+  }
+]

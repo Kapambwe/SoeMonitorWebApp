@@ -1,0 +1,138 @@
+{
+  "cases": [
+    {
+      "id": 1,
+      "caseNumber": "ETH-IDC-2025-001",
+      "companyId": 2,
+      "companyName": "Industrial Development Corporation",
+      "category": "Fraud",
+      "description": "Allegation of falsified procurement documents submitted for a ZMW 4.2 million IT equipment tender.",
+      "reportedDate": "2025-01-15T00:00:00",
+      "reportingChannel": "Ethics Hotline",
+      "isAnonymous": true,
+      "assignedInvestigator": "IDC Internal Audit",
+      "status": "Under Investigation",
+      "outcome": "",
+      "closureDate": null,
+      "disciplinaryAction": ""
+    },
+    {
+      "id": 2,
+      "caseNumber": "ETH-IDC-2025-002",
+      "companyId": 1,
+      "companyName": "ZESCO Limited",
+      "category": "Conflict of Interest",
+      "description": "Senior manager awarded a maintenance contract to a company in which their spouse holds a 30% stake without disclosure.",
+      "reportedDate": "2025-02-08T00:00:00",
+      "reportingChannel": "Line Manager",
+      "isAnonymous": false,
+      "assignedInvestigator": "ZESCO Ethics Committee",
+      "status": "Substantiated",
+      "outcome": "Contract cancelled. Disciplinary hearing scheduled.",
+      "closureDate": null,
+      "disciplinaryAction": "Pending disciplinary hearing"
+    },
+    {
+      "id": 3,
+      "caseNumber": "ETH-IDC-2024-018",
+      "companyId": 5,
+      "companyName": "ZCCM Investments Holdings PLC",
+      "category": "Bribery",
+      "description": "Allegation that a procurement officer solicited a facilitation payment from a vendor.",
+      "reportedDate": "2024-11-20T00:00:00",
+      "reportingChannel": "Ethics Hotline",
+      "isAnonymous": true,
+      "assignedInvestigator": "ZCCM-IH Internal Audit",
+      "status": "Closed",
+      "outcome": "Unsubstantiated — insufficient evidence.",
+      "closureDate": "2025-01-10T00:00:00",
+      "disciplinaryAction": "None"
+    }
+  ],
+  "giftDeclarations": [
+    {
+      "id": 1,
+      "companyId": 2,
+      "companyName": "Industrial Development Corporation",
+      "employeeName": "Mateyo Kavindele",
+      "position": "Chief Executive Officer",
+      "giftDescription": "Bottle of wine and corporate hamper from transaction advisor",
+      "estimatedValue": 850,
+      "givenBy": "Stanbic Bank Zambia",
+      "relationship": "Service Provider",
+      "dateReceived": "2024-12-20T00:00:00",
+      "dateDeclared": "2024-12-21T00:00:00",
+      "status": "Approved — Retained",
+      "isAboveThreshold": false,
+      "approverName": "IDC Board Chairperson"
+    },
+    {
+      "id": 2,
+      "companyId": 2,
+      "companyName": "Industrial Development Corporation",
+      "employeeName": "Chanda Kasolo",
+      "position": "Chief Financial Officer",
+      "giftDescription": "Golf day sponsorship valued at ZMW 3,500",
+      "estimatedValue": 3500,
+      "givenBy": "Deloitte Zambia",
+      "relationship": "External Auditor",
+      "dateReceived": "2025-02-14T00:00:00",
+      "dateDeclared": "2025-02-14T00:00:00",
+      "status": "Declined — Returned",
+      "isAboveThreshold": true,
+      "approverName": "IDC CEO"
+    }
+  ],
+  "conflicts": [
+    {
+      "id": 1,
+      "companyId": 2,
+      "companyName": "Industrial Development Corporation",
+      "employeeName": "Bwalya Musonda",
+      "position": "Head of Investments",
+      "conflictType": "Financial Interest",
+      "description": "Holds 5% equity stake in a company bidding for an IDC portfolio company advisory mandate.",
+      "relatedParty": "Copper Belt Advisory Services Ltd",
+      "declarationDate": "2025-03-01T00:00:00",
+      "declarationYear": 2025,
+      "mitigationAction": "Recused from all evaluation and selection processes for the advisory mandate.",
+      "status": "Active",
+      "requiresRecusal": true
+    }
+  ],
+  "trainingRecords": [
+    {
+      "id": 1,
+      "companyId": 2,
+      "companyName": "Industrial Development Corporation",
+      "trainingType": "Code of Ethics & Conduct",
+      "fiscalYear": 2024,
+      "totalEmployees": 420,
+      "trainedEmployees": 412,
+      "dueDate": "2024-12-31T00:00:00",
+      "status": "Completed"
+    },
+    {
+      "id": 2,
+      "companyId": 1,
+      "companyName": "ZESCO Limited",
+      "trainingType": "Anti-Corruption & Bribery",
+      "fiscalYear": 2024,
+      "totalEmployees": 6800,
+      "trainedEmployees": 6256,
+      "dueDate": "2024-12-31T00:00:00",
+      "status": "Completed"
+    },
+    {
+      "id": 3,
+      "companyId": 5,
+      "companyName": "ZCCM Investments Holdings PLC",
+      "trainingType": "Code of Ethics & Conduct",
+      "fiscalYear": 2025,
+      "totalEmployees": 3200,
+      "trainedEmployees": 1280,
+      "dueDate": "2025-06-30T00:00:00",
+      "status": "In Progress"
+    }
+  ]
+}

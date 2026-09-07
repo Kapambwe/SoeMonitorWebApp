@@ -1,0 +1,96 @@
+{
+  "candidates": [
+    {
+      "id": 1,
+      "companyId": 6,
+      "companyName": "ZAFFICO",
+      "privatizationType": "Strategic Sale",
+      "stage": "Transaction Advisor Appointed",
+      "estimatedValue": 850000000,
+      "minimumTargetProceeds": 600000000,
+      "advisor": "Pan African Advisory Group",
+      "targetCompletionDate": "2026-06-30T00:00:00",
+      "governmentApprovalStatus": "Approved",
+      "keyRisks": "Environmental liabilities; land tenure issues; limited investor interest",
+      "investorInterestLevel": 3
+    },
+    {
+      "id": 2,
+      "companyId": 7,
+      "companyName": "Zambia Gold Company Limited",
+      "privatizationType": "Partial Divestiture",
+      "stage": "Feasibility Study",
+      "estimatedValue": 1200000000,
+      "minimumTargetProceeds": 480000000,
+      "advisor": "Pending appointment",
+      "targetCompletionDate": "2026-12-31T00:00:00",
+      "governmentApprovalStatus": "Approved",
+      "keyRisks": "Gold price volatility; artisanal mining encroachment; infrastructure gaps",
+      "investorInterestLevel": 4
+    },
+    {
+      "id": 3,
+      "companyId": 8,
+      "companyName": "Zambia Railways Limited",
+      "privatizationType": "Concession",
+      "stage": "Policy Review",
+      "estimatedValue": 2400000000,
+      "minimumTargetProceeds": 0,
+      "advisor": "World Bank IFC Advisory",
+      "targetCompletionDate": "2027-06-30T00:00:00",
+      "governmentApprovalStatus": "Under Review",
+      "keyRisks": "Labour union opposition; infrastructure rehabilitation costs; regional connectivity obligations",
+      "investorInterestLevel": 2
+    }
+  ],
+  "transactions": [
+    {
+      "id": 1,
+      "companyId": 9,
+      "companyName": "Zambia National Commercial Bank (ZANACO)",
+      "transactionType": "Secondary Share Sale",
+      "counterparty": "Rabobank International",
+      "transactionValue": 420000000,
+      "equityStakeSold": 25.0,
+      "announcementDate": "2019-08-15T00:00:00",
+      "completionDate": "2020-02-28T00:00:00",
+      "status": "Completed",
+      "proceedsReceived": 420000000,
+      "terminationReason": ""
+    }
+  ],
+  "restructuringProjects": [
+    {
+      "id": 1,
+      "companyId": 3,
+      "companyName": "ZAMTEL",
+      "restructuringType": "Operational Turnaround",
+      "description": "Cost reduction and revenue growth programme to restore ZAMTEL to profitability.",
+      "startDate": "2024-01-01T00:00:00",
+      "targetEndDate": "2026-12-31T00:00:00",
+      "projectedSavings": 180000000,
+      "achievedSavings": 42000000,
+      "workforceImpact": -320,
+      "progress": 23.0,
+      "status": "In Progress",
+      "projectManager": "ZAMTEL CEO"
+    }
+  ],
+  "postSaleObligations": [
+    {
+      "id": 1,
+      "transactionId": 1,
+      "companyId": 9,
+      "companyName": "Zambia National Commercial Bank (ZANACO)",
+      "obligationType": "Employment Protection",
+      "description": "Rabobank committed to maintain ZANACO headcount at minimum 2,800 employees for 3 years post-acquisition.",
+      "commitmentDate": "2020-02-28T00:00:00",
+      "dueDate": "2023-02-28T00:00:00",
+      "committedValue": 2800,
+      "achievedValue": 3100,
+      "status": "Fulfilled",
+      "monitoringBody": "Ministry of Finance",
+      "lastAssessment": "Obligation fulfilled. ZANACO headcount exceeded commitment."
+    }
+  ]
+}

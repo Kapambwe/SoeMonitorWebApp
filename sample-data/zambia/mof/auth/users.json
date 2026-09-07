@@ -1,0 +1,46 @@
+[
+  {
+    "id": "mof-001",
+    "username": "situmbeko.musokotwane@mof.gov.zm",
+    "firstName": "Situmbeko",
+    "lastName": "Musokotwane",
+    "email": "situmbeko.musokotwane@mof.gov.zm",
+    "roles": ["Minister", "Administrator"],
+    "password": "Test123!",
+    "department": "Executive",
+    "title": "Minister of Finance"
+  },
+  {
+    "id": "mof-002",
+    "username": "felix.nkulukusa@mof.gov.zm",
+    "firstName": "Felix",
+    "lastName": "Nkulukusa",
+    "email": "felix.nkulukusa@mof.gov.zm",
+    "roles": ["Permanent Secretary"],
+    "password": "Test123!",
+    "department": "Administration",
+    "title": "Permanent Secretary"
+  },
+  {
+    "id": "mof-003",
+    "username": "chipo.mwanza@mof.gov.zm",
+    "firstName": "Chipo",
+    "lastName": "Mwanza",
+    "email": "chipo.mwanza@mof.gov.zm",
+    "roles": ["Budget Director"],
+    "password": "Test123!",
+    "department": "Budget",
+    "title": "Director of Budget"
+  },
+  {
+    "id": "mof-004",
+    "username": "admin@mof.gov.zm",
+    "firstName": "System",
+    "lastName": "Administrator",
+    "email": "admin@mof.gov.zm",
+    "roles": ["Administrator", "Super User"],
+    "password": "Admin@123",
+    "department": "IT",
+    "title": "System Administrator"
+  }
+]

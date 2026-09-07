@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1, "companyId": 1, "companyName": "ZCCM Investment Holdings Plc",
+    "riskCategory": "Market", "riskTitle": "Copper Price Volatility",
+    "description": "Global copper price fluctuations directly impact portfolio company revenues and ZCCM-IH dividend income.",
+    "likelihood": "High", "impact": "High", "riskScore": 16,
+    "status": "Active", "mitigationPlan": "Diversify portfolio into energy and non-mining sectors; maintain hedging instruments.",
+    "owner": "Chief Financial Officer", "reviewDate": "2025-03-31"
+  },
+  {
+    "id": 2, "companyId": 3, "companyName": "Konkola Copper Mines Plc",
+    "riskCategory": "Operational", "riskTitle": "Underground Mine Safety",
+    "description": "Risk of underground accidents at Konkola Deep Mine due to aging infrastructure and high water table.",
+    "likelihood": "Medium", "impact": "Critical", "riskScore": 20,
+    "status": "Active", "mitigationPlan": "Invest ZMW 2.5B in safety upgrades; implement real-time monitoring systems.",
+    "owner": "Chief Operating Officer", "reviewDate": "2025-01-31"
+  },
+  {
+    "id": 3, "companyId": 2, "companyName": "Mopani Copper Mines Plc",
+    "riskCategory": "Financial", "riskTitle": "Post-Acquisition Integration Risk",
+    "description": "Risk of operational disruption following IRH/Delta Mining acquisition of 51% stake in 2024.",
+    "likelihood": "Medium", "impact": "High", "riskScore": 12,
+    "status": "Active", "mitigationPlan": "Establish joint integration committee; maintain ZCCM-IH board representation.",
+    "owner": "CEO", "reviewDate": "2025-06-30"
+  },
+  {
+    "id": 4, "companyId": 1, "companyName": "ZCCM Investment Holdings Plc",
+    "riskCategory": "Regulatory", "riskTitle": "Mining Royalty Policy Changes",
+    "description": "Government changes to mining royalty rates under the Mines and Minerals Development Act could reduce portfolio profitability.",
+    "likelihood": "Medium", "impact": "High", "riskScore": 12,
+    "status": "Active", "mitigationPlan": "Engage Ministry of Mines in policy consultations; model impact scenarios.",
+    "owner": "Legal & Regulatory Affairs Director", "reviewDate": "2025-04-30"
+  },
+  {
+    "id": 5, "companyId": 4, "companyName": "Copperbelt Energy Corporation Plc",
+    "riskCategory": "Operational", "riskTitle": "Power Supply Disruption",
+    "description": "ZESCO load shedding and Kariba water levels affect CEC's ability to supply power to mining customers.",
+    "likelihood": "High", "impact": "Medium", "riskScore": 12,
+    "status": "Active", "mitigationPlan": "Invest in alternative energy sources; negotiate backup supply agreements.",
+    "owner": "Operations Director", "reviewDate": "2025-02-28"
+  },
+  {
+    "id": 6, "companyId": 7, "companyName": "Maamba Collieries Ltd",
+    "riskCategory": "Environmental", "riskTitle": "Coal Ash Disposal",
+    "description": "Inadequate coal ash disposal from the 300MW power plant poses environmental and regulatory risk.",
+    "likelihood": "Medium", "impact": "High", "riskScore": 12,
+    "status": "Active", "mitigationPlan": "Construct engineered ash disposal facility; explore ash utilisation in cement production.",
+    "owner": "Environmental Manager", "reviewDate": "2025-05-31"
+  }
+]

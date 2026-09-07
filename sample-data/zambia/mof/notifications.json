@@ -1,0 +1,74 @@
+﻿[
+  {
+    "id": 201,
+    "title": "IDC FY2024 Annual Results Approved",
+    "message": "IDC FY2024 annual financial results have been approved by the board and submitted to the Ministry of Finance. Net profit of ZMW 1.1 billion achieved, up 16% from FY2023.",
+    "type": "Info",
+    "priority": "Medium",
+    "companyId": 2,
+    "companyName": "Industrial Development Corporation",
+    "createdDate": "2025-03-10T09:00:00",
+    "isRead": false,
+    "category": "Financial Reporting"
+  },
+  {
+    "id": 202,
+    "title": "ZCCM-IH Mine Rehabilitation Fund Shortfall Alert",
+    "message": "Actuarial review indicates ZCCM-IH mine rehabilitation fund has a shortfall of approximately ZMW 570 million against current closure cost estimates. Remediation plan required by 30 June 2025.",
+    "type": "Warning",
+    "priority": "High",
+    "companyId": 5,
+    "companyName": "ZCCM Investments Holdings PLC",
+    "createdDate": "2025-02-15T09:00:00",
+    "isRead": false,
+    "category": "Environmental Compliance"
+  },
+  {
+    "id": 203,
+    "title": "ZESCO Kafue Gorge Lower — Commissioning Milestone",
+    "message": "ZESCO reports that Kafue Gorge Lower Units 1 and 2 (300 MW) have been successfully commissioned and are now generating power to the national grid. Full 750 MW commissioning expected Q3 2025.",
+    "type": "Success",
+    "priority": "High",
+    "companyId": 1,
+    "companyName": "ZESCO Limited",
+    "createdDate": "2025-03-05T14:00:00",
+    "isRead": false,
+    "category": "Operations"
+  },
+  {
+    "id": 204,
+    "title": "Zambia Railways — GRZ Capital Injection First Tranche Disbursed",
+    "message": "Ministry of Finance has disbursed the first tranche of ZMW 200 million to Zambia Railways under the emergency capital support programme. Funds to be applied to track rehabilitation and locomotive maintenance.",
+    "type": "Info",
+    "priority": "Medium",
+    "companyId": 4,
+    "companyName": "Zambia Railways Limited",
+    "createdDate": "2025-02-05T10:00:00",
+    "isRead": true,
+    "category": "Financial Support"
+  },
+  {
+    "id": 205,
+    "title": "ZANACO NPL Ratio Exceeds BoZ Threshold",
+    "message": "ZANACO Q3 2024 NPL ratio of 11.2% exceeds the Bank of Zambia regulatory threshold of 10%. NPL reduction plan must be submitted to BoZ within 30 days.",
+    "type": "Alert",
+    "priority": "High",
+    "companyId": 3,
+    "companyName": "Zambia National Commercial Bank (ZANACO)",
+    "createdDate": "2024-10-15T09:00:00",
+    "isRead": true,
+    "category": "Regulatory Compliance"
+  },
+  {
+    "id": 206,
+    "title": "IDC Interim Dividend Declared",
+    "message": "IDC Board has declared an interim dividend of ZMW 220 million for FY2024. Payment to GRZ expected by 31 October 2024 subject to Ministry of Finance approval.",
+    "type": "Info",
+    "priority": "Medium",
+    "companyId": 2,
+    "companyName": "Industrial Development Corporation",
+    "createdDate": "2024-09-01T09:00:00",
+    "isRead": true,
+    "category": "Dividends"
+  }
+]

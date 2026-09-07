@@ -1,0 +1,128 @@
+{
+  "assets": [
+    {
+      "id": 1,
+      "companyId": 1,
+      "companyName": "ZESCO Limited",
+      "assetType": "Power Generation",
+      "assetCode": "ZESCO-GEN-001",
+      "description": "Kafue Gorge Upper Power Station — 990MW hydroelectric facility",
+      "location": "Kafue Gorge, Zambia",
+      "acquisitionDate": "1972-01-01T00:00:00",
+      "acquisitionCost": 4200000000,
+      "bookValue": 1850000000,
+      "fairValue": 6800000000,
+      "condition": "Good",
+      "isOperational": true,
+      "lastValuationDate": "2024-06-30T00:00:00"
+    },
+    {
+      "id": 2,
+      "companyId": 1,
+      "companyName": "ZESCO Limited",
+      "assetType": "Transmission Infrastructure",
+      "assetCode": "ZESCO-TX-001",
+      "description": "National 330kV and 132kV transmission network — 6,500km",
+      "location": "Nationwide, Zambia",
+      "acquisitionDate": "1980-01-01T00:00:00",
+      "acquisitionCost": 8500000000,
+      "bookValue": 2100000000,
+      "fairValue": 5200000000,
+      "condition": "Fair",
+      "isOperational": true,
+      "lastValuationDate": "2024-06-30T00:00:00"
+    },
+    {
+      "id": 3,
+      "companyId": 5,
+      "companyName": "ZCCM Investments Holdings PLC",
+      "assetType": "Mining Equity",
+      "assetCode": "ZCCM-EQ-001",
+      "description": "20% equity stake in Kansanshi Mining PLC (First Quantum Minerals)",
+      "location": "Solwezi, North-Western Province",
+      "acquisitionDate": "2000-03-31T00:00:00",
+      "acquisitionCost": 180000000,
+      "bookValue": 1200000000,
+      "fairValue": 2800000000,
+      "condition": "Good",
+      "isOperational": true,
+      "lastValuationDate": "2024-12-31T00:00:00"
+    },
+    {
+      "id": 4,
+      "companyId": 2,
+      "companyName": "Industrial Development Corporation",
+      "assetType": "Office Property",
+      "assetCode": "IDC-PROP-001",
+      "description": "IDC House — 8-storey headquarters building, Lusaka CBD",
+      "location": "Lusaka, Zambia",
+      "acquisitionDate": "1985-06-01T00:00:00",
+      "acquisitionCost": 12000000,
+      "bookValue": 4500000,
+      "fairValue": 85000000,
+      "condition": "Good",
+      "isOperational": true,
+      "lastValuationDate": "2023-12-31T00:00:00"
+    }
+  ],
+  "utilization": [
+    {
+      "id": 1,
+      "companyId": 1,
+      "companyName": "ZESCO Limited",
+      "assetCategory": "Generation Assets",
+      "totalAssets": 12,
+      "assetsInUse": 10,
+      "idleAssets": 2,
+      "occupancyRate": 83.3,
+      "equipmentUptime": 87.5,
+      "idleAssetValue": 420000000,
+      "optimizationOpportunity": "2 thermal generators idle due to high fuel costs. Consider mothballing or PPP."
+    },
+    {
+      "id": 2,
+      "companyId": 2,
+      "companyName": "Industrial Development Corporation",
+      "assetCategory": "Office Properties",
+      "totalAssets": 5,
+      "assetsInUse": 4,
+      "idleAssets": 1,
+      "occupancyRate": 80.0,
+      "equipmentUptime": 100.0,
+      "idleAssetValue": 22000000,
+      "optimizationOpportunity": "Ndola regional office underutilised. Consider leasing surplus space."
+    }
+  ],
+  "disposals": [
+    {
+      "id": 1,
+      "companyId": 2,
+      "companyName": "Industrial Development Corporation",
+      "assetDescription": "IDC Ndola Warehouse — 2,400sqm industrial property",
+      "disposalMethod": "Public Auction",
+      "bookValueAtDisposal": 8500000,
+      "disposalProceeds": 14200000,
+      "approvalDate": "2024-10-15T00:00:00",
+      "disposalDate": "2025-01-31T00:00:00",
+      "approvalAuthority": "IDC Board",
+      "buyer": "Copperbelt Industrial Holdings Ltd",
+      "status": "Completed",
+      "environmentalRemediationRequired": false
+    }
+  ],
+  "concessions": [
+    {
+      "id": 1,
+      "companyId": 6,
+      "companyName": "ZAFFICO",
+      "concessionType": "Forestry Concession",
+      "concessionHolder": "Zambia Forestry and Forest Industries Corporation",
+      "asset": "Copperbelt Plantation — 42,000 hectares",
+      "startDate": "2000-01-01T00:00:00",
+      "endDate": "2030-12-31T00:00:00",
+      "annualFee": 4200000,
+      "feesCollectedYTD": 4200000,
+      "status": "Active"
+    }
+  ]
+}

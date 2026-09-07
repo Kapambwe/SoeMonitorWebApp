@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1, "companyId": 1, "companyName": "Eskom Holdings SOC Limited",
+    "fiscalYear": 2025, "budgetType": "Annual Operating Budget",
+    "totalRevenue": 225000000000, "totalExpenses": 248000000000,
+    "capitalExpenditure": 42000000000, "operatingExpenditure": 206000000000,
+    "approvedDate": "2024-03-28", "status": "Approved", "currency": "ZAR",
+    "keyPriorities": ["Load-shedding elimination", "Debt service", "Maintenance backlog reduction", "JETP transition investment"],
+    "variance": -23000000000,
+    "notes": "Budget reflects continued operating loss as tariff increases lag cost inflation. R42bn capex focused on maintenance and renewable energy."
+  },
+  {
+    "id": 2, "companyId": 1, "companyName": "Eskom Holdings SOC Limited",
+    "fiscalYear": 2024, "budgetType": "Annual Operating Budget",
+    "totalRevenue": 220000000000, "totalExpenses": 263600000000,
+    "capitalExpenditure": 38000000000, "operatingExpenditure": 225600000000,
+    "approvedDate": "2023-03-31", "status": "Completed", "currency": "ZAR",
+    "keyPriorities": ["Kusile and Medupi completion", "Debt relief implementation", "Emergency maintenance"],
+    "variance": -43600000000,
+    "notes": "Actual loss of R54.6bn exceeded budget deficit of R43.6bn due to higher coal costs and unplanned outages."
+  },
+  {
+    "id": 3, "companyId": 2, "companyName": "Transnet SOC Limited",
+    "fiscalYear": 2025, "budgetType": "Annual Operating Budget",
+    "totalRevenue": 88000000000, "totalExpenses": 96000000000,
+    "capitalExpenditure": 22000000000, "operatingExpenditure": 74000000000,
+    "approvedDate": "2024-03-28", "status": "Approved", "currency": "ZAR",
+    "keyPriorities": ["Rail infrastructure rehabilitation", "Port efficiency improvement", "Cable theft mitigation", "PSP implementation"],
+    "variance": -8000000000,
+    "notes": "R22bn capex focused on rail rehabilitation and port equipment. PSP proceeds expected to reduce capex requirement from FY2026."
+  },
+  {
+    "id": 4, "companyId": 2, "companyName": "Transnet SOC Limited",
+    "fiscalYear": 2024, "budgetType": "Annual Operating Budget",
+    "totalRevenue": 85000000000, "totalExpenses": 92000000000,
+    "capitalExpenditure": 18000000000, "operatingExpenditure": 74000000000,
+    "approvedDate": "2023-03-31", "status": "Completed", "currency": "ZAR",
+    "keyPriorities": ["Freight volume recovery", "Debt management", "Governance improvement"],
+    "variance": -7000000000,
+    "notes": "Actual loss of R12bn exceeded budget deficit of R7bn due to lower freight volumes from rail infrastructure failures."
+  },
+  {
+    "id": 5, "companyId": 3, "companyName": "South African Airways SOC Limited",
+    "fiscalYear": 2025, "budgetType": "Annual Operating Budget",
+    "totalRevenue": 10500000000, "totalExpenses": 10200000000,
+    "capitalExpenditure": 1200000000, "operatingExpenditure": 9000000000,
+    "approvedDate": "2024-03-28", "status": "Approved", "currency": "ZAR",
+    "keyPriorities": ["Route network expansion", "Fleet renewal", "Takatso transaction completion", "Revenue growth"],
+    "variance": 300000000,
+    "notes": "First budget projecting a profit since business rescue. Dependent on Takatso transaction completion and new route revenue."
+  },
+  {
+    "id": 6, "companyId": 4, "companyName": "Passenger Rail Agency of South Africa",
+    "fiscalYear": 2025, "budgetType": "Annual Operating Budget",
+    "totalRevenue": 7500000000, "totalExpenses": 22000000000,
+    "capitalExpenditure": 12000000000, "operatingExpenditure": 10000000000,
+    "approvedDate": "2024-03-28", "status": "Approved", "currency": "ZAR",
+    "keyPriorities": ["Rolling stock renewal", "Infrastructure rehabilitation", "Security improvement", "Service restoration"],
+    "variance": -14500000000,
+    "notes": "Large deficit funded by government appropriation of R14.5bn. R12bn capex for rolling stock and infrastructure."
+  },
+  {
+    "id": 7, "companyId": 5, "companyName": "Denel SOC Limited",
+    "fiscalYear": 2025, "budgetType": "Annual Operating Budget",
+    "totalRevenue": 3800000000, "totalExpenses": 4500000000,
+    "capitalExpenditure": 800000000, "operatingExpenditure": 3700000000,
+    "approvedDate": "2024-03-28", "status": "Approved", "currency": "ZAR",
+    "keyPriorities": ["Revenue recovery", "Salary regularisation", "Strategic product lines", "Export contracts"],
+    "variance": -700000000,
+    "notes": "Budget reflects partial recovery. R3.4bn recapitalisation funds operational stabilisation. Export contracts critical to revenue target."
+  },
+  {
+    "id": 8, "companyId": 7, "companyName": "Airports Company South Africa SOC Limited",
+    "fiscalYear": 2025, "budgetType": "Annual Operating Budget",
+    "totalRevenue": 11200000000, "totalExpenses": 8500000000,
+    "capitalExpenditure": 5200000000, "operatingExpenditure": 3300000000,
+    "approvedDate": "2024-03-28", "status": "Approved", "currency": "ZAR",
+    "keyPriorities": ["Cape Town expansion", "OR Tambo solar completion", "Passenger experience", "Non-aeronautical revenue growth"],
+    "variance": 2700000000,
+    "notes": "Strong profit budget reflecting post-COVID passenger recovery. R5.2bn capex for Cape Town Phase 2 and OR Tambo upgrades."
+  }
+]

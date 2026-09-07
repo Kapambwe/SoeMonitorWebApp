@@ -1,0 +1,74 @@
+[
+  {
+    "id": 301,
+    "title": "Eskom EAF Reaches 62% — Milestone Achieved",
+    "message": "Eskom's Energy Availability Factor has reached 62% for the first time since 2019, enabling Stage 0 load shedding for 45 consecutive days. Generation Recovery Plan showing results.",
+    "type": "Success",
+    "priority": "High",
+    "companyId": 10,
+    "companyName": "Eskom Holdings SOC Limited",
+    "createdDate": "2025-02-20T09:00:00",
+    "isRead": false,
+    "category": "Operations"
+  },
+  {
+    "id": 302,
+    "title": "Eskom Debt Relief Year 3 Tranche — Conditional Approval",
+    "message": "National Treasury has conditionally approved the Year 3 debt relief tranche of ZAR 78 billion, subject to Eskom achieving EAF of 65% by 31 March 2025 and NTDC incorporation milestone.",
+    "type": "Warning",
+    "priority": "High",
+    "companyId": 10,
+    "companyName": "Eskom Holdings SOC Limited",
+    "createdDate": "2025-01-15T09:00:00",
+    "isRead": false,
+    "category": "Financial Support"
+  },
+  {
+    "id": 303,
+    "title": "Transnet Freight Rail — 195 Mtpa Target Achieved",
+    "message": "Transnet Freight Rail has achieved 195 million tonnes per annum freight volumes in FY2024, up from 155 Mtpa in FY2023. Recovery plan showing significant progress.",
+    "type": "Success",
+    "priority": "Medium",
+    "companyId": 11,
+    "companyName": "Transnet SOC Limited",
+    "createdDate": "2025-03-01T09:00:00",
+    "isRead": false,
+    "category": "Operations"
+  },
+  {
+    "id": 304,
+    "title": "SAA Takatso Transaction — Deadline Missed",
+    "message": "SAA has not concluded the Takatso Consortium strategic equity partnership by the 31 December 2024 deadline. Alternative strategic options to be presented to DPEPE by 28 February 2025.",
+    "type": "Alert",
+    "priority": "High",
+    "companyId": 12,
+    "companyName": "South African Airways (SAA)",
+    "createdDate": "2025-01-05T09:00:00",
+    "isRead": true,
+    "category": "Strategic Direction"
+  },
+  {
+    "id": 305,
+    "title": "Denel Returns to Profitability — FY2024",
+    "message": "Denel has reported a net profit of ZAR 180 million for FY2024, the first profitable year since FY2017. Revenue of ZAR 4.5 billion exceeded the ZAR 4 billion recapitalisation target.",
+    "type": "Success",
+    "priority": "High",
+    "companyId": 13,
+    "companyName": "Denel SOC Limited",
+    "createdDate": "2025-03-05T09:00:00",
+    "isRead": false,
+    "category": "Financial Reporting"
+  },
+  {
+    "id": 306,
+    "title": "SANRAL Clean Audit — FY2024",
+    "message": "SANRAL has received a clean audit opinion from the Auditor-General for FY2024, the fifth consecutive clean audit. No irregular, fruitless or wasteful expenditure reported.",
+    "type": "Success",
+    "priority": "Medium",
+    "companyId": 14,
+    "companyName": "South African National Roads Agency SOC Limited (SANRAL)",
+    "createdDate": "2025-02-28T09:00:00",
+    "isRead": false,
+    "category": "Audit"
+  }
+]

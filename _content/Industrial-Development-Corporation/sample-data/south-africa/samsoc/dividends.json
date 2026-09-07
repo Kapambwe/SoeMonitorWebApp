@@ -1,0 +1,83 @@
+[
+  {
+    "id": 1, "companyId": 1, "companyName": "Eskom Holdings SOC Limited",
+    "fiscalYear": 2024, "netIncome": -54600000000,
+    "dividendDeclared": 0, "dividendPaid": 0,
+    "retainedEarnings": -54600000000, "payoutRatio": 0, "dividendYield": 0,
+    "declarationDate": null, "paymentDate": null,
+    "currency": "ZAR", "status": "No Dividend - Loss Making",
+    "notes": "No dividend declared. Eskom recorded a net loss of R54.6bn. Government debt relief of R78bn received in FY2024."
+  },
+  {
+    "id": 2, "companyId": 1, "companyName": "Eskom Holdings SOC Limited",
+    "fiscalYear": 2023, "netIncome": -42000000000,
+    "dividendDeclared": 0, "dividendPaid": 0,
+    "retainedEarnings": -42000000000, "payoutRatio": 0, "dividendYield": 0,
+    "declarationDate": null, "paymentDate": null,
+    "currency": "ZAR", "status": "No Dividend - Loss Making",
+    "notes": "No dividend declared for fifth consecutive year. Net loss of R42bn."
+  },
+  {
+    "id": 3, "companyId": 2, "companyName": "Transnet SOC Limited",
+    "fiscalYear": 2024, "netIncome": -12000000000,
+    "dividendDeclared": 0, "dividendPaid": 0,
+    "retainedEarnings": -12000000000, "payoutRatio": 0, "dividendYield": 0,
+    "declarationDate": null, "paymentDate": null,
+    "currency": "ZAR", "status": "No Dividend - Loss Making",
+    "notes": "No dividend declared. Net loss of R12bn. Debt service obligations consume available cash."
+  },
+  {
+    "id": 4, "companyId": 3, "companyName": "South African Airways SOC Limited",
+    "fiscalYear": 2024, "netIncome": -700000000,
+    "dividendDeclared": 0, "dividendPaid": 0,
+    "retainedEarnings": -700000000, "payoutRatio": 0, "dividendYield": 0,
+    "declarationDate": null, "paymentDate": null,
+    "currency": "ZAR", "status": "No Dividend - Post Business Rescue",
+    "notes": "No dividend declared. SAA in post-business rescue recovery phase. Takatso transaction pending."
+  },
+  {
+    "id": 5, "companyId": 4, "companyName": "Passenger Rail Agency of South Africa",
+    "fiscalYear": 2024, "netIncome": -8600000000,
+    "dividendDeclared": 0, "dividendPaid": 0,
+    "retainedEarnings": -8600000000, "payoutRatio": 0, "dividendYield": 0,
+    "declarationDate": null, "paymentDate": null,
+    "currency": "ZAR", "status": "No Dividend - Loss Making",
+    "notes": "No dividend declared. PRASA is fully government-funded with no commercial dividend obligation."
+  },
+  {
+    "id": 6, "companyId": 5, "companyName": "Denel SOC Limited",
+    "fiscalYear": 2024, "netIncome": -1400000000,
+    "dividendDeclared": 0, "dividendPaid": 0,
+    "retainedEarnings": -1400000000, "payoutRatio": 0, "dividendYield": 0,
+    "declarationDate": null, "paymentDate": null,
+    "currency": "ZAR", "status": "No Dividend - Loss Making",
+    "notes": "No dividend declared. Denel in financial distress. Government recapitalisation of R3.4bn received."
+  },
+  {
+    "id": 7, "companyId": 6, "companyName": "South African Broadcasting Corporation SOC Limited",
+    "fiscalYear": 2024, "netIncome": -900000000,
+    "dividendDeclared": 0, "dividendPaid": 0,
+    "retainedEarnings": -900000000, "payoutRatio": 0, "dividendYield": 0,
+    "declarationDate": null, "paymentDate": null,
+    "currency": "ZAR", "status": "No Dividend - Loss Making",
+    "notes": "No dividend declared. SABC is a public broadcaster with no commercial dividend obligation."
+  },
+  {
+    "id": 8, "companyId": 7, "companyName": "Airports Company South Africa SOC Limited",
+    "fiscalYear": 2024, "netIncome": 2200000000,
+    "dividendDeclared": 660000000, "dividendPaid": 660000000,
+    "retainedEarnings": 1540000000, "payoutRatio": 30, "dividendYield": 6.7,
+    "declarationDate": "2024-06-15", "paymentDate": "2024-08-30",
+    "currency": "ZAR", "status": "Paid",
+    "notes": "Dividend of R660m declared and paid. 30% payout ratio. Government (74.6%) received R492m. ACSA is the only profitable SA SOE paying dividends."
+  },
+  {
+    "id": 9, "companyId": 7, "companyName": "Airports Company South Africa SOC Limited",
+    "fiscalYear": 2023, "netIncome": 1200000000,
+    "dividendDeclared": 360000000, "dividendPaid": 360000000,
+    "retainedEarnings": 840000000, "payoutRatio": 30, "dividendYield": 4.9,
+    "declarationDate": "2023-06-20", "paymentDate": "2023-09-15",
+    "currency": "ZAR", "status": "Paid",
+    "notes": "Dividend of R360m declared and paid. First dividend since COVID-19 pandemic."
+  }
+]

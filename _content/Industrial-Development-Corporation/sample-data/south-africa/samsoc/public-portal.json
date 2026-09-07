@@ -1,0 +1,23 @@
+{
+  "soes": [
+    { "id": 1, "name": "Eskom Holdings SOC Limited", "sector": "Energy", "registrationNumber": "2002/015527/30", "ownershipPercentage": 100, "employees": 42000, "annualRevenue": 285000000000, "totalAssets": 1200000000000, "complianceScore": 72, "status": "Active" },
+    { "id": 2, "name": "Transnet SOC Limited", "sector": "Logistics", "registrationNumber": "1990/000900/30", "ownershipPercentage": 100, "employees": 50000, "annualRevenue": 82000000000, "totalAssets": 350000000000, "complianceScore": 65, "status": "Active" },
+    { "id": 3, "name": "South African Airways SOC Limited", "sector": "Aviation", "registrationNumber": "1997/022444/30", "ownershipPercentage": 49, "employees": 3800, "annualRevenue": 12000000000, "totalAssets": 8500000000, "complianceScore": 58, "status": "Active" },
+    { "id": 4, "name": "Passenger Rail Agency of South Africa", "sector": "Transport", "registrationNumber": "2008/007441/30", "ownershipPercentage": 100, "employees": 16000, "annualRevenue": 4500000000, "totalAssets": 45000000000, "complianceScore": 55, "status": "Active" },
+    { "id": 5, "name": "Denel SOC Limited", "sector": "Defence", "registrationNumber": "1992/001337/30", "ownershipPercentage": 100, "employees": 3200, "annualRevenue": 2800000000, "totalAssets": 6500000000, "complianceScore": 62, "status": "Active" },
+    { "id": 6, "name": "South African Broadcasting Corporation SOC Limited", "sector": "Media", "registrationNumber": "2001/013187/30", "ownershipPercentage": 100, "employees": 3500, "annualRevenue": 7200000000, "totalAssets": 4800000000, "complianceScore": 68, "status": "Active" },
+    { "id": 7, "name": "Airports Company South Africa SOC Limited", "sector": "Aviation", "registrationNumber": "1993/004149/30", "ownershipPercentage": 74.6, "employees": 2800, "annualRevenue": 9500000000, "totalAssets": 28000000000, "complianceScore": 88, "status": "Active" }
+  ],
+  "reports": [
+    { "id": 1, "title": "Eskom Annual Report 2025", "companyName": "Eskom Holdings SOC Limited", "reportType": "Annual Report", "year": 2025, "publishedDate": "2026-01-15", "fileSize": 8192000 },
+    { "id": 2, "title": "Transnet Q3 2025 Performance Report", "companyName": "Transnet SOC Limited", "reportType": "Performance Report", "year": 2025, "publishedDate": "2025-10-31", "fileSize": 2048000 },
+    { "id": 3, "title": "SABC AGSA Audit Report FY2024", "companyName": "South African Broadcasting Corporation SOC Limited", "reportType": "Audit Report", "year": 2024, "publishedDate": "2025-03-20", "fileSize": 1536000 },
+    { "id": 4, "title": "PRASA Annual Report 2024", "companyName": "Passenger Rail Agency of South Africa", "reportType": "Annual Report", "year": 2024, "publishedDate": "2025-02-28", "fileSize": 4096000 },
+    { "id": 5, "title": "ACSA Q2 2025 Quarterly Report", "companyName": "Airports Company South Africa SOC Limited", "reportType": "Quarterly Report", "year": 2025, "publishedDate": "2025-08-15", "fileSize": 1024000 }
+  ],
+  "publicDocuments": [
+    { "id": 1, "title": "SOE Corporate Governance Framework — King IV", "companyName": "SAMSOC", "category": "Policy", "documentType": "PDF", "version": "3.0", "accessLevel": "Public", "uploadDate": "2025-06-01", "uploadedBy": "SAMSOC Governance Office" },
+    { "id": 2, "title": "SOE Ownership Policy 2025", "companyName": "Department of Public Enterprises", "category": "Policy", "documentType": "PDF", "version": "2.0", "accessLevel": "Public", "uploadDate": "2025-01-15", "uploadedBy": "DPE Policy Division" },
+    { "id": 3, "title": "Eskom NERSA Tariff Schedule 2026", "companyName": "Eskom Holdings SOC Limited", "category": "Financial", "documentType": "PDF", "version": "1.0", "accessLevel": "Public", "uploadDate": "2025-12-01", "uploadedBy": "Eskom Regulatory Affairs" }
+  ]
+}

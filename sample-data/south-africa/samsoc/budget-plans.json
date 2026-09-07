@@ -1,0 +1,203 @@
+[
+  {
+    "id": 301,
+    "companyId": 10,
+    "companyName": "Eskom Holdings SOC Limited",
+    "fiscalYear": 2025,
+    "budgetType": "Annual",
+    "totalBudget": 230000000000,
+    "allocatedAmount": 230000000000,
+    "spentAmount": 118000000000,
+    "status": "Active",
+    "approvalDate": "2024-12-15T00:00:00",
+    "approvedBy": "Department of Public Enterprises and Economic Planning",
+    "notes": "FY2025 budget approved with strict conditions on maintenance spend and EAF improvement milestones.",
+    "lineItems": [
+      {
+        "id": 301,
+        "budgetId": 301,
+        "category": "Operations",
+        "description": "Fuel, water, and primary energy costs",
+        "budgetedAmount": 95000000000,
+        "actualAmount": 48000000000,
+        "costCenter": "Generation",
+        "accountCode": "ESK-2001"
+      },
+      {
+        "id": 302,
+        "budgetId": 301,
+        "category": "Personnel",
+        "description": "Employee costs and benefits",
+        "budgetedAmount": 42000000000,
+        "actualAmount": 21500000000,
+        "costCenter": "Human Resources",
+        "accountCode": "ESK-1001"
+      },
+      {
+        "id": 303,
+        "budgetId": 301,
+        "category": "Capital",
+        "description": "Maintenance capex and plant rehabilitation",
+        "budgetedAmount": 55000000000,
+        "actualAmount": 28000000000,
+        "costCenter": "Engineering",
+        "accountCode": "ESK-4001"
+      },
+      {
+        "id": 304,
+        "budgetId": 301,
+        "category": "Debt Service",
+        "description": "Interest and debt repayment",
+        "budgetedAmount": 38000000000,
+        "actualAmount": 20500000000,
+        "costCenter": "Finance",
+        "accountCode": "ESK-6001"
+      }
+    ],
+    "variances": [
+      {
+        "id": 301,
+        "budgetId": 301,
+        "period": "H1 FY2025",
+        "budgetedAmount": 115000000000,
+        "actualAmount": 118000000000,
+        "explanation": "Higher than budgeted diesel spend for OCGTs due to delayed return to service of Medupi Unit 4",
+        "correctiveAction": "Medupi Unit 4 return to service accelerated; diesel procurement optimised"
+      }
+    ]
+  },
+  {
+    "id": 302,
+    "companyId": 11,
+    "companyName": "Transnet SOC Limited",
+    "fiscalYear": 2025,
+    "budgetType": "Annual",
+    "totalBudget": 90000000000,
+    "allocatedAmount": 90000000000,
+    "spentAmount": 42000000000,
+    "status": "Active",
+    "approvalDate": "2024-12-20T00:00:00",
+    "approvedBy": "Department of Public Enterprises and Economic Planning",
+    "notes": "FY2025 budget focused on freight rail recovery, port efficiency, and security investment.",
+    "lineItems": [
+      {
+        "id": 305,
+        "budgetId": 302,
+        "category": "Operations",
+        "description": "Freight rail and port operations",
+        "budgetedAmount": 38000000000,
+        "actualAmount": 18500000000,
+        "costCenter": "Operations",
+        "accountCode": "TRN-2001"
+      },
+      {
+        "id": 306,
+        "budgetId": 302,
+        "category": "Personnel",
+        "description": "Employee costs",
+        "budgetedAmount": 22000000000,
+        "actualAmount": 11000000000,
+        "costCenter": "Human Resources",
+        "accountCode": "TRN-1001"
+      },
+      {
+        "id": 307,
+        "budgetId": 302,
+        "category": "Capital",
+        "description": "Locomotive procurement and infrastructure rehabilitation",
+        "budgetedAmount": 20000000000,
+        "actualAmount": 8500000000,
+        "costCenter": "Engineering",
+        "accountCode": "TRN-4001"
+      },
+      {
+        "id": 308,
+        "budgetId": 302,
+        "category": "Security",
+        "description": "Cable theft prevention and infrastructure security",
+        "budgetedAmount": 10000000000,
+        "actualAmount": 4000000000,
+        "costCenter": "Security",
+        "accountCode": "TRN-7001"
+      }
+    ],
+    "variances": [
+      {
+        "id": 302,
+        "budgetId": 302,
+        "period": "H1 FY2025",
+        "budgetedAmount": 45000000000,
+        "actualAmount": 42000000000,
+        "explanation": "Underspend on capital due to delayed locomotive delivery from CRRC",
+        "correctiveAction": "Revised delivery schedule agreed with CRRC; locomotives expected Q3 FY2025"
+      }
+    ]
+  },
+  {
+    "id": 303,
+    "companyId": 14,
+    "companyName": "South African National Roads Agency SOC Limited (SANRAL)",
+    "fiscalYear": 2025,
+    "budgetType": "Annual",
+    "totalBudget": 32000000000,
+    "allocatedAmount": 32000000000,
+    "spentAmount": 14500000000,
+    "status": "Active",
+    "approvalDate": "2024-12-10T00:00:00",
+    "approvedBy": "National Treasury",
+    "notes": "FY2025 budget includes increased allocation for non-toll road maintenance following e-toll abolition.",
+    "lineItems": [
+      {
+        "id": 309,
+        "budgetId": 303,
+        "category": "Capital",
+        "description": "New road construction and major upgrades",
+        "budgetedAmount": 12000000000,
+        "actualAmount": 5200000000,
+        "costCenter": "Engineering",
+        "accountCode": "SNR-4001"
+      },
+      {
+        "id": 310,
+        "budgetId": 303,
+        "category": "Maintenance",
+        "description": "Routine and periodic road maintenance",
+        "budgetedAmount": 14000000000,
+        "actualAmount": 7100000000,
+        "costCenter": "Operations",
+        "accountCode": "SNR-5001"
+      },
+      {
+        "id": 311,
+        "budgetId": 303,
+        "category": "Personnel",
+        "description": "Staff costs",
+        "budgetedAmount": 3500000000,
+        "actualAmount": 1800000000,
+        "costCenter": "Human Resources",
+        "accountCode": "SNR-1001"
+      },
+      {
+        "id": 312,
+        "budgetId": 303,
+        "category": "Administrative",
+        "description": "Corporate and administrative costs",
+        "budgetedAmount": 2500000000,
+        "actualAmount": 400000000,
+        "costCenter": "Corporate Affairs",
+        "accountCode": "SNR-3001"
+      }
+    ],
+    "variances": [
+      {
+        "id": 303,
+        "budgetId": 303,
+        "period": "H1 FY2025",
+        "budgetedAmount": 16000000000,
+        "actualAmount": 14500000000,
+        "explanation": "Capital project underspend due to environmental approvals delays on N2 Wild Coast Highway",
+        "correctiveAction": "Environmental authorisation expected Q3 2025; construction to commence Q4 2025"
+      }
+    ]
+  }
+]

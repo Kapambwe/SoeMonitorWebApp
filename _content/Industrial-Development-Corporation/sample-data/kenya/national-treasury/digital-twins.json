@@ -1,0 +1,104 @@
+{
+  "factories": [
+    {
+      "id": 1,
+      "factoryName": "KenGen Olkaria Geothermal Power Plant",
+      "productionLines": [
+        { "lineName": "Olkaria I Unit 4 & 5 (70 MW)", "status": "Running", "currentOutputRate": 68.5, "targetOutputRate": 70.0, "efficiencyPercent": 97.9 },
+        { "lineName": "Olkaria IV (140 MW)", "status": "Running", "currentOutputRate": 135.2, "targetOutputRate": 140.0, "efficiencyPercent": 96.6 },
+        { "lineName": "Olkaria V (158 MW)", "status": "Running", "currentOutputRate": 152.8, "targetOutputRate": 158.0, "efficiencyPercent": 96.7 }
+      ],
+      "overallEquipmentEfficiency": 97.1,
+      "downtimeHours": 2.8,
+      "uptimeHours": 165.2,
+      "rawMaterialsInventory": [
+        { "materialName": "Geothermal Steam (Well Field)", "currentStock": 98500, "minimumRequired": 85000, "unit": "Tonnes/Day" },
+        { "materialName": "Cooling Water", "currentStock": 45000, "minimumRequired": 35000, "unit": "Cubic Metres" },
+        { "materialName": "Turbine Oil", "currentStock": 12500, "minimumRequired": 8000, "unit": "Litres" }
+      ],
+      "finishedGoodsInventoryUnits": 0,
+      "qualityAssuranceScore": 98.2
+    }
+  ],
+  "farms": [],
+  "mines": [],
+  "hospitals": [],
+  "hotels": [],
+  "transport": [
+    {
+      "id": 1,
+      "facilityName": "KPA Mombasa Container Terminal",
+      "transportType": "Port",
+      "fleet": [
+        { "vehicleId": "STS-CRANE-01", "type": "Ship-to-Shore Crane", "currentLocation": "Berth 11", "status": "Active", "fuelEfficiency": 0, "currentSpeed": 0 },
+        { "vehicleId": "STS-CRANE-02", "type": "Ship-to-Shore Crane", "currentLocation": "Berth 12", "status": "Active", "fuelEfficiency": 0, "currentSpeed": 0 },
+        { "vehicleId": "RTG-CRANE-05", "type": "Rubber Tyred Gantry Crane", "currentLocation": "Yard Block C", "status": "Active", "fuelEfficiency": 0, "currentSpeed": 0 },
+        { "vehicleId": "RTG-CRANE-06", "type": "Rubber Tyred Gantry Crane", "currentLocation": "Yard Block D", "status": "Maintenance", "fuelEfficiency": 0, "currentSpeed": 0 }
+      ],
+      "passengerVolume": 0,
+      "cargoVolumeTonnage": 145000,
+      "routeEfficiencyScore": 82.5,
+      "predictiveMaintenance": [
+        { "id": 1, "assetName": "STS Crane 03 — Hoist Motor", "alertType": "Mechanical Wear", "severity": "Medium", "description": "Hoist motor showing increased vibration; maintenance recommended within 14 days" },
+        { "id": 2, "assetName": "Berth 8 Fender System", "alertType": "Structural", "severity": "Low", "description": "Fender rubber showing wear; replacement scheduled for next vessel-free window" }
+      ],
+      "networkUptimePercent": 94.8
+    },
+    {
+      "id": 2,
+      "facilityName": "KRC SGR Mombasa–Nairobi Line",
+      "transportType": "Railway",
+      "fleet": [
+        { "vehicleId": "SGR-LOCO-001", "type": "Diesel Locomotive (CRRC)", "currentLocation": "Nairobi Terminus", "status": "Active", "fuelEfficiency": 4.2, "currentSpeed": 0 },
+        { "vehicleId": "SGR-LOCO-002", "type": "Diesel Locomotive (CRRC)", "currentLocation": "Mombasa Terminus", "status": "Active", "fuelEfficiency": 4.1, "currentSpeed": 0 },
+        { "vehicleId": "SGR-LOCO-003", "type": "Diesel Locomotive (CRRC)", "currentLocation": "Voi Station", "status": "Active", "fuelEfficiency": 4.3, "currentSpeed": 120.0 },
+        { "vehicleId": "SGR-LOCO-004", "type": "Diesel Locomotive (CRRC)", "currentLocation": "Nairobi Depot", "status": "Maintenance", "fuelEfficiency": 0, "currentSpeed": 0 }
+      ],
+      "passengerVolume": 11500,
+      "cargoVolumeTonnage": 85000,
+      "routeEfficiencyScore": 76.5,
+      "predictiveMaintenance": [
+        { "id": 3, "assetName": "SGR-LOCO-004 Engine", "alertType": "Engine Overhaul", "severity": "High", "description": "Engine diagnostics indicate major service required; locomotive taken out of service" },
+        { "id": 4, "assetName": "Track Section KM 280-295 (Mtito Andei)", "alertType": "Track Geometry", "severity": "Medium", "description": "Track geometry deviation detected; speed restriction imposed pending maintenance" }
+      ],
+      "networkUptimePercent": 88.5
+    }
+  ],
+  "simulations": [
+    {
+      "id": 1,
+      "scenarioName": "Geothermal Output 20% Increase",
+      "scenarioType": "What-If",
+      "description": "Simulate impact of completing Olkaria VI (140 MW) on KenGen revenue and Kenya's electricity tariffs",
+      "inputParameters": { "AdditionalCapacityMW": 140, "GeothermalCostPerKWh": 8.5, "GridAbsorptionCapacity": 95 },
+      "outputResults": { "ProjectedAdditionalRevenue": 8500000000, "TariffReductionPercent": 3.2, "CO2OffsetTonnes": 850000 },
+      "impactLevel": "High",
+      "status": "Completed"
+    },
+    {
+      "id": 2,
+      "scenarioName": "Mombasa Port Congestion — 30% Traffic Increase",
+      "scenarioType": "Risk",
+      "description": "Assess impact of 30% increase in container volumes before Berths 21-26 expansion is complete",
+      "inputParameters": { "VolumeIncreasePercent": 30, "CurrentCapacityTEUs": 1500000, "ExpansionCompletionYear": 2025 },
+      "outputResults": { "DwellTimeIncrease": 2.5, "RevenueLoss": 4500000000, "TrafficDiversionToDAR": 180000 },
+      "impactLevel": "High",
+      "status": "Completed"
+    },
+    {
+      "id": 3,
+      "scenarioName": "Kenya Airways Route Exit — Nairobi–London",
+      "scenarioType": "Risk",
+      "description": "Model financial and connectivity impact of exiting the Nairobi–London route due to high operating costs",
+      "inputParameters": { "RouteRevenue": 8500000000, "RouteCost": 9200000000, "PassengersAffected": 180000 },
+      "outputResults": { "AnnualSaving": 700000000, "TourismImpact": -2500000000, "MarketShareLoss": 15 },
+      "impactLevel": "High",
+      "status": "Completed"
+    }
+  ],
+  "predictiveAnalytics": [
+    { "id": 1, "assetName": "Olkaria IV Turbine Unit 1", "assetType": "Geothermal Turbine", "failureProbability": 22.5, "maintenanceCostEstimate": 850000000, "recommendedAction": "Schedule major overhaul in Q2 2025; order spare parts now" },
+    { "id": 2, "assetName": "SGR Locomotive Fleet (CRRC)", "assetType": "Railway Locomotive", "failureProbability": 45.8, "maintenanceCostEstimate": 2200000000, "recommendedAction": "Fleet-wide maintenance programme required; 4 locomotives need engine overhaul within 6 months" },
+    { "id": 3, "assetName": "KPLC Nairobi North Substation", "assetType": "Electrical Substation", "failureProbability": 38.2, "maintenanceCostEstimate": 450000000, "recommendedAction": "Replace aging transformer units; upgrade protection systems within 12 months" }
+  ]
+}

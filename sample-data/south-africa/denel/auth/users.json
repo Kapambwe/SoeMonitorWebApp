@@ -1,0 +1,35 @@
+[
+  {
+    "id": "denel-001",
+    "username": "danie.du-toit@denel.co.za",
+    "firstName": "Danie",
+    "lastName": "du Toit",
+    "email": "danie.du-toit@denel.co.za",
+    "roles": ["CEO", "Administrator"],
+    "password": "Test123!",
+    "department": "Executive",
+    "title": "Group Chief Executive Officer"
+  },
+  {
+    "id": "denel-002",
+    "username": "ntombi.mhlangu@denel.co.za",
+    "firstName": "Ntombi",
+    "lastName": "Mhlangu",
+    "email": "ntombi.mhlangu@denel.co.za",
+    "roles": ["CFO"],
+    "password": "Test123!",
+    "department": "Finance",
+    "title": "Chief Financial Officer"
+  },
+  {
+    "id": "denel-003",
+    "username": "pieter.venter@denel.co.za",
+    "firstName": "Pieter",
+    "lastName": "Venter",
+    "email": "pieter.venter@denel.co.za",
+    "roles": ["Compliance Manager"],
+    "password": "Test123!",
+    "department": "Compliance",
+    "title": "Group Compliance Manager"
+  }
+]

@@ -1,0 +1,86 @@
+[
+  {
+    "id": 301,
+    "companyId": 10,
+    "companyName": "Eskom Holdings SOC Limited",
+    "complianceArea": "King IV Corporate Governance",
+    "requirement": "Full compliance with King IV Report on Corporate Governance for South Africa",
+    "status": "PartiallyCompliant",
+    "score": 72,
+    "lastReviewDate": "2025-02-28T00:00:00",
+    "nextReviewDate": "2025-08-31T00:00:00",
+    "notes": "King IV compliance improving. Board effectiveness assessment completed. Audit committee independence strengthened. Irregular expenditure disclosure and consequence management remain areas of concern."
+  },
+  {
+    "id": 302,
+    "companyId": 10,
+    "companyName": "Eskom Holdings SOC Limited",
+    "complianceArea": "NERSA Licence Conditions",
+    "requirement": "Compliance with all NERSA generation, transmission and distribution licence conditions",
+    "status": "PartiallyCompliant",
+    "score": 68,
+    "lastReviewDate": "2025-01-31T00:00:00",
+    "nextReviewDate": "2025-07-31T00:00:00",
+    "notes": "EAF below licence target of 70%. Quality of supply standards partially met. NERSA monitoring Eskom's Generation Recovery Plan implementation quarterly."
+  },
+  {
+    "id": 303,
+    "companyId": 11,
+    "companyName": "Transnet SOC Limited",
+    "complianceArea": "PFMA Compliance",
+    "requirement": "Full compliance with Public Finance Management Act requirements for SOEs",
+    "status": "PartiallyCompliant",
+    "score": 65,
+    "lastReviewDate": "2025-02-28T00:00:00",
+    "nextReviewDate": "2025-08-31T00:00:00",
+    "notes": "Prior year irregular expenditure of ZAR 2.8 billion being investigated. Consequence management actions underway. Supply chain management reforms implemented."
+  },
+  {
+    "id": 304,
+    "companyId": 12,
+    "companyName": "South African Airways (SAA)",
+    "complianceArea": "Aviation Authority Compliance",
+    "requirement": "Full compliance with SACAA Air Operator Certificate conditions",
+    "status": "Compliant",
+    "score": 85,
+    "lastReviewDate": "2025-01-31T00:00:00",
+    "nextReviewDate": "2025-07-31T00:00:00",
+    "notes": "SAA Air Operator Certificate in good standing. Safety management system compliant. SACAA annual audit passed with no major findings."
+  },
+  {
+    "id": 305,
+    "companyId": 13,
+    "companyName": "Denel SOC Limited",
+    "complianceArea": "NCACC Export Control Compliance",
+    "requirement": "Full compliance with National Conventional Arms Control Committee export licence requirements",
+    "status": "Compliant",
+    "score": 88,
+    "lastReviewDate": "2025-01-31T00:00:00",
+    "nextReviewDate": "2025-07-31T00:00:00",
+    "notes": "All export licences current and valid. NCACC compliance officer appointed. Annual export compliance audit passed."
+  },
+  {
+    "id": 306,
+    "companyId": 14,
+    "companyName": "South African National Roads Agency SOC Limited (SANRAL)",
+    "complianceArea": "PFMA and Treasury Regulations",
+    "requirement": "Full compliance with PFMA and National Treasury Regulations",
+    "status": "Compliant",
+    "score": 95,
+    "lastReviewDate": "2025-02-28T00:00:00",
+    "nextReviewDate": "2025-08-31T00:00:00",
+    "notes": "SANRAL achieved clean audit for FY2024. No irregular, fruitless or wasteful expenditure. Supply chain management fully compliant."
+  },
+  {
+    "id": 307,
+    "companyId": 15,
+    "companyName": "Passenger Rail Agency of South Africa (PRASA)",
+    "complianceArea": "PFMA Compliance",
+    "requirement": "Full compliance with Public Finance Management Act requirements",
+    "status": "NonCompliant",
+    "score": 42,
+    "lastReviewDate": "2025-02-28T00:00:00",
+    "nextReviewDate": "2025-05-31T00:00:00",
+    "notes": "Prior year disclaimer of opinion. Significant irregular expenditure. Financial management improvement plan under implementation. New CFO appointed November 2024."
+  }
+]

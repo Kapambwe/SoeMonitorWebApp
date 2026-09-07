@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1, "name": "KAGEM Mining Ltd", "sector": "Mining", "industry": "Gemstone Mining",
+    "registrationNumber": "KAGEM/1984/001", "country": "Zambia", "city": "Lufwanyama",
+    "employees": 1850, "revenue": 2800000000, "assets": 5200000000, "governmentOwnership": 75,
+    "status": "Active", "ceo": "Palitha Palliyaguru", "established": 1984,
+    "description": "KAGEM Mining is the world's largest single emerald mine, located in Lufwanyama District on the Copperbelt. IDC holds 75% with Gemfields Group holding 25%. KAGEM produces high-quality Zambian emeralds.",
+    "website": "https://www.kagem.co.zm"
+  },
+  {
+    "id": 2, "name": "ZESCO Limited", "sector": "Energy", "industry": "Power Generation & Distribution",
+    "registrationNumber": "ZESCO/1970/001", "country": "Zambia", "city": "Lusaka",
+    "employees": 6800, "revenue": 8500000000, "assets": 42000000000, "governmentOwnership": 100,
+    "status": "Active", "ceo": "Victor Mapani", "established": 1970,
+    "description": "ZESCO is Zambia's national power utility responsible for generation, transmission, and distribution of electricity. IDC holds shares on behalf of the Government of Zambia.",
+    "website": "https://www.zesco.co.zm"
+  },
+  {
+    "id": 3, "name": "Zambia National Commercial Bank Plc (ZANACO)", "sector": "Finance", "industry": "Commercial Banking",
+    "registrationNumber": "ZANACO/1969/001", "country": "Zambia", "city": "Lusaka",
+    "employees": 2850, "revenue": 3200000000, "assets": 28000000000, "governmentOwnership": 25,
+    "status": "Active", "ceo": "Mukwandi Chibesakunda", "established": 1969,
+    "description": "ZANACO is Zambia's largest commercial bank by branch network with over 70 branches nationwide. IDC holds 25% with Rabobank and other shareholders holding the remainder.",
+    "website": "https://www.zanaco.co.zm"
+  },
+  {
+    "id": 4, "name": "Zambia Telecommunications Company Ltd (ZAMTEL)", "sector": "Telecommunications", "industry": "Telecom Services",
+    "registrationNumber": "ZAMTEL/1994/001", "country": "Zambia", "city": "Lusaka",
+    "employees": 3200, "revenue": 1850000000, "assets": 6800000000, "governmentOwnership": 100,
+    "status": "Active", "ceo": "Sydney Mupeta", "established": 1994,
+    "description": "ZAMTEL is Zambia's national telecommunications company providing fixed-line, mobile, and internet services. IDC holds 100% on behalf of the Government of Zambia.",
+    "website": "https://www.zamtel.co.zm"
+  },
+  {
+    "id": 5, "name": "Zambia Railways Limited", "sector": "Transport", "industry": "Rail Transport",
+    "registrationNumber": "ZRL/2003/001", "country": "Zambia", "city": "Kabwe",
+    "employees": 4500, "revenue": 1200000000, "assets": 12500000000, "governmentOwnership": 100,
+    "status": "Active", "ceo": "Eng. Chipango Mwale", "established": 2003,
+    "description": "Zambia Railways operates the national rail network covering 2,157 km connecting Livingstone to the Copperbelt and the Democratic Republic of Congo border.",
+    "website": "https://www.zrl.co.zm"
+  },
+  {
+    "id": 6, "name": "Zambeef Products Plc", "sector": "Agriculture", "industry": "Food Processing & Agribusiness",
+    "registrationNumber": "ZAMBEEF/1994/001", "country": "Zambia", "city": "Lusaka",
+    "employees": 8200, "revenue": 4500000000, "assets": 8500000000, "governmentOwnership": 18,
+    "status": "Active", "ceo": "Francis Grogan", "established": 1994,
+    "description": "Zambeef is Zambia's largest agribusiness and food processing company, listed on the Lusaka Securities Exchange and AIM London. IDC holds 18% strategic stake.",
+    "website": "https://www.zambeef.co.zm"
+  },
+  {
+    "id": 7, "name": "Mopani Copper Mines Plc", "sector": "Mining", "industry": "Copper Mining",
+    "registrationNumber": "MCM/1999/045", "country": "Zambia", "city": "Kitwe",
+    "employees": 8500, "revenue": 12500000000, "assets": 22000000000, "governmentOwnership": 49,
+    "status": "Active", "ceo": "Raphael Mwenye", "established": 1999,
+    "description": "Mopani Copper Mines operates the Mufulira and Nkana copper mines. IDC holds a minority stake alongside ZCCM-IH (49%) and IRH/Delta Mining (51%).",
+    "website": "https://www.mopani.co.zm"
+  },
+  {
+    "id": 8, "name": "Indeni Petroleum Refinery Company Ltd", "sector": "Energy", "industry": "Petroleum Refining",
+    "registrationNumber": "INDENI/1973/001", "country": "Zambia", "city": "Ndola",
+    "employees": 620, "revenue": 3800000000, "assets": 4200000000, "governmentOwnership": 100,
+    "status": "Active", "ceo": "Mwamba Chanda", "established": 1973,
+    "description": "Indeni Petroleum Refinery is Zambia's only oil refinery, located in Ndola. It processes crude oil from the TAZAMA pipeline and supplies petroleum products to the Zambian market.",
+    "website": "https://www.indeni.co.zm"
+  }
+]

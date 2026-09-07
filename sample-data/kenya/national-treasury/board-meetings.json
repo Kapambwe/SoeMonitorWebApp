@@ -1,0 +1,118 @@
+[
+  {
+    "id": 401,
+    "companyId": 23,
+    "companyName": "National Treasury",
+    "title": "National Treasury Board Meeting — February 2025",
+    "meetingType": "Regular",
+    "meetingDate": "2025-02-10T09:00:00",
+    "location": "Treasury Building, Harambee Avenue, Nairobi",
+    "chairPerson": "Prof. Njuguna Ndung'u",
+    "secretary": "Anne Muriuki",
+    "status": "Completed",
+    "quorumRequired": 3,
+    "actualAttendance": 5,
+    "attendees": [
+      "Prof. Njuguna Ndung'u (Cabinet Secretary)",
+      "Dr. Chris Kiptoo (Principal Secretary)",
+      "Haron Sirima (Director General, Budget)",
+      "Dr. Kamau Thugge (Governor, CBK)",
+      "Veronica Nduva (PS, State Department for Planning)"
+    ],
+    "absentees": [],
+    "agenda": "1. FY2025/26 Budget Policy Statement Approval\n2. Public Debt Management Strategy 2025-2028\n3. SOE Dividend Policy Review\n4. Kenya Airways Restructuring Support Framework\n5. Fiscal Risk Register Review",
+    "minutes": "FY2025/26 Budget Policy Statement approved for tabling in National Assembly. Public Debt Management Strategy 2025-2028 approved. SOE dividend policy revised to minimum 25% payout. Kenya Airways restructuring support framework approved.",
+    "resolutions": [
+      {
+        "id": 30,
+        "meetingId": 401,
+        "resolutionNumber": "NT-RES-2025-001",
+        "title": "Approval of FY2025/26 Budget Policy Statement",
+        "description": "The Board resolved to approve the FY2025/26 Budget Policy Statement targeting a fiscal deficit of 4.3% of GDP.",
+        "status": "Approved",
+        "votesFor": 5,
+        "votesAgainst": 0,
+        "abstentions": 0,
+        "resolutionDate": "2025-02-10T09:00:00",
+        "implementationStatus": "Completed",
+        "implementationDeadline": "2025-02-15T00:00:00",
+        "responsiblePerson": "Cabinet Secretary"
+      },
+      {
+        "id": 31,
+        "meetingId": 401,
+        "resolutionNumber": "NT-RES-2025-002",
+        "title": "Approval of Public Debt Management Strategy 2025-2028",
+        "description": "The Board resolved to approve the Medium-Term Debt Management Strategy 2025-2028.",
+        "status": "Approved",
+        "votesFor": 5,
+        "votesAgainst": 0,
+        "abstentions": 0,
+        "resolutionDate": "2025-02-10T09:00:00",
+        "implementationStatus": "In Progress",
+        "implementationDeadline": "2028-12-31T00:00:00",
+        "responsiblePerson": "Director General, Budget"
+      }
+    ]
+  },
+  {
+    "id": 402,
+    "companyId": 23,
+    "companyName": "National Treasury",
+    "title": "National Treasury Special Meeting — January 2025",
+    "meetingType": "Special",
+    "meetingDate": "2025-01-22T09:00:00",
+    "location": "Treasury Building, Harambee Avenue, Nairobi",
+    "chairPerson": "Prof. Njuguna Ndung'u",
+    "secretary": "Anne Muriuki",
+    "status": "Completed",
+    "quorumRequired": 3,
+    "actualAttendance": 5,
+    "attendees": [
+      "Prof. Njuguna Ndung'u (Cabinet Secretary)",
+      "Dr. Chris Kiptoo (Principal Secretary)",
+      "Haron Sirima (Director General, Budget)",
+      "Dr. Kamau Thugge (Governor, CBK)",
+      "Veronica Nduva (PS, State Department for Planning)"
+    ],
+    "absentees": [],
+    "agenda": "1. Kenya Airways Restructuring Support Framework\n2. SOE Dividend Policy — Minimum 25% Payout",
+    "minutes": "Kenya Airways restructuring support framework including KES 12 billion government guarantee facility approved. SOE dividend policy revised to minimum 25% payout ratio.",
+    "resolutions": [
+      {
+        "id": 32,
+        "meetingId": 402,
+        "resolutionNumber": "NT-RES-2025-003",
+        "title": "Approval of Kenya Airways Restructuring Support Framework",
+        "description": "The Board resolved to approve the financial restructuring support framework for Kenya Airways including a KES 12 billion government guarantee facility.",
+        "status": "Approved",
+        "votesFor": 4,
+        "votesAgainst": 1,
+        "abstentions": 0,
+        "resolutionDate": "2025-01-22T09:00:00",
+        "implementationStatus": "In Progress",
+        "implementationDeadline": "2025-12-31T00:00:00",
+        "responsiblePerson": "Principal Secretary"
+      }
+    ]
+  },
+  {
+    "id": 403,
+    "companyId": 23,
+    "companyName": "National Treasury",
+    "title": "National Treasury Board Meeting — Scheduled May 2025",
+    "meetingType": "Regular",
+    "meetingDate": "2025-05-15T09:00:00",
+    "location": "Treasury Building, Harambee Avenue, Nairobi",
+    "chairPerson": "Prof. Njuguna Ndung'u",
+    "secretary": "Anne Muriuki",
+    "status": "Scheduled",
+    "quorumRequired": 3,
+    "actualAttendance": 0,
+    "attendees": [],
+    "absentees": [],
+    "agenda": "1. Q1 FY2025/26 Budget Execution Review\n2. Public Debt Report Q1 2025\n3. SOE Dividend Remittances Update\n4. Fiscal Risk Register Review",
+    "minutes": "",
+    "resolutions": []
+  }
+]

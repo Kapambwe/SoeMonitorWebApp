@@ -1,0 +1,101 @@
+{
+  "mines": [
+    {
+      "id": 1,
+      "mineName": "Kansanshi Copper Mine",
+      "productionVolumeTonnage": 4200,
+      "gemstonesProduced": 0,
+      "equipment": [
+        { "equipmentName": "Haul Truck 01", "type": "Truck", "status": "Operational", "utilizationPercent": 88.0, "hoursInOperation": 6200 },
+        { "equipmentName": "Primary Crusher", "type": "Crusher", "status": "Operational", "utilizationPercent": 92.0, "hoursInOperation": 8400 },
+        { "equipmentName": "Drill Rig 03", "type": "Drill", "status": "Under Maintenance", "utilizationPercent": 0.0, "hoursInOperation": 5800 }
+      ],
+      "safetyAlerts": [
+        { "id": 1, "alertType": "Dust Level", "severity": "Low", "description": "Elevated dust levels in Zone 4 crusher area", "detectedDate": "2025-03-19T00:00:00", "status": "Acknowledged" }
+      ],
+      "energyConsumptionKWh": 285000,
+      "emissionsLevel": 142.5,
+      "landRehabilitationPercent": 18.4,
+      "lastUpdated": "2025-03-20T08:00:00"
+    }
+  ],
+  "farms": [
+    {
+      "id": 1,
+      "farmName": "ZAFFICO Copperbelt Plantation",
+      "cropHealthNDVI": 0.72,
+      "soilMoisturePercent": 54.0,
+      "yieldForecasts": [
+        { "cropType": "Pine", "forecastedYieldTonnage": 48000, "actualYieldTonnage": 0, "variancePercent": 0, "harvestMonth": 8 },
+        { "cropType": "Eucalyptus", "forecastedYieldTonnage": 32000, "actualYieldTonnage": 0, "variancePercent": 0, "harvestMonth": 10 }
+      ],
+      "landUtilizationPercent": 78.5,
+      "waterUseEfficiency": 0.82,
+      "totalWorkers": 1850,
+      "laborProductivity": 25.9,
+      "lastUpdated": "2025-03-20T08:00:00"
+    }
+  ],
+  "factories": [
+    {
+      "id": 1,
+      "factoryName": "ZAMTEL Lusaka Data Centre",
+      "productionLines": [
+        { "lineName": "Core Network", "status": "Running", "currentOutputRate": 98.5, "targetOutputRate": 99.9, "efficiencyPercent": 98.6 },
+        { "lineName": "Mobile Network", "status": "Running", "currentOutputRate": 94.2, "targetOutputRate": 99.0, "efficiencyPercent": 95.2 }
+      ],
+      "overallEquipmentEfficiency": 88.4,
+      "downtimeHours": 42.0,
+      "uptimeHours": 8718.0,
+      "rawMaterialsInventory": [],
+      "finishedGoodsInventoryUnits": 0,
+      "qualityAssuranceScore": 91.2,
+      "lastUpdated": "2025-03-20T08:00:00"
+    }
+  ],
+  "hotels": [],
+  "hospitals": [],
+  "transport": [
+    {
+      "id": 1,
+      "facilityName": "Zambia Railways Lusaka Hub",
+      "transportType": "Railway",
+      "fleet": [
+        { "vehicleId": "ZRL-LOCO-001", "type": "Train", "currentLocation": "Lusaka Yard", "status": "Active", "fuelEfficiency": 4.2, "currentSpeed": 0 },
+        { "vehicleId": "ZRL-LOCO-002", "type": "Train", "currentLocation": "Ndola", "status": "Active", "fuelEfficiency": 4.0, "currentSpeed": 65 }
+      ],
+      "passengerVolume": 1200,
+      "cargoVolumeTonnage": 8500,
+      "routeEfficiencyScore": 62.0,
+      "predictiveMaintenance": [
+        { "id": 1, "assetName": "ZRL-LOCO-003 Wheel Assembly", "predictedFailureDate": "2025-05-15T00:00:00", "maintenanceCostEstimate": 850000, "recommendedAction": "Schedule wheel set replacement before May 2025" }
+      ],
+      "networkUptimePercent": 0,
+      "lastUpdated": "2025-03-20T08:00:00"
+    }
+  ],
+  "simulations": [
+    {
+      "id": 1,
+      "scenarioName": "Copper Price Drop — Portfolio Impact",
+      "scenarioType": "What-If",
+      "description": "Simulate impact of 20% copper price decline on IDC portfolio value and dividend income.",
+      "inputParameters": { "copperPriceChangePercent": -20.0, "durationMonths": 6 },
+      "outputResults": { "portfolioValueImpactZMW": -4200000000, "dividendIncomeImpactZMW": -180000000 },
+      "impactLevel": "High",
+      "simulationDate": "2025-02-20T00:00:00",
+      "status": "Completed"
+    }
+  ],
+  "predictiveAnalytics": [
+    {
+      "id": 1,
+      "assetName": "Kafue Gorge Upper Turbine 3",
+      "assetType": "Hydro Turbine",
+      "failureProbability": 0.18,
+      "predictedFailureDate": "2025-08-15T00:00:00",
+      "maintenanceCostEstimate": 12500000,
+      "recommendedAction": "Schedule preventive maintenance in June 2025 before peak demand season."
+    }
+  ]
+}

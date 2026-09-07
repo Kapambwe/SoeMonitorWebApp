@@ -1,0 +1,191 @@
+{
+  "factories": [
+    {
+      "id": 1, "factoryName": "Medupi Power Station",
+      "productionLines": [
+        { "lineName": "Unit 1 — 800MW", "status": "Running", "currentOutputRate": 720, "targetOutputRate": 800, "efficiencyPercent": 90.0 },
+        { "lineName": "Unit 2 — 800MW", "status": "Running", "currentOutputRate": 680, "targetOutputRate": 800, "efficiencyPercent": 85.0 },
+        { "lineName": "Unit 3 — 800MW", "status": "Maintenance", "currentOutputRate": 0, "targetOutputRate": 800, "efficiencyPercent": 0 },
+        { "lineName": "Unit 4 — 800MW", "status": "Running", "currentOutputRate": 750, "targetOutputRate": 800, "efficiencyPercent": 93.8 }
+      ],
+      "overallEquipmentEfficiency": 72.5, "downtimeHours": 168, "uptimeHours": 504,
+      "rawMaterialsInventory": [
+        { "materialName": "Coal (Waterberg)", "currentStock": 850000, "minimumRequired": 600000, "unit": "Tonnes" },
+        { "materialName": "Limestone (FGD)", "currentStock": 45000, "minimumRequired": 30000, "unit": "Tonnes" },
+        { "materialName": "Diesel (Backup)", "currentStock": 12000, "minimumRequired": 8000, "unit": "Litres" }
+      ],
+      "finishedGoodsInventoryUnits": 0, "qualityAssuranceScore": 88.5
+    },
+    {
+      "id": 2, "factoryName": "Denel Overberg Test Range",
+      "productionLines": [
+        { "lineName": "Missile Systems Assembly", "status": "Running", "currentOutputRate": 4, "targetOutputRate": 5, "efficiencyPercent": 80.0 },
+        { "lineName": "Propulsion Testing", "status": "Running", "currentOutputRate": 8, "targetOutputRate": 10, "efficiencyPercent": 80.0 },
+        { "lineName": "Avionics Integration", "status": "Maintenance", "currentOutputRate": 0, "targetOutputRate": 3, "efficiencyPercent": 0 }
+      ],
+      "overallEquipmentEfficiency": 78.2, "downtimeHours": 48, "uptimeHours": 624,
+      "rawMaterialsInventory": [
+        { "materialName": "Composite Materials", "currentStock": 850, "minimumRequired": 500, "unit": "Kg" },
+        { "materialName": "Electronic Components", "currentStock": 12000, "minimumRequired": 8000, "unit": "Units" }
+      ],
+      "finishedGoodsInventoryUnits": 12, "qualityAssuranceScore": 96.8
+    }
+  ],
+  "farms": [
+    {
+      "id": 1, "farmName": "Eskom Komati Wetlands Rehabilitation",
+      "cropHealthNDVI": 0.72, "soilMoisturePercent": 38.5,
+      "yieldForecasts": [
+        { "cropType": "Indigenous Grassland", "forecastedYieldTonnage": 0, "actualYieldTonnage": 0, "variancePercent": 0, "harvestMonth": 12 }
+      ],
+      "landUtilizationPercent": 65.0, "waterUseEfficiency": 82.0, "totalWorkers": 85, "laborProductivity": 0
+    },
+    {
+      "id": 2, "farmName": "Transnet Port Hinterland Logistics Park",
+      "cropHealthNDVI": 0, "soilMoisturePercent": 0,
+      "yieldForecasts": [],
+      "landUtilizationPercent": 88.0, "waterUseEfficiency": 75.0, "totalWorkers": 320, "laborProductivity": 0
+    }
+  ],
+  "hospitals": [
+    {
+      "id": 1, "hospitalName": "Eskom Occupational Health Centre — Megawatt Park",
+      "totalBeds": 80, "occupiedBeds": 52, "bedOccupancyPercent": 65.0,
+      "staffAllocation": [
+        { "department": "Occupational Health", "doctorsAssigned": 8, "nursesAssigned": 22, "workloadScore": 72.5 },
+        { "department": "Emergency", "doctorsAssigned": 4, "nursesAssigned": 12, "workloadScore": 68.0 },
+        { "department": "Physiotherapy", "doctorsAssigned": 3, "nursesAssigned": 8, "workloadScore": 55.0 }
+      ],
+      "equipmentUsage": [
+        { "equipmentName": "Ventilators", "totalUnits": 8, "unitsInUse": 3, "utilizationPercent": 37.5, "status": "Available" },
+        { "equipmentName": "X-Ray Machines", "totalUnits": 4, "unitsInUse": 2, "utilizationPercent": 50.0, "status": "Available" },
+        { "equipmentName": "ECG Machines", "totalUnits": 6, "unitsInUse": 4, "utilizationPercent": 66.7, "status": "Available" }
+      ],
+      "dailyPatientFlow": 185,
+      "medicineStockLevels": [
+        { "supplyName": "Antibiotics", "currentStock": 2500, "minimumRequired": 1500, "unit": "Doses" },
+        { "supplyName": "Painkillers", "currentStock": 4200, "minimumRequired": 2500, "unit": "Doses" },
+        { "supplyName": "IV Fluids", "currentStock": 850, "minimumRequired": 600, "unit": "Bags" }
+      ]
+    }
+  ],
+  "hotels": [
+    {
+      "id": 1, "hotelName": "ACSA Airport Hotel — O.R. Tambo",
+      "totalRooms": 280, "occupiedRooms": 218, "occupancyRatePercent": 77.9,
+      "totalBookings": 312, "energyPerGuestKWh": 22.5, "revPAR": 1850.00,
+      "totalStaff": 195, "staffEfficiencyScore": 91.2, "averageGuestRating": 4.4,
+      "recentFeedback": [
+        { "id": 1, "rating": 5.0, "comment": "Excellent location — 5 minutes from terminal" },
+        { "id": 2, "rating": 4.0, "comment": "Good rooms but airport noise noticeable" },
+        { "id": 3, "rating": 4.5, "comment": "Very convenient for early morning flights" }
+      ]
+    },
+    {
+      "id": 2, "hotelName": "ACSA Airport Hotel — Cape Town International",
+      "totalRooms": 180, "occupiedRooms": 148, "occupancyRatePercent": 82.2,
+      "totalBookings": 195, "energyPerGuestKWh": 19.8, "revPAR": 2100.50,
+      "totalStaff": 125, "staffEfficiencyScore": 93.8, "averageGuestRating": 4.6,
+      "recentFeedback": [
+        { "id": 4, "rating": 5.0, "comment": "Stunning mountain views, great service" },
+        { "id": 5, "rating": 4.5, "comment": "Perfect for Cape Town layovers" }
+      ]
+    }
+  ],
+  "mines": [
+    {
+      "id": 1, "mineName": "Eskom Grootegeluk Coal Mine",
+      "productionVolumeTonnage": 2800000, "gemstonesProduced": 0,
+      "equipment": [
+        { "equipmentName": "Dragline #1", "type": "Dragline", "status": "Operational", "utilizationPercent": 88.5, "hoursInOperation": 620 },
+        { "equipmentName": "Dragline #2", "type": "Dragline", "status": "Operational", "utilizationPercent": 91.2, "hoursInOperation": 640 },
+        { "equipmentName": "Haul Truck Fleet (18 units)", "type": "Truck", "status": "Operational", "utilizationPercent": 82.3, "hoursInOperation": 580 },
+        { "equipmentName": "Conveyor System A", "type": "Conveyor", "status": "Operational", "utilizationPercent": 94.8, "hoursInOperation": 660 },
+        { "equipmentName": "Crusher Unit #3", "type": "Crusher", "status": "Under Maintenance", "utilizationPercent": 0, "hoursInOperation": 0 }
+      ],
+      "safetyAlerts": [
+        { "id": 1, "alertType": "Equipment Hazard", "severity": "Medium", "description": "Brake system warning on Haul Truck #12", "isResolved": false },
+        { "id": 2, "alertType": "Environmental", "severity": "High", "description": "Dust suppression system offline in Zone C — DFFE notification required", "isResolved": false }
+      ],
+      "energyConsumptionKWh": 8500000, "emissionsLevel": 18500, "landRehabilitationPercent": 42.5
+    },
+    {
+      "id": 2, "mineName": "Transnet Iron Ore Export Terminal — Saldanha Bay",
+      "productionVolumeTonnage": 4200000, "gemstonesProduced": 0,
+      "equipment": [
+        { "equipmentName": "Ship Loader #1", "type": "Ship Loader", "status": "Operational", "utilizationPercent": 85.2, "hoursInOperation": 580 },
+        { "equipmentName": "Ship Loader #2", "type": "Ship Loader", "status": "Operational", "utilizationPercent": 88.7, "hoursInOperation": 610 },
+        { "equipmentName": "Stacker-Reclaimer", "type": "Stacker", "status": "Operational", "utilizationPercent": 92.1, "hoursInOperation": 640 }
+      ],
+      "safetyAlerts": [
+        { "id": 3, "alertType": "Structural", "severity": "Low", "description": "Conveyor belt tension monitoring — scheduled inspection due", "isResolved": false }
+      ],
+      "energyConsumptionKWh": 3200000, "emissionsLevel": 4850, "landRehabilitationPercent": 78.5
+    }
+  ],
+  "transport": [
+    {
+      "id": 1, "facilityName": "Transnet Port Terminals — Durban", "transportType": "Port",
+      "fleet": [
+        { "vehicleId": "STS-001", "type": "Ship-to-Shore Crane", "currentLocation": "Pier 1 — Berth 101", "status": "Active", "fuelEfficiency": 0, "currentSpeed": 0 },
+        { "vehicleId": "STS-002", "type": "Ship-to-Shore Crane", "currentLocation": "Pier 1 — Berth 102", "status": "Maintenance", "fuelEfficiency": 0, "currentSpeed": 0 },
+        { "vehicleId": "RTG-015", "type": "Rubber Tyred Gantry", "currentLocation": "Container Yard Block D", "status": "Active", "fuelEfficiency": 0, "currentSpeed": 0 }
+      ],
+      "passengerVolume": 0, "cargoVolumeTonnage": 2850000, "routeEfficiencyScore": 62.5,
+      "predictiveMaintenance": [
+        { "id": 1, "assetName": "STS Crane #2 — Spreader", "alertType": "Mechanical Wear", "severity": "High", "description": "Spreader twist-lock wear detected — replacement required within 14 days" },
+        { "id": 2, "assetName": "Quay Wall Section B", "alertType": "Structural", "severity": "Medium", "description": "Crack propagation detected — engineering inspection required" }
+      ],
+      "networkUptimePercent": 0
+    },
+    {
+      "id": 2, "facilityName": "Transnet Freight Rail — Coal Line", "transportType": "Railway",
+      "fleet": [
+        { "vehicleId": "LOCO-19E-001", "type": "Electric Locomotive", "currentLocation": "Ermelo Yard", "status": "Active", "fuelEfficiency": 0, "currentSpeed": 55.0 },
+        { "vehicleId": "LOCO-19E-002", "type": "Electric Locomotive", "currentLocation": "Richards Bay Terminal", "status": "Active", "fuelEfficiency": 0, "currentSpeed": 0 },
+        { "vehicleId": "LOCO-19E-003", "type": "Electric Locomotive", "currentLocation": "Vryheid Depot", "status": "Maintenance", "fuelEfficiency": 0, "currentSpeed": 0 }
+      ],
+      "passengerVolume": 0, "cargoVolumeTonnage": 58000000, "routeEfficiencyScore": 71.5,
+      "predictiveMaintenance": [
+        { "id": 3, "assetName": "Track Section KM 285-310 — Coal Line", "alertType": "Track Repair", "severity": "Medium", "description": "Rail wear detected — tamping required within 30 days" },
+        { "id": 4, "assetName": "LOCO-19E-003 Traction Motor", "alertType": "Motor Overhaul", "severity": "High", "description": "Traction motor diagnostics indicate major service needed" }
+      ],
+      "networkUptimePercent": 0
+    }
+  ],
+  "simulations": [
+    {
+      "id": 1, "scenarioName": "Load Shedding Stage 8 — 30 Days", "scenarioType": "Risk",
+      "description": "Simulate economic impact of sustained Stage 8 load shedding across SOE portfolio",
+      "inputParameters": { "LoadSheddingStage": 8, "DurationDays": 30, "AffectedSOEs": 6 },
+      "outputResults": { "ProjectedRevenueLoss": 30000000000, "ProductionLoss": 18500000000, "GDPImpact": -2.1, "RecoveryTimeDays": 45 },
+      "impactLevel": "Critical", "status": "Completed"
+    },
+    {
+      "id": 2, "scenarioName": "Transnet Port Congestion — 14 Days", "scenarioType": "Risk",
+      "description": "Assess impact of 14-day port congestion at Durban on export revenue",
+      "inputParameters": { "CongestionDays": 14, "VesselBacklog": 45, "AffectedCommodities": 8 },
+      "outputResults": { "TradeLoss": 21000000000, "ExportRevenueLoss": 8500000000, "RecoveryTimeDays": 21 },
+      "impactLevel": "High", "status": "Completed"
+    },
+    {
+      "id": 3, "scenarioName": "Renewable Energy Transition — 5GW by 2030", "scenarioType": "What-If",
+      "description": "Model Eskom revenue and cost impact of 5GW renewable IPP integration",
+      "inputParameters": { "RenewableCapacityGW": 5, "TimelineYears": 5, "OCGTReductionPercent": 40 },
+      "outputResults": { "FuelSavings": 12000000000, "RevenueImpact": 0, "CarbonReduction": 18000000 },
+      "impactLevel": "High", "status": "Completed"
+    },
+    {
+      "id": 4, "scenarioName": "Denel Strategic Partnership", "scenarioType": "What-If",
+      "description": "Impact of 30% strategic equity partner on Denel financial viability",
+      "inputParameters": { "EquityStakePercent": 30, "InvestmentAmount": 2500000000 },
+      "outputResults": {},
+      "impactLevel": "High", "status": "Draft"
+    }
+  ],
+  "predictiveAnalytics": [
+    { "id": 1, "assetName": "Conveyor System A — Grootegeluk", "assetType": "Mining Equipment", "failureProbability": 62.5, "maintenanceCostEstimate": 4500000, "recommendedAction": "Schedule preventive maintenance within 30 days" },
+    { "id": 2, "assetName": "Medupi Unit 3 — Boiler Tubes", "assetType": "Power Generation", "failureProbability": 78.2, "maintenanceCostEstimate": 85000000, "recommendedAction": "Immediate boiler tube inspection — outage window required" },
+    { "id": 3, "assetName": "STS Crane #2 — Durban", "assetType": "Port Equipment", "failureProbability": 71.8, "maintenanceCostEstimate": 12000000, "recommendedAction": "Spreader replacement required — schedule within 14 days" }
+  ]
+}

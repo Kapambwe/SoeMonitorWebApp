@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1, "companyId": 1, "companyName": "ZESCO Limited",
+    "framework": "Public Finance Management Act", "requirement": "Annual Financial Statements Submission",
+    "status": "Compliant", "complianceScore": 82,
+    "lastAssessmentDate": "2024-09-30", "nextAssessmentDate": "2025-09-30",
+    "findings": "Financial statements submitted within statutory deadline. External audit completed by Deloitte Zambia.",
+    "recommendations": "Improve internal controls over revenue recognition from prepaid customers."
+  },
+  {
+    "id": 2, "companyId": 1, "companyName": "ZESCO Limited",
+    "framework": "Zambia SOE Policy 2024", "requirement": "Performance Contract Compliance",
+    "status": "Partially Compliant", "complianceScore": 58,
+    "lastAssessmentDate": "2024-12-15", "nextAssessmentDate": "2025-06-15",
+    "findings": "ZESCO missed 4 of 8 KPIs in FY2024 performance contract, including revenue target and load shedding reduction target.",
+    "recommendations": "Develop credible turnaround plan; link CEO performance to KPI achievement."
+  },
+  {
+    "id": 3, "companyId": 2, "companyName": "Zambia Revenue Authority",
+    "framework": "Zambia Revenue Authority Act", "requirement": "Revenue Collection Targets",
+    "status": "Compliant", "complianceScore": 96,
+    "lastAssessmentDate": "2024-12-31", "nextAssessmentDate": "2025-12-31",
+    "findings": "ZRA exceeded revenue collection target by 5.9% in FY2024, collecting ZMW 125 billion against target of ZMW 118 billion.",
+    "recommendations": "Expand tax base through informal sector registration; strengthen VAT compliance."
+  },
+  {
+    "id": 4, "companyId": 3, "companyName": "Bank of Zambia",
+    "framework": "Bank of Zambia Act", "requirement": "Monetary Policy Framework Compliance",
+    "status": "Compliant", "complianceScore": 90,
+    "lastAssessmentDate": "2024-11-30", "nextAssessmentDate": "2025-11-30",
+    "findings": "BoZ maintained inflation within target band for 8 of 12 months in 2024. Foreign exchange reserves at 3.2 months import cover.",
+    "recommendations": "Increase foreign exchange reserves to 4 months import cover as per IMF programme target."
+  },
+  {
+    "id": 5, "companyId": 4, "companyName": "National Pension Scheme Authority",
+    "framework": "Pension Scheme Regulation Act", "requirement": "Benefit Payment Timeliness",
+    "status": "Compliant", "complianceScore": 88,
+    "lastAssessmentDate": "2024-10-31", "nextAssessmentDate": "2025-10-31",
+    "findings": "95% of pension benefits paid within 30 days of application. Member registration database updated quarterly.",
+    "recommendations": "Implement digital member portal to reduce processing time to 15 days."
+  },
+  {
+    "id": 6, "companyId": 5, "companyName": "Road Development Agency",
+    "framework": "Public Procurement Act", "requirement": "Procurement Transparency",
+    "status": "Partially Compliant", "complianceScore": 65,
+    "lastAssessmentDate": "2024-08-31", "nextAssessmentDate": "2025-02-28",
+    "findings": "3 contracts awarded without competitive bidding. Contract register not publicly available on website.",
+    "recommendations": "Publish all contracts on ZPPA portal; implement e-procurement for all contracts above ZMW 2 million."
+  }
+]

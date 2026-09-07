@@ -1,0 +1,46 @@
+[
+  {
+    "id": "kplc-001",
+    "username": "joseph.siror@kplc.co.ke",
+    "firstName": "Joseph",
+    "lastName": "Siror",
+    "email": "joseph.siror@kplc.co.ke",
+    "roles": ["MD & CEO", "Administrator"],
+    "password": "Test123!",
+    "department": "Executive",
+    "title": "Managing Director & CEO"
+  },
+  {
+    "id": "kplc-002",
+    "username": "rosemary.irungu@kplc.co.ke",
+    "firstName": "Rosemary",
+    "lastName": "Irungu",
+    "email": "rosemary.irungu@kplc.co.ke",
+    "roles": ["CFO"],
+    "password": "Test123!",
+    "department": "Finance",
+    "title": "Chief Finance Officer"
+  },
+  {
+    "id": "kplc-003",
+    "username": "omondi.achieng@kplc.co.ke",
+    "firstName": "Omondi",
+    "lastName": "Achieng",
+    "email": "omondi.achieng@kplc.co.ke",
+    "roles": ["Compliance Officer"],
+    "password": "Test123!",
+    "department": "Compliance",
+    "title": "Chief Compliance Officer"
+  },
+  {
+    "id": "kplc-004",
+    "username": "wanjiku.mwangi@kplc.co.ke",
+    "firstName": "Wanjiku",
+    "lastName": "Mwangi",
+    "email": "wanjiku.mwangi@kplc.co.ke",
+    "roles": ["Board Secretary"],
+    "password": "Test123!",
+    "department": "Board Affairs",
+    "title": "Company Secretary"
+  }
+]

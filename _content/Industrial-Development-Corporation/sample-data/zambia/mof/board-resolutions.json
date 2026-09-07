@@ -1,0 +1,5 @@
+[
+  { "id": 1, "meetingId": 3, "resolutionNumber": "ZANACO-2024-015", "title": "Digital Banking Investment", "description": "Approval of K50M investment in digital banking infrastructure", "status": "Approved", "votesFor": 6, "votesAgainst": 1, "abstentions": 0, "implementationStatus": "In Progress", "responsiblePerson": "Moses Simfukwe" },
+  { "id": 2, "meetingId": 5, "resolutionNumber": "ZRL-2024-008", "title": "Track Rehabilitation Phase 2", "description": "Approval to proceed with Phase 2 of track rehabilitation", "status": "Pending", "votesFor": 0, "votesAgainst": 0, "implementationStatus": "Not Started", "responsiblePerson": "Frank Tayali" },
+  { "id": 3, "meetingId": 3, "resolutionNumber": "ZANACO-2024-016", "title": "Branch Expansion", "description": "Opening of 5 new branches in Northern Province", "status": "Approved", "votesFor": 7, "votesAgainst": 0, "abstentions": 0, "implementationStatus": "Not Started", "responsiblePerson": "Charity Lumpa" }
+]

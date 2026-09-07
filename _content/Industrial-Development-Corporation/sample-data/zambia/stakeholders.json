@@ -1,0 +1,116 @@
+[
+  {
+    "id": 1, "name": "Gemfields Group Ltd", "type": "Investor",
+    "organization": "Gemfields Group", "position": "Strategic Shareholder",
+    "contactEmail": "zambia@gemfields.com", "contactPhone": "+44 20 7518 3400",
+    "influenceLevel": "High", "interestLevel": "High", "engagementStatus": "Active",
+    "notes": "25% shareholder in KAGEM Mining Ltd. Key partner for emerald auction strategy.",
+    "engagements": [
+      {
+        "id": 1, "stakeholderId": 1, "stakeholderName": "Gemfields Group Ltd",
+        "companyId": 1, "companyName": "KAGEM Mining Ltd",
+        "engagementType": "Board Meeting", "subject": "FY2024 Production Results Review",
+        "engagementDate": "2024-10-15", "attendees": "IDC CEO, KAGEM CEO, Gemfields CFO",
+        "summary": "Reviewed FY2024 production results and FY2025 expansion budget.",
+        "outcomes": "Approved Phase 3 expansion budget of ZMW 1.85B.",
+        "followUpActions": "KAGEM to submit detailed capex plan by November 2024.",
+        "nextEngagementDate": "2025-01-15", "status": "Completed"
+      }
+    ]
+  },
+  {
+    "id": 2, "name": "Ministry of Finance Zambia", "type": "Government",
+    "organization": "Government of the Republic of Zambia", "position": "Shareholder Representative",
+    "contactEmail": "ps@mof.gov.zm", "contactPhone": "+260 211 250 000",
+    "influenceLevel": "High", "interestLevel": "High", "engagementStatus": "Active",
+    "notes": "Primary government oversight body for IDC and all SOEs.",
+    "engagements": [
+      {
+        "id": 2, "stakeholderId": 2, "stakeholderName": "Ministry of Finance Zambia",
+        "companyId": 2, "companyName": "ZESCO Limited",
+        "engagementType": "Policy Meeting", "subject": "ZESCO Debt Restructuring and Tariff Review",
+        "engagementDate": "2024-11-20", "attendees": "IDC CEO, ZESCO CEO, PS Finance, IMF Representative",
+        "summary": "Reviewed ZESCO sovereign debt restructuring options with IMF.",
+        "outcomes": "Agreed on phased tariff increase roadmap over 24 months.",
+        "followUpActions": "ZESCO to submit turnaround plan by December 2024.",
+        "nextEngagementDate": "2025-02-20", "status": "Completed"
+      }
+    ]
+  },
+  {
+    "id": 3, "name": "Bank of Zambia", "type": "Regulator",
+    "organization": "Bank of Zambia", "position": "Banking Regulator",
+    "contactEmail": "banking@boz.zm", "contactPhone": "+260 211 228 888",
+    "influenceLevel": "High", "interestLevel": "High", "engagementStatus": "Active",
+    "notes": "Regulates ZANACO and other financial sector SOEs.",
+    "engagements": [
+      {
+        "id": 3, "stakeholderId": 3, "stakeholderName": "Bank of Zambia",
+        "companyId": 3, "companyName": "Zambia National Commercial Bank Plc (ZANACO)",
+        "engagementType": "Regulatory Review", "subject": "Q3 2024 Prudential Review",
+        "engagementDate": "2024-09-30", "attendees": "ZANACO CEO, BoZ Director of Banking Supervision",
+        "summary": "Quarterly prudential review. Capital adequacy and liquidity ratios reviewed.",
+        "outcomes": "All prudential ratios within acceptable limits.",
+        "followUpActions": "ZANACO to develop ICAAP framework by Q2 2025.",
+        "nextEngagementDate": "2024-12-31", "status": "Completed"
+      }
+    ]
+  },
+  {
+    "id": 4, "name": "ZICTA", "type": "Regulator",
+    "organization": "Zambia Information and Communications Technology Authority", "position": "Telecom Regulator",
+    "contactEmail": "info@zicta.zm", "contactPhone": "+260 211 252 724",
+    "influenceLevel": "High", "interestLevel": "High", "engagementStatus": "Active",
+    "notes": "Regulates ZAMTEL and the broader telecommunications sector.",
+    "engagements": [
+      {
+        "id": 4, "stakeholderId": 4, "stakeholderName": "ZICTA",
+        "companyId": 4, "companyName": "Zambia Telecommunications Company Ltd (ZAMTEL)",
+        "engagementType": "Compliance Audit", "subject": "QoS Audit and Spectrum Review",
+        "engagementDate": "2024-08-20", "attendees": "ZAMTEL CEO, ZICTA Director General",
+        "summary": "ZICTA QoS audit found ZAMTEL below minimum standards for data speed.",
+        "outcomes": "ZAMTEL issued improvement notice with 6-month compliance deadline.",
+        "followUpActions": "ZAMTEL to submit QoS improvement plan within 30 days.",
+        "nextEngagementDate": "2025-02-20", "status": "Completed"
+      }
+    ]
+  },
+  {
+    "id": 5, "name": "African Development Bank", "type": "Development Partner",
+    "organization": "AfDB", "position": "Project Financier",
+    "contactEmail": "zambia@afdb.org", "contactPhone": "+225 20 26 20 00",
+    "influenceLevel": "High", "interestLevel": "Medium", "engagementStatus": "Active",
+    "notes": "Financing Zambia Railways track rehabilitation programme.",
+    "engagements": [
+      {
+        "id": 5, "stakeholderId": 5, "stakeholderName": "African Development Bank",
+        "companyId": 5, "companyName": "Zambia Railways Limited",
+        "engagementType": "Project Supervision", "subject": "Track Rehabilitation Project Supervision Mission",
+        "engagementDate": "2024-10-01", "attendees": "ZRL CEO, AfDB Task Manager, Ministry of Transport PS",
+        "summary": "AfDB supervision mission for track rehabilitation project.",
+        "outcomes": "Disbursement of tranche 2 approved. Project on schedule.",
+        "followUpActions": "ZRL to submit Q4 progress report by January 2025.",
+        "nextEngagementDate": "2025-04-01", "status": "Completed"
+      }
+    ]
+  },
+  {
+    "id": 6, "name": "Copperbelt Mineworkers Union", "type": "Labour",
+    "organization": "MUZ", "position": "Labour Representative",
+    "contactEmail": "secretary@muz.co.zm", "contactPhone": "+260 212 210 000",
+    "influenceLevel": "High", "interestLevel": "High", "engagementStatus": "Active",
+    "notes": "Represents mineworkers at Mopani Copper Mines and other Copperbelt operations.",
+    "engagements": [
+      {
+        "id": 6, "stakeholderId": 6, "stakeholderName": "Copperbelt Mineworkers Union",
+        "companyId": 7, "companyName": "Mopani Copper Mines Plc",
+        "engagementType": "Collective Bargaining", "subject": "2024-2025 CBA Negotiations",
+        "engagementDate": "2024-08-15", "attendees": "Mopani HR Director, MUZ Secretary General",
+        "summary": "2024-2025 collective bargaining agreement signed with 12% wage increase.",
+        "outcomes": "CBA signed for 24 months. Housing allowance increased by 15%.",
+        "followUpActions": "Mopani to implement new pay scales from September 2024.",
+        "nextEngagementDate": "2026-08-15", "status": "Completed"
+      }
+    ]
+  }
+]

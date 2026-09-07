@@ -1,0 +1,152 @@
+{
+  "environmental": [
+    {
+      "id": 1, "companyId": 1, "companyName": "Eskom Holdings SOC Limited",
+      "metric": "Carbon Emissions", "unit": "tCO2e", "baseline": 220000000, "target": 200000000, "actual": 214000000,
+      "fiscalYear": 2024, "status": "In Progress",
+      "initiatives": ["Just Energy Transition Partnership (JETP)", "Renewable Energy IPP procurement", "Coal plant decommissioning roadmap"],
+      "certifications": ["ISO 14001:2015"],
+      "notes": "Emissions reduced 2.7% YoY. JETP funding of $8.5bn secured for accelerated transition."
+    },
+    {
+      "id": 2, "companyId": 1, "companyName": "Eskom Holdings SOC Limited",
+      "metric": "Water Consumption", "unit": "m3/year", "baseline": 320000000, "target": 290000000, "actual": 305000000,
+      "fiscalYear": 2024, "status": "In Progress",
+      "initiatives": ["Zero liquid discharge at Medupi", "Cooling tower optimisation", "Water recycling programme"],
+      "certifications": [],
+      "notes": "Water intensity per MWh improved 4.2% through cooling tower optimisation."
+    },
+    {
+      "id": 3, "companyId": 2, "companyName": "Transnet SOC Limited",
+      "metric": "Diesel Consumption", "unit": "litres/year", "baseline": 850000000, "target": 780000000, "actual": 820000000,
+      "fiscalYear": 2024, "status": "In Progress",
+      "initiatives": ["Locomotive electrification programme", "Fuel efficiency monitoring system", "Idle reduction technology"],
+      "certifications": ["ISO 14001:2015"],
+      "notes": "Fuel efficiency improved 3.5% through idle reduction technology on 120 locomotives."
+    },
+    {
+      "id": 4, "companyId": 2, "companyName": "Transnet SOC Limited",
+      "metric": "Carbon Emissions", "unit": "tCO2e", "baseline": 4200000, "target": 3800000, "actual": 4050000,
+      "fiscalYear": 2024, "status": "In Progress",
+      "initiatives": ["Modal shift from road to rail", "Green corridor initiative", "Carbon offset programme"],
+      "certifications": [],
+      "notes": "Rail modal shift avoided 850,000 tCO2e compared to road transport equivalent."
+    },
+    {
+      "id": 5, "companyId": 7, "companyName": "Airports Company South Africa SOC Limited",
+      "metric": "Energy Consumption", "unit": "kWh/year", "baseline": 580000000, "target": 520000000, "actual": 535000000,
+      "fiscalYear": 2024, "status": "In Progress",
+      "initiatives": ["Solar PV installation at OR Tambo", "LED lighting retrofit", "Building management system upgrade"],
+      "certifications": ["ISO 14001:2015", "ISO 50001:2018"],
+      "notes": "OR Tambo 10MW solar installation reduced grid consumption by 8.5%."
+    },
+    {
+      "id": 6, "companyId": 7, "companyName": "Airports Company South Africa SOC Limited",
+      "metric": "Waste Diversion Rate", "unit": "%", "baseline": 42, "target": 60, "actual": 55,
+      "fiscalYear": 2024, "status": "In Progress",
+      "initiatives": ["Zero waste to landfill programme", "Composting at all airports", "Recycling partnerships"],
+      "certifications": [],
+      "notes": "Waste diversion rate improved from 42% to 55% through composting and recycling."
+    }
+  ],
+  "social": [
+    {
+      "id": 1, "companyId": 1, "companyName": "Eskom Holdings SOC Limited",
+      "metric": "Electrification Connections", "unit": "households", "baseline": 6200000, "target": 6500000, "actual": 6380000,
+      "fiscalYear": 2024, "status": "In Progress",
+      "programmes": ["Integrated National Electrification Programme", "Non-grid solar home systems", "Informal settlement electrification"],
+      "beneficiaries": 6380000,
+      "notes": "180,000 new connections in FY2024. Backlog of 3.4 million households remains."
+    },
+    {
+      "id": 2, "companyId": 1, "companyName": "Eskom Holdings SOC Limited",
+      "metric": "Safety - LTIFR", "unit": "per million hours", "baseline": 0.42, "target": 0.30, "actual": 0.38,
+      "fiscalYear": 2024, "status": "In Progress",
+      "programmes": ["Zero Harm safety programme", "Contractor safety management", "Safety leadership training"],
+      "beneficiaries": 44000,
+      "notes": "LTIFR improved from 0.42 to 0.38. 2 fatalities recorded, down from 4 in prior year."
+    },
+    {
+      "id": 3, "companyId": 2, "companyName": "Transnet SOC Limited",
+      "metric": "Local Procurement Spend", "unit": "ZAR", "baseline": 45000000000, "target": 55000000000, "actual": 48000000000,
+      "fiscalYear": 2024, "status": "In Progress",
+      "programmes": ["Supplier Development Programme", "Township Enterprise Supplier Development", "B-BBEE procurement targets"],
+      "beneficiaries": 2800,
+      "notes": "Local procurement at 60% of total spend. B-BBEE Level 4 contributor status maintained."
+    },
+    {
+      "id": 4, "companyId": 3, "companyName": "South African Airways SOC Limited",
+      "metric": "Employment", "unit": "employees", "baseline": 3200, "target": 3800, "actual": 3500,
+      "fiscalYear": 2024, "status": "In Progress",
+      "programmes": ["Post-business rescue employment restoration", "Pilot cadet programme", "Youth employment initiative"],
+      "beneficiaries": 3500,
+      "notes": "300 employees reinstated post-business rescue. Pilot cadet programme launched with 45 cadets."
+    },
+    {
+      "id": 5, "companyId": 4, "companyName": "Passenger Rail Agency of South Africa",
+      "metric": "Commuter Trips", "unit": "trips/year", "baseline": 180000000, "target": 250000000, "actual": 145000000,
+      "fiscalYear": 2024, "status": "Below Target",
+      "programmes": ["Rolling Stock Fleet Renewal Programme", "Station rehabilitation", "Security improvement programme"],
+      "beneficiaries": 145000000,
+      "notes": "Commuter trips declined due to infrastructure failures and vandalism. Recovery plan in place."
+    },
+    {
+      "id": 6, "companyId": 6, "companyName": "South African Broadcasting Corporation SOC Limited",
+      "metric": "Local Content Hours", "unit": "hours/year", "baseline": 8500, "target": 10000, "actual": 7800,
+      "fiscalYear": 2024, "status": "Below Target",
+      "programmes": ["Local drama production fund", "News and current affairs expansion", "Indigenous language programming"],
+      "beneficiaries": 38000000,
+      "notes": "Local content below ICASA licence conditions due to budget constraints. Compliance notice received."
+    }
+  ],
+  "governance": [
+    {
+      "id": 1, "companyId": 1, "companyName": "Eskom Holdings SOC Limited",
+      "metric": "Board Independence", "unit": "%", "baseline": 55, "target": 60, "actual": 60,
+      "fiscalYear": 2024, "status": "Meets Target",
+      "framework": "King IV Report on Corporate Governance",
+      "antiCorruptionMeasures": ["Ethics hotline (0800 112 722)", "Lifestyle audits for executives", "SIU cooperation programme"],
+      "notes": "60% board independence achieved. Ethics hotline received 142 reports, 89% investigated and closed."
+    },
+    {
+      "id": 2, "companyId": 1, "companyName": "Eskom Holdings SOC Limited",
+      "metric": "Irregular Expenditure Reduction", "unit": "ZAR", "baseline": 8500000000, "target": 4000000000, "actual": 5800000000,
+      "fiscalYear": 2024, "status": "In Progress",
+      "framework": "Public Finance Management Act (PFMA)",
+      "antiCorruptionMeasures": ["Consequence management programme", "SCM reform", "Zondo Commission implementation"],
+      "notes": "Irregular expenditure reduced from R8.5bn to R5.8bn. 23 disciplinary cases finalised."
+    },
+    {
+      "id": 3, "companyId": 2, "companyName": "Transnet SOC Limited",
+      "metric": "B-BBEE Score", "unit": "level", "baseline": 5, "target": 3, "actual": 4,
+      "fiscalYear": 2024, "status": "In Progress",
+      "framework": "Broad-Based Black Economic Empowerment Act",
+      "antiCorruptionMeasures": ["Procurement integrity programme", "SIU civil recovery actions", "Supplier vetting system"],
+      "notes": "B-BBEE Level 4 achieved. Target of Level 3 requires improvement in ownership and management control."
+    },
+    {
+      "id": 4, "companyId": 5, "companyName": "Denel SOC Limited",
+      "metric": "Salary Payment Compliance", "unit": "%", "baseline": 65, "target": 100, "actual": 92,
+      "fiscalYear": 2024, "status": "In Progress",
+      "framework": "Basic Conditions of Employment Act",
+      "antiCorruptionMeasures": ["Government recapitalisation oversight", "Treasury approval for expenditure", "Board oversight of cash management"],
+      "notes": "Salary payments regularised following R3.4bn government recapitalisation. 8% of months still delayed."
+    },
+    {
+      "id": 5, "companyId": 7, "companyName": "Airports Company South Africa SOC Limited",
+      "metric": "King IV Application Score", "unit": "score/100", "baseline": 82, "target": 88, "actual": 88,
+      "fiscalYear": 2024, "status": "Meets Target",
+      "framework": "King IV Report on Corporate Governance",
+      "antiCorruptionMeasures": ["Ethics management programme", "Conflict of interest register", "Annual board effectiveness evaluation"],
+      "notes": "King IV application score of 88 achieved. ACSA recognised as governance leader among SA SOEs."
+    },
+    {
+      "id": 6, "companyId": 6, "companyName": "South African Broadcasting Corporation SOC Limited",
+      "metric": "TV Licence Collection Rate", "unit": "%", "baseline": 28, "target": 45, "actual": 31,
+      "fiscalYear": 2024, "status": "Below Target",
+      "framework": "Broadcasting Act 4 of 1999",
+      "antiCorruptionMeasures": ["Revenue integrity programme", "Consequence management for irregular expenditure", "Internal audit strengthening"],
+      "notes": "Collection rate improved marginally to 31%. Legislative reform to modernise TV licence system pending."
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1, "companyId": 1, "companyName": "ZESCO Limited",
+    "riskCategory": "Financial", "riskTitle": "Sovereign Guaranteed Debt Exposure",
+    "description": "ZESCO carries approximately USD 500 million (ZMW 13.1 billion) in sovereign-guaranteed debt. Inability to service this debt creates contingent liability for the Government of Zambia.",
+    "likelihood": "High", "impact": "Critical", "riskScore": 20,
+    "status": "Active", "mitigationPlan": "Implement cost-reflective tariff increases; restructure debt with creditors; improve revenue collection from large customers.",
+    "owner": "Ministry of Finance - SOE Unit", "reviewDate": "2025-03-31"
+  },
+  {
+    "id": 2, "companyId": 1, "companyName": "ZESCO Limited",
+    "riskCategory": "Operational", "riskTitle": "Kariba Dam Water Level Risk",
+    "description": "Low water levels at Kariba Dam reduce hydropower generation capacity, leading to load shedding and revenue loss.",
+    "likelihood": "High", "impact": "High", "riskScore": 16,
+    "status": "Active", "mitigationPlan": "Accelerate Kafue Gorge Lower commissioning; procure emergency thermal power; implement demand-side management.",
+    "owner": "ZESCO CEO", "reviewDate": "2025-01-31"
+  },
+  {
+    "id": 3, "companyId": 2, "companyName": "Zambia Revenue Authority",
+    "riskCategory": "Operational", "riskTitle": "Tax Evasion and Illicit Financial Flows",
+    "description": "Transfer pricing abuse by multinational mining companies and illicit financial flows reduce tax revenue collection.",
+    "likelihood": "High", "impact": "High", "riskScore": 16,
+    "status": "Active", "mitigationPlan": "Strengthen transfer pricing audit capacity; implement OECD BEPS measures; enhance customs border controls.",
+    "owner": "ZRA Commissioner General", "reviewDate": "2025-06-30"
+  },
+  {
+    "id": 4, "companyId": 4, "companyName": "National Pension Scheme Authority",
+    "riskCategory": "Financial", "riskTitle": "Investment Portfolio Concentration Risk",
+    "description": "NAPSA's investment portfolio is heavily concentrated in government securities and real estate, creating liquidity and market risk.",
+    "likelihood": "Medium", "impact": "High", "riskScore": 12,
+    "status": "Active", "mitigationPlan": "Diversify into equities and regional bonds; develop investment policy statement with diversification limits.",
+    "owner": "NAPSA Director General", "reviewDate": "2025-04-30"
+  },
+  {
+    "id": 5, "companyId": 5, "companyName": "Road Development Agency",
+    "riskCategory": "Governance", "riskTitle": "Procurement Irregularities",
+    "description": "Risk of procurement fraud and inflated contract prices in road construction projects due to weak oversight.",
+    "likelihood": "Medium", "impact": "High", "riskScore": 12,
+    "status": "Active", "mitigationPlan": "Implement e-procurement system; strengthen internal audit function; publish all contracts above ZMW 5 million.",
+    "owner": "RDA Director General", "reviewDate": "2025-02-28"
+  },
+  {
+    "id": 6, "companyId": 3, "companyName": "Bank of Zambia",
+    "riskCategory": "Market", "riskTitle": "Kwacha Exchange Rate Volatility",
+    "description": "Significant depreciation of the Zambian Kwacha increases external debt servicing costs and inflationary pressures.",
+    "likelihood": "High", "impact": "High", "riskScore": 16,
+    "status": "Active", "mitigationPlan": "Maintain adequate foreign exchange reserves; implement monetary policy tightening as needed; coordinate with Ministry of Finance on fiscal consolidation.",
+    "owner": "Bank of Zambia Governor", "reviewDate": "2025-01-31"
+  }
+]

@@ -1,0 +1,138 @@
+{
+  "predictions": [
+    {
+      "id": 1,
+      "companyId": 2,
+      "companyName": "Industrial Development Corporation",
+      "predictionType": "Revenue Forecast",
+      "predictionPeriod": "FY2025",
+      "fiscalYear": 2025,
+      "predictedValue": 5200000000,
+      "actualValue": 0,
+      "confidenceLevel": 82.0,
+      "generatedDate": "2025-01-15T00:00:00",
+      "modelUsed": "ARIMA + Macro Factor Model",
+      "status": "Active"
+    },
+    {
+      "id": 2,
+      "companyId": 1,
+      "companyName": "ZESCO Limited",
+      "predictionType": "Electricity Demand Forecast",
+      "predictionPeriod": "Q2 2025",
+      "fiscalYear": 2025,
+      "predictedValue": 3850,
+      "actualValue": 0,
+      "confidenceLevel": 88.0,
+      "generatedDate": "2025-03-01T00:00:00",
+      "modelUsed": "Time Series + Weather Model",
+      "status": "Active"
+    },
+    {
+      "id": 3,
+      "companyId": 5,
+      "companyName": "ZCCM Investments Holdings PLC",
+      "predictionType": "Copper Price Forecast",
+      "predictionPeriod": "Q2 2025",
+      "fiscalYear": 2025,
+      "predictedValue": 9200,
+      "actualValue": 0,
+      "confidenceLevel": 65.0,
+      "generatedDate": "2025-03-01T00:00:00",
+      "modelUsed": "Commodity Price Model",
+      "status": "Active"
+    }
+  ],
+  "anomalies": [
+    {
+      "id": 1,
+      "companyId": 1,
+      "companyName": "ZESCO Limited",
+      "anomalyType": "Revenue Anomaly",
+      "description": "ZESCO Q3 2024 revenue 18% below model prediction despite normal generation levels. Possible billing system issue or collection shortfall.",
+      "detectedDate": "2024-10-15T00:00:00",
+      "dataSource": "Financial Reporting System",
+      "anomalyValue": 1420000000,
+      "expectedValue": 1730000000,
+      "severity": "High",
+      "status": "Under Investigation",
+      "investigation": "Internal audit reviewing billing and collection data. Preliminary findings suggest collection rate decline in Copperbelt region."
+    },
+    {
+      "id": 2,
+      "companyId": 5,
+      "companyName": "ZCCM Investments Holdings PLC",
+      "anomalyType": "Cost Anomaly",
+      "description": "Kansanshi mine operating costs per tonne 22% above historical average in Q4 2024.",
+      "detectedDate": "2025-01-20T00:00:00",
+      "dataSource": "Portfolio Reporting",
+      "anomalyValue": 4850,
+      "expectedValue": 3980,
+      "severity": "Medium",
+      "status": "Explained",
+      "investigation": "Explained by higher diesel costs and ore grade decline. No fraud indicators."
+    }
+  ],
+  "insights": [
+    {
+      "id": 1,
+      "companyId": null,
+      "companyName": "IDC Portfolio",
+      "insightType": "Risk Alert",
+      "category": "Financial",
+      "title": "Copper Price Sensitivity — Portfolio Concentration Risk",
+      "description": "AI analysis indicates 68% of IDC portfolio value is directly or indirectly correlated with copper prices. A 20% copper price decline would reduce portfolio value by approximately ZMW 4.2 billion.",
+      "recommendedAction": "Accelerate diversification into non-mining sectors. Consider copper price hedging for ZCCM-IH.",
+      "confidenceScore": 87.0,
+      "potentialImpact": 4200000000,
+      "priority": "High",
+      "generatedDate": "2025-03-01T00:00:00",
+      "status": "Active"
+    },
+    {
+      "id": 2,
+      "companyId": 1,
+      "companyName": "ZESCO Limited",
+      "insightType": "Opportunity",
+      "category": "Operational",
+      "title": "Solar IPP Procurement — Cost Reduction Opportunity",
+      "description": "Analysis of ZESCO generation mix shows solar IPP procurement at current market rates (USD 0.04/kWh) would reduce average generation cost by 12% and reduce drought exposure.",
+      "recommendedAction": "Accelerate solar IPP procurement programme. Target 500MW by 2027.",
+      "confidenceScore": 91.0,
+      "potentialImpact": 680000000,
+      "priority": "High",
+      "generatedDate": "2025-02-15T00:00:00",
+      "status": "Active"
+    }
+  ],
+  "benchmarks": [
+    {
+      "id": 1,
+      "companyId": 2,
+      "companyName": "Industrial Development Corporation",
+      "metricCategory": "Financial",
+      "metricName": "Return on Assets",
+      "companyValue": 3.4,
+      "industryAverage": 5.8,
+      "bestInClass": 12.4,
+      "percentile": 28.0,
+      "performance": "Below Average",
+      "peerGroup": "African State Investment Companies",
+      "assessmentDate": "2025-01-31T00:00:00"
+    },
+    {
+      "id": 2,
+      "companyId": 1,
+      "companyName": "ZESCO Limited",
+      "metricCategory": "Operational",
+      "metricName": "Collection Efficiency Rate",
+      "companyValue": 82.5,
+      "industryAverage": 91.0,
+      "bestInClass": 98.5,
+      "percentile": 22.0,
+      "performance": "Below Average",
+      "peerGroup": "Sub-Saharan African Utilities",
+      "assessmentDate": "2025-01-31T00:00:00"
+    }
+  ]
+}

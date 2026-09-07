@@ -1,0 +1,7 @@
+[
+  { "id": 1, "workflowType": "FinancialReport", "entityType": "FinancialReport", "entityId": 123, "initiatedBy": "John Mwanza", "currentStep": "Minister Approval", "status": "Pending", "approvalHistory": [{ "stepName": "Department Review", "approvedBy": "Finance Dept" }] },
+  { "id": 2, "workflowType": "Incorporation", "entityType": "Company", "entityId": 456, "initiatedBy": "Mary Banda", "currentStep": "Cabinet Approval", "status": "Pending", "approvalHistory": [{ "stepName": "Department Review", "approvedBy": "Legal Dept" }, { "stepName": "Minister Approval", "approvedBy": "Minister Mutaba" }] },
+  { "id": 3, "workflowType": "Dividend", "entityType": "Dividend", "entityId": 789, "initiatedBy": "Charity Lumpa", "currentStep": "Board Review", "status": "InProgress", "approvalHistory": [] },
+  { "id": 4, "workflowType": "Recapitalisation", "entityType": "Company", "entityId": 101, "initiatedBy": "Victor Mundende", "currentStep": "Completed", "status": "Approved", "completedBy": "Cabinet", "approvalHistory": [{ "stepName": "Department Review", "approvedBy": "Finance Dept" }, { "stepName": "Minister Approval", "approvedBy": "Minister Mutaba" }, { "stepName": "Cabinet Approval", "approvedBy": "Cabinet" }] },
+  { "id": 5, "workflowType": "FinancialReport", "entityType": "FinancialReport", "entityId": 202, "initiatedBy": "Frank Tayali", "currentStep": "Department Review", "status": "Pending", "approvalHistory": [] }
+]

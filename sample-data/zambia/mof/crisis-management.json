@@ -1,0 +1,134 @@
+{
+  "continuityPlans": [
+    {
+      "id": 1,
+      "companyId": 2,
+      "companyName": "Industrial Development Corporation",
+      "planType": "Business Continuity Plan",
+      "criticalFunction": "Portfolio Monitoring & Reporting",
+      "recoveryTimeObjectiveHours": 24,
+      "recoveryPointObjectiveHours": 4,
+      "lastUpdateDate": "2025-01-15T00:00:00",
+      "lastTestDate": "2024-11-20T00:00:00",
+      "testResult": "Passed",
+      "nextTestDate": "2025-05-20T00:00:00",
+      "status": "Current",
+      "responsiblePerson": "Chanda Kasolo (CFO)"
+    },
+    {
+      "id": 2,
+      "companyId": 1,
+      "companyName": "ZESCO Limited",
+      "planType": "Disaster Recovery Plan",
+      "criticalFunction": "National Grid Operations",
+      "recoveryTimeObjectiveHours": 4,
+      "recoveryPointObjectiveHours": 1,
+      "lastUpdateDate": "2024-08-30T00:00:00",
+      "lastTestDate": "2024-06-15T00:00:00",
+      "testResult": "Passed with Minor Gaps",
+      "nextTestDate": "2024-12-15T00:00:00",
+      "status": "Test Overdue",
+      "responsiblePerson": "ZESCO CTO"
+    },
+    {
+      "id": 3,
+      "companyId": 5,
+      "companyName": "ZCCM Investments Holdings PLC",
+      "planType": "Business Continuity Plan",
+      "criticalFunction": "Mine Operations & Safety Systems",
+      "recoveryTimeObjectiveHours": 8,
+      "recoveryPointObjectiveHours": 2,
+      "lastUpdateDate": "2025-02-10T00:00:00",
+      "lastTestDate": "2025-01-25T00:00:00",
+      "testResult": "Passed",
+      "nextTestDate": "2025-07-25T00:00:00",
+      "status": "Current",
+      "responsiblePerson": "ZCCM-IH COO"
+    }
+  ],
+  "protocols": [
+    {
+      "id": 1,
+      "companyId": 1,
+      "companyName": "ZESCO Limited",
+      "crisisType": "Grid Failure",
+      "protocolName": "National Blackout Response Protocol",
+      "description": "Coordinated response to national or regional grid failure events.",
+      "activationCriteria": "Loss of more than 30% of national generation capacity or widespread distribution failure.",
+      "crisisLeader": "ZESCO CEO",
+      "communicationChain": "ZESCO CEO → Ministry of Energy → State House → Public Media",
+      "decisionAuthority": "ZESCO CEO with Ministry of Energy oversight",
+      "lastReviewDate": "2025-01-10T00:00:00",
+      "lastActivationDate": "2023-07-14T00:00:00",
+      "timesActivated": 3,
+      "status": "Active"
+    },
+    {
+      "id": 2,
+      "companyId": 5,
+      "companyName": "ZCCM Investments Holdings PLC",
+      "crisisType": "Mine Safety Incident",
+      "protocolName": "Mine Emergency Response Protocol",
+      "description": "Response protocol for serious mine safety incidents including fatalities, collapses or toxic spills.",
+      "activationCriteria": "Any fatality, serious injury, or environmental incident at a ZCCM-IH portfolio mine.",
+      "crisisLeader": "ZCCM-IH COO",
+      "communicationChain": "Mine Manager → ZCCM-IH COO → CEO → Board → Ministry of Mines → Media",
+      "decisionAuthority": "ZCCM-IH CEO",
+      "lastReviewDate": "2025-02-15T00:00:00",
+      "lastActivationDate": "2024-04-08T00:00:00",
+      "timesActivated": 2,
+      "status": "Active"
+    }
+  ],
+  "scenarios": [
+    {
+      "id": 1,
+      "scenarioName": "Prolonged Drought — Hydropower Shortage",
+      "category": "Climate",
+      "description": "Severe drought reduces Kariba and Kafue Gorge reservoir levels, cutting ZESCO hydro generation by 40%.",
+      "potentialImpact": "National power deficit of 400MW. Load shedding of 8-12 hours per day. GDP impact estimated at 1.2%.",
+      "estimatedFinancialImpact": 2800000000,
+      "soEsAffected": 8,
+      "mitigationStrategy": "Emergency power imports from SAPP. Accelerate solar IPP procurement. Demand-side management.",
+      "responsePlan": "ZESCO Emergency Generation Plan activated. MoF emergency budget allocation.",
+      "lastSimulationDate": "2024-10-15T00:00:00",
+      "simulationOutcome": "Response plan adequate but import capacity insufficient. Gaps identified.",
+      "lessonsLearned": "Need to pre-negotiate emergency import agreements with SAPP members.",
+      "probabilityScore": 65.0,
+      "impactScore": 85.0
+    },
+    {
+      "id": 2,
+      "scenarioName": "Copper Price Collapse",
+      "category": "Economic",
+      "description": "Global copper price falls below USD 5,000/tonne for more than 6 months.",
+      "potentialImpact": "ZCCM-IH dividend income falls by 60%. IDC portfolio value declines. Government revenue shortfall.",
+      "estimatedFinancialImpact": 4200000000,
+      "soEsAffected": 4,
+      "mitigationStrategy": "Diversification of portfolio. Hedging strategies. Cost reduction at portfolio mines.",
+      "responsePlan": "IDC Emergency Portfolio Review. MoF fiscal adjustment plan.",
+      "lastSimulationDate": "2024-09-20T00:00:00",
+      "simulationOutcome": "Zambia highly exposed. Diversification strategy needs acceleration.",
+      "lessonsLearned": "Copper dependency remains critical vulnerability. Non-mining SOE development must accelerate.",
+      "probabilityScore": 35.0,
+      "impactScore": 90.0
+    }
+  ],
+  "events": [
+    {
+      "id": 1,
+      "companyId": 1,
+      "companyName": "ZESCO Limited",
+      "eventType": "Grid Failure",
+      "description": "Partial national grid failure due to transmission line fault in Lusaka South. Affected 1.2 million customers.",
+      "occurrenceDate": "2024-08-22T00:00:00",
+      "resolutionDate": "2024-08-23T00:00:00",
+      "severity": "High",
+      "financialImpact": 85000000,
+      "employeesAffected": 0,
+      "responseRating": "Adequate",
+      "lessonsLearned": "Redundancy in Lusaka South transmission corridor needed. Maintenance schedule reviewed.",
+      "status": "Resolved"
+    }
+  ]
+}

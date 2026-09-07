@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1, "companyId": 1, "companyName": "KAGEM Mining Ltd", "year": 2024,
+    "carbonEmissions": 41200, "energyConsumption": 185000, "renewableEnergyPercentage": 32,
+    "waterUsage": 780000, "wasteRecyclingRate": 65, "environmentalCertifications": "ISO 14001:2015",
+    "environmentalFines": 0, "totalEmployees": 1850, "femaleEmployeePercentage": 28,
+    "employeeTurnoverRate": 6.5, "trainingHoursPerEmployee": 42, "workplaceAccidentRate": 1.2,
+    "communityInvestment": 68000000, "localSupplierPercentage": 72,
+    "boardSize": 6, "independentDirectorPercentage": 50, "femaleBoardPercentage": 33,
+    "executivePayRatio": 18, "hasEthicsPolicy": true, "hasWhistleblowerPolicy": true,
+    "complianceViolations": 0, "environmentalScore": 78, "socialScore": 82, "governanceScore": 85,
+    "esgRating": "AA", "lastUpdated": "2024-12-31"
+  },
+  {
+    "id": 2, "companyId": 2, "companyName": "ZESCO Limited", "year": 2024,
+    "carbonEmissions": 125000, "energyConsumption": 11800000, "renewableEnergyPercentage": 85,
+    "waterUsage": 2500000, "wasteRecyclingRate": 42, "environmentalCertifications": "",
+    "environmentalFines": 500000, "totalEmployees": 6800, "femaleEmployeePercentage": 22,
+    "employeeTurnoverRate": 4.2, "trainingHoursPerEmployee": 28, "workplaceAccidentRate": 2.8,
+    "communityInvestment": 45000000, "localSupplierPercentage": 68,
+    "boardSize": 8, "independentDirectorPercentage": 37.5, "femaleBoardPercentage": 25,
+    "executivePayRatio": 22, "hasEthicsPolicy": true, "hasWhistleblowerPolicy": true,
+    "complianceViolations": 3, "environmentalScore": 62, "socialScore": 58, "governanceScore": 55,
+    "esgRating": "BB", "lastUpdated": "2024-12-31"
+  },
+  {
+    "id": 3, "companyId": 3, "companyName": "Zambia National Commercial Bank Plc (ZANACO)", "year": 2024,
+    "carbonEmissions": 8500, "energyConsumption": 42000, "renewableEnergyPercentage": 15,
+    "waterUsage": 85000, "wasteRecyclingRate": 55, "environmentalCertifications": "",
+    "environmentalFines": 0, "totalEmployees": 2850, "femaleEmployeePercentage": 48,
+    "employeeTurnoverRate": 8.5, "trainingHoursPerEmployee": 52, "workplaceAccidentRate": 0.2,
+    "communityInvestment": 28000000, "localSupplierPercentage": 85,
+    "boardSize": 7, "independentDirectorPercentage": 57, "femaleBoardPercentage": 43,
+    "executivePayRatio": 15, "hasEthicsPolicy": true, "hasWhistleblowerPolicy": true,
+    "complianceViolations": 0, "environmentalScore": 72, "socialScore": 88, "governanceScore": 90,
+    "esgRating": "AAA", "lastUpdated": "2024-12-31"
+  },
+  {
+    "id": 4, "companyId": 4, "companyName": "Zambia Telecommunications Company Ltd (ZAMTEL)", "year": 2024,
+    "carbonEmissions": 22000, "energyConsumption": 95000, "renewableEnergyPercentage": 8,
+    "waterUsage": 120000, "wasteRecyclingRate": 38, "environmentalCertifications": "",
+    "environmentalFines": 0, "totalEmployees": 3200, "femaleEmployeePercentage": 35,
+    "employeeTurnoverRate": 9.2, "trainingHoursPerEmployee": 35, "workplaceAccidentRate": 0.5,
+    "communityInvestment": 12000000, "localSupplierPercentage": 62,
+    "boardSize": 7, "independentDirectorPercentage": 43, "femaleBoardPercentage": 29,
+    "executivePayRatio": 20, "hasEthicsPolicy": true, "hasWhistleblowerPolicy": false,
+    "complianceViolations": 2, "environmentalScore": 58, "socialScore": 68, "governanceScore": 65,
+    "esgRating": "BBB", "lastUpdated": "2024-12-31"
+  },
+  {
+    "id": 5, "companyId": 5, "companyName": "Zambia Railways Limited", "year": 2024,
+    "carbonEmissions": 35000, "energyConsumption": 180000, "renewableEnergyPercentage": 5,
+    "waterUsage": 350000, "wasteRecyclingRate": 30, "environmentalCertifications": "",
+    "environmentalFines": 200000, "totalEmployees": 4500, "femaleEmployeePercentage": 18,
+    "employeeTurnoverRate": 5.8, "trainingHoursPerEmployee": 22, "workplaceAccidentRate": 3.5,
+    "communityInvestment": 8000000, "localSupplierPercentage": 75,
+    "boardSize": 7, "independentDirectorPercentage": 43, "femaleBoardPercentage": 14,
+    "executivePayRatio": 12, "hasEthicsPolicy": true, "hasWhistleblowerPolicy": false,
+    "complianceViolations": 4, "environmentalScore": 48, "socialScore": 52, "governanceScore": 50,
+    "esgRating": "B", "lastUpdated": "2024-12-31"
+  },
+  {
+    "id": 6, "companyId": 6, "companyName": "Zambeef Products Plc", "year": 2024,
+    "carbonEmissions": 55000, "energyConsumption": 280000, "renewableEnergyPercentage": 12,
+    "waterUsage": 1200000, "wasteRecyclingRate": 58, "environmentalCertifications": "ISO 14001:2015",
+    "environmentalFines": 0, "totalEmployees": 8200, "femaleEmployeePercentage": 42,
+    "employeeTurnoverRate": 12.5, "trainingHoursPerEmployee": 38, "workplaceAccidentRate": 1.8,
+    "communityInvestment": 35000000, "localSupplierPercentage": 88,
+    "boardSize": 6, "independentDirectorPercentage": 50, "femaleBoardPercentage": 33,
+    "executivePayRatio": 16, "hasEthicsPolicy": true, "hasWhistleblowerPolicy": true,
+    "complianceViolations": 0, "environmentalScore": 70, "socialScore": 78, "governanceScore": 82,
+    "esgRating": "A", "lastUpdated": "2024-12-31"
+  },
+  {
+    "id": 7, "companyId": 7, "companyName": "Mopani Copper Mines Plc", "year": 2024,
+    "carbonEmissions": 185000, "energyConsumption": 850000, "renewableEnergyPercentage": 18,
+    "waterUsage": 3500000, "wasteRecyclingRate": 45, "environmentalCertifications": "ISO 14001:2015",
+    "environmentalFines": 1200000, "totalEmployees": 8500, "femaleEmployeePercentage": 15,
+    "employeeTurnoverRate": 7.2, "trainingHoursPerEmployee": 48, "workplaceAccidentRate": 1.9,
+    "communityInvestment": 52000000, "localSupplierPercentage": 65,
+    "boardSize": 8, "independentDirectorPercentage": 50, "femaleBoardPercentage": 25,
+    "executivePayRatio": 25, "hasEthicsPolicy": true, "hasWhistleblowerPolicy": true,
+    "complianceViolations": 1, "environmentalScore": 65, "socialScore": 72, "governanceScore": 75,
+    "esgRating": "A", "lastUpdated": "2024-12-31"
+  },
+  {
+    "id": 8, "companyId": 8, "companyName": "Indeni Petroleum Refinery Company Ltd", "year": 2024,
+    "carbonEmissions": 48000, "energyConsumption": 220000, "renewableEnergyPercentage": 5,
+    "waterUsage": 950000, "wasteRecyclingRate": 35, "environmentalCertifications": "",
+    "environmentalFines": 0, "totalEmployees": 620, "femaleEmployeePercentage": 25,
+    "employeeTurnoverRate": 4.5, "trainingHoursPerEmployee": 45, "workplaceAccidentRate": 1.1,
+    "communityInvestment": 15000000, "localSupplierPercentage": 70,
+    "boardSize": 6, "independentDirectorPercentage": 50, "femaleBoardPercentage": 17,
+    "executivePayRatio": 14, "hasEthicsPolicy": true, "hasWhistleblowerPolicy": true,
+    "complianceViolations": 0, "environmentalScore": 60, "socialScore": 70, "governanceScore": 78,
+    "esgRating": "BBB", "lastUpdated": "2024-12-31"
+  }
+]

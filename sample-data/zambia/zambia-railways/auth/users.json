@@ -1,0 +1,46 @@
+[
+  {
+    "id": "zrl-001",
+    "username": "christopher.musonda@zrl.co.zm",
+    "firstName": "Christopher",
+    "lastName": "Musonda",
+    "email": "christopher.musonda@zrl.co.zm",
+    "roles": ["CEO", "Administrator"],
+    "password": "Test123!",
+    "department": "Executive",
+    "title": "Chief Executive Officer"
+  },
+  {
+    "id": "zrl-002",
+    "username": "diana.mwanza@zrl.co.zm",
+    "firstName": "Diana",
+    "lastName": "Mwanza",
+    "email": "diana.mwanza@zrl.co.zm",
+    "roles": ["Finance Manager"],
+    "password": "Test123!",
+    "department": "Finance",
+    "title": "Finance Manager"
+  },
+  {
+    "id": "zrl-003",
+    "username": "aaron.sichone@zrl.co.zm",
+    "firstName": "Aaron",
+    "lastName": "Sichone",
+    "email": "aaron.sichone@zrl.co.zm",
+    "roles": ["Operations Manager"],
+    "password": "Test123!",
+    "department": "Operations",
+    "title": "Head of Operations"
+  },
+  {
+    "id": "zrl-004",
+    "username": "patricia.mumba@zrl.co.zm",
+    "firstName": "Patricia",
+    "lastName": "Mumba",
+    "email": "patricia.mumba@zrl.co.zm",
+    "roles": ["HR Manager"],
+    "password": "Test123!",
+    "department": "Human Resources",
+    "title": "Human Resources Manager"
+  }
+]
